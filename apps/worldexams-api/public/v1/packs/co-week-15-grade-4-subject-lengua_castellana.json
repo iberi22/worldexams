@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-15-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.057Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v1",
+      "statement": "¿Cuál es la marca distintiva que nos dice que estamos leyendo un texto dramático (teatral)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de rimas al final de cada línea.",
+          "is_correct": false,
+          "feedback": "Eso es propio de la poesía."
+        },
+        {
+          "letter": "B",
+          "text": "Los nombres de los personajes seguidos de sus diálogos y acotaciones entre paréntesis.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el formato exclusivo del guion teatral."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de párrafos muy largos y descriptivos.",
+          "is_correct": false,
+          "feedback": "Eso es más común en la novela o el cuento."
+        },
+        {
+          "letter": "D",
+          "text": "Que no tiene ningún diálogo.",
+          "is_correct": false,
+          "feedback": "El diálogo es la base del teatro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto dramático está escrito específicamente para ser representado, por lo que su formato prioriza la intervención directa de los personajes.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v2",
+      "statement": "¿Cómo se llaman las indicaciones del autor sobre el decorado, los movimientos o los gestos de los actores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parlamento.",
+          "is_correct": false,
+          "feedback": "El parlamento es lo que dice el actor."
+        },
+        {
+          "letter": "B",
+          "text": "Acotaciones.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Suelen ir en cursiva o entre paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Diálogos.",
+          "is_correct": false,
+          "feedback": "Son las palabras que intercambian los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Títulos secundarios.",
+          "is_correct": false,
+          "feedback": "No es el término técnico correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las acotaciones son guías para el director y los actores, permitiendo que la visión del autor se traduzca correctamente a la escena.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v3",
+      "statement": "¿Qué es el **conflicto dramático** en una obra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un error de ortografía en el libreto.",
+          "is_correct": false,
+          "feedback": "No tiene que ver con la escritura técnica."
+        },
+        {
+          "letter": "B",
+          "text": "El enfrentamiento entre dos fuerzas u objetivos opuestos que hace avanzar la historia.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Sin conflicto no hay acción dramática interesante."
+        },
+        {
+          "letter": "C",
+          "text": "El momento en que se acaba la luz en el teatro.",
+          "is_correct": false,
+          "feedback": "Ese es un problema técnico real, no literario."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando el público no aplaude al final.",
+          "is_correct": false,
+          "feedback": "Eso es una reacción externa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto es el motor del drama; nace de la lucha del protagonista por alcanzar una meta frente a un obstáculo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v4",
+      "statement": "¿Qué marca normalmente el cambio de una **escena** a otra en el teatro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cierre del telón principal.",
+          "is_correct": false,
+          "feedback": "Eso marca el cambio de acto, no de escena."
+        },
+        {
+          "letter": "B",
+          "text": "La entrada o salida de un personaje del escenario.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La presencia de personajes en el escenario define la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando los actores cambian de ropa.",
+          "is_correct": false,
+          "feedback": "No siempre ocurre un cambio de escena al cambiar de ropa."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando se acaba el papel del guion.",
+          "is_correct": false,
+          "feedback": "No es un criterio narrativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escena es la unidad temporal y espacial mínima del drama, delimitada por la dinámica de los personajes presentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v5",
+      "statement": "Si el guion dice: **\"MARTA: (Con voz temblorosa y mirando hacia atrás) ¿Hay alguien ahí?\"**, ¿cómo debe actuar la niña que hace de Marta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gritando con mucha alegría y saltando.",
+          "is_correct": false,
+          "feedback": "La acotación dice otra cosa."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrando miedo o nerviosismo a través de su voz y sus gestos.",
+          "is_correct": true,
+          "feedback": "¡Así es! La acotación define el estado emocional del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Quedarse quieta sin decir nada.",
+          "is_correct": false,
+          "feedback": "Debe decir su diálogo pero con la intención indicada."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar los ojos y reírse.",
+          "is_correct": false,
+          "feedback": "No concuerda con \"mirando hacia atrás\" ni \"voz temblorosa\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interpretación actoral se basa en la lectura profunda de las acotaciones para dar coherencia a la representación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v6",
+      "statement": "¿Cuál es la característica principal de la **tragedia** como género dramático?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los personajes terminan bailando.",
+          "is_correct": false,
+          "feedback": "Eso sería más propio de una comedia o musical."
+        },
+        {
+          "letter": "B",
+          "text": "Que trata temas serios y suele tener un final desgraciado o triste para los protagonistas.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Busca conmover al público a través del sufrimiento del héroe."
+        },
+        {
+          "letter": "C",
+          "text": "Que no tiene diálogos, solo música.",
+          "is_correct": false,
+          "feedback": "Eso sería ballet o pantomima."
+        },
+        {
+          "letter": "D",
+          "text": "Que siempre trata sobre animales del Amazonas.",
+          "is_correct": false,
+          "feedback": "Puede tratar de cualquier tema serio humano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los géneros dramáticos clásicos (tragedia y comedia) se distinguen por el tono de la acción y el destino de sus personajes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v7",
+      "statement": "¿Cuándo un personaje realiza un **monólogo** en escena?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando se pelea con todos sus amigos al tiempo.",
+          "is_correct": false,
+          "feedback": "Eso es un diálogo conflictivo grupal."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando habla solo en voz alta para expresar sus pensamientos más íntimos al público.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es una técnica para que el espectador conozca el mundo interior del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando canta una canción con un coro de 20 personas.",
+          "is_correct": false,
+          "feedback": "No es un monólogo si hay más voces."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando el narrador lee la historia desde afuera.",
+          "is_correct": false,
+          "feedback": "El monólogo lo hace un personaje dentro de la obra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El monólogo es un recurso dramático que permite la introspección y la revelación de secretos o intenciones del personaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v8",
+      "statement": "¿Qué es el **clímax** de una obra de teatro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera palabra que se dice al abrir el telón.",
+          "is_correct": false,
+          "feedback": "Es el inicio o exposición."
+        },
+        {
+          "letter": "B",
+          "text": "El momento de mayor tensión o emoción donde el conflicto está a punto de resolverse.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es la parte más emocionante de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "El descanso donde la gente sale a comprar palomitas.",
+          "is_correct": false,
+          "feedback": "Es el intermedio."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de agradecimientos al final del guion.",
+          "is_correct": false,
+          "feedback": "No es parte de la estructura dramática interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura dramática sigue una curva de tensión que alcanza su punto máximo en el clímax antes del desenlace.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v9",
+      "statement": "¿Por qué el encargado de las luces también debe leer el guion teatral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para pasar el tiempo mientras los actores ensayan.",
+          "is_correct": false,
+          "feedback": "No es un pasatiempo, es trabajo profesional."
+        },
+        {
+          "letter": "B",
+          "text": "Para saber en qué momento exacto debe cambiar la iluminación según las acotaciones y el ambiente de la escena.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El guion coordina todos los lenguajes del espectáculo (luz, sonido, actuación)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el guion es un libro de cuentos muy divertido.",
+          "is_correct": false,
+          "feedback": "Su función es técnica y artística, no solo de entretenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "No necesita leerlo, puede prender y apagar cuando quiera.",
+          "is_correct": false,
+          "feedback": "Eso arruinaría la obra y la atmósfera dramática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto dramático es una partitura para un espectáculo complejo donde intervienen múltiples disciplinas artísticas y técnicas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-v10",
+      "statement": "¿Cuál es la forma correcta de iniciar tu guion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Había una vez dos amigos en un parque de Bucaramanga buscando un mapa...",
+          "is_correct": false,
+          "feedback": "Formato de cuento."
+        },
+        {
+          "letter": "B",
+          "text": "**ESCENA 1. PARQUE DE LOS NIÑOS. DÍA. (LUIS y ANA observan un papel viejo con asombro)**.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Define la escena, el lugar, el tiempo y la acción inicial en el formato correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Luis y Ana: ¿Qué es este mapa tan viejo? Ana: No sé, parece un tesoro.",
+          "is_correct": false,
+          "feedback": "Falta la organización formal de escena y acotaciones iniciales."
+        },
+        {
+          "letter": "D",
+          "text": "\"El Misterio del Mapa\" por (Tu nombre).",
+          "is_correct": false,
+          "feedback": "Es solo el título y autor, no el inicio de la acción dramática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escritura dramática requiere una organización espacial y temporal muy precisa para que el equipo de producción pueda visualizar la puesta en escena.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W15-texto-dramatico-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

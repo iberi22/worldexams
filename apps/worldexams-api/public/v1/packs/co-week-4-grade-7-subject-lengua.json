@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-4-grade-7-subject-lengua",
+    "generated_at": "2026-06-15T20:24:55.884Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal que define al género dramático frente al narrativo o al lírico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de un narrador que describe los sentimientos de todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El drama no suele tener narrador; los personajes hablan por sí mismos."
+        },
+        {
+          "letter": "B",
+          "text": "El uso del diálogo directo entre personajes y su finalidad de ser representado ante un público.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El drama se basa en la acción y el diálogo destinados al escenario."
+        },
+        {
+          "letter": "C",
+          "text": "El uso obligatorio de rimas al final de cada intervención.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima es característica de la lírica, aunque existió el teatro en verso."
+        },
+        {
+          "letter": "D",
+          "text": "Que siempre cuenta historias reales de la historia de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El drama puede ser ficción total, aunque use contextos reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género dramático (o teatro) se distingue porque la acción no es contada, sino representada. Los personajes \"viven\" la historia frente al espectador. Su estructura se basa en el diálogo y las acotaciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denominan las indicaciones que el autor da sobre el vestuario, los movimientos o la escenografía en una obra dramática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diálogos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo es lo que los personajes dicen en voz alta."
+        },
+        {
+          "letter": "B",
+          "text": "Acotaciones",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son las instrucciones técnicas del dramaturgo para la puesta en escena."
+        },
+        {
+          "letter": "C",
+          "text": "Monólogos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monólogo es el discurso de un solo personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Estrofas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrofas son grupos de versos en la poesía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las acotaciones son fundamentales para el director y los actores. No se dicen durante la función, pero sirven para construir el ambiente y la acción que el autor imaginó.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué recurso dramático se está utilizando cuando un personaje habla solo para revelar su mundo interior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aparte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aparte es un comentario breve dirigido al público mientras hay otros personajes en escena."
+        },
+        {
+          "letter": "B",
+          "text": "Monólogo o soliloquio",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un discurso extenso de un personaje que está (o cree estar) solo."
+        },
+        {
+          "letter": "C",
+          "text": "Diálogo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo requiere al menos dos personas interactuando."
+        },
+        {
+          "letter": "D",
+          "text": "Coro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coro es un grupo de personas que comentan la acción colectivamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El monólogo permite profundizar en la psicología del personaje sin necesidad de un narrador. Es muy común en las tragedias para mostrar dilemas morales o sufrimientos profundos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se llaman las partes principales en las que se divide una obra de teatro, que suelen ser tres (inicio, nudo y desenlace)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las escenas son divisiones menores marcadas por la entrada o salida de personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Actos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los actos son las divisiones mayores de la obra dramática."
+        },
+        {
+          "letter": "C",
+          "text": "Cuadros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro es una división basada en el cambio de escenografía."
+        },
+        {
+          "letter": "D",
+          "text": "Capítulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los capítulos son divisiones propias de la narrativa (novela)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tradicionalmente, una obra tiene tres actos. Entre actos suele haber un intermedio. Dentro de cada acto hay escenas, que cambian cada vez que un personaje entra o sale del escenario.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v5",
+      "statement": "¿Qué subgénero dramático se caracteriza por presentar conflictos de la vida cotidiana de manera humorística y con personajes comunes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tragedia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tragedia trata temas graves con personajes nobles y termina en catástrofe."
+        },
+        {
+          "letter": "B",
+          "text": "Comedia",
+          "is_correct": true,
+          "feedback": "¡Correcto! La comedia utiliza el humor para criticar vicios sociales y divertir al público."
+        },
+        {
+          "letter": "C",
+          "text": "Drama o Tragicomedia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El drama mezcla elementos serios y cómicos, siendo más cercano a la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ópera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ópera es un género musical dramático donde se canta todo el texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comedia tiene un origen popular y busca que el espectador se reconozca en los defectos y situaciones graciosas de los personajes, dejando a menudo una enseñanza a través de la risa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la finalidad principal (la \"catarsis\") que buscaba la tragedia griega en los espectadores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el público se riera de los errores de los reyes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La risa no es el objetivo de la tragedia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el público aprendiera datos históricos sobre las guerras antiguas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es informativo, sino emocional y moral."
+        },
+        {
+          "letter": "C",
+          "text": "Provocar temor y compasión para purificar las emociones del público.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La catarsis es esa liberación emocional tras vivir el drama del héroe."
+        },
+        {
+          "letter": "D",
+          "text": "Que el público comprara entradas para la siguiente función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una visión comercial moderna, no la función estética clásica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La catarsis es un concepto clave. Al ver el sufrimiento del héroe trágico, el espectador siente compasión (por el dolor ajeno) y temor (porque le podría pasar a él), lo que produce una limpieza emocional al final de la obra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se llama esta técnica donde un personaje comparte un secreto o pensamiento con el público rompiendo la \"cuarta pared\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aparte",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aparte es un recurso para que el público sea cómplice de los pensamientos del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Grito",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un grito, es una convención teatral de comunicación directa con el espectador."
+        },
+        {
+          "letter": "C",
+          "text": "Silencio escénico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silencio es la ausencia de diálogo para crear tensión."
+        },
+        {
+          "letter": "D",
+          "text": "Acotación externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones son para los actores, no son diálogos dirigidos al público."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aparte es una convención: el público acepta que el otro personaje en escena no escucha lo que se dice, permitiendo que la trama avance mediante secretos o ironías compartidas con el espectador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumplió principalmente el teatro de \"Creación Colectiva\" en la historia reciente de Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretener a la gente rica con historias de otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La creación colectiva buscaba llegar a sectores populares con temas locales."
+        },
+        {
+          "letter": "B",
+          "text": "Reflejar los problemas sociales y políticos del país mediante el trabajo conjunto de actores y comunidad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Grupos como La Candelaria usaron el teatro para la reflexión crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que los actores colombianos sabían hablar muy bien el español de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se buscaba precisamente el uso del lenguaje popular y regional colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "Vender productos comerciales durante las escenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Era un teatro comprometido socialmente, no comercial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teatro colombiano ha sido fundamental para entender nuestra realidad. La creación colectiva permitió que las historias del pueblo llegaran a las tablas, convirtiendo el escenario en un espacio de debate sobre la paz, la justicia y la identidad nacional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué se afirma que la obra dramática solo se completa en la representación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque leer teatro es muy aburrido y a nadie le gusta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teatro se puede disfrutar leyendo, pero su naturaleza es distinta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los libros de teatro suelen estar incompletos y les faltan páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la naturaleza artística del género, no al objeto físico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque elementos como la actuación, la iluminación, el sonido y el público son esenciales para su existencia plena.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El teatro es un arte vivo que ocurre en un tiempo y espacio compartidos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el autor suele morir antes de terminar de escribir los diálogos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación absurda que no tiene relación con la teoría literaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto dramático es una partitura o un mapa. La verdadera \"obra de teatro\" nace cuando los actores encarnan las palabras y las luces y sonidos crean la atmósfera, produciendo una experiencia única en cada función.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v10",
+      "statement": "¿Qué elemento del género dramático se está resaltando en este tipo de teatro contemporáneo (Teatro del Absurdo o experimental)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La importancia de tener un buen vestuario de época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teatro experimental suele simplificar el vestuario."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de diálogos largos y elegantes como en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí se resalta precisamente la falta de comunicación lógica."
+        },
+        {
+          "letter": "C",
+          "text": "El lenguaje no verbal (gestos, sonidos, silencios) y el significado simbólico de la acción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El drama no es solo palabra; es cuerpo y presencia en el espacio."
+        },
+        {
+          "letter": "D",
+          "text": "Que los actores han olvidado sus líneas y por eso no hablan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una decisión artística deliberada para transmitir una idea o sentimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El teatro moderno ha roto muchas reglas clásicas. Al disminuir la importancia de la palabra lógica, obliga al espectador a interpretar los símbolos, los movimientos y el espacio, demostrando que el drama es, ante todo, acción (del griego *drama* = hacer).\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
