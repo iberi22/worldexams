@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v1",
       "statement": "¿Cómo se le llama a la persona que envía un mensaje en una conversación?",
-      "context": "",
+      "context": "Carlos y Ana están hablando en el recreo de una escuela en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v2",
       "statement": "¿Cuál de las siguientes acciones es fundamental para un buen diálogo?",
-      "context": "",
+      "context": "Una profesora en Medellín explica las reglas para hablar en clase.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v3",
       "statement": "¿Qué expresión es la más adecuada para iniciar un diálogo cortés?",
-      "context": "",
+      "context": "Juanita quiere pedirle prestado un color a su compañero en un salón de Cali.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v4",
       "statement": "Si uno de los amigos usa señas con las manos mientras habla, ¿qué tipo de lenguaje está utilizando junto al oral?",
-      "context": "",
+      "context": "Observas a dos amigos conversando animadamente sobre un partido de fútbol en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v5",
       "statement": "En este caso, ¿quién cumple el papel de receptor?",
-      "context": "",
+      "context": "Un locutor de radio en Cartagena da una noticia sobre el clima.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v6",
       "statement": "¿Por qué el diálogo no está funcionando en esta situación?",
-      "context": "",
+      "context": "Una familia en Bucaramanga está discutiendo a dónde ir de vacaciones, pero todos hablan al tiempo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v7",
       "statement": "¿Cuál es el \"canal\" a través del cual viaja tu voz en esta comunicación?",
-      "context": "",
+      "context": "Imagina que estás en una videollamada con un primo que vive en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v8",
       "statement": "¿Cuál sería la mejor solución usando el diálogo?",
-      "context": "",
+      "context": "Dos niños están peleando porque ambos quieren el mismo juguete en una ludoteca en Pereira.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v9",
       "statement": "¿Qué elemento de la comunicación oral cambia principalmente cuando hablamos en voz baja (susurro)?",
-      "context": "",
+      "context": "En una obra de teatro escolar en Leticia, un personaje le dice un secreto a otro.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-v10",
       "statement": "¿Cuál es la mejor estrategia comunicativa para lograr tu objetivo?",
-      "context": "",
+      "context": "Quieres organizar una fiesta de cumpleaños en Santa Marta y necesitas convencer a tus padres.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W01-comunicacion-oral-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
