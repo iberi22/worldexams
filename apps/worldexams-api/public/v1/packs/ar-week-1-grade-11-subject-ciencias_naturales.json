@@ -10,31 +10,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v1",
       "statement": "¿Cuál es la función principal de la membrana plasmática?",
-      "context": "",
+      "context": "Biología celular.",
       "options": [
         {
           "letter": "A",
-          "text": "Sintetizar proteínas <!-- feedback: Incorrecto. La síntesis de proteínas ocurre en los ribosomas. -->",
-          "is_correct": false
+          "text": "Sintetizar proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis de proteínas ocurre en los ribosomas."
         },
         {
           "letter": "B",
-          "text": "Regular el intercambio de sustancias <!-- feedback: Correcto. La membrana plasmática controla el ingreso y egreso de sustancias. -->",
-          "is_correct": true
+          "text": "Regular el intercambio de sustancias",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana plasmática controla el ingreso y egreso de sustancias."
         },
         {
           "letter": "C",
-          "text": "Almacenar material genético <!-- feedback: Incorrecto. El material genético se almacena en el núcleo. -->",
-          "is_correct": false
+          "text": "Almacenar material genético",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético se almacena en el núcleo."
         },
         {
           "letter": "D",
-          "text": "Producir energía <!-- feedback: Incorrecto. La energía se produce en las mitocondrias. -->",
-          "is_correct": false
+          "text": "Producir energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía se produce en las mitocondrias."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa membrana plasmática actúa como barrera selectiva que regula el intercambio entre el interior y exterior celular.\n\n---",
+      "explanation": "La membrana plasmática actúa como barrera selectiva que regula el intercambio entre el interior y exterior celular.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v2",
       "statement": "¿En qué órgano del sistema digestivo ocurre principalmente la absorción de nutrientes?",
-      "context": "",
+      "context": "Sistema digestivo.",
       "options": [
         {
           "letter": "A",
-          "text": "Estómago <!-- feedback: Incorrecto. En el estómago ocurre digestión química, no absorción significativa. -->",
-          "is_correct": false
+          "text": "Estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el estómago ocurre digestión química, no absorción significativa."
         },
         {
           "letter": "B",
-          "text": "Boca <!-- feedback: Incorrecto. En la boca ocurre la digestión mecánica inicial. -->",
-          "is_correct": false
+          "text": "Boca",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la boca ocurre la digestión mecánica inicial."
         },
         {
           "letter": "C",
-          "text": "Intestino delgado <!-- feedback: Correcto. El intestino delgado es el principal sitio de absorción de nutrientes gracias a sus vellosidades. -->",
-          "is_correct": true
+          "text": "Intestino delgado",
+          "is_correct": true,
+          "feedback": "Correcto. El intestino delgado es el principal sitio de absorción de nutrientes gracias a sus vellosidades."
         },
         {
           "letter": "D",
-          "text": "Intestino grueso <!-- feedback: Incorrecto. El intestino grueso absorbe principalmente agua y minerales. -->",
-          "is_correct": false
+          "text": "Intestino grueso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intestino grueso absorbe principalmente agua y minerales."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nLas vellosidades intestinales aumentan la superficie de absorción en el intestino delgado, permitiendo la captación de nutrientes.\n\n---",
+      "explanation": "Las vellosidades intestinales aumentan la superficie de absorción en el intestino delgado, permitiendo la captación de nutrientes.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v3",
       "statement": "En la reacción $2H_2 + O_2 \\rightarrow 2H_2O$, ¿qué tipo de reacción se representa?",
-      "context": "",
+      "context": "Reacciones químicas.",
       "options": [
         {
           "letter": "A",
-          "text": "Descomposición <!-- feedback: Incorrecto. En descomposición un reactivo se divide en productos más simples. -->",
-          "is_correct": false
+          "text": "Descomposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. En descomposición un reactivo se divide en productos más simples."
         },
         {
           "letter": "B",
-          "text": "Síntesis <!-- feedback: Correcto. Dos o más sustancias se combinan para formar un producto más complejo. -->",
-          "is_correct": true
+          "text": "Síntesis",
+          "is_correct": true,
+          "feedback": "Correcto. Dos o más sustancias se combinan para formar un producto más complejo."
         },
         {
           "letter": "C",
-          "text": "Sustitución <!-- feedback: Incorrecto. En sustitución un elemento reemplaza a otro en un compuesto. -->",
-          "is_correct": false
+          "text": "Sustitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. En sustitución un elemento reemplaza a otro en un compuesto."
         },
         {
           "letter": "D",
-          "text": "Combustión <!-- feedback: Incorrecto. La combustión requiere oxígeno pero produce CO₂ y H₂O con liberación de calor intensa. -->",
-          "is_correct": false
+          "text": "Combustión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión requiere oxígeno pero produce CO₂ y H₂O con liberación de calor intensa."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLas reacciones de síntesis combinan reactivos para formar productos más complejos, como en la formación de agua.\n\n---",
+      "explanation": "Las reacciones de síntesis combinan reactivos para formar productos más complejos, como en la formación de agua.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v4",
       "statement": "Según la primera ley de Newton, si un objeto está en reposo y no actúan fuerzas sobre él, ¿qué ocurre?",
-      "context": "",
+      "context": "Fuerzas y movimiento.",
       "options": [
         {
           "letter": "A",
-          "text": "Se acelera gradualmente <!-- feedback: Incorrecto. Sin fuerzas no hay aceleración. -->",
-          "is_correct": false
+          "text": "Se acelera gradualmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin fuerzas no hay aceleración."
         },
         {
           "letter": "B",
-          "text": "Se pone en movimiento <!-- feedback: Incorrecto. Sin fuerzas externas un objeto en reposo permanece en reposo. -->",
-          "is_correct": false
+          "text": "Se pone en movimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin fuerzas externas un objeto en reposo permanece en reposo."
         },
         {
           "letter": "C",
-          "text": "Permanece en reposo <!-- feedback: Correcto. La Ley de Inercia establece que un cuerpo en reposo tiende a permanecer en reposo. -->",
-          "is_correct": true
+          "text": "Permanece en reposo",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley de Inercia establece que un cuerpo en reposo tiende a permanecer en reposo."
         },
         {
           "letter": "D",
-          "text": "Se deforma <!-- feedback: Incorrecto. La deformación requiere aplicación de fuerza. -->",
-          "is_correct": false
+          "text": "Se deforma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deformación requiere aplicación de fuerza."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nLa inercia es la tendencia de los cuerpos a mantener su estado de movimiento o reposo.\n\n---",
+      "explanation": "La inercia es la tendencia de los cuerpos a mantener su estado de movimiento o reposo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v5",
       "statement": "Si un alelo dominante (A) para ojos marrones y uno recesivo (a) para ojos azules se cruzan (Aa x Aa), ¿cuál es la probabilidad de descendencia con ojos azules?",
-      "context": "",
+      "context": "Genética básica.",
       "options": [
         {
           "letter": "A",
-          "text": "0% <!-- feedback: Incorrecto. Hay posibilidad de aa. -->",
-          "is_correct": false
+          "text": "0%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay posibilidad de aa."
         },
         {
           "letter": "B",
-          "text": "100% <!-- feedback: Incorrecto. Solo 1 de 4 combinaciones es aa. -->",
-          "is_correct": false
+          "text": "100%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo 1 de 4 combinaciones es aa."
         },
         {
           "letter": "C",
-          "text": "25% <!-- feedback: Correcto. AA (25%), Aa (50%), aa (25%) por el cuadro de Punnett. -->",
-          "is_correct": true
+          "text": "25%",
+          "is_correct": true,
+          "feedback": "Correcto. AA (25%), Aa (50%), aa (25%) por el cuadro de Punnett."
         },
         {
           "letter": "D",
-          "text": "50% <!-- feedback: Incorrecto. 50% es la probabilidad de Aa (heterocigoto). -->",
-          "is_correct": false
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50% es la probabilidad de Aa (heterocigoto)."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEl cuadro de Punnett para Aa x Aa da 25% AA, 50% Aa y 25% aa. Solo aa expresa el rasgo recesivo.\n\n---",
+      "explanation": "El cuadro de Punnett para Aa x Aa da 25% AA, 50% Aa y 25% aa. Solo aa expresa el rasgo recesivo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v6",
       "statement": "En una cadena alimenticia, ¿qué rol cumplen los descomponedores?",
-      "context": "",
+      "context": "Ecosistemas.",
       "options": [
         {
           "letter": "A",
-          "text": "Producen su propio alimento <!-- feedback: Incorrecto. Esa es la función de los productores. -->",
-          "is_correct": false
+          "text": "Producen su propio alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de los productores."
         },
         {
           "letter": "B",
-          "text": "Cazan a otros organismos <!-- feedback: Incorrecto. Esa es la función de los consumidores. -->",
-          "is_correct": false
+          "text": "Cazan a otros organismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de los consumidores."
         },
         {
           "letter": "C",
-          "text": "Descomponen materia orgánica en nutrientes <!-- feedback: Correcto. Los descomponedores transforman materia orgánica en inorgánica. -->",
-          "is_correct": true
+          "text": "Descomponen materia orgánica en nutrientes",
+          "is_correct": true,
+          "feedback": "Correcto. Los descomponedores transforman materia orgánica en inorgánica."
         },
         {
           "letter": "D",
-          "text": "Regulan la temperatura del ecosistema <!-- feedback: Incorrecto. No es una función biológica directa de los descomponedores. -->",
-          "is_correct": false
+          "text": "Regulan la temperatura del ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una función biológica directa de los descomponedores."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nLos descomponedores (hongos, bacterias) reciclan nutrientes al descomponer materia orgánica muerta.\n\n---",
+      "explanation": "Los descomponedores (hongos, bacterias) reciclan nutrientes al descomponer materia orgánica muerta.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v7",
       "statement": "¿Cuál es la unidad de medida de la resistencia eléctrica en el Sistema Internacional?",
-      "context": "",
+      "context": "Electricidad.",
       "options": [
         {
           "letter": "A",
-          "text": "Voltio <!-- feedback: Incorrecto. El voltio mide diferencia de potencial. -->",
-          "is_correct": false
+          "text": "Voltio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voltio mide diferencia de potencial."
         },
         {
           "letter": "B",
-          "text": "Amperio <!-- feedback: Incorrecto. El amperio mide intensidad de corriente. -->",
-          "is_correct": false
+          "text": "Amperio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amperio mide intensidad de corriente."
         },
         {
           "letter": "C",
-          "text": "Ohmio <!-- feedback: Correcto. La resistencia eléctrica se mide en ohmios (Ω). -->",
-          "is_correct": true
+          "text": "Ohmio",
+          "is_correct": true,
+          "feedback": "Correcto. La resistencia eléctrica se mide en ohmios (Ω)."
         },
         {
           "letter": "D",
-          "text": "Watt <!-- feedback: Incorrecto. El watt mide potencia. -->",
-          "is_correct": false
+          "text": "Watt",
+          "is_correct": false,
+          "feedback": "Incorrecto. El watt mide potencia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nLa Ley de Ohm relaciona voltaje (V), corriente (I) y resistencia (R): V = I · R.\n\n---",
+      "explanation": "La Ley de Ohm relaciona voltaje (V), corriente (I) y resistencia (R): V = I · R.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v8",
       "statement": "¿Qué tipo de energía produce el Sol y es aprovechada por los organismos fotosintéticos?",
-      "context": "",
+      "context": "Sistema solar.",
       "options": [
         {
           "letter": "A",
-          "text": "Energía nuclear <!-- feedback: Incorrecto. El Sol produce energía nuclear por fusión, pero los organismos no la aprovechan directamente. -->",
-          "is_correct": false
+          "text": "Energía nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol produce energía nuclear por fusión, pero los organismos no la aprovechan directamente."
         },
         {
           "letter": "B",
-          "text": "Energía lumínica <!-- feedback: Correcto. La luz solar es captada por la clorofila en la fotosíntesis. -->",
-          "is_correct": true
+          "text": "Energía lumínica",
+          "is_correct": true,
+          "feedback": "Correcto. La luz solar es captada por la clorofila en la fotosíntesis."
         },
         {
           "letter": "C",
-          "text": "Energía cinética <!-- feedback: Incorrecto. La energía cinética es energía de movimiento. -->",
-          "is_correct": false
+          "text": "Energía cinética",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía cinética es energía de movimiento."
         },
         {
           "letter": "D",
-          "text": "Energía química <!-- feedback: Incorrecto. La energía química es el producto de la fotosíntesis, no la fuente. -->",
-          "is_correct": false
+          "text": "Energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía química es el producto de la fotosíntesis, no la fuente."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa fotosíntesis convierte energía lumínica en energía química (glucosa).\n\n---",
+      "explanation": "La fotosíntesis convierte energía lumínica en energía química (glucosa).\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v9",
       "statement": "¿Qué tienen en común los elementos de un mismo grupo en la tabla periódica?",
-      "context": "",
+      "context": "Tabla periódica.",
       "options": [
         {
           "letter": "A",
-          "text": "Misma masa atómica <!-- feedback: Incorrecto. La masa atómica varía dentro del grupo. -->",
-          "is_correct": false
+          "text": "Misma masa atómica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica varía dentro del grupo."
         },
         {
           "letter": "B",
-          "text": "Misma cantidad de electrones de valencia <!-- feedback: Correcto. Los elementos del mismo grupo tienen la misma cantidad de electrones en su última capa. -->",
-          "is_correct": true
+          "text": "Misma cantidad de electrones de valencia",
+          "is_correct": true,
+          "feedback": "Correcto. Los elementos del mismo grupo tienen la misma cantidad de electrones en su última capa."
         },
         {
           "letter": "C",
-          "text": "Misma cantidad de neutrones <!-- feedback: Incorrecto. Los neutrones varían entre isótopos. -->",
-          "is_correct": false
+          "text": "Misma cantidad de neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los neutrones varían entre isótopos."
         },
         {
           "letter": "D",
-          "text": "Mismo número de niveles de energía <!-- feedback: Incorrecto. El número de niveles aumenta al descender en el grupo. -->",
-          "is_correct": false
+          "text": "Mismo número de niveles de energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de niveles aumenta al descender en el grupo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLos electrones de valencia determinan las propiedades químicas similares de los elementos de un mismo grupo.\n\n---",
+      "explanation": "Los electrones de valencia determinan las propiedades químicas similares de los elementos de un mismo grupo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v10",
       "statement": "¿Cuál es la función principal de los glóbulos rojos en la sangre?",
-      "context": "",
+      "context": "Sistema circulatorio.",
       "options": [
         {
           "letter": "A",
-          "text": "Combatir infecciones <!-- feedback: Incorrecto. Esa es función de los glóbulos blancos. -->",
-          "is_correct": false
+          "text": "Combatir infecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de los glóbulos blancos."
         },
         {
           "letter": "B",
-          "text": "Coagular la sangre <!-- feedback: Incorrecto. Esa es función de las plaquetas. -->",
-          "is_correct": false
+          "text": "Coagular la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de las plaquetas."
         },
         {
           "letter": "C",
-          "text": "Transportar oxígeno <!-- feedback: Correcto. La hemoglobina en los glóbulos rojos transporta O₂. -->",
-          "is_correct": true
+          "text": "Transportar oxígeno",
+          "is_correct": true,
+          "feedback": "Correcto. La hemoglobina en los glóbulos rojos transporta O₂."
         },
         {
           "letter": "D",
-          "text": "Regular la temperatura <!-- feedback: Incorrecto. La regulación térmica es una función general del organismo, no específica de los glóbulos rojos. -->",
-          "is_correct": false
+          "text": "Regular la temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación térmica es una función general del organismo, no específica de los glóbulos rojos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nLa hemoglobina contenida en los eritrocitos se une al oxígeno en los pulmones y lo distribuye a los tejidos.\n\n---",
+      "explanation": "La hemoglobina contenida en los eritrocitos se une al oxígeno en los pulmones y lo distribuye a los tejidos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v11",
       "statement": "Un péndulo se suelta desde una altura A. Al pasar por el punto más bajo de su trayectoria, ¿cómo se comparan sus energías?",
-      "context": "",
+      "context": "Conservación de la energía.",
       "options": [
         {
           "letter": "A",
-          "text": "Cinética máxima, potencial mínima <!-- feedback: Opción casi correcta pero incompleta. -->",
-          "is_correct": false
+          "text": "Cinética máxima, potencial mínima",
+          "is_correct": false,
+          "feedback": "Opción casi correcta pero incompleta."
         },
         {
           "letter": "B",
-          "text": "Ambas son iguales <!-- feedback: Incorrecto. En el punto más bajo la potencial es casi cero. -->",
-          "is_correct": false
+          "text": "Ambas son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el punto más bajo la potencial es casi cero."
         },
         {
           "letter": "C",
-          "text": "Cinética máxima, potencial casi cero <!-- feedback: Correcto. La energía potencial se convierte en cinética. -->",
-          "is_correct": true
+          "text": "Cinética máxima, potencial casi cero",
+          "is_correct": true,
+          "feedback": "Correcto. La energía potencial se convierte en cinética."
         },
         {
           "letter": "D",
-          "text": "Potencial máxima, cinética cero <!-- feedback: Incorrecto. Eso ocurre en los puntos de altura máxima. -->",
-          "is_correct": false
+          "text": "Potencial máxima, cinética cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre en los puntos de altura máxima."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEn un péndulo ideal, la energía mecánica se conserva: la energía potencial se transforma en cinética y viceversa.\n\n---",
+      "explanation": "En un péndulo ideal, la energía mecánica se conserva: la energía potencial se transforma en cinética y viceversa.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v12",
       "statement": "Un experimento muestra que las plantas regadas con agua salada crecen menos. ¿Cuál es la variable independiente?",
-      "context": "",
+      "context": "Método científico.",
       "options": [
         {
           "letter": "A",
-          "text": "El crecimiento de las plantas <!-- feedback: Incorrecto. Esa es la variable dependiente. -->",
-          "is_correct": false
+          "text": "El crecimiento de las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la variable dependiente."
         },
         {
           "letter": "B",
-          "text": "El tipo de agua (dulce o salada) <!-- feedback: Correcto. La variable independiente es la que el investigador manipula. -->",
-          "is_correct": true
+          "text": "El tipo de agua (dulce o salada)",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que el investigador manipula."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente <!-- feedback: Incorrecto. Debe mantenerse constante como variable controlada. -->",
-          "is_correct": false
+          "text": "La temperatura ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe mantenerse constante como variable controlada."
         },
         {
           "letter": "D",
-          "text": "La cantidad de luz <!-- feedback: Incorrecto. Es una variable controlada, no independiente. -->",
-          "is_correct": false
+          "text": "La cantidad de luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una variable controlada, no independiente."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa variable independiente es el factor que se modifica intencionalmente; la dependiente es la que se mide.\n\n---",
+      "explanation": "La variable independiente es el factor que se modifica intencionalmente; la dependiente es la que se mide.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v13",
       "statement": "¿Cuál es la fórmula del metano?",
-      "context": "",
+      "context": "Química orgánica.",
       "options": [
         {
           "letter": "A",
-          "text": "C₂H₆ <!-- feedback: Incorrecto. Esa es la fórmula del etano. -->",
-          "is_correct": false
+          "text": "C₂H₆",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del etano."
         },
         {
           "letter": "B",
-          "text": "CH₄ <!-- feedback: Correcto. El metano tiene 1 carbono y 4 hidrógenos. -->",
-          "is_correct": true
+          "text": "CH₄",
+          "is_correct": true,
+          "feedback": "Correcto. El metano tiene 1 carbono y 4 hidrógenos."
         },
         {
           "letter": "C",
-          "text": "C₃H₈ <!-- feedback: Incorrecto. Esa es la fórmula del propano. -->",
-          "is_correct": false
+          "text": "C₃H₈",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del propano."
         },
         {
           "letter": "D",
-          "text": "CO₂ <!-- feedback: Incorrecto. Eso es dióxido de carbono. -->",
-          "is_correct": false
+          "text": "CO₂",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es dióxido de carbono."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEl metano (CH₄) es el hidrocarburo alcano más simple, con un átomo de carbono unido a cuatro de hidrógeno.\n\n---",
+      "explanation": "El metano (CH₄) es el hidrocarburo alcano más simple, con un átomo de carbono unido a cuatro de hidrógeno.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v14",
       "statement": "¿Cómo se llama la relación ecológica en la que un organismo se beneficia y el otro resulta perjudicado?",
-      "context": "",
+      "context": "Relaciones ecológicas.",
       "options": [
         {
           "letter": "A",
-          "text": "Mutualismo <!-- feedback: Incorrecto. En mutualismo ambos se benefician. -->",
-          "is_correct": false
+          "text": "Mutualismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En mutualismo ambos se benefician."
         },
         {
           "letter": "B",
-          "text": "Parasitismo <!-- feedback: Correcto. El parásito se beneficia; el hospedador es perjudicado. -->",
-          "is_correct": true
+          "text": "Parasitismo",
+          "is_correct": true,
+          "feedback": "Correcto. El parásito se beneficia; el hospedador es perjudicado."
         },
         {
           "letter": "C",
-          "text": "Comensalismo <!-- feedback: Incorrecto. En comensalismo uno se beneficia y el otro no es afectado. -->",
-          "is_correct": false
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En comensalismo uno se beneficia y el otro no es afectado."
         },
         {
           "letter": "D",
-          "text": "Simbiosis <!-- feedback: Incorrecto. Simbiosis es una relación estrecha, no necesariamente perjudicial. -->",
-          "is_correct": false
+          "text": "Simbiosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simbiosis es una relación estrecha, no necesariamente perjudicial."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEl parasitismo es una interacción en la que una especie vive a expensas de otra causándole daño.\n\n---",
+      "explanation": "El parasitismo es una interacción en la que una especie vive a expensas de otra causándole daño.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v15",
       "statement": "¿Cuál de las siguientes acciones contribuye directamente a reducir la huella de carbono?",
-      "context": "",
+      "context": "Ecología y ambiente.",
       "options": [
         {
           "letter": "A",
-          "text": "Usar más plásticos descartables <!-- feedback: Incorrecto. Los plásticos aumentan la huella de carbono. -->",
-          "is_correct": false
+          "text": "Usar más plásticos descartables",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los plásticos aumentan la huella de carbono."
         },
         {
           "letter": "B",
-          "text": "Utilizar transporte público o bicicleta <!-- feedback: Correcto. Reduce emisiones de CO₂. -->",
-          "is_correct": true
+          "text": "Utilizar transporte público o bicicleta",
+          "is_correct": true,
+          "feedback": "Correcto. Reduce emisiones de CO₂."
         },
         {
           "letter": "C",
-          "text": "Dejar dispositivos en stand-by <!-- feedback: Incorrecto. El stand-by sigue consumiendo energía. -->",
-          "is_correct": false
+          "text": "Dejar dispositivos en stand-by",
+          "is_correct": false,
+          "feedback": "Incorrecto. El stand-by sigue consumiendo energía."
         },
         {
           "letter": "D",
-          "text": "Comprar productos importados <!-- feedback: Incorrecto. El transporte internacional genera emisiones. -->",
-          "is_correct": false
+          "text": "Comprar productos importados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte internacional genera emisiones."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa huella de carbono mide las emisiones de GEI. El transporte público reduce significativamente las emisiones.\n\n---",
+      "explanation": "La huella de carbono mide las emisiones de GEI. El transporte público reduce significativamente las emisiones.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v16",
       "statement": "¿Cuál de las siguientes ondas necesita un medio material para propagarse?",
-      "context": "",
+      "context": "Física - Ondas.",
       "options": [
         {
           "letter": "A",
-          "text": "Luz visible <!-- feedback: Incorrecto. Las ondas electromagnéticas no necesitan medio material. -->",
-          "is_correct": false
+          "text": "Luz visible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ondas electromagnéticas no necesitan medio material."
         },
         {
           "letter": "B",
-          "text": "Sonido <!-- feedback: Correcto. El sonido es una onda mecánica que requiere un medio. -->",
-          "is_correct": true
+          "text": "Sonido",
+          "is_correct": true,
+          "feedback": "Correcto. El sonido es una onda mecánica que requiere un medio."
         },
         {
           "letter": "C",
-          "text": "Ondas de radio <!-- feedback: Incorrecto. Son electromagnéticas. -->",
-          "is_correct": false
+          "text": "Ondas de radio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son electromagnéticas."
         },
         {
           "letter": "D",
-          "text": "Rayos X <!-- feedback: Incorrecto. Son radiación electromagnética. -->",
-          "is_correct": false
+          "text": "Rayos X",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son radiación electromagnética."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLas ondas mecánicas requieren un medio material; las electromagnéticas no.\n\n---",
+      "explanation": "Las ondas mecánicas requieren un medio material; las electromagnéticas no.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v17",
       "statement": "¿Qué ocurre con las moléculas de agua cuando hierve?",
-      "context": "",
+      "context": "Química - Estados de la materia.",
       "options": [
         {
           "letter": "A",
-          "text": "Se rompen en átomos de H y O <!-- feedback: Incorrecto. Hervir no rompe enlaces covalentes. -->",
-          "is_correct": false
+          "text": "Se rompen en átomos de H y O",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hervir no rompe enlaces covalentes."
         },
         {
           "letter": "B",
-          "text": "Aumenta su energía cinética y se separan <!-- feedback: Correcto. Al hervir las moléculas pasan a estado gaseoso. -->",
-          "is_correct": true
+          "text": "Aumenta su energía cinética y se separan",
+          "is_correct": true,
+          "feedback": "Correcto. Al hervir las moléculas pasan a estado gaseoso."
         },
         {
           "letter": "C",
-          "text": "Se congelan <!-- feedback: Incorrecto. Hervir implica aumento de temperatura. -->",
-          "is_correct": false
+          "text": "Se congelan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hervir implica aumento de temperatura."
         },
         {
           "letter": "D",
-          "text": "Disminuye su energía cinética <!-- feedback: Incorrecto. Al calentar la energía cinética aumenta. -->",
-          "is_correct": false
+          "text": "Disminuye su energía cinética",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al calentar la energía cinética aumenta."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa ebullición es un cambio de estado físico donde las moléculas absorben energía y se separan.\n\n---",
+      "explanation": "La ebullición es un cambio de estado físico donde las moléculas absorben energía y se separan.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v18",
       "statement": "¿Qué enzima es responsable de sintetizar ARNm a partir de ADN durante la transcripción?",
-      "context": "",
+      "context": "Genética molecular.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN polimerasa <!-- feedback: Incorrecto. La ADN polimerasa replica ADN. -->",
-          "is_correct": false
+          "text": "ADN polimerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa replica ADN."
         },
         {
           "letter": "B",
-          "text": "ARN polimerasa <!-- feedback: Correcto. La ARN polimerasa transcribe ADN a ARNm. -->",
-          "is_correct": true
+          "text": "ARN polimerasa",
+          "is_correct": true,
+          "feedback": "Correcto. La ARN polimerasa transcribe ADN a ARNm."
         },
         {
           "letter": "C",
-          "text": "Ligasa <!-- feedback: Incorrecto. La ligasa une fragmentos de ADN. -->",
-          "is_correct": false
+          "text": "Ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ligasa une fragmentos de ADN."
         },
         {
           "letter": "D",
-          "text": "Helicasa <!-- feedback: Incorrecto. La helicasa desenrolla la doble hélice. -->",
-          "is_correct": false
+          "text": "Helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla la doble hélice."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEn la transcripción, la ARN polimerasa se une al promotor y sintetiza ARNm complementario.\n\n---",
+      "explanation": "En la transcripción, la ARN polimerasa se une al promotor y sintetiza ARNm complementario.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v19",
       "statement": "Según la segunda ley de la termodinámica, ¿qué ocurre con la entropía de un sistema aislado?",
-      "context": "",
+      "context": "Física - Termodinámica.",
       "options": [
         {
           "letter": "A",
-          "text": "Siempre disminuye <!-- feedback: Incorrecto. La entropía nunca disminuye en un sistema aislado. -->",
-          "is_correct": false
+          "text": "Siempre disminuye",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entropía nunca disminuye en un sistema aislado."
         },
         {
           "letter": "B",
-          "text": "Siempre aumenta o permanece constante <!-- feedback: Correcto. La entropía de un sistema aislado tiende a aumentar. -->",
-          "is_correct": true
+          "text": "Siempre aumenta o permanece constante",
+          "is_correct": true,
+          "feedback": "Correcto. La entropía de un sistema aislado tiende a aumentar."
         },
         {
           "letter": "C",
-          "text": "Permanece constante <!-- feedback: Incorrecto. Solo en procesos reversibles ideales. -->",
-          "is_correct": false
+          "text": "Permanece constante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo en procesos reversibles ideales."
         },
         {
           "letter": "D",
-          "text": "Aumenta solo si hay transferencia de calor <!-- feedback: Incorrecto. En sistemas aislados no hay transferencia. -->",
-          "is_correct": false
+          "text": "Aumenta solo si hay transferencia de calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. En sistemas aislados no hay transferencia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa segunda ley establece que la entropía del universo siempre aumenta en procesos irreversibles.\n\n---",
+      "explanation": "La segunda ley establece que la entropía del universo siempre aumenta en procesos irreversibles.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,37 +770,841 @@
     {
       "id": "AR-CIE-11-P1-ciencias-001-v20",
       "statement": "¿Cuál es la principal función de las vitaminas en el organismo humano?",
-      "context": "",
+      "context": "Salud y nutrición.",
       "options": [
         {
           "letter": "A",
-          "text": "Aportar energía <!-- feedback: Incorrecto. Las vitaminas no aportan energía. -->",
-          "is_correct": false
+          "text": "Aportar energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vitaminas no aportan energía."
         },
         {
           "letter": "B",
-          "text": "Formar músculos <!-- feedback: Incorrecto. Las proteínas forman músculos. -->",
-          "is_correct": false
+          "text": "Formar músculos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proteínas forman músculos."
         },
         {
           "letter": "C",
-          "text": "Regular procesos metabólicos <!-- feedback: Correcto. Las vitaminas actúan como coenzimas. -->",
-          "is_correct": true
+          "text": "Regular procesos metabólicos",
+          "is_correct": true,
+          "feedback": "Correcto. Las vitaminas actúan como coenzimas."
         },
         {
           "letter": "D",
-          "text": "Almacenar información genética <!-- feedback: Incorrecto. El ADN almacena información genética. -->",
-          "is_correct": false
+          "text": "Almacenar información genética",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN almacena información genética."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nLas vitaminas son compuestos orgánicos esenciales que participan como cofactores en reacciones metabólicas.",
+      "explanation": "Las vitaminas son compuestos orgánicos esenciales que participan como cofactores en reacciones metabólicas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "AR-CIE-11-P1-ciencias-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-001",
+      "statement": "¿Cuál es la unidad básica de la vida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-002",
+      "statement": "Explique el proceso de la fotosíntesis.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-003",
+      "statement": "¿Qué ley de Newton explica por qué un objeto en reposo tiende a permanecer en reposo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-004",
+      "statement": "Identifique el elemento químico más abundante en la atmósfera terrestre.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-005",
+      "statement": "¿Cuál es la función del ADN en las células?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-006",
+      "statement": "Defina el concepto de ecosistema.",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-007",
+      "statement": "¿Qué tipo de energía almacena una batería?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-008",
+      "statement": "Explique la diferencia entre un elemento y un compuesto.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-009",
+      "statement": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-010",
+      "statement": "Describa el ciclo del agua en la naturaleza.",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-011",
+      "statement": "¿Qué órgano del cuerpo humano se encarga de bombear la sangre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-012",
+      "statement": "¿Cuál es el pH de una sustancia neutra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-013",
+      "statement": "Defina qué es la gravedad.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-014",
+      "statement": "¿Qué gas producen las plantas durante la fotosíntesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-015",
+      "statement": "Identifique la función del núcleo celular.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-016",
+      "statement": "¿Cuál es la fórmula química del agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-017",
+      "statement": "Explique qué causa las estaciones del año.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-018",
+      "statement": "¿Qué es un hábitat?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-019",
+      "statement": "Defina el concepto de densidad.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-11-P1-biologia-molecular-020",
+      "statement": "¿Cuál es la diferencia entre una reacción química exotérmica y endotérmica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema biologia molecular en el grado 11 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ar-ciencias-naturales-11-P1-biologia-molecular-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
       "cefr_level": null
     }
   ]

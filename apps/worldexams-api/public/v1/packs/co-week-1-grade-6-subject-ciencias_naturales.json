@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-16T00:17:31.812Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v1",
+      "statement": "What is the basic unit of life?",
+      "context": "In science class in Bogotá they study cells.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The atom",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "The cell",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "The organ",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "The tissue",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The cell is the basic structural and functional unit of all living organisms.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v2",
+      "statement": "Which organelle is the 'powerhouse' of the cell?",
+      "context": "In Medellín they observe cells under a microscope.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nucleus",
+          "is_correct": false,
+          "feedback": "Control center."
+        },
+        {
+          "letter": "B",
+          "text": "Ribosome",
+          "is_correct": false,
+          "feedback": "Protein synthesis."
+        },
+        {
+          "letter": "C",
+          "text": "Mitochondria",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Cell membrane",
+          "is_correct": false,
+          "feedback": "Protection."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mitochondria produce energy (ATP) through cellular respiration.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v3",
+      "statement": "Difference between plant and animal cells?",
+      "context": "In Cali they compare cell types.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plant cells have chloroplasts",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Animal cells have cell wall",
+          "is_correct": false,
+          "feedback": "No, plants do."
+        },
+        {
+          "letter": "C",
+          "text": "They are exactly the same",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Plant cells have no nucleus",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Plant cells have chloroplasts for photosynthesis and a cell wall.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v4",
+      "statement": "What does the nucleus contain?",
+      "context": "In Barranquilla they learn about the nucleus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "DNA/genetic material",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ribosomes",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Chlorophyll",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The nucleus contains DNA, which carries genetic information.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v5",
+      "statement": "Mitosis produces how many daughter cells?",
+      "context": "In Bucaramanga they study cell division.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "No, meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mitosis produces 2 identical daughter cells for growth and repair.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v6",
+      "statement": "The cell membrane function is to ___.",
+      "context": "In Cartagena they explore cell function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce energy",
+          "is_correct": false,
+          "feedback": "Mitochondria."
+        },
+        {
+          "letter": "B",
+          "text": "Control what enters/exits",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Store water",
+          "is_correct": false,
+          "feedback": "Vacuole."
+        },
+        {
+          "letter": "D",
+          "text": "Make proteins",
+          "is_correct": false,
+          "feedback": "Ribosome."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cell membrane is selectively permeable, controlling passage of substances.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v7",
+      "statement": "Vacuoles are primarily for ___.",
+      "context": "In Pereira they identify organelles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energy production",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Storage of water and nutrients",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Cell division",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Protein synthesis",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Vacuoles store water, nutrients, and waste. Larger in plant cells.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v8",
+      "statement": "Which is unicellular?",
+      "context": "In Manizales they compare unicellular vs multicellular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Human",
+          "is_correct": false,
+          "feedback": "Multicellular."
+        },
+        {
+          "letter": "B",
+          "text": "Tree",
+          "is_correct": false,
+          "feedback": "Multicellular."
+        },
+        {
+          "letter": "C",
+          "text": "Bacteria",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Dog",
+          "is_correct": false,
+          "feedback": "Multicellular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bacteria are unicellular (single-celled) organisms.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v9",
+      "statement": "Correct order from smallest to largest?",
+      "context": "In Cúcuta they study levels of organization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cell, tissue, organ, system",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Tissue, cell, organ, system",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Organ, system, tissue, cell",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "System, organ, tissue, cell",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Levels: cell → tissue → organ → organ system → organism.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-v10",
+      "statement": "Red blood cells are disc-shaped to ___.",
+      "context": "In Ibagué they relate structure to function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Store water",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Carry more oxygen",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Produce energy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Divide faster",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The disc shape of red blood cells increases surface area for oxygen transport.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v1",
+      "statement": "¿Cuál es la parte de la célula que contiene el material genético (ADN) y dirige todas sus funciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citoplasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El citoplasma es la sustancia gelatinosa donde flotan los organelos."
+        },
+        {
+          "letter": "B",
+          "text": "Núcleo",
+          "is_correct": true,
+          "feedback": "Correcto. El núcleo es el centro de control de la célula eucariota donde se encuentra el ADN."
+        },
+        {
+          "letter": "C",
+          "text": "Membrana celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana es la capa externa que protege y delimita la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria se encarga de la producción de energía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El núcleo es el organelo más prominente en las células animales y vegetales, actuando como el \"cerebro\" celular.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v2",
+      "statement": "¿Cómo se llaman los seres vivos que están formados por una sola célula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pluricelulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos están formados por muchas células."
+        },
+        {
+          "letter": "B",
+          "text": "Unicelulares",
+          "is_correct": true,
+          "feedback": "Correcto. \"Uni\" significa uno, como las bacterias o las levaduras."
+        },
+        {
+          "letter": "C",
+          "text": "Gigantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no define el número de células."
+        },
+        {
+          "letter": "D",
+          "text": "Acuáticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se refiere a su hábitat, no a su estructura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clasificación según el número de células divide a los seres vivos en unicelulares (una célula) y pluricelulares (muchas células).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v3",
+      "statement": "¿Cuál es la principal diferencia entre una célula **procariota** y una **eucariota**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La procariota es mucho más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente las procariotas son más pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "La eucariota tiene un núcleo definido por una membrana, mientras que la procariota no.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la distinción fundamental entre bacterias (procariotas) y el resto de seres vivos (eucariotas)."
+        },
+        {
+          "letter": "C",
+          "text": "Solo las eucariotas tienen ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las células tienen ADN para poder reproducirse."
+        },
+        {
+          "letter": "D",
+          "text": "Las procariotas son células vegetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células vegetales son eucariotas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presencia o ausencia de un núcleo organizado es el criterio evolutivo que separa a estos dos grandes grupos de células.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v4",
+      "statement": "¿Qué tipo de célula está observando el estudiante?",
+      "context": "Un estudiante observa por el microscopio una célula que tiene una **pared celular** rígida y **cloroplastos** verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula animal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales no tienen pared celular ni cloroplastos."
+        },
+        {
+          "letter": "B",
+          "text": "Célula vegetal.",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular y los cloroplastos (para la fotosíntesis) son exclusivos de las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Una bacteria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las bacterias tienen pared, no tienen cloroplastos complejos."
+        },
+        {
+          "letter": "D",
+          "text": "Un virus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los virus no son células."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las células vegetales se distinguen de las animales por estructuras que les permiten sostenerse (pared) y producir su propio alimento (cloroplastos).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v5",
+      "statement": "¿Cuál es la función de las **mitocondrias** en la célula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacenar agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de las vacuolas."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar la respiración celular para obtener energía.",
+          "is_correct": true,
+          "feedback": "Correcto. Se les conoce como las \"centrales eléctricas\" de la célula."
+        },
+        {
+          "letter": "C",
+          "text": "Fabricar proteínas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto lo hacen los ribosomas."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar los desechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es función de los lisosomas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respiración celular ocurre en las mitocondrias, donde se transforma la glucosa en energía aprovechable (ATP).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v6",
+      "statement": "¿Qué significa que la membrana celular sea semipermeable?",
+      "context": "La membrana celular es descrita como \"semipermeable\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que deja pasar todo lo que hay afuera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si pasara todo, la célula moriría o se contaminaría."
+        },
+        {
+          "letter": "B",
+          "text": "Que selecciona qué sustancias entran y cuáles salen de la célula.",
+          "is_correct": true,
+          "feedback": "Correcto. Regula el equilibrio interno permitiendo el paso de nutrientes y la salida de desechos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua no puede entrar nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua entra y sale mediante el proceso de ósmosis."
+        },
+        {
+          "letter": "D",
+          "text": "Que es totalmente sólida como una piedra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es flexible y dinámica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La permeabilidad selectiva de la membrana garantiza la homeostasis o equilibrio interno de la célula frente al ambiente externo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v7",
+      "statement": "¿En qué parte de la célula vegetal ocurre específicamente el proceso de la **fotosíntesis**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo no realiza procesos metabólicos de alimento."
+        },
+        {
+          "letter": "B",
+          "text": "En los cloroplastos.",
+          "is_correct": true,
+          "feedback": "Correcto. Allí se encuentra la clorofila que atrapa la luz solar."
+        },
+        {
+          "letter": "C",
+          "text": "En la pared celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared es de protección y soporte, no metabólica."
+        },
+        {
+          "letter": "D",
+          "text": "En las vacuolas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacuolas almacenan sustancias, principalmente agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cloroplastos contienen pigmentos fotosintéticos capaces de transformar la energía lumínica en energía química (alimento).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v8",
+      "statement": "¿Qué proceso vital se detendría inmediatamente en la célula?",
+      "context": "Un grupo de científicos descubre una sustancia que impide que los **ribosomas** funcionen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La respiración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre en la mitocondria."
+        },
+        {
+          "letter": "B",
+          "text": "La reproducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN está en el núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "La fabricación de proteínas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los ribosomas son los encargados de ensamblar las proteínas necesarias para la célula."
+        },
+        {
+          "letter": "D",
+          "text": "El almacenamiento de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacuolas se encargan de eso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sin ribosomas, la célula no puede producir enzimas, transportadores ni estructuras básicas hechas de proteínas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v9",
+      "statement": "¿Cuál es el orden correcto de los niveles de organización biológica en los seres pluricelulares, de lo más simple a lo más complejo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido -> Célula -> Órgano -> Sistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tejido está formado por células, por lo que la célula va primero."
+        },
+        {
+          "letter": "B",
+          "text": "Célula -> Tejido -> Órgano -> Sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Las células forman tejidos, los tejidos forman órganos y los órganos forman sistemas."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema -> Órgano -> Tejido -> Célula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el orden de complejo a simple."
+        },
+        {
+          "letter": "D",
+          "text": "Célula -> Órgano -> Tejido -> Sistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los órganos están formados por tejidos, no al revés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La especialización celular permite que las células se agrupen para realizar funciones complejas en niveles superiores de organización.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CNA-6-P1-celula-001-MASTERY-v10",
+      "statement": "¿Qué organelo esperarías encontrar en mayor cantidad en una célula muscular comparada con una célula de la piel?",
+      "context": "Se sabe que las células de los músculos necesitan mucha energía para que podamos movernos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cloroplastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los humanos no tenemos cloroplastos."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encargan de la digestión, no de la energía muscular principal."
+        },
+        {
+          "letter": "C",
+          "text": "Mitocondrias.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser los productores de energía, los tejidos con alta actividad metabólica tienen miles de ellas."
+        },
+        {
+          "letter": "D",
+          "text": "Pared celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células humanas no tienen pared celular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura y composición de una célula (cantidad de organelos) se adapta a la función específica que cumple en el organismo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CNA-6-P1-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,31 +10,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v1",
       "statement": "¿Cuál es el postulado de la teoría celular que indica que todas las funciones vitales de un organismo ocurren dentro de las células?",
-      "context": "",
+      "context": "Teoría celular.",
       "options": [
         {
           "letter": "A",
-          "text": "Unidad anatómica <!-- feedback: Incorrecto. Este postulado dice que todos los seres vivos están formados por una o más células. -->",
-          "is_correct": false
+          "text": "Unidad anatómica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este postulado dice que todos los seres vivos están formados por una o más células."
         },
         {
           "letter": "B",
-          "text": "Unidad fisiológica <!-- feedback: Correcto. Indica que la célula es la mínima unidad capaz de realizar las funciones de un ser vivo. -->",
-          "is_correct": true
+          "text": "Unidad fisiológica",
+          "is_correct": true,
+          "feedback": "Correcto. Indica que la célula es la mínima unidad capaz de realizar las funciones de un ser vivo."
         },
         {
           "letter": "C",
-          "text": "Unidad de origen <!-- feedback: Incorrecto. Este dice que toda célula proviene de otra preexistente. -->",
-          "is_correct": false
+          "text": "Unidad de origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este dice que toda célula proviene de otra preexistente."
         },
         {
           "letter": "D",
-          "text": "Unidad genética <!-- feedback: Incorrecto. Se refiere a que las células contienen el material hereditario. -->",
-          "is_correct": false
+          "text": "Unidad genética",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a que las células contienen el material hereditario."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de los pilares de la teoría celular clásica.\n\n---",
+      "explanation": "Identificación de los pilares de la teoría celular clásica.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v2",
       "statement": "¿Cuál organela es la encargada de la respiración celular y la producción de energía en forma de ATP?",
-      "context": "",
+      "context": "Organelas celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Cloroplasto <!-- feedback: Incorrecto. Los cloroplastos realizan la fotosíntesis, no la respiración celular. -->",
-          "is_correct": false
+          "text": "Cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cloroplastos realizan la fotosíntesis, no la respiración celular."
         },
         {
           "letter": "B",
-          "text": "Mitocondria <!-- feedback: Correcto. Es la \"central energética\" de la célula eucariota. -->",
-          "is_correct": true
+          "text": "Mitocondria",
+          "is_correct": true,
+          "feedback": "Correcto. Es la \"central energética\" de la célula eucariota."
         },
         {
           "letter": "C",
-          "text": "Ribosoma <!-- feedback: Incorrecto. Los ribosomas se encargan de la síntesis de proteínas. -->",
-          "is_correct": false
+          "text": "Ribosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se encargan de la síntesis de proteínas."
         },
         {
           "letter": "D",
-          "text": "Lisosoma <!-- feedback: Incorrecto. Los lisosomas se encargan de la digestión celular. -->",
-          "is_correct": false
+          "text": "Lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lisosomas se encargan de la digestión celular."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento de las funciones fundamentales de las organelas citoplasmáticas.\n\n---",
+      "explanation": "Reconocimiento de las funciones fundamentales de las organelas citoplasmáticas.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v3",
       "statement": "¿Qué característica principal distingue a una célula procariota de una eucariota?",
-      "context": "",
+      "context": "Tipos de células.",
       "options": [
         {
           "letter": "A",
-          "text": "La presencia de membrana plasmática. <!-- feedback: Incorrecto. Ambos tipos celulares poseen membrana. -->",
-          "is_correct": false
+          "text": "La presencia de membrana plasmática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos celulares poseen membrana."
         },
         {
           "letter": "B",
-          "text": "La capacidad de reproducirse. <!-- feedback: Incorrecto. Ambas se reproducen. -->",
-          "is_correct": false
+          "text": "La capacidad de reproducirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas se reproducen."
         },
         {
           "letter": "C",
-          "text": "La ausencia de un núcleo definido por una membrana. <!-- feedback: Correcto. Las procariotas tienen el material genético disperso en el citoplasma (nucleoide). -->",
-          "is_correct": true
+          "text": "La ausencia de un núcleo definido por una membrana.",
+          "is_correct": true,
+          "feedback": "Correcto. Las procariotas tienen el material genético disperso en el citoplasma (nucleoide)."
         },
         {
           "letter": "D",
-          "text": "La presencia de ribosomas. <!-- feedback: Incorrecto. Ambos tipos poseen ribosomas para sintetizar proteínas. -->",
-          "is_correct": false
+          "text": "La presencia de ribosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos poseen ribosomas para sintetizar proteínas."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nDiferenciación estructural básica entre los dominios celulares.\n\n---",
+      "explanation": "Diferenciación estructural básica entre los dominios celulares.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v4",
       "statement": "¿Qué estructura exclusiva de la célula vegetal le proporciona rigidez y soporte mecánico a la planta?",
-      "context": "",
+      "context": "Célula vegetal.",
       "options": [
         {
           "letter": "A",
-          "text": "Membrana celular <!-- feedback: Incorrecto. La membrana es flexible y está presente en todas las células. -->",
-          "is_correct": false
+          "text": "Membrana celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana es flexible y está presente en todas las células."
         },
         {
           "letter": "B",
-          "text": "Pared celular <!-- feedback: Correcto. Compuesta principalmente de celulosa, otorga estructura y protección. -->",
-          "is_correct": true
+          "text": "Pared celular",
+          "is_correct": true,
+          "feedback": "Correcto. Compuesta principalmente de celulosa, otorga estructura y protección."
         },
         {
           "letter": "C",
-          "text": "Vacuola central <!-- feedback: Incorrecto. Aunque ayuda a la turgencia, la rigidez estructural la da la pared. -->",
-          "is_correct": false
+          "text": "Vacuola central",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ayuda a la turgencia, la rigidez estructural la da la pared."
         },
         {
           "letter": "D",
-          "text": "Aparato de Golgi <!-- feedback: Incorrecto. Se encarga del empaque y transporte de moléculas. -->",
-          "is_correct": false
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encarga del empaque y transporte de moléculas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de componentes específicos de la célula vegetal y su función.\n\n---",
+      "explanation": "Identificación de componentes específicos de la célula vegetal y su función.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v5",
       "statement": "¿Cuál es el componente de la membrana plasmática que permite el transporte de sustancias polares o grandes que no pueden atravesar la bicapa de fosfolípidos por sí solas?",
-      "context": "",
+      "context": "Membrana plasmática.",
       "options": [
         {
           "letter": "A",
-          "text": "Colesterol <!-- feedback: Incorrecto. El colesterol regula la fluidez de la membrana. -->",
-          "is_correct": false
+          "text": "Colesterol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol regula la fluidez de la membrana."
         },
         {
           "letter": "B",
-          "text": "Proteínas integrales <!-- feedback: Correcto. Actúan como canales o transportadores para moléculas específicas. -->",
-          "is_correct": true
+          "text": "Proteínas integrales",
+          "is_correct": true,
+          "feedback": "Correcto. Actúan como canales o transportadores para moléculas específicas."
         },
         {
           "letter": "C",
-          "text": "Glucolípidos <!-- feedback: Incorrecto. Participan principalmente en el reconocimiento celular. -->",
-          "is_correct": false
+          "text": "Glucolípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Participan principalmente en el reconocimiento celular."
         },
         {
           "letter": "D",
-          "text": "Ácidos grasos <!-- feedback: Incorrecto. Son parte de los fosfolípidos que forman la barrera hidrofóbica. -->",
-          "is_correct": false
+          "text": "Ácidos grasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son parte de los fosfolípidos que forman la barrera hidrofóbica."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión del modelo de mosaico fluido y el transporte transmembrana.\n\n---",
+      "explanation": "Comprensión del modelo de mosaico fluido y el transporte transmembrana.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v6",
       "statement": "Si se coloca una célula animal en una solución hipotónica (con menor concentración de solutos que el interior celular), ¿qué le sucederá a la célula?",
-      "context": "",
+      "context": "Transporte pasivo (Ósmosis).",
       "options": [
         {
           "letter": "A",
-          "text": "Se encogerá (crenación). <!-- feedback: Incorrecto. Esto ocurre en una solución hipertónica. -->",
-          "is_correct": false
+          "text": "Se encogerá (crenación).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre en una solución hipertónica."
         },
         {
           "letter": "B",
-          "text": "Se hinchará y podría explotar (citólisis). <!-- feedback: Correcto. El agua entra a la célula para equilibrar las concentraciones. -->",
-          "is_correct": true
+          "text": "Se hinchará y podría explotar (citólisis).",
+          "is_correct": true,
+          "feedback": "Correcto. El agua entra a la célula para equilibrar las concentraciones."
         },
         {
           "letter": "C",
-          "text": "No sufrirá ningún cambio. <!-- feedback: Incorrecto. Esto solo ocurre en una solución isotónica. -->",
-          "is_correct": false
+          "text": "No sufrirá ningún cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo ocurre en una solución isotónica."
         },
         {
           "letter": "D",
-          "text": "Perderá sus organelas. <!-- feedback: Incorrecto. La ósmosis afecta el volumen hídrico, no la presencia de organelas. -->",
-          "is_correct": false
+          "text": "Perderá sus organelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ósmosis afecta el volumen hídrico, no la presencia de organelas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de conceptos de tonicidad y ósmosis a situaciones fisiológicas.\n\n---",
+      "explanation": "Aplicación de conceptos de tonicidad y ósmosis a situaciones fisiológicas.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v7",
       "statement": "¿Cuál es la función principal de las enzimas en las reacciones químicas celulares?",
-      "context": "",
+      "context": "Metabolismo celular (Enzimas).",
       "options": [
         {
           "letter": "A",
-          "text": "Ser consumidas durante la reacción para aportar energía. <!-- feedback: Incorrecto. Las enzimas son catalizadores y no se consumen. -->",
-          "is_correct": false
+          "text": "Ser consumidas durante la reacción para aportar energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas son catalizadores y no se consumen."
         },
         {
           "letter": "B",
-          "text": "Cambiar la dirección de una reacción espontánea. <!-- feedback: Incorrecto. No cambian la termodinámica, solo la velocidad. -->",
-          "is_correct": false
+          "text": "Cambiar la dirección de una reacción espontánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cambian la termodinámica, solo la velocidad."
         },
         {
           "letter": "C",
-          "text": "Disminuir la energía de activación para acelerar la reacción. <!-- feedback: Correcto. Permiten que las reacciones ocurran más rápido a temperatura corporal. -->",
-          "is_correct": true
+          "text": "Disminuir la energía de activación para acelerar la reacción.",
+          "is_correct": true,
+          "feedback": "Correcto. Permiten que las reacciones ocurran más rápido a temperatura corporal."
         },
         {
           "letter": "D",
-          "text": "Transportar oxígeno a las células. <!-- feedback: Incorrecto. Esa es función de la hemoglobina, no de las enzimas en general. -->",
-          "is_correct": false
+          "text": "Transportar oxígeno a las células.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de la hemoglobina, no de las enzimas en general."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nComprensión de la catálisis enzimática y su importancia vital.\n\n---",
+      "explanation": "Comprensión de la catálisis enzimática y su importancia vital.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v8",
       "statement": "En el proceso de fotosíntesis, ¿cuál es la molécula encargada de captar la energía lumínica?",
-      "context": "",
+      "context": "Fotosíntesis.",
       "options": [
         {
           "letter": "A",
-          "text": "Glucosa <!-- feedback: Incorrecto. La glucosa es el producto final de la fotosíntesis. -->",
-          "is_correct": false
+          "text": "Glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa es el producto final de la fotosíntesis."
         },
         {
           "letter": "B",
-          "text": "Clorofila <!-- feedback: Correcto. Es el pigmento fotosintético principal ubicado en los tilacoides. -->",
-          "is_correct": true
+          "text": "Clorofila",
+          "is_correct": true,
+          "feedback": "Correcto. Es el pigmento fotosintético principal ubicado en los tilacoides."
         },
         {
           "letter": "C",
-          "text": "Agua <!-- feedback: Incorrecto. El agua es un reactivo que dona electrones, pero no capta la luz. -->",
-          "is_correct": false
+          "text": "Agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es un reactivo que dona electrones, pero no capta la luz."
         },
         {
           "letter": "D",
-          "text": "Dióxido de carbono <!-- feedback: Incorrecto. El $CO_2$ se fija durante el ciclo de Calvin. -->",
-          "is_correct": false
+          "text": "Dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $CO_2$ se fija durante el ciclo de Calvin."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de los pigmentos y su rol en la fase luminosa de la fotosíntesis.\n\n---",
+      "explanation": "Identificación de los pigmentos y su rol en la fase luminosa de la fotosíntesis.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v9",
       "statement": "¿En qué etapa de la mitosis los cromosomas se alinean en el plano ecuatorial de la célula?",
-      "context": "",
+      "context": "Ciclo celular (Mitosis).",
       "options": [
         {
           "letter": "A",
-          "text": "Profase <!-- feedback: Incorrecto. En la profase la cromatina se condensa y desaparece el núcleo. -->",
-          "is_correct": false
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina se condensa y desaparece el núcleo."
         },
         {
           "letter": "B",
-          "text": "Metafase <!-- feedback: Correcto. Los cromosomas se ubican en el centro para asegurar una repartición equitativa. -->",
-          "is_correct": true
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "Correcto. Los cromosomas se ubican en el centro para asegurar una repartición equitativa."
         },
         {
           "letter": "C",
-          "text": "Anafase <!-- feedback: Incorrecto. En la anafase las cromátidas hermanas se separan hacia los polos. -->",
-          "is_correct": false
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan hacia los polos."
         },
         {
           "letter": "D",
-          "text": "Telofase <!-- feedback: Incorrecto. En la telofase se forman los nuevos núcleos. -->",
-          "is_correct": false
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase se forman los nuevos núcleos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de las fases de la división nuclear y sus eventos característicos.\n\n---",
+      "explanation": "Identificación de las fases de la división nuclear y sus eventos característicos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v10",
       "statement": "¿Cuál es la principal ventaja de la respiración aeróbica sobre la fermentación (anaeróbica)?",
-      "context": "",
+      "context": "Respiración aeróbica vs. anaeróbica.",
       "options": [
         {
           "letter": "A",
-          "text": "Ocurre más rápidamente. <!-- feedback: Incorrecto. La fermentación es más rápida pero menos eficiente. -->",
-          "is_correct": false
+          "text": "Ocurre más rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fermentación es más rápida pero menos eficiente."
         },
         {
           "letter": "B",
-          "text": "No requiere de organelas especializadas. <!-- feedback: Incorrecto. Requiere mitocondrias. -->",
-          "is_correct": false
+          "text": "No requiere de organelas especializadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere mitocondrias."
         },
         {
           "letter": "C",
-          "text": "Produce una cantidad mucho mayor de ATP por molécula de glucosa. <!-- feedback: Correcto. Produce unos 36-38 ATP frente a los 2 ATP de la fermentación. -->",
-          "is_correct": true
+          "text": "Produce una cantidad mucho mayor de ATP por molécula de glucosa.",
+          "is_correct": true,
+          "feedback": "Correcto. Produce unos 36-38 ATP frente a los 2 ATP de la fermentación."
         },
         {
           "letter": "D",
-          "text": "Puede ocurrir en ausencia de luz. <!-- feedback: Incorrecto. Ambas pueden ocurrir en la oscuridad; el factor clave es el oxígeno. -->",
-          "is_correct": false
+          "text": "Puede ocurrir en ausencia de luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas pueden ocurrir en la oscuridad; el factor clave es el oxígeno."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nComparación de la eficiencia energética entre las rutas metabólicas de obtención de energía.\n\n---",
+      "explanation": "Comparación de la eficiencia energética entre las rutas metabólicas de obtención de energía.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v11",
       "statement": "Durante el Ciclo de Calvin, se utiliza la energía química producida en la fase luminosa para:",
-      "context": "",
+      "context": "Fotosíntesis (Fase oscura).",
       "options": [
         {
           "letter": "A",
-          "text": "Romper la molécula de agua (fotólisis). <!-- feedback: Incorrecto. Esto ocurre en la fase luminosa. -->",
-          "is_correct": false
+          "text": "Romper la molécula de agua (fotólisis).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre en la fase luminosa."
         },
         {
           "letter": "B",
-          "text": "Liberar oxígeno a la atmósfera. <!-- feedback: Incorrecto. El oxígeno se libera en la fase luminosa. -->",
-          "is_correct": false
+          "text": "Liberar oxígeno a la atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno se libera en la fase luminosa."
         },
         {
           "letter": "C",
-          "text": "Fijar el dióxido de carbono para sintetizar materia orgánica (glucosa). <!-- feedback: Correcto. Es el objetivo principal de la fase oscura. -->",
-          "is_correct": true
+          "text": "Fijar el dióxido de carbono para sintetizar materia orgánica (glucosa).",
+          "is_correct": true,
+          "feedback": "Correcto. Es el objetivo principal de la fase oscura."
         },
         {
           "letter": "D",
-          "text": "Sintetizar clorofila nueva. <!-- feedback: Incorrecto. El ciclo de Calvin no sintetiza clorofila. -->",
-          "is_correct": false
+          "text": "Sintetizar clorofila nueva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin no sintetiza clorofila."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAnálisis de las transformaciones de materia y energía en las etapas de la fotosíntesis.\n\n---",
+      "explanation": "Análisis de las transformaciones de materia y energía en las etapas de la fotosíntesis.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v12",
       "statement": "Un investigador en Costa Rica observa que una enzima digestiva humana deja de funcionar cuando la temperatura sube a 60°C. ¿A qué se debe este fenómeno?",
-      "context": "",
+      "context": "Factores que afectan la actividad enzimática.",
       "options": [
         {
           "letter": "A",
-          "text": "La enzima se está reproduciendo demasiado rápido. <!-- feedback: Incorrecto. Las enzimas son proteínas, no organismos. -->",
-          "is_correct": false
+          "text": "La enzima se está reproduciendo demasiado rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas son proteínas, no organismos."
         },
         {
           "letter": "B",
-          "text": "La enzima se ha desnaturalizado perdiendo su estructura tridimensional. <!-- feedback: Correcto. El calor rompe los enlaces que mantienen la forma de la proteína, inactivándola. -->",
-          "is_correct": true
+          "text": "La enzima se ha desnaturalizado perdiendo su estructura tridimensional.",
+          "is_correct": true,
+          "feedback": "Correcto. El calor rompe los enlaces que mantienen la forma de la proteína, inactivándola."
         },
         {
           "letter": "C",
-          "text": "El sustrato se ha evaporado. <!-- feedback: Incorrecto. Aunque el sustrato cambie, la causa principal es el daño a la enzima. -->",
-          "is_correct": false
+          "text": "El sustrato se ha evaporado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el sustrato cambie, la causa principal es el daño a la enzima."
         },
         {
           "letter": "D",
-          "text": "La enzima ha alcanzado su punto de ebullición. <!-- feedback: Incorrecto. Las proteínas se degradan o desnaturalizan antes de hervir. -->",
-          "is_correct": false
+          "text": "La enzima ha alcanzado su punto de ebullición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proteínas se degradan o desnaturalizan antes de hervir."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación del concepto de desnaturalización proteica por factores ambientales.\n\n---",
+      "explanation": "Aplicación del concepto de desnaturalización proteica por factores ambientales.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v13",
       "statement": "¿En qué fase de la meiosis ocurre el \"crossing over\" o entrecruzamiento, proceso vital para la variabilidad genética?",
-      "context": "",
+      "context": "Meiosis y variabilidad.",
       "options": [
         {
           "letter": "A",
-          "text": "Profase I <!-- feedback: Correcto. Los cromosomas homólogos se aparean e intercambian segmentos de ADN. -->",
-          "is_correct": true
+          "text": "Profase I",
+          "is_correct": true,
+          "feedback": "Correcto. Los cromosomas homólogos se aparean e intercambian segmentos de ADN."
         },
         {
           "letter": "B",
-          "text": "Profase II <!-- feedback: Incorrecto. En la profase II ya no hay cromosomas homólogos en la misma célula. -->",
-          "is_correct": false
+          "text": "Profase II",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase II ya no hay cromosomas homólogos en la misma célula."
         },
         {
           "letter": "C",
-          "text": "Metafase I <!-- feedback: Incorrecto. En la metafase I ocurre la alineación de pares homólogos. -->",
-          "is_correct": false
+          "text": "Metafase I",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la metafase I ocurre la alineación de pares homólogos."
         },
         {
           "letter": "D",
-          "text": "Anafase II <!-- feedback: Incorrecto. En la anafase II se separan las cromátidas hermanas. -->",
-          "is_correct": false
+          "text": "Anafase II",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase II se separan las cromátidas hermanas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nAnálisis de los mecanismos de recombinación genética durante la formación de gametos.\n\n---",
+      "explanation": "Análisis de los mecanismos de recombinación genética durante la formación de gametos.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v14",
       "statement": "La bomba de Sodio-Potasio es un ejemplo de transporte activo porque:",
-      "context": "",
+      "context": "Transporte activo.",
       "options": [
         {
           "letter": "A",
-          "text": "Mueve sustancias a favor del gradiente de concentración. <!-- feedback: Incorrecto. Eso sería transporte pasivo. -->",
-          "is_correct": false
+          "text": "Mueve sustancias a favor del gradiente de concentración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería transporte pasivo."
         },
         {
           "letter": "B",
-          "text": "Requiere el gasto de ATP para mover iones contra su gradiente. <!-- feedback: Correcto. Utiliza energía para mantener diferencias de concentración iónica. -->",
-          "is_correct": true
+          "text": "Requiere el gasto de ATP para mover iones contra su gradiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza energía para mantener diferencias de concentración iónica."
         },
         {
           "letter": "C",
-          "text": "Solo ocurre en células vegetales. <!-- feedback: Incorrecto. Es fundamental en células animales, especialmente neuronas. -->",
-          "is_correct": false
+          "text": "Solo ocurre en células vegetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es fundamental en células animales, especialmente neuronas."
         },
         {
           "letter": "D",
-          "text": "No utiliza proteínas de membrana. <!-- feedback: Incorrecto. Requiere una proteína específica (la bomba). -->",
-          "is_correct": false
+          "text": "No utiliza proteínas de membrana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere una proteína específica (la bomba)."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nDiferenciación entre mecanismos de transporte celular basados en el requerimiento energético.\n\n---",
+      "explanation": "Diferenciación entre mecanismos de transporte celular basados en el requerimiento energético.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v15",
       "statement": "¿Cuál es la función del ARN de transferencia (ARNt) durante la síntesis de proteínas?",
-      "context": "",
+      "context": "Síntesis de proteínas (Traducción).",
       "options": [
         {
           "letter": "A",
-          "text": "Llevar la información del ADN desde el núcleo al ribosoma. <!-- feedback: Incorrecto. Esa es la función del ARN mensajero (ARNm). -->",
-          "is_correct": false
+          "text": "Llevar la información del ADN desde el núcleo al ribosoma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del ARN mensajero (ARNm)."
         },
         {
           "letter": "B",
-          "text": "Transportar aminoácidos específicos hacia el ribosoma según el codón del ARNm. <!-- feedback: Correcto. Traduce el código genético a una secuencia de aminoácidos. -->",
-          "is_correct": true
+          "text": "Transportar aminoácidos específicos hacia el ribosoma según el codón del ARNm.",
+          "is_correct": true,
+          "feedback": "Correcto. Traduce el código genético a una secuencia de aminoácidos."
         },
         {
           "letter": "C",
-          "text": "Formar parte de la estructura física de los ribosomas. <!-- feedback: Incorrecto. Ese es el ARN ribosomal (ARNr). -->",
-          "is_correct": false
+          "text": "Formar parte de la estructura física de los ribosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el ARN ribosomal (ARNr)."
         },
         {
           "letter": "D",
-          "text": "Replicar el ADN antes de la división celular. <!-- feedback: Incorrecto. Esto lo hacen las ADN polimerasas. -->",
-          "is_correct": false
+          "text": "Replicar el ADN antes de la división celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto lo hacen las ADN polimerasas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión del rol de los diferentes tipos de ARN en el flujo de la información genética.\n\n---",
+      "explanation": "Comprensión del rol de los diferentes tipos de ARN en el flujo de la información genética.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v16",
       "statement": "¿En qué compartimento celular específico ocurre el Ciclo de Krebs?",
-      "context": "",
+      "context": "Respiración celular (Ciclo de Krebs).",
       "options": [
         {
           "letter": "A",
-          "text": "Citoplasma (Citosol) <!-- feedback: Incorrecto. En el citoplasma ocurre la glucólisis. -->",
-          "is_correct": false
+          "text": "Citoplasma (Citosol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el citoplasma ocurre la glucólisis."
         },
         {
           "letter": "B",
-          "text": "Matriz mitocondrial <!-- feedback: Correcto. Dentro de la mitocondria ocurre la oxidación del piruvato y el ciclo de Krebs. -->",
-          "is_correct": true
+          "text": "Matriz mitocondrial",
+          "is_correct": true,
+          "feedback": "Correcto. Dentro de la mitocondria ocurre la oxidación del piruvato y el ciclo de Krebs."
         },
         {
           "letter": "C",
-          "text": "Crestas mitocondriales <!-- feedback: Incorrecto. Aquí ocurre la cadena de transporte de electrones. -->",
-          "is_correct": false
+          "text": "Crestas mitocondriales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí ocurre la cadena de transporte de electrones."
         },
         {
           "letter": "D",
-          "text": "Estroma del cloroplasto <!-- feedback: Incorrecto. Aquí ocurre el ciclo de Calvin. -->",
-          "is_correct": false
+          "text": "Estroma del cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí ocurre el ciclo de Calvin."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLocalización subcelular de las rutas metabólicas aeróbicas.\n\n---",
+      "explanation": "Localización subcelular de las rutas metabólicas aeróbicas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v17",
       "statement": "El cianuro es un veneno que bloquea el último complejo de la cadena de transporte de electrones en la mitocondria. ¿Cuál sería el efecto inmediato más probable en una célula afectada?",
-      "context": "",
+      "context": "Inhibidores metabólicos.",
       "options": [
         {
           "letter": "A",
-          "text": "Aumento en la producción de glucosa. <!-- feedback: Incorrecto. La célula no podría producir energía, mucho menos sintetizar azúcares. -->",
-          "is_correct": false
+          "text": "Aumento en la producción de glucosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La célula no podría producir energía, mucho menos sintetizar azúcares."
         },
         {
           "letter": "B",
-          "text": "Cese de la producción de ATP y muerte celular por falta de energía. <!-- feedback: Correcto. Al bloquear la cadena, se detiene la fosforilación oxidativa, la principal fuente de ATP. -->",
-          "is_correct": true
+          "text": "Cese de la producción de ATP y muerte celular por falta de energía.",
+          "is_correct": true,
+          "feedback": "Correcto. Al bloquear la cadena, se detiene la fosforilación oxidativa, la principal fuente de ATP."
         },
         {
           "letter": "C",
-          "text": "La célula comenzaría a realizar fotosíntesis para compensar. <!-- feedback: Incorrecto. Las células animales no tienen cloroplastos. -->",
-          "is_correct": false
+          "text": "La célula comenzaría a realizar fotosíntesis para compensar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales no tienen cloroplastos."
         },
         {
           "letter": "D",
-          "text": "Aumento masivo en la captación de oxígeno. <!-- feedback: Incorrecto. El oxígeno no podría ser utilizado como aceptor final, por lo que su consumo disminuiría. -->",
-          "is_correct": false
+          "text": "Aumento masivo en la captación de oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno no podría ser utilizado como aceptor final, por lo que su consumo disminuiría."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de las consecuencias del bloqueo de rutas metabólicas vitales.\n\n---",
+      "explanation": "Evaluación de las consecuencias del bloqueo de rutas metabólicas vitales.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v18",
       "statement": "¿Cuál es la relación biológica fundamental entre el ciclo celular y el desarrollo del cáncer?",
-      "context": "",
+      "context": "Control del ciclo celular y cáncer.",
       "options": [
         {
           "letter": "A",
-          "text": "El cáncer acelera la fase G0 para que las células descansen más. <!-- feedback: Incorrecto. G0 es reposo; el cáncer implica proliferación excesiva. -->",
-          "is_correct": false
+          "text": "El cáncer acelera la fase G0 para que las células descansen más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. G0 es reposo; el cáncer implica proliferación excesiva."
         },
         {
           "letter": "B",
-          "text": "Las células cancerosas pierden la capacidad de realizar la mitosis. <!-- feedback: Incorrecto. Realizan mitosis de forma descontrolada. -->",
-          "is_correct": false
+          "text": "Las células cancerosas pierden la capacidad de realizar la mitosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizan mitosis de forma descontrolada."
         },
         {
           "letter": "C",
-          "text": "Fallas en los puntos de control del ciclo celular permiten la división descontrolada de células con ADN dañado. <!-- feedback: Correcto. El cáncer es esencialmente una enfermedad del control del ciclo celular. -->",
-          "is_correct": true
+          "text": "Fallas en los puntos de control del ciclo celular permiten la división descontrolada de células con ADN dañado.",
+          "is_correct": true,
+          "feedback": "Correcto. El cáncer es esencialmente una enfermedad del control del ciclo celular."
         },
         {
           "letter": "D",
-          "text": "El cáncer es causado por un exceso de meiosis en tejidos somáticos. <!-- feedback: Incorrecto. La meiosis solo ocurre en gónadas para producir gametos. -->",
-          "is_correct": false
+          "text": "El cáncer es causado por un exceso de meiosis en tejidos somáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis solo ocurre en gónadas para producir gametos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAnálisis de la fisiopatología celular relacionada con la regulación del crecimiento.\n\n---",
+      "explanation": "Análisis de la fisiopatología celular relacionada con la regulación del crecimiento.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v19",
       "statement": "Si una droga bloquea la acción de la enzima ARN polimerasa, ¿cuál de los siguientes procesos se verá directamente interrumpido en primer lugar?",
-      "context": "",
+      "context": "Dogma central de la biología molecular.",
       "options": [
         {
           "letter": "A",
-          "text": "Replicación del ADN. <!-- feedback: Incorrecto. Esto requiere ADN polimerasa. -->",
-          "is_correct": false
+          "text": "Replicación del ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto requiere ADN polimerasa."
         },
         {
           "letter": "B",
-          "text": "Transcripción (síntesis de ARNm). <!-- feedback: Correcto. La ARN polimerasa es la enzima clave para leer el ADN y crear ARN. -->",
-          "is_correct": true
+          "text": "Transcripción (síntesis de ARNm).",
+          "is_correct": true,
+          "feedback": "Correcto. La ARN polimerasa es la enzima clave para leer el ADN y crear ARN."
         },
         {
           "letter": "C",
-          "text": "Traducción en los ribosomas. <!-- feedback: Incorrecto. Esto se detendría después, como consecuencia de no haber ARNm. -->",
-          "is_correct": false
+          "text": "Traducción en los ribosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se detendría después, como consecuencia de no haber ARNm."
         },
         {
           "letter": "D",
-          "text": "División del citoplasma (citocinesis). <!-- feedback: Incorrecto. Este es un proceso mecánico final de la división. -->",
-          "is_correct": false
+          "text": "División del citoplasma (citocinesis).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un proceso mecánico final de la división."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de la jerarquía y dependencia de los procesos de expresión génica.\n\n---",
+      "explanation": "Evaluación de la jerarquía y dependencia de los procesos de expresión génica.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,31 +770,35 @@
     {
       "id": "CR-CIE-11-P1-biologia-celular-001-v20",
       "statement": "La teoría endosimbiótica propone que las mitocondrias y cloroplastos fueron originalmente bacterias libres. ¿Cuál de las siguientes evidencias apoya mejor esta hipótesis?",
-      "context": "",
+      "context": "Evolución celular (Teoría endosimbiótica).",
       "options": [
         {
           "letter": "A",
-          "text": "Ambas organelas están rodeadas por una membrana sencilla. <!-- feedback: Incorrecto. Tienen doble membrana, lo cual apoya la idea de fagocitosis. -->",
-          "is_correct": false
+          "text": "Ambas organelas están rodeadas por una membrana sencilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen doble membrana, lo cual apoya la idea de fagocitosis."
         },
         {
           "letter": "B",
-          "text": "Ambas organelas pueden sobrevivir y reproducirse fuera de la célula eucariota. <!-- feedback: Incorrecto. Son simbiontes obligados y ya no pueden vivir solos. -->",
-          "is_correct": false
+          "text": "Ambas organelas pueden sobrevivir y reproducirse fuera de la célula eucariota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son simbiontes obligados y ya no pueden vivir solos."
         },
         {
           "letter": "C",
-          "text": "Poseen su propio ADN circular y ribosomas similares a los de las bacterias. <!-- feedback: Correcto. Su maquinaria genética e interna es de tipo procariota. -->",
-          "is_correct": true
+          "text": "Poseen su propio ADN circular y ribosomas similares a los de las bacterias.",
+          "is_correct": true,
+          "feedback": "Correcto. Su maquinaria genética e interna es de tipo procariota."
         },
         {
           "letter": "D",
-          "text": "Ambas producen oxígeno como desecho metabólico. <!-- feedback: Incorrecto. Solo los cloroplastos producen oxígeno; las mitocondrias lo consumen. -->",
-          "is_correct": false
+          "text": "Ambas producen oxígeno como desecho metabólico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los cloroplastos producen oxígeno; las mitocondrias lo consumen."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nIntegración de evidencias citológicas y genéticas para explicar el origen de la complejidad eucariota.",
+      "explanation": "Integración de evidencias citológicas y genéticas para explicar el origen de la complejidad eucariota.",
       "difficulty": "10",
       "images": [],
       "tags": [],

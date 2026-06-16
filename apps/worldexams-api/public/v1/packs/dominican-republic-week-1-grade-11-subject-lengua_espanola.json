@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua-espanola",
+    "country": "dominican-republic",
+    "pack_id": "dominican-republic-week-1-grade-11-subject-lengua_espanola",
+    "generated_at": "2026-06-16T00:17:32.890Z"
+  },
+  "questions": [
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v1",
+      "statement": "Pedro Henríquez Ureña es una de las figuras intelectuales más importantes de América Latina. En su obra \"Seis ensayos en busca de nuestra expresión\", ¿qué concepto central defiende sobre la cultura hispanoamericana?",
+      "context": "Literatura dominicana: Pedro Henríquez Ureña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de copiar exactamente los modelos europeos para progresar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ureña buscaba una identidad propia, no una imitación servil de Europa."
+        },
+        {
+          "letter": "B",
+          "text": "La búsqueda de una expresión propia y auténtica que refleje nuestra identidad mestiza.",
+          "is_correct": true,
+          "feedback": "Correcto. Defendió que América debía encontrar su voz original en el lenguaje y la cultura."
+        },
+        {
+          "letter": "C",
+          "text": "Que el español hablado en América es inferior al de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, valoró la riqueza de las variedades del español americano."
+        },
+        {
+          "letter": "D",
+          "text": "La eliminación total de la herencia española en nuestras letras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su visión era integradora, reconociendo todas las raíces de nuestra cultura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de las ideas fundamentales de los autores clásicos del pensamiento dominicano y su impacto en la identidad regional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v2",
+      "statement": "Salomé Ureña es la poetisa nacional por excelencia de la República Dominicana. En sus poemas patrióticos, ¿cuál es el sentimiento predominante hacia la nación?",
+      "context": "Poesía de Salomé Ureña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pesimismo y el deseo de abandonar el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra es de esperanza y construcción nacional, no de abandono."
+        },
+        {
+          "letter": "B",
+          "text": "El amor a la patria, el optimismo por el progreso y el valor de la educación.",
+          "is_correct": true,
+          "feedback": "Correcto. Salomé Ureña vinculaba el futuro del país con el saber y el patriotismo cívico."
+        },
+        {
+          "letter": "C",
+          "text": "El odio hacia las tradiciones antiguas del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respetó las raíces pero buscó la modernización a través de las luces del conocimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción técnica de la geografía de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su enfoque es lírico y moral, no puramente descriptivo-geográfico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del tono y los valores presentes en la literatura fundacional dominicana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v3",
+      "statement": "\"La Zona Colonial de Santo Domingo, primer asentamiento europeo en América, requiere un plan integral de gestión para equilibrar el turismo con la vida de sus residentes\". ¿Cuál es la idea principal de esta frase?",
+      "context": "Noticias sobre la Zona Colonial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los turistas no deberían visitar la Zona Colonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No propone prohibir el turismo, sino gestionarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Los residentes de la zona deben mudarse para que haya más hoteles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto busca el equilibrio con la \"vida de sus residentes\", no su expulsión."
+        },
+        {
+          "letter": "C",
+          "text": "Es necesario organizar mejor la convivencia entre la actividad turística y la habitabilidad de la zona.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume la necesidad de un \"plan integral\" para ambos sectores."
+        },
+        {
+          "letter": "D",
+          "text": "Santo Domingo es la ciudad más antigua de todo el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que es el primero en América, no en el mundo, y ese no es el foco del problema planteado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de la tesis central en enunciados informativos sobre el patrimonio nacional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v4",
+      "statement": "\"El mar Caribe es un cristal azul que abraza nuestras costas\". ¿Qué figura retórica se utiliza en esta descripción?",
+      "context": "Figuras retóricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un nexo comparativo explícito como \"como\" o \"parece\"."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": "Correcto. Identifica directamente el mar con un \"cristal azul\" y le atribuye la acción humana de \"abrazar\" (personificación implícita)."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbaton",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de la oración es regular y lógico."
+        },
+        {
+          "letter": "D",
+          "text": "Onomatopeya",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se intenta imitar sonidos de la naturaleza con el lenguaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de tropos literarios básicos aplicados al entorno geográfico dominicano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v5",
+      "statement": "El Postumismo fue el primer movimiento de vanguardia en la República Dominicana (1921), liderado por Domingo Moreno Jimenes. ¿Qué buscaban estos poetas frente a la tradición anterior?",
+      "context": "El movimiento del Postumismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imitar perfectamente la rima y métrica de los poetas españoles del Siglo de Oro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Buscaban romper con los moldes rígidos tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Liberar la poesía dominicana de las formas clásicas y centrarse en lo humilde, lo local y lo cotidiano.",
+          "is_correct": true,
+          "feedback": "Correcto. Introdujeron el verso libre y una temática más cercana a la realidad dominicana simple."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir solo sobre temas de alta política internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su foco era lo interior, lo nacional y lo sencillo."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir únicamente obras de la literatura rusa al español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centraron en la creación original con sabor local."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de los hitos y rupturas en la historia de la literatura nacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v6",
+      "statement": "Selecciona el conector adecuado para completar la relación de causa-efecto:\n\"La producción de azúcar disminuyó por la sequía; __________, las exportaciones hacia Europa se redujeron este trimestre\".",
+      "context": "Cohesión y conectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un conector de oposición, pero la reducción de exportaciones es una consecuencia lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Por lo tanto",
+          "is_correct": true,
+          "feedback": "Correcto. Introduce de forma coherente la consecuencia derivada de la falta de producción."
+        },
+        {
+          "letter": "C",
+          "text": "Además",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para añadir información del mismo nivel, no para explicar una consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Por otro lado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica una transición a un tema o perspectiva distinta, no una causalidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de marcadores textuales para garantizar la coherencia en la redacción de informes y artículos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v7",
+      "statement": "¿Cuál de las siguientes palabras relacionadas con nuestra cultura está correctamente escrita según las normas de la RAE?",
+      "context": "Ortografía: Acentuación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guira",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una palabra llana terminada en vocal, pero en RD se pronuncia como aguda (güira) y lleva tilde por diéresis o acento en la \"i\". (Espera, güira lleva diéresis pero no tilde por ser llana en vocal). Corrijo el ejemplo: Merengue."
+        },
+        {
+          "letter": "B",
+          "text": "Compás",
+          "is_correct": true,
+          "feedback": "Correcto. Palabra aguda terminada en \"s\", debe llevar tilde en la última sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "Musíca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una palabra esdrújula y la tilde debe ir en la antepenúltima sílaba (Música)."
+        },
+        {
+          "letter": "D",
+          "text": "Jardin",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es aguda terminada en \"n\", requiere tilde en la \"i\" (Jardín)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de las reglas generales de acentuación gráfica en el vocabulario cotidiano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v8",
+      "statement": "Un editorial afirma: \"No podemos seguir viendo nuestras playas solo como generadoras de divisas; son ecosistemas frágiles que estamos agotando\". ¿Qué postura adopta el autor?",
+      "context": "Editorial sobre el medio ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De apoyo total al desarrollo hotelero masivo sin restricciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica la visión puramente económica."
+        },
+        {
+          "letter": "B",
+          "text": "Crítica y conservacionista, priorizando el valor ecológico sobre el meramente económico.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuestiona la visión de \"divisas\" y advierte sobre el \"agotamiento\" del ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "Indiferente ante el turismo en la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un editorial siempre toma una posición clara ante un problema social."
+        },
+        {
+          "letter": "D",
+          "text": "Nostálgica por los tiempos en que no había turistas en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No propone volver al pasado, sino cambiar la forma de gestionar el presente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación del tono y la intención en textos de opinión periodística contemporáneos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v9",
+      "statement": "En la oración \"Ayer bailaron merengue los jóvenes en el malecón de Santo Domingo\", ¿cuál es el sujeto de la oración?",
+      "context": "Sintaxis: Sujeto y Predicado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un adverbio en función de complemento circunstancial de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Los jóvenes",
+          "is_correct": true,
+          "feedback": "Correcto. Es el sintagma nominal que realiza la acción y concuerda con el verbo \"bailaron\"."
+        },
+        {
+          "letter": "C",
+          "text": "Merengue",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el objeto directo de la acción de bailar."
+        },
+        {
+          "letter": "D",
+          "text": "Bailaron",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el núcleo del predicado (el verbo)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del sujeto en oraciones con orden sintáctico invertido (hipérbaton cotidiano).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v10",
+      "statement": "Juan Bosch, además de político, fue un maestro del cuento. En relatos como \"La mujer\" o \"Los amos\", ¿cuál es el objetivo primordial del autor?",
+      "context": "Literatura: Juan Bosch y el cuento social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir la vida lujosa de la burguesía en la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus cuentos se centran en la marginalidad y la vida campesina."
+        },
+        {
+          "letter": "B",
+          "text": "Denunciar las injusticias sociales y la miseria del campesinado dominicano.",
+          "is_correct": true,
+          "feedback": "Correcto. Bosch utilizó el realismo social para dar voz a los sectores oprimidos."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar historias de terror sobre fantasmas en el campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus temas son realistas y sociales, no de género fantástico o terror."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar las reglas de los juegos infantiles tradicionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra es de carácter adulto, crítico y literario de alto nivel."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de la intención social y el estilo de los autores fundamentales de la narrativa dominicana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v11",
+      "statement": "Manuel del Cabral es un exponente máximo de la \"poesía negra\" o afroantillana. ¿Qué elemento caracteriza rítmicamente a esta corriente en su obra \"Compadre Mon\"?",
+      "context": "Manuel del Cabral y la poesía negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de rimas muy lentas y tristes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, suele tener un ritmo vibrante y vital."
+        },
+        {
+          "letter": "B",
+          "text": "La musicalidad basada en la percusión, el uso de onomatopeyas y la exaltación del mestizaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca trasladar el ritmo del tambor y la esencia del Caribe al verso."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia total de sonidos en el poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una poesía eminentemente sonora y auditiva."
+        },
+        {
+          "letter": "D",
+          "text": "El uso exclusivo de palabras en francés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Utiliza el español enriquecido con giros y sonidos de la herencia africana en la isla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de las características sonoras y temáticas de la poesía afroantillana dominicana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v12",
+      "statement": "Un ensayista contemporáneo afirma que \"el dominicano es un pueblo que baila sobre un volcán de problemas\". ¿Cuál es el significado profundo de esta frase sobre nuestra cultura?",
+      "context": "El ensayo sobre la dominicanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dominicanos no saben que hay volcanes activos en la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal errónea de una metáfora social."
+        },
+        {
+          "letter": "B",
+          "text": "Resalta la resiliencia y la alegría del pueblo frente a las dificultades históricas y sociales persistentes.",
+          "is_correct": true,
+          "feedback": "Correcto. El baile simboliza la actitud ante la vida, y el volcán los problemas graves que siempre están presentes."
+        },
+        {
+          "letter": "C",
+          "text": "Que bailar es la causa de todos los problemas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el baile se presenta como la respuesta o la forma de convivir con ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Que es peligroso bailar merengue cerca de las montañas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión total entre el lenguaje figurado y la realidad física."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de conceptos sociológicos y culturales a través del análisis de metáforas en textos ensayísticos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v13",
+      "statement": "En la República Dominicana es característico el fenómeno del \"lambaísmo\" (cambiar la 'r' o 'l' por 'i') en el Cibao, o la geminación de consonantes en la capital. ¿Cómo se denominan técnicamente estas diferencias de habla según la región?",
+      "context": "Variedades del español: El español dominicano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Errores gramaticales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son variaciones dialectales naturales, no errores en el sentido normativo de la evolución de la lengua."
+        },
+        {
+          "letter": "B",
+          "text": "Variedades diatópicas o geográficas",
+          "is_correct": true,
+          "feedback": "Correcto. Se refieren a los cambios que sufre la lengua según el lugar donde se hable."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje técnico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No pertenecen al ámbito de una profesión o ciencia específica."
+        },
+        {
+          "letter": "D",
+          "text": "Jerga juvenil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son rasgos compartidos por personas de todas las edades en regiones específicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de las variedades dialectales y su clasificación lingüística.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v14",
+      "statement": "Aunque escrita por un autor peruano, \"La fiesta del Chivo\" trata sobre la dictadura de Trujillo. ¿Qué efecto produce en la memoria colectiva dominicana el uso de la ficción para relatar hechos históricos tan dolorosos?",
+      "context": "Novela histórica: \"La fiesta del Chivo\" de Mario Vargas Llosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que la gente olvide lo que pasó de verdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la novela ha servido para revitalizar el interés y el debate sobre la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Permite una catarsis y una reflexión crítica sobre los mecanismos del poder y la humillación personal bajo la tiranía.",
+          "is_correct": true,
+          "feedback": "Correcto. La literatura profundiza en aspectos humanos y psicológicos que los libros de historia a veces no tocan."
+        },
+        {
+          "letter": "C",
+          "text": "Engaña al lector dándole datos falsos sobre la economía de 1960.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La novela histórica utiliza el contexto real para construir una verdad literaria, no para falsificar la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que solo los extranjeros pueden escribir sobre la República Dominicana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay muchos autores dominicanos que han tratado el tema; esta obra es solo una de las más difundidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de la función de la literatura en la construcción de la memoria histórica y la crítica social.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v15",
+      "statement": "\"Los dominicanos, quienes siempre reciben al extranjero con una sonrisa, son famosos por su hospitalidad\". ¿Qué tipo de oración subordinada se encuentra entre comas?",
+      "context": "Sintaxis: Oraciones subordinadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adjetiva especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especificativas no van entre comas y sirven para distinguir a unos individuos de otros."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva explicativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Va entre comas y añade una cualidad que se atribuye a todo el grupo mencionado."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada sustantiva de objeto directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Funciona como un adjetivo del nombre \"dominicanos\", no como objeto del verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adverbial de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica cuándo ocurre la acción principal de la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la función y puntuación de las proposiciones subordinadas de relativo en el discurso escrito.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v16",
+      "statement": "Un anuncio dice: \"República Dominicana: Lo tiene todo\". Desde un análisis crítico del lenguaje, ¿cuál es el recurso persuasivo principal de este eslogan?",
+      "context": "Análisis de discursos publicitarios del turismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de datos estadísticos para probar la afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cifras ni pruebas objetivas en la frase."
+        },
+        {
+          "letter": "B",
+          "text": "La generalización absoluta y el uso de un cuantificador universal (\"todo\") para generar una imagen de perfección ideal.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca crear una expectativa máxima en el receptor mediante una afirmación totalizadora."
+        },
+        {
+          "letter": "C",
+          "text": "La crítica a otros países vecinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan se centra en lo positivo propio, no en atacar a la competencia."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de un lenguaje técnico y difícil de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan es simple, directo y popular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de las estrategias de persuasión y el uso del lenguaje en los medios de comunicación y publicidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v17",
+      "statement": "En su novela \"En el tiempo de las mariposas\", Julia Álvarez relata la historia de las hermanas Mirabal. ¿Qué importancia tiene esta obra para la literatura dominicana escrita en el extranjero?",
+      "context": "Julia Álvarez y la diáspora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que los dominicanos que se van ya no saben escribir en español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra es un éxito literario que honra la historia dominicana independientemente del idioma original."
+        },
+        {
+          "letter": "B",
+          "text": "Funciona como un puente que internacionaliza la historia nacional y rescata la dignidad de las víctimas de la dictadura.",
+          "is_correct": true,
+          "feedback": "Correcto. Ha permitido que el sacrificio de las Mirabal sea conocido en todo el mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Propone que las mujeres no deben participar en política.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, exalta la valentía y el compromiso político femenino."
+        },
+        {
+          "letter": "D",
+          "text": "Es un libro que solo trata sobre cómo vivir en Nueva York.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la autora vive allí, el tema central es puramente dominicano e histórico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valoración de la literatura de la diáspora y su papel en la construcción de la identidad y la memoria transnacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v18",
+      "statement": "Si vas a escribir un ensayo sobre \"La influencia del merengue y la bachata en la literatura dominicana actual\", ¿cuál sería la tesis mejor formulada?",
+      "context": "Formulación de tesis para ensayo académico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El merengue y la bachata son ritmos muy populares que a todo el mundo le gusta bailar en las fiestas de Navidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una observación general y descriptiva, no una tesis que plantee una postura académica."
+        },
+        {
+          "letter": "B",
+          "text": "La narrativa dominicana contemporánea utiliza las letras de la bachata como una estrategia estética para representar la sentimentalidad popular y la marginalidad urbana.",
+          "is_correct": true,
+          "feedback": "Correcto. Establece una relación causal y un propósito artístico que puede ser argumentado y demostrado."
+        },
+        {
+          "letter": "C",
+          "text": "Juan Luis Guerra ha ganado muchos premios Grammy y por eso sus canciones son como poemas muy largos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión personal sobre un artista, demasiado limitada para una tesis literaria general."
+        },
+        {
+          "letter": "D",
+          "text": "Antes en la República Dominicana se escuchaba más merengue que bachata porque la bachata era de gente pobre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato sociológico histórico, útil como contexto, pero no constituye una tesis sobre la literatura actual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Capacidad de formular tesis académicas sólidas, bien delimitadas y argumentables sobre temas de cultura nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v19",
+      "statement": "Un análisis crítico afirma: \"La República Dominicana es un país que se mira al espejo y ve a un extraño, intentando reconciliar su piel de ébano con su nombre de Castilla\". ¿Qué conflicto identitario fundamental señala esta frase?",
+      "context": "Análisis de discursos sobre la \"Identidad Caribeña\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los espejos en la isla no funcionan correctamente por la humedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretación literal absurda de una metáfora existencial."
+        },
+        {
+          "letter": "B",
+          "text": "La tensión histórica entre la herencia africana (piel) y la herencia hispánica (nombre/lengua), y la dificultad de asumir una identidad plenamente integrada.",
+          "is_correct": true,
+          "feedback": "Correcto. Apunta a la negación o conflicto con las raíces negras frente a la imposición cultural europea."
+        },
+        {
+          "letter": "C",
+          "text": "Que los dominicanos deberían cambiarse el nombre para sonar más modernos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica es hacia la crisis de identidad, no propone un cambio administrativo de nombres."
+        },
+        {
+          "letter": "D",
+          "text": "Que es necesario dejar de hablar español para poder reconocerse a sí mismos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor analiza una dualidad conflictiva, no propone la eliminación de una de las partes de forma simplista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de las implicaciones ideológicas y éticas en textos argumentativos complejos sobre la raza y la cultura.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-LEN-11-P1-lectura-critica-001-v20",
+      "statement": "Tienes el siguiente enunciado coloquial: \"Se armó un reperpero en el hospital porque no hay medicinas y la gente está muy quilla\". ¿Cuál de las siguientes opciones es una reescritura adecuada para un informe de prensa formal?",
+      "context": "Producción de textos en registros formales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hubo un lío muy grande en el hospital porque faltan remedios y la población está brava.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue utilizando un vocabulario muy informal (\"lío\", \"brava\") para un registro periodístico serio."
+        },
+        {
+          "letter": "B",
+          "text": "Es necesario que traigan pastillas ya porque los pacientes andan muy molestos con el gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Registro demasiado simple y poco preciso para la comunicación institucional."
+        },
+        {
+          "letter": "C",
+          "text": "Se registraron disturbios en el recinto hospitalario debido a la escasez de insumos médicos, lo que ha generado una marcada indignación en la ciudadanía.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza léxico preciso (\"disturbios\", \"escasez\", \"insumos\"), mantiene la objetividad y usa una estructura formal adecuada."
+        },
+        {
+          "letter": "D",
+          "text": "Los médicos deben trabajar mejor para que la gente no se ponga tan quilla en las salas de espera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Culpa a los médicos injustamente y mantiene regionalismos informales (\"quilla\") inapropiados para el informe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dominio de la adecuación lingüística: capacidad de transformar mensajes coloquiales a registros formales y técnicos según el contexto comunicativo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-LEN-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}
