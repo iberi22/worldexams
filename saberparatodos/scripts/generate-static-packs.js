@@ -116,11 +116,18 @@ function parseQuestions(body) {
         ? afterHeader.slice(0, optionsStart).trim()
         : afterHeader;
 
-    // Extract context if present
-    const contextMatch = section.match(
-      /###\s*(?:Contexto|Context)([\s\S]*?)(?:###|##|$)/i,
+    // Extract context if present (supports both ### Contexto heading and **Context:** inline metadata)
+    const contextHeadingMatch = section.match(
+      /###\s*(?:Contexto|Context|Texto)([\s\S]*?)(?:###|##|$)/i,
     );
-    const context = contextMatch ? contextMatch[1].trim() : "";
+    const contextInlineMatch = section.match(
+      /\*\*Context:\*\*\s*([^\n]*)/i,
+    );
+    const context = contextHeadingMatch
+      ? contextHeadingMatch[1].trim()
+      : contextInlineMatch
+        ? contextInlineMatch[1].trim()
+        : "";
 
     // Extract statement
     let statement = "";
@@ -131,9 +138,11 @@ function parseQuestions(body) {
       statement = enunciadoMatch[1].trim();
     } else {
       let cleanedRaw = rawStatement;
-      if (contextMatch) {
-        cleanedRaw = cleanedRaw.replace(contextMatch[0], "");
+      if (contextHeadingMatch) {
+        cleanedRaw = cleanedRaw.replace(contextHeadingMatch[0], "");
       }
+      // Strip inline **Context:** from statement
+      cleanedRaw = cleanedRaw.replace(/\*\*Context:\*\*\s*[^\n]*/gi, "");
       statement = cleanedRaw
         .replace(
           /(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g,

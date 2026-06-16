@@ -15,26 +15,30 @@
         {
           "letter": "A",
           "text": "1/4",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "1/2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "4/1",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "1/5",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\n\"Un cuarto\" representa una parte de un entero dividido en cuatro partes iguales.\n\n---",
+      "explanation": "\"Un cuarto\" representa una parte de un entero dividido en cuatro partes iguales.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -51,26 +55,30 @@
         {
           "letter": "A",
           "text": "5",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "3",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEn una fracción, el número de abajo es el denominador, que indica en cuántas partes se divide el entero.\n\n---",
+      "explanation": "En una fracción, el número de abajo es el denominador, que indica en cuántas partes se divide el entero.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -87,26 +95,30 @@
         {
           "letter": "A",
           "text": "3/4",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "3/8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "1/4",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "1/2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nCuando las fracciones tienen el mismo denominador, solo se suman los numeradores: 1 + 2 = 3. El denominador permanece igual.\n\n---",
+      "explanation": "Cuando las fracciones tienen el mismo denominador, solo se suman los numeradores: 1 + 2 = 3. El denominador permanece igual.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -123,26 +135,30 @@
         {
           "letter": "A",
           "text": "5/8",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "3/8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "8/8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "1/2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nLa pizza entera es 8/8. Si quitas 3/8, quedan 5/8.\n\n---",
+      "explanation": "La pizza entera es 8/8. Si quitas 3/8, quedan 5/8.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -159,26 +175,30 @@
         {
           "letter": "A",
           "text": "5/10",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "2/10",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "1/10",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "6/10",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPara obtener una fracción equivalente, multiplicamos numerador y denominador por el mismo número. 1x5=5 y 2x5=10.\n\n---",
+      "explanation": "Para obtener una fracción equivalente, multiplicamos numerador y denominador por el mismo número. 1x5=5 y 2x5=10.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -195,26 +215,30 @@
         {
           "letter": "A",
           "text": "3/4",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "2/6",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "1/4",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "2/4",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nConvertimos 1/2 a cuartos: 1/2 = 2/4. Luego sumamos 2/4 + 1/4 = 3/4.\n\n---",
+      "explanation": "Convertimos 1/2 a cuartos: 1/2 = 2/4. Luego sumamos 2/4 + 1/4 = 3/4.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -231,26 +255,30 @@
         {
           "letter": "A",
           "text": "0.5",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "0.2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "0.12",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "1.2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\n**Paso 1:** Dividir el numerador entre el denominador (1 ÷ 2).\n**Resultado:** 0.5.\n\n---",
+      "explanation": "**Paso 1:** Dividir el numerador entre el denominador (1 ÷ 2).\n**Resultado:** 0.5.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -267,26 +295,30 @@
         {
           "letter": "A",
           "text": "1 1/4 kg",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "1 1/2 kg",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "4/6 kg",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "5/4 kg",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nSumamos 3/4 + 1/2 = 3/4 + 2/4 = 5/4. Al convertir a fracción mixta: 5 ÷ 4 = 1 con residuo 1, lo que da 1 1/4.\n\n---",
+      "explanation": "Sumamos 3/4 + 1/2 = 3/4 + 2/4 = 5/4. Al convertir a fracción mixta: 5 ÷ 4 = 1 con residuo 1, lo que da 1 1/4.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -303,26 +335,30 @@
         {
           "letter": "A",
           "text": "160 metros",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "240 metros",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "200 metros",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "100 metros",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPrimero calculamos cuánto ha recorrido: (400 ÷ 5) x 3 = 80 x 3 = 240 metros. Lo que falta es 400 - 240 = 160 metros.\n\n---",
+      "explanation": "Primero calculamos cuánto ha recorrido: (400 ÷ 5) x 3 = 80 x 3 = 240 metros. Lo que falta es 400 - 240 = 160 metros.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -339,26 +375,30 @@
         {
           "letter": "A",
           "text": "2/3, 1/2, 1/4",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "1/4, 1/2, 2/3",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "2/3, 1/4, 1/2",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "1/2, 2/3, 1/4",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nConvertimos a un denominador común (12): 1/2 = 6/12; 2/3 = 8/12; 1/4 = 3/12. Comparando los numeradores, el orden es 8/12 > 6/12 > 3/12.",
+      "explanation": "Convertimos a un denominador común (12): 1/2 = 6/12; 2/3 = 8/12; 1/4 = 3/12. Comparando los numeradores, el orden es 8/12 > 6/12 > 3/12.",
       "difficulty": "5",
       "images": [],
       "tags": [],

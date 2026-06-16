@@ -10,31 +10,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v1",
       "statement": "¿Cuántas naciones y pueblos indígena originario campesinos reconoce el Estado Plurinacional de Bolivia según el texto?",
-      "context": "",
+      "context": "Información explícita.",
       "options": [
         {
           "letter": "A",
-          "text": "12 <!-- feedback: Incorrecto. El texto menciona una cifra mayor. -->",
-          "is_correct": false
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona una cifra mayor."
         },
         {
           "letter": "B",
-          "text": "24 <!-- feedback: Incorrecto. No coincide con el dato textual. -->",
-          "is_correct": false
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coincide con el dato textual."
         },
         {
           "letter": "C",
-          "text": "36 <!-- feedback: Correcto. Esta cifra aparece explícitamente en el primer párrafo del texto. -->",
-          "is_correct": true
+          "text": "36",
+          "is_correct": true,
+          "feedback": "Correcto. Esta cifra aparece explícitamente en el primer párrafo del texto."
         },
         {
           "letter": "D",
-          "text": "48 <!-- feedback: Incorrecto. Excede la cifra mencionada. -->",
-          "is_correct": false
+          "text": "48",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede la cifra mencionada."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nRecuperación de datos literales en un texto informativo sobre la realidad nacional boliviana.\n\n---",
+      "explanation": "Recuperación de datos literales en un texto informativo sobre la realidad nacional boliviana.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v2",
       "statement": "En el texto, el término \"Pachamama\" se utiliza como sinónimo de:",
-      "context": "",
+      "context": "Vocabulario en contexto.",
       "options": [
         {
           "letter": "A",
-          "text": "Un ritual religioso. <!-- feedback: Incorrecto. Es una entidad, no solo el ritual. -->",
-          "is_correct": false
+          "text": "Un ritual religioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una entidad, no solo el ritual."
         },
         {
           "letter": "B",
-          "text": "La ciudad capital. <!-- feedback: Incorrecto. No tiene relación geográfica urbana. -->",
-          "is_correct": false
+          "text": "La ciudad capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación geográfica urbana."
         },
         {
           "letter": "C",
-          "text": "La Madre Tierra. <!-- feedback: Correcto. El texto establece explícitamente esta equivalencia. -->",
-          "is_correct": true
+          "text": "La Madre Tierra.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto establece explícitamente esta equivalencia."
         },
         {
           "letter": "D",
-          "text": "El idioma quechua. <!-- feedback: Incorrecto. Es un concepto cosmológico, no una lengua en este contexto. -->",
-          "is_correct": false
+          "text": "El idioma quechua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un concepto cosmológico, no una lengua en este contexto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nIdentificación de equivalencias semánticas en términos culturales locales.\n\n---",
+      "explanation": "Identificación de equivalencias semánticas en términos culturales locales.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v3",
       "statement": "¿Cuál es la amenaza principal para las lenguas originarias mencionada en el fragmento?",
-      "context": "",
+      "context": "Identificación de problemas.",
       "options": [
         {
           "letter": "A",
-          "text": "La falta de música tradicional. <!-- feedback: Incorrecto. La música se menciona como parte de la riqueza, no como amenaza. -->",
-          "is_correct": false
+          "text": "La falta de música tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La música se menciona como parte de la riqueza, no como amenaza."
         },
         {
           "letter": "B",
-          "text": "La globalización y la migración a las ciudades. <!-- feedback: Correcto. El texto señala estos factores como desafíos para la preservación lingüística. -->",
-          "is_correct": true
+          "text": "La globalización y la migración a las ciudades.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto señala estos factores como desafíos para la preservación lingüística."
         },
         {
           "letter": "C",
-          "text": "El reconocimiento de Bolivia como Estado Plurinacional. <!-- feedback: Incorrecto. Esto es visto como un marco de riqueza, no una amenaza. -->",
-          "is_correct": false
+          "text": "El reconocimiento de Bolivia como Estado Plurinacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es visto como un marco de riqueza, no una amenaza."
         },
         {
           "letter": "D",
-          "text": "La abundancia de tradiciones indígenas. <!-- feedback: Incorrecto. Las tradiciones son parte de la fortaleza cultural. -->",
-          "is_correct": false
+          "text": "La abundancia de tradiciones indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tradiciones son parte de la fortaleza cultural."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de relaciones de causa-efecto en problemáticas sociolingüísticas.\n\n---",
+      "explanation": "Identificación de relaciones de causa-efecto en problemáticas sociolingüísticas.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v4",
       "statement": "¿Cuál es el propósito comunicativo del Texto 1?",
-      "context": "",
+      "context": "Intención comunicativa.",
       "options": [
         {
           "letter": "A",
-          "text": "Informar sobre la diversidad cultural de Bolivia y los retos que enfrenta. <!-- feedback: Correcto. El texto describe la realidad plurinacional y advierte sobre los peligros para las lenguas. -->",
-          "is_correct": true
+          "text": "Informar sobre la diversidad cultural de Bolivia y los retos que enfrenta.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto describe la realidad plurinacional y advierte sobre los peligros para las lenguas."
         },
         {
           "letter": "B",
-          "text": "Convencer al lector de mudarse al campo. <!-- feedback: Incorrecto. El texto no hace una invitación o exhortación personal. -->",
-          "is_correct": false
+          "text": "Convencer al lector de mudarse al campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no hace una invitación o exhortación personal."
         },
         {
           "letter": "C",
-          "text": "Criticar la Constitución Política del Estado. <!-- feedback: Incorrecto. El tono es descriptivo y valorativo de la diversidad, no crítico de la norma. -->",
-          "is_correct": false
+          "text": "Criticar la Constitución Política del Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es descriptivo y valorativo de la diversidad, no crítico de la norma."
         },
         {
           "letter": "D",
-          "text": "Enseñar palabras en las 36 lenguas originarias. <!-- feedback: Incorrecto. No proporciona vocabulario técnico de las lenguas. -->",
-          "is_correct": false
+          "text": "Enseñar palabras en las 36 lenguas originarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No proporciona vocabulario técnico de las lenguas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nReconocimiento de la función del lenguaje y la intención global del autor.\n\n---",
+      "explanation": "Reconocimiento de la función del lenguaje y la intención global del autor.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v5",
       "statement": "¿Cuál de las siguientes afirmaciones resume mejor la propuesta del autor en el Texto 2?",
-      "context": "",
+      "context": "Identificación de la tesis.",
       "options": [
         {
           "letter": "A",
-          "text": "La ciencia occidental debe ser eliminada de las escuelas bolivianas. <!-- feedback: Incorrecto. El autor propone diálogo, no eliminación. -->",
-          "is_correct": false
+          "text": "La ciencia occidental debe ser eliminada de las escuelas bolivianas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor propone diálogo, no eliminación."
         },
         {
           "letter": "B",
-          "text": "Los saberes ancestrales son mitos que no sirven para la ciencia. <!-- feedback: Incorrecto. El autor critica precisamente esta visión. -->",
-          "is_correct": false
+          "text": "Los saberes ancestrales son mitos que no sirven para la ciencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica precisamente esta visión."
         },
         {
           "letter": "C",
-          "text": "Debe existir un diálogo de igualdad entre los conocimientos ancestrales y los científicos modernos. <!-- feedback: Correcto. El texto aboga por la complementariedad sin jerarquías. -->",
-          "is_correct": true
+          "text": "Debe existir un diálogo de igualdad entre los conocimientos ancestrales y los científicos modernos.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto aboga por la complementariedad sin jerarquías."
         },
         {
           "letter": "D",
-          "text": "El modelo educativo actual ya ha resuelto todas las tensiones culturales. <!-- feedback: Incorrecto. El autor señala que la tensión todavía \"persiste\". -->",
-          "is_correct": false
+          "text": "El modelo educativo actual ya ha resuelto todas las tensiones culturales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor señala que la tensión todavía \"persiste\"."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nCapacidad de sintetizar la postura argumentativa del autor frente a un debate pedagógico.\n\n---",
+      "explanation": "Capacidad de sintetizar la postura argumentativa del autor frente a un debate pedagógico.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v6",
       "statement": "En el texto, el autor usa los términos \"mito\" y \"verdad absoluta\" para:",
-      "context": "",
+      "context": "Análisis de contrastes.",
       "options": [
         {
           "letter": "A",
-          "text": "Definir científicamente qué es la religión. <!-- feedback: Incorrecto. No es una definición técnica, sino un uso retórico. -->",
-          "is_correct": false
+          "text": "Definir científicamente qué es la religión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una definición técnica, sino un uso retórico."
         },
         {
           "letter": "B",
-          "text": "Ejemplificar las visiones prejuiciosas que impiden el diálogo educativo. <!-- feedback: Correcto. Son las etiquetas que el autor rechaza para cada sistema de conocimiento. -->",
-          "is_correct": true
+          "text": "Ejemplificar las visiones prejuiciosas que impiden el diálogo educativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las etiquetas que el autor rechaza para cada sistema de conocimiento."
         },
         {
           "letter": "C",
-          "text": "Demostrar que conoce mucho sobre filosofía. <!-- feedback: Incorrecto. Los términos tienen una función argumentativa, no de ostentación de conocimiento. -->",
-          "is_correct": false
+          "text": "Demostrar que conoce mucho sobre filosofía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos tienen una función argumentativa, no de ostentación de conocimiento."
         },
         {
           "letter": "D",
-          "text": "Explicar la diferencia entre historia y ficción. <!-- feedback: Incorrecto. El contexto es la integración de conocimientos en el aula. -->",
-          "is_correct": false
+          "text": "Explicar la diferencia entre historia y ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contexto es la integración de conocimientos en el aula."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación del uso de la ironía o la ejemplificación en la construcción del argumento.\n\n---",
+      "explanation": "Interpretación del uso de la ironía o la ejemplificación en la construcción del argumento.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v7",
       "statement": "Para que el argumento del autor sobre el \"diálogo en igualdad de condiciones\" sea válido, se debe asumir que:",
-      "context": "",
+      "context": "Evaluación de presupuestos.",
       "options": [
         {
           "letter": "A",
-          "text": "La ciencia occidental es superior en tecnología. <!-- feedback: Incorrecto. El autor busca precisamente romper con esa superioridad jerárquica. -->",
-          "is_correct": false
+          "text": "La ciencia occidental es superior en tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor busca precisamente romper con esa superioridad jerárquica."
         },
         {
           "letter": "B",
-          "text": "Los saberes ancestrales poseen una validez cognitiva y práctica comparable a la ciencia moderna. <!-- feedback: Correcto. Sin este presupuesto, no puede haber diálogo en \"igualdad\". -->",
-          "is_correct": true
+          "text": "Los saberes ancestrales poseen una validez cognitiva y práctica comparable a la ciencia moderna.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin este presupuesto, no puede haber diálogo en \"igualdad\"."
         },
         {
           "letter": "C",
-          "text": "Los estudiantes bolivianos prefieren no estudiar ciencia. <!-- feedback: Incorrecto. El texto no habla de las preferencias de los estudiantes, sino del modelo curricular. -->",
-          "is_correct": false
+          "text": "Los estudiantes bolivianos prefieren no estudiar ciencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de las preferencias de los estudiantes, sino del modelo curricular."
         },
         {
           "letter": "D",
-          "text": "Todos los profesores son indígenas. <!-- feedback: Incorrecto. No es un requisito para que el diálogo de sistemas ocurra. -->",
-          "is_correct": false
+          "text": "Todos los profesores son indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un requisito para que el diálogo de sistemas ocurra."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de premisas implícitas necesarias para sostener una conclusión.\n\n---",
+      "explanation": "Identificación de premisas implícitas necesarias para sostener una conclusión.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v8",
       "statement": "La palabra \"Sin embargo\" al inicio de la segunda oración del Texto 2 cumple la función de:",
-      "context": "",
+      "context": "Relación entre ideas (concesión).",
       "options": [
         {
           "letter": "A",
-          "text": "Añadir más ejemplos de descolonización. <!-- feedback: Incorrecto. No es un conector aditivo. -->",
-          "is_correct": false
+          "text": "Añadir más ejemplos de descolonización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un conector aditivo."
         },
         {
           "letter": "B",
-          "text": "Introducir una limitación o problema frente a los avances mencionados inicialmente. <!-- feedback: Correcto. Opone los \"pasos importantes\" con la \"tensión\" que persiste. -->",
-          "is_correct": true
+          "text": "Introducir una limitación o problema frente a los avances mencionados inicialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. Opone los \"pasos importantes\" con la \"tensión\" que persiste."
         },
         {
           "letter": "C",
-          "text": "Finalizar el texto con una conclusión definitiva. <!-- feedback: Incorrecto. Es un conector de contraste, no conclusivo en este punto. -->",
-          "is_correct": false
+          "text": "Finalizar el texto con una conclusión definitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector de contraste, no conclusivo en este punto."
         },
         {
           "letter": "D",
-          "text": "Explicar las causas de la descolonización. <!-- feedback: Incorrecto. No establece una relación causal. -->",
-          "is_correct": false
+          "text": "Explicar las causas de la descolonización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece una relación causal."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de la cohesión textual a través de marcadores discursivos de oposición.\n\n---",
+      "explanation": "Análisis de la cohesión textual a través de marcadores discursivos de oposición.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v9",
       "statement": "El término \"modelo educativo sociocomunitario productivo\" sugiere que la educación en Bolivia:",
-      "context": "",
+      "context": "Comprensión de conceptos del modelo educativo.",
       "options": [
         {
           "letter": "A",
-          "text": "Solo sirve para trabajar en fábricas. <!-- feedback: Incorrecto. Ignora el componente comunitario y social. -->",
-          "is_correct": false
+          "text": "Solo sirve para trabajar en fábricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el componente comunitario y social."
         },
         {
           "letter": "B",
-          "text": "Busca integrar a la comunidad y orientarse a la producción material e intelectual propia. <!-- feedback: Correcto. El nombre refleja la integración de la sociedad y la orientación práctica y comunitaria. -->",
-          "is_correct": true
+          "text": "Busca integrar a la comunidad y orientarse a la producción material e intelectual propia.",
+          "is_correct": true,
+          "feedback": "Correcto. El nombre refleja la integración de la sociedad y la orientación práctica y comunitaria."
         },
         {
           "letter": "C",
-          "text": "Es una copia exacta del modelo de otros países vecinos. <!-- feedback: Incorrecto. El texto menciona la \"descolonización\", lo que implica originalidad. -->",
-          "is_correct": false
+          "text": "Es una copia exacta del modelo de otros países vecinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona la \"descolonización\", lo que implica originalidad."
         },
         {
           "letter": "D",
-          "text": "Se enfoca únicamente en el estudio de las redes sociales. <!-- feedback: Incorrecto. No guarda relación con el concepto expresado. -->",
-          "is_correct": false
+          "text": "Se enfoca únicamente en el estudio de las redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con el concepto expresado."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInferencia del significado de conceptos complejos basados en su morfología y contexto discursivo.\n\n---",
+      "explanation": "Inferencia del significado de conceptos complejos basados en su morfología y contexto discursivo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v10",
       "statement": "Un punto de contacto fundamental entre el Texto 1 y el Texto 2 es:",
-      "context": "",
+      "context": "Relación entre los textos 1 y 2.",
       "options": [
         {
           "letter": "A",
-          "text": "La crítica a la migración urbana. <!-- feedback: Incorrecto. Solo el Texto 1 menciona la migración. -->",
-          "is_correct": false
+          "text": "La crítica a la migración urbana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el Texto 1 menciona la migración."
         },
         {
           "letter": "B",
-          "text": "El uso de la música como herramienta científica. <!-- feedback: Incorrecto. No aparece en los textos como propuesta central. -->",
-          "is_correct": false
+          "text": "El uso de la música como herramienta científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparece en los textos como propuesta central."
         },
         {
           "letter": "C",
-          "text": "La valoración de la identidad y los conocimientos propios frente a influencias externas o globales. <!-- feedback: Correcto. Ambos resaltan lo propio (lenguas, saberes) ante desafíos (globalización, ciencia occidental). -->",
-          "is_correct": true
+          "text": "La valoración de la identidad y los conocimientos propios frente a influencias externas o globales.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos resaltan lo propio (lenguas, saberes) ante desafíos (globalización, ciencia occidental)."
         },
         {
           "letter": "D",
-          "text": "La necesidad de hablar 36 lenguas en el aula de ciencia. <!-- feedback: Incorrecto. Es una exageración que no aparece como requisito en los textos. -->",
-          "is_correct": false
+          "text": "La necesidad de hablar 36 lenguas en el aula de ciencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una exageración que no aparece como requisito en los textos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nCapacidad de identificar temas transversales en una lectura comparada.\n\n---",
+      "explanation": "Capacidad de identificar temas transversales en una lectura comparada.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v11",
       "statement": "¿Por qué el autor menciona \"la plata de Potosí\" en su argumento sobre el litio?",
-      "context": "",
+      "context": "Identificación de analogías históricas.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque el litio y la plata tienen el mismo color. <!-- feedback: Incorrecto. No es una comparación estética. -->",
-          "is_correct": false
+          "text": "Porque el litio y la plata tienen el mismo color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una comparación estética."
         },
         {
           "letter": "B",
-          "text": "Como una advertencia histórica sobre el peligro de exportar solo materia prima sin beneficio local. <!-- feedback: Correcto. Alude al pasado colonial donde la riqueza salió del país sin dejar desarrollo. -->",
-          "is_correct": true
+          "text": "Como una advertencia histórica sobre el peligro de exportar solo materia prima sin beneficio local.",
+          "is_correct": true,
+          "feedback": "Correcto. Alude al pasado colonial donde la riqueza salió del país sin dejar desarrollo."
         },
         {
           "letter": "C",
-          "text": "Para demostrar que Bolivia siempre ha sido un país rico. <!-- feedback: Incorrecto. El tono es de advertencia y desafío, no de simple orgullo. -->",
-          "is_correct": false
+          "text": "Para demostrar que Bolivia siempre ha sido un país rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es de advertencia y desafío, no de simple orgullo."
         },
         {
           "letter": "D",
-          "text": "Porque el litio se encuentra en las mismas minas que la plata. <!-- feedback: Incorrecto. Geográficamente son lugares distintos (Salar vs. Cerro Rico). -->",
-          "is_correct": false
+          "text": "Porque el litio se encuentra en las mismas minas que la plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Geográficamente son lugares distintos (Salar vs. Cerro Rico)."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación del uso de referencias históricas como argumentos analógicos en el discurso político-económico.\n\n---",
+      "explanation": "Interpretación del uso de referencias históricas como argumentos analógicos en el discurso político-económico.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v12",
       "statement": "Según el Texto 3, ¿en qué consiste la \"soberanía tecnológica\"?",
-      "context": "",
+      "context": "Evaluación del concepto de soberanía.",
       "options": [
         {
           "letter": "A",
-          "text": "En prohibir la entrada de turistas al Salar de Uyuni. <!-- feedback: Incorrecto. No tiene relación con la soberanía técnica. -->",
-          "is_correct": false
+          "text": "En prohibir la entrada de turistas al Salar de Uyuni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación con la soberanía técnica."
         },
         {
           "letter": "B",
-          "text": "En la capacidad de transformar la materia prima (litio) en productos finales (baterías) en el propio país. <!-- feedback: Correcto. Se refiere a tener el control del proceso industrial y el conocimiento. -->",
-          "is_correct": true
+          "text": "En la capacidad de transformar la materia prima (litio) en productos finales (baterías) en el propio país.",
+          "is_correct": true,
+          "feedback": "Correcto. Se refiere a tener el control del proceso industrial y el conocimiento."
         },
         {
           "letter": "C",
-          "text": "En comprar las computadoras más caras del mundo. <!-- feedback: Incorrecto. Comprar no es lo mismo que producir o tener soberanía. -->",
-          "is_correct": false
+          "text": "En comprar las computadoras más caras del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comprar no es lo mismo que producir o tener soberanía."
         },
         {
           "letter": "D",
-          "text": "En declarar que el litio es propiedad de todos los bolivianos. <!-- feedback: Incorrecto. Esto es soberanía legal/política, pero el autor enfatiza el desafío tecnológico/industrial. -->",
-          "is_correct": false
+          "text": "En declarar que el litio es propiedad de todos los bolivianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es soberanía legal/política, pero el autor enfatiza el desafío tecnológico/industrial."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis y conceptualización de términos clave en un contexto de desarrollo nacional.\n\n---",
+      "explanation": "Análisis y conceptualización de términos clave en un contexto de desarrollo nacional.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v13",
       "statement": "¿Cuál es el principal riesgo que el autor identifica para el futuro económico de Bolivia?",
-      "context": "",
+      "context": "Identificación de contradicciones o riesgos.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el litio se agote rápidamente. <!-- feedback: Incorrecto. El autor habla de \"mayor reserva\", sugiriendo abundancia. -->",
-          "is_correct": false
+          "text": "Que el litio se agote rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor habla de \"mayor reserva\", sugiriendo abundancia."
         },
         {
           "letter": "B",
-          "text": "Que el turismo destruya el Salar de Uyuni. <!-- feedback: Incorrecto. Aunque es un riesgo real, no es el punto central del argumento económico del autor. -->",
-          "is_correct": false
+          "text": "Que el turismo destruya el Salar de Uyuni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es un riesgo real, no es el punto central del argumento económico del autor."
         },
         {
           "letter": "C",
-          "text": "Repetir el modelo extractivista de exportación de materias primas sin valor agregado. <!-- feedback: Correcto. Es el núcleo de su preocupación comparada con Potosí. -->",
-          "is_correct": true
+          "text": "Repetir el modelo extractivista de exportación de materias primas sin valor agregado.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el núcleo de su preocupación comparada con Potosí."
         },
         {
           "letter": "D",
-          "text": "Que nadie quiera comprar baterías en el futuro. <!-- feedback: Incorrecto. El texto menciona la \"oportunidad histórica\" de la era tecnológica. -->",
-          "is_correct": false
+          "text": "Que nadie quiera comprar baterías en el futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona la \"oportunidad histórica\" de la era tecnológica."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nIdentificación de problemáticas estructurales planteadas en un texto argumentativo de opinión.\n\n---",
+      "explanation": "Identificación de problemáticas estructurales planteadas en un texto argumentativo de opinión.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v14",
       "statement": "¿Cuál de los siguientes hechos, si fuera cierto, debilitaría más el argumento del autor?",
-      "context": "",
+      "context": "Evaluación de la solidez argumentativa.",
       "options": [
         {
           "letter": "A",
-          "text": "Bolivia no cuenta actualmente con la infraestructura ni el personal técnico para fabricar baterías de alta tecnología. <!-- feedback: Correcto. Si el país no puede fabricarlas, el deseo de soberanía tecnológica choca con una imposibilidad física inmediata. -->",
-          "is_correct": true
+          "text": "Bolivia no cuenta actualmente con la infraestructura ni el personal técnico para fabricar baterías de alta tecnología.",
+          "is_correct": true,
+          "feedback": "Correcto. Si el país no puede fabricarlas, el deseo de soberanía tecnológica choca con una imposibilidad física inmediata."
         },
         {
           "letter": "B",
-          "text": "El precio de la plata en el mercado internacional está subiendo. <!-- feedback: Incorrecto. No afecta la lógica del procesamiento del litio. -->",
-          "is_correct": false
+          "text": "El precio de la plata en el mercado internacional está subiendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No afecta la lógica del procesamiento del litio."
         },
         {
           "letter": "C",
-          "text": "Muchos turistas prefieren visitar el Salar en época de lluvias. <!-- feedback: Incorrecto. Irrelevante para el debate industrial. -->",
-          "is_correct": false
+          "text": "Muchos turistas prefieren visitar el Salar en época de lluvias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Irrelevante para el debate industrial."
         },
         {
           "letter": "D",
-          "text": "El litio boliviano es de muy alta pureza. <!-- feedback: Incorrecto. Esto más bien reforzaría la oportunidad mencionada por el autor. -->",
-          "is_correct": false
+          "text": "El litio boliviano es de muy alta pureza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto más bien reforzaría la oportunidad mencionada por el autor."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nCapacidad de evaluar la vulnerabilidad de un argumento frente a evidencias externas o condiciones de realidad.\n\n---",
+      "explanation": "Capacidad de evaluar la vulnerabilidad de un argumento frente a evidencias externas o condiciones de realidad.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v15",
       "statement": "En la frase \"¿podremos procesar el litio en casa... o seguiremos el camino de la plata de Potosí?\", el uso de la pregunta retórica busca:",
-      "context": "",
+      "context": "Identificación de marcas textuales.",
       "options": [
         {
           "letter": "A",
-          "text": "Admitir que el autor no sabe nada del tema. <!-- feedback: Incorrecto. Es un recurso persuasivo, no una confesión de ignorancia. -->",
-          "is_correct": false
+          "text": "Admitir que el autor no sabe nada del tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso persuasivo, no una confesión de ignorancia."
         },
         {
           "letter": "B",
-          "text": "Que el lector busque la respuesta en un libro de historia. <!-- feedback: Incorrecto. La respuesta está sugerida por el tono del texto. -->",
-          "is_correct": false
+          "text": "Que el lector busque la respuesta en un libro de historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta está sugerida por el tono del texto."
         },
         {
           "letter": "C",
-          "text": "Provocar una reflexión crítica en el lector sobre las opciones de desarrollo del país. <!-- feedback: Correcto. Invita a considerar dos futuros posibles y contrastados. -->",
-          "is_correct": true
+          "text": "Provocar una reflexión crítica en el lector sobre las opciones de desarrollo del país.",
+          "is_correct": true,
+          "feedback": "Correcto. Invita a considerar dos futuros posibles y contrastados."
         },
         {
           "letter": "D",
-          "text": "Solicitar permiso al gobierno para investigar el litio. <!-- feedback: Incorrecto. No es una solicitud formal, es un recurso literario/periodístico. -->",
-          "is_correct": false
+          "text": "Solicitar permiso al gobierno para investigar el litio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una solicitud formal, es un recurso literario/periodístico."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nReconocimiento y análisis de recursos retóricos orientados a la persuasión y la interpelación del lector.\n\n---",
+      "explanation": "Reconocimiento y análisis de recursos retóricos orientados a la persuasión y la interpelación del lector.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v16",
       "statement": "Si el autor terminara el texto diciendo \"Por lo tanto, debemos regalar todas nuestras minas a empresas extranjeras para no tener problemas\", esto sería:",
-      "context": "",
+      "context": "Coherencia y adecuación.",
       "options": [
         {
           "letter": "A",
-          "text": "Una conclusión lógica derivada de su preocupación por Potosí. <!-- feedback: Incorrecto. Sería exactamente lo contrario a su tesis de soberanía. -->",
-          "is_correct": false
+          "text": "Una conclusión lógica derivada de su preocupación por Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería exactamente lo contrario a su tesis de soberanía."
         },
         {
           "letter": "B",
-          "text": "Una contradicción flagrante con el concepto de soberanía tecnológica defendido previamente. <!-- feedback: Correcto. Rompería la coherencia del argumento que busca \"procesar en casa\". -->",
-          "is_correct": true
+          "text": "Una contradicción flagrante con el concepto de soberanía tecnológica defendido previamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Rompería la coherencia del argumento que busca \"procesar en casa\"."
         },
         {
           "letter": "C",
-          "text": "Una excelente estrategia para salir del extractivismo. <!-- feedback: Incorrecto. Regalar minas suele profundizar el extractivismo y la dependencia. -->",
-          "is_correct": false
+          "text": "Una excelente estrategia para salir del extractivismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regalar minas suele profundizar el extractivismo y la dependencia."
         },
         {
           "letter": "D",
-          "text": "Un ejemplo de diálogo de saberes. <!-- feedback: Incorrecto. No tiene relación con el concepto del Texto 2. -->",
-          "is_correct": false
+          "text": "Un ejemplo de diálogo de saberes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación con el concepto del Texto 2."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de la consistencia lógica y la unidad de pensamiento en el desarrollo de un texto.\n\n---",
+      "explanation": "Evaluación de la consistencia lógica y la unidad de pensamiento en el desarrollo de un texto.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v17",
       "statement": "¿Qué significa la metáfora final del \"mendigo sentado en un trono de oro\" aplicada a Bolivia?",
-      "context": "",
+      "context": "Análisis de metáforas complejas.",
       "options": [
         {
           "letter": "A",
-          "text": "Que la gente en Bolivia prefiere vivir en la pobreza. <!-- feedback: Incorrecto. Ignora el componente del \"trono de oro\". -->",
-          "is_correct": false
+          "text": "Que la gente en Bolivia prefiere vivir en la pobreza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el componente del \"trono de oro\"."
         },
         {
           "letter": "B",
-          "text": "Que Bolivia tiene mucho oro pero nadie sabe dónde encontrarlo. <!-- feedback: Incorrecto. El oro es simbólico de los recursos naturales ya conocidos. -->",
-          "is_correct": false
+          "text": "Que Bolivia tiene mucho oro pero nadie sabe dónde encontrarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oro es simbólico de los recursos naturales ya conocidos."
         },
         {
           "letter": "C",
-          "text": "Que el país posee inmensos recursos naturales (oro) pero su población no se beneficia de ellos por falta de desarrollo y educación (mendigo). <!-- feedback: Correcto. Ilustra la contradicción entre riqueza potencial y pobreza real. -->",
-          "is_correct": true
+          "text": "Que el país posee inmensos recursos naturales (oro) pero su población no se beneficia de ellos por falta de desarrollo y educación (mendigo).",
+          "is_correct": true,
+          "feedback": "Correcto. Ilustra la contradicción entre riqueza potencial y pobreza real."
         },
         {
           "letter": "D",
-          "text": "Que los mendigos en Bolivia son tratados como reyes. <!-- feedback: Incorrecto. Interpretación literal absurda. -->",
-          "is_correct": false
+          "text": "Que los mendigos en Bolivia son tratados como reyes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretación literal absurda."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nInterpretación de imágenes literarias de alta carga política y social en el análisis de la realidad nacional.\n\n---",
+      "explanation": "Interpretación de imágenes literarias de alta carga política y social en el análisis de la realidad nacional.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v18",
       "statement": "¿Cuál es la crítica principal que el Texto 4 hace al concepto actual de \"plurinacionalidad\"?",
-      "context": "",
+      "context": "Evaluación de prioridades nacionales.",
       "options": [
         {
           "letter": "A",
-          "text": "Que hay demasiadas naciones representadas. <!-- feedback: Incorrecto. No critica la cantidad sino la profundidad del concepto. -->",
-          "is_correct": false
+          "text": "Que hay demasiadas naciones representadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No critica la cantidad sino la profundidad del concepto."
         },
         {
           "letter": "B",
-          "text": "Que puede convertirse en una etiqueta vacía si no se acompaña de desarrollo real y oportunidades profesionales. <!-- feedback: Correcto. El autor advierte sobre el riesgo de que sea solo un \"eslogan\" sin contenido práctico. -->",
-          "is_correct": true
+          "text": "Que puede convertirse en una etiqueta vacía si no se acompaña de desarrollo real y oportunidades profesionales.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor advierte sobre el riesgo de que sea solo un \"eslogan\" sin contenido práctico."
         },
         {
           "letter": "C",
-          "text": "Que excluye a los jóvenes que no hablan lenguas originarias. <!-- feedback: Incorrecto. El autor habla de jóvenes profesionales en general y la falta de laboratorios. -->",
-          "is_correct": false
+          "text": "Que excluye a los jóvenes que no hablan lenguas originarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor habla de jóvenes profesionales en general y la falta de laboratorios."
         },
         {
           "letter": "D",
-          "text": "Que gasta demasiado dinero en festivales culturales. <!-- feedback: Incorrecto. El texto no menciona gastos en festivales. -->",
-          "is_correct": false
+          "text": "Que gasta demasiado dinero en festivales culturales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona gastos en festivales."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis crítico de discursos institucionales y su implementación en la realidad social.\n\n---",
+      "explanation": "Análisis crítico de discursos institucionales y su implementación en la realidad social.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v19",
       "statement": "Si integramos las tesis de los Textos 2, 3 y 4, ¿cuál sería la estrategia de desarrollo más completa para Bolivia?",
-      "context": "",
+      "context": "Síntesis integradora.",
       "options": [
         {
           "letter": "A",
-          "text": "Enfocarse únicamente en la exportación de litio para comprar tecnología. <!-- feedback: Incorrecto. Ignora la advertencia de Potosí (T3) y el valor de la gente (T4). -->",
-          "is_correct": false
+          "text": "Enfocarse únicamente en la exportación de litio para comprar tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora la advertencia de Potosí (T3) y el valor de la gente (T4)."
         },
         {
           "letter": "B",
-          "text": "Prohibir el uso del castellano para salvar las lenguas originarias. <!-- feedback: Incorrecto. No soluciona el problema de los laboratorios o la tecnología. -->",
-          "is_correct": false
+          "text": "Prohibir el uso del castellano para salvar las lenguas originarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No soluciona el problema de los laboratorios o la tecnología."
         },
         {
           "letter": "C",
-          "text": "Fomentar una educación descolonizada que integre saberes propios con ciencia de vanguardia, para que los profesionales bolivianos lideren la industrialización soberana de sus recursos. <!-- feedback: Correcto. Une la educación dialógica (T2), la industrialización del litio (T3) y la inversión en el capital humano (T4). -->",
-          "is_correct": true
+          "text": "Fomentar una educación descolonizada que integre saberes propios con ciencia de vanguardia, para que los profesionales bolivianos lideren la industrialización soberana de sus recursos.",
+          "is_correct": true,
+          "feedback": "Correcto. Une la educación dialógica (T2), la industrialización del litio (T3) y la inversión en el capital humano (T4)."
         },
         {
           "letter": "D",
-          "text": "Cerrar las fronteras para que ningún profesional pueda emigrar. <!-- feedback: Incorrecto. Medida autoritaria que no ataca la causa raíz del problema. -->",
-          "is_correct": false
+          "text": "Cerrar las fronteras para que ningún profesional pueda emigrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medida autoritaria que no ataca la causa raíz del problema."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nCapacidad de construir una síntesis propositiva compleja a partir de múltiples perspectivas textuales.\n\n---",
+      "explanation": "Capacidad de construir una síntesis propositiva compleja a partir de múltiples perspectivas textuales.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,31 +770,35 @@
     {
       "id": "BO-LEN-11-P1-lectura-critica-001-v20",
       "statement": "¿Cuál es el recurso más potente que utiliza el Texto 4 para movilizar la opinión del lector?",
-      "context": "",
+      "context": "Evaluación de la efectividad discursiva.",
       "options": [
         {
           "letter": "A",
-          "text": "El uso de una lista detallada de todos los laboratorios que faltan. <!-- feedback: Incorrecto. No hay tal lista en el texto. -->",
-          "is_correct": false
+          "text": "El uso de una lista detallada de todos los laboratorios que faltan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tal lista en el texto."
         },
         {
           "letter": "B",
-          "text": "El uso de contrastes fuertes (\"eslogan\" vs \"realidad\", \"mendigo\" vs \"trono de oro\") que apelan a la dignidad nacional. <!-- feedback: Correcto. Las imágenes fuertes y los contrastes son herramientas retóricas eficaces para la crítica social. -->",
-          "is_correct": true
+          "text": "El uso de contrastes fuertes (\"eslogan\" vs \"realidad\", \"mendigo\" vs \"trono de oro\") que apelan a la dignidad nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Las imágenes fuertes y los contrastes son herramientas retóricas eficaces para la crítica social."
         },
         {
           "letter": "C",
-          "text": "La mención de leyes internacionales sobre el litio. <!-- feedback: Incorrecto. El texto no menciona leyes internacionales. -->",
-          "is_correct": false
+          "text": "La mención de leyes internacionales sobre el litio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona leyes internacionales."
         },
         {
           "letter": "D",
-          "text": "Un tono neutral y científico que evita las emociones. <!-- feedback: Incorrecto. El tono es apasionado y crítico, no neutral. -->",
-          "is_correct": false
+          "text": "Un tono neutral y científico que evita las emociones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es apasionado y crítico, no neutral."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de la retórica y la eficacia comunicativa en textos de opinión y ensayo social.",
+      "explanation": "Análisis de la retórica y la eficacia comunicativa en textos de opinión y ensayo social.",
       "difficulty": "10",
       "images": [],
       "tags": [],

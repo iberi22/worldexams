@@ -15,26 +15,30 @@
         {
           "letter": "A",
           "text": "1/2",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "1/4",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "50/1",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "1/5",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEl 50% significa 50 de cada 100, que es igual a la mitad (1/2).\n\n---",
+      "explanation": "El 50% significa 50 de cada 100, que es igual a la mitad (1/2).\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -51,26 +55,30 @@
         {
           "letter": "A",
           "text": "$60 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$45 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$90 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$32 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEs una relación de proporcionalidad directa: al doble de cantidad, el doble de precio. 30 x 2 = 60.\n\n---",
+      "explanation": "Es una relación de proporcionalidad directa: al doble de cantidad, el doble de precio. 30 x 2 = 60.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -87,26 +95,30 @@
         {
           "letter": "A",
           "text": "$20 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$10 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$2 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$40 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPara calcular el 10%, dividimos la cantidad entre 10: 200 / 10 = 20.\n\n---",
+      "explanation": "Para calcular el 10%, dividimos la cantidad entre 10: 200 / 10 = 20.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -123,26 +135,30 @@
         {
           "letter": "A",
           "text": "6 tazas",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "5 tazas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "4 tazas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "3 tazas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nMantenemos la razón 2:1. Entonces multiplicamos 2 x 3 = 6 tazas de agua.\n\n---",
+      "explanation": "Mantenemos la razón 2:1. Entonces multiplicamos 2 x 3 = 6 tazas de agua.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -159,26 +175,30 @@
         {
           "letter": "A",
           "text": "450 km",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "360 km",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "400 km",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "900 km",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPrimero calculamos la velocidad unitaria: 180 / 2 = 90 km por hora. Luego multiplicamos por el tiempo deseado: 90 x 5 = 450 km.\n\n---",
+      "explanation": "Primero calculamos la velocidad unitaria: 180 / 2 = 90 km por hora. Luego multiplicamos por el tiempo deseado: 90 x 5 = 450 km.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -195,26 +215,30 @@
         {
           "letter": "A",
           "text": "$100 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$200 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$50 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$400 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nMultiplicamos el precio por el porcentaje decimal: 500 x 0.20 = 100. El descuento es de $100 pesos.\n\n---",
+      "explanation": "Multiplicamos el precio por el porcentaje decimal: 500 x 0.20 = 100. El descuento es de $100 pesos.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -231,26 +255,30 @@
         {
           "letter": "A",
           "text": "7 libretas",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "6 libretas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "8 libretas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "9 libretas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\n**Paso 1:** Calcular el precio de una libreta: 45 / 3 = $15.\n**Paso 2:** Dividir el dinero total entre el precio unitario: 105 / 15 = 7.\n\n---",
+      "explanation": "**Paso 1:** Calcular el precio de una libreta: 45 / 3 = $15.\n**Paso 2:** Dividir el dinero total entre el precio unitario: 105 / 15 = 7.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -267,26 +295,30 @@
         {
           "letter": "A",
           "text": "Aproximadamente 86.2%",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "84%",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "100%",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "16%",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEl precio con IVA representa el 116% (100% base + 16% IVA). Por lo tanto, el precio sin IVA es (100 / 116) * 100 ≈ 86.2%.\n\n---",
+      "explanation": "El precio con IVA representa el 116% (100% base + 16% IVA). Por lo tanto, el precio sin IVA es (100 / 116) * 100 ≈ 86.2%.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -303,26 +335,30 @@
         {
           "letter": "A",
           "text": "9 horas",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "16 horas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "8 horas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "10 horas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEs una proporcionalidad inversa. Calculamos el esfuerzo total en horas-hombre: 3 pintores x 12 horas = 36 horas. Dividimos entre el nuevo número de pintores: 36 / 4 = 9 horas.\n\n---",
+      "explanation": "Es una proporcionalidad inversa. Calculamos el esfuerzo total en horas-hombre: 3 pintores x 12 horas = 36 horas. Dividimos entre el nuevo número de pintores: 36 / 4 = 9 horas.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -339,26 +375,30 @@
         {
           "letter": "A",
           "text": "$7,888 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$8,000 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$6,800 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$7,920 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPrimero aplicamos el descuento: 8000 x 0.85 = 6800. Luego aplicamos el IVA sobre esa cantidad: 6800 x 1.16 = 7888.",
+      "explanation": "Primero aplicamos el descuento: 8000 x 0.85 = 6800. Luego aplicamos el IVA sobre esa cantidad: 6800 x 1.16 = 7888.",
       "difficulty": "5",
       "images": [],
       "tags": [],

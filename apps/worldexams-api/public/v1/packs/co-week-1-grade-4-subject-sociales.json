@@ -1,0 +1,1611 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-4-subject-sociales",
+    "generated_at": "2026-06-16T00:17:32.559Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v1",
+      "statement": "Antes de la llegada de los españoles, el territorio colombiano estaba habitado por diversos grupos indígenas. ¿Cuál de estas culturas fue famosa por sus espectaculares trabajos en orfebrería (oro) y habitaba en el actual departamento del Quindío?",
+      "context": "Visita al Museo del Oro en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cultura Muisca",
+          "is_correct": false,
+          "feedback": "Incorrect. Los Muiscas habitaban principalmente en el Altiplano Cundiboyacense (Bogotá y Boyacá), no en el Quindío."
+        },
+        {
+          "letter": "B",
+          "text": "Cultura Quimbaya",
+          "is_correct": true,
+          "feedback": "Correct. La cultura Quimbaya habitaba el valle medio del río Cauca (Eje Cafetero) y es reconocida mundialmente por la perfección y belleza de sus piezas de oro, como el famoso Poporo Quimbaya."
+        },
+        {
+          "letter": "C",
+          "text": "Cultura Tayrona",
+          "is_correct": false,
+          "feedback": "Incorrect. Los Tayronas habitaban en la Sierra Nevada de Santa Marta, en la costa Caribe de Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Cultura San Agustín",
+          "is_correct": false,
+          "feedback": "Incorrect. San Agustín es famosa por su estatuaria en piedra en el departamento del Huila, no principalmente por la orfebrería del Quindío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la localización geográfica y los rasgos culturales distintivos de los grupos prehispánicos de Colombia. La respuesta correcta asocia la orfebrería fina con los Quimbayas. Los errores comunes surgen de confundir las zonas de asentamiento de las diferentes culturas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v2",
+      "statement": "Los Muiscas realizaban rituales en lagunas sagradas donde el nuevo cacique se cubría de polvo de oro y arrojaba tesoros al agua. ¿Cuál es el nombre de la laguna más famosa donde se realizaba este ritual?",
+      "context": "La leyenda de El Dorado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laguna de la Cocha",
+          "is_correct": false,
+          "feedback": "Incorrect. La Cocha se encuentra en el departamento de Nariño y no fue el centro del ritual de El Dorado de los Muiscas."
+        },
+        {
+          "letter": "B",
+          "text": "Laguna de Guatavita",
+          "is_correct": true,
+          "feedback": "Correct. Ubicada en Cundinamarca, la laguna de Guatavita es el escenario principal de la leyenda de El Dorado y el lugar sagrado de los rituales de investidura muisca."
+        },
+        {
+          "letter": "C",
+          "text": "Laguna de Tota",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque es la laguna más grande de Colombia y está en territorio Boyacense, el ritual específico de El Dorado se asocia históricamente con Guatavita."
+        },
+        {
+          "letter": "D",
+          "text": "Represa de Prado",
+          "is_correct": false,
+          "feedback": "Incorrect. Esta es una construcción moderna para generar energía; no existía en la época precolombina ni tiene carácter sagrado indígena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento sobre la mitología y los lugares sagrados de las culturas prehispánicas. La respuesta correcta identifica Guatavita. Un error frecuente es confundir las diferentes lagunas importantes del país.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v3",
+      "statement": "En muchas comunidades indígenas precolombinas, la máxima autoridad política y religiosa era una sola persona encargada de guiar al pueblo. ¿Cómo se le llamaba comúnmente a este líder?",
+      "context": "Organización social indígena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presidente",
+          "is_correct": false,
+          "feedback": "Incorrect. Este es un término moderno para los líderes de las repúblicas actuales, no existía en las comunidades indígenas antiguas."
+        },
+        {
+          "letter": "B",
+          "text": "Gobernador",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque es un término de mando, en el contexto indígena se usa una palabra específica de su propia organización."
+        },
+        {
+          "letter": "C",
+          "text": "Cacique",
+          "is_correct": true,
+          "feedback": "Correct. El cacique era el jefe o líder político y administrativo de las comunidades indígenas, encargado de organizar el trabajo y la defensa."
+        },
+        {
+          "letter": "D",
+          "text": "Alcalde",
+          "is_correct": false,
+          "feedback": "Incorrect. El cargo de alcalde es de origen español y se refiere a la administración municipal moderna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la terminología sobre la organización social y política precolombina. La respuesta correcta identifica al cacique como figura de mando. Los errores suelen ser anacronismos (usar términos actuales para el pasado).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v4",
+      "statement": "Antes de que los españoles trajeran alimentos como el trigo o el arroz, la dieta de los indígenas colombianos se basaba en cultivos locales. ¿Cuál era el alimento principal y más sagrado para la mayoría de estas culturas?",
+      "context": "La agricultura prehispánica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espagueti",
+          "is_correct": false,
+          "feedback": "Incorrect. La pasta es un alimento de origen europeo (italiano) que llegó mucho después de la conquista."
+        },
+        {
+          "letter": "B",
+          "text": "El maíz",
+          "is_correct": true,
+          "feedback": "Correct. El maíz era la base de la alimentación, se cultivaba en casi todo el territorio y tenía un valor espiritual muy alto para los pueblos indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "La uva",
+          "is_correct": false,
+          "feedback": "Incorrect. Las uvas no son nativas de las tierras bajas o andinas de Colombia; se cultivan en climas estacionales diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "La carne de vaca",
+          "is_correct": false,
+          "feedback": "Incorrect. Las vacas fueron traídas por los españoles; los indígenas consumían carne de animales de monte como el venado o el chigüiro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento sobre la base alimenticia y económica de los pueblos originarios. La respuesta correcta señala al maíz. El error típico es incluir alimentos que fueron introducidos por los europeos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v5",
+      "statement": "Los Tayronas construyeron impresionantes ciudades de piedra en la selva, con canales de agua y terrazas de cultivo para evitar que la lluvia dañara sus casas. ¿Cómo se llama hoy el sitio arqueológico más famoso de esta cultura?",
+      "context": "Ingeniería Tayrona en la Sierra Nevada de Santa Marta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parque Jaime Duque",
+          "is_correct": false,
+          "feedback": "Incorrect. Este es un parque de diversiones y museo moderno ubicado en las cercanías de Bogotá."
+        },
+        {
+          "letter": "B",
+          "text": "Ciudad Perdida (Teyuna)",
+          "is_correct": true,
+          "feedback": "Correct. Ciudad Perdida es el vestigio arqueológico más importante de los Tayronas, mostrando su gran avance en ingeniería y arquitectura en la Sierra Nevada."
+        },
+        {
+          "letter": "C",
+          "text": "Castillo de San Felipe",
+          "is_correct": false,
+          "feedback": "Incorrect. Esta es una construcción militar española de la época de la Colonia ubicada en Cartagena, no es de origen indígena."
+        },
+        {
+          "letter": "D",
+          "text": "Puente de Boyacá",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un monumento nacional relacionado con la independencia de Colombia, miles de años después de la época precolombina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la identificación de logros arquitectónicos e ingenieriles de las culturas indígenas. La respuesta correcta reconoce a Ciudad Perdida. Los errores comunes provienen de confundir monumentos coloniales o modernos con vestigios prehispánicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v6",
+      "statement": "Los pueblos precolombinos eran **politeístas**. Esto significa que sus creencias se basaban en:",
+      "context": "Creencias religiosas indígenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adorar a un solo Dios único y castigador.",
+          "is_correct": false,
+          "feedback": "Incorrect. Adorar a un solo dios se llama monoteísmo, característica de religiones como la católica que llegó después."
+        },
+        {
+          "letter": "B",
+          "text": "Adorar a muchos dioses, generalmente relacionados con la naturaleza (Sol, Luna, Agua).",
+          "is_correct": true,
+          "feedback": "Correct. El politeísmo indígena consistía en la veneración de múltiples divinidades que representaban fuerzas de la naturaleza esenciales para la vida."
+        },
+        {
+          "letter": "C",
+          "text": "No creer en ningún dios ni tener rituales religiosos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Todas las culturas indígenas tenían un profundo sistema de creencias y ceremonias religiosas muy organizadas."
+        },
+        {
+          "letter": "D",
+          "text": "Adorar únicamente a los animales que vivían en las casas.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque algunos animales eran sagrados (como el jaguar o la serpiente), sus dioses eran figuras más complejas relacionadas con el universo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el concepto de politeísmo en el contexto de las culturas antiguas. La respuesta correcta explica la multiplicidad de dioses naturales. Los estudiantes suelen proyectar sus propias creencias monoteístas actuales sobre el pasado indígena.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v7",
+      "statement": "A pesar de las distancias, los grupos indígenas intercambiaban productos que no tenían en su región. Por ejemplo, los Muiscas de la montaña cambiaban sal y mantas de algodón por pescado y conchas marinas con los pueblos de la costa. ¿Cómo se llama este sistema de comercio?",
+      "context": "Comercio entre diferentes grupos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Venta por internet",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un anacronismo total; no existía la tecnología ni la red eléctrica para este tipo de comercio."
+        },
+        {
+          "letter": "B",
+          "text": "Pago con tarjeta de crédito",
+          "is_correct": false,
+          "feedback": "Incorrect. Los indígenas no utilizaban dinero plástico ni sistemas bancarios; su economía era diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Trueque",
+          "is_correct": true,
+          "feedback": "Correct. El trueque es el intercambio directo de un producto por otro sin utilizar dinero, sistema básico de la economía prehispánica."
+        },
+        {
+          "letter": "D",
+          "text": "Exportación por avión",
+          "is_correct": false,
+          "feedback": "Incorrect. No existían las máquinas voladoras; el transporte se hacía a pie por caminos indígenas o por ríos en canoas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento sobre los sistemas económicos antiguos. La respuesta correcta identifica el trueque. Los errores reflejan dificultad para imaginar una economía sin moneda metálica o digital.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v8",
+      "statement": "Hoy en día, en Colombia todavía viven más de 80 grupos indígenas diferentes. ¿Cuál es el principal legado o herencia que nos han dejado estos pueblos y que debemos respetar?",
+      "context": "El legado de los grupos indígenas hoy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de uniformes escolares modernos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Los uniformes son una tradición educativa de origen europeo, no indígena."
+        },
+        {
+          "letter": "B",
+          "text": "La tecnología para fabricar teléfonos celulares.",
+          "is_correct": false,
+          "feedback": "Incorrect. La tecnología digital no es parte del legado ancestral indígena colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "El respeto por la madre tierra y el conocimiento de las plantas medicinales.",
+          "is_correct": true,
+          "feedback": "Correct. La visión de la naturaleza como un ser vivo sagrado y el uso de la medicina natural son de las herencias más valiosas de nuestros ancestros."
+        },
+        {
+          "letter": "D",
+          "text": "El idioma español que hablamos todos los días.",
+          "is_correct": false,
+          "feedback": "Incorrect. El español fue traído por los conquistadores; los indígenas tenían (y tienen) sus propias lenguas como el Wayuunaiki o el Chibcha."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el reconocimiento del legado cultural y ambiental indígena en la sociedad contemporánea. La respuesta correcta destaca los valores y saberes tradicionales. Los errores suelen confundir la cultura impuesta durante la conquista con la cultura originaria.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v9",
+      "statement": "La cultura Zenú, en las llanuras de los actuales departamentos de Córdoba y Sucre, fue famosa por crear un sistema de canales de riego que cubría miles de hectáreas. ¿Cuál era el objetivo principal de estos canales?",
+      "context": "Los Zenúes y el manejo del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear pistas para carreras de canoas rápidas.",
+          "is_correct": false,
+          "feedback": "Incorrect. El propósito de sus grandes obras era la supervivencia y la agricultura, no la recreación deportiva."
+        },
+        {
+          "letter": "B",
+          "text": "Traer agua del mar para salar la tierra.",
+          "is_correct": false,
+          "feedback": "Incorrect. El agua salada daña los cultivos; los canales manejaban el agua dulce de los ríos y las lluvias."
+        },
+        {
+          "letter": "C",
+          "text": "Controlar las inundaciones y permitir la agricultura en zonas húmedas.",
+          "is_correct": true,
+          "feedback": "Correct. El sistema de canales permitía drenar el exceso de agua durante las lluvias y mantener la tierra fértil para el cultivo de alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Construir una muralla para que los peces no se escaparan.",
+          "is_correct": false,
+          "feedback": "Incorrect. No eran muros de contención de peces, sino un sistema complejo de manejo hidráulico para el suelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento sobre la adaptación al medio ambiente de culturas específicas. La respuesta correcta explica la ingeniería Zenú. El error común es no comprender cómo la modificación del terreno servía para la agricultura.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v10",
+      "statement": "Cuando los grupos indígenas aprendieron a cultivar la tierra (agricultura), dejaron de viajar de un lugar a otro buscando comida y empezaron a construir casas permanentes. Este cambio de estilo de vida se llama:",
+      "context": "Diferencias entre nómadas y sedentarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turismo",
+          "is_correct": false,
+          "feedback": "Incorrect. El turismo es viajar por placer, lo opuesto a establecerse en un sitio fijo de forma permanente por necesidad."
+        },
+        {
+          "letter": "B",
+          "text": "Nomadismo",
+          "is_correct": false,
+          "feedback": "Incorrect. El nomadismo es precisamente el estilo de vida de viajar constantemente buscando alimento; es lo que hacían ANTES de la agricultura."
+        },
+        {
+          "letter": "C",
+          "text": "Sedentarismo",
+          "is_correct": true,
+          "feedback": "Correct. El sedentarismo es la capacidad de una comunidad de establecerse en un lugar fijo gracias a que puede producir su propio alimento en un solo sitio."
+        },
+        {
+          "letter": "D",
+          "text": "Excursionismo",
+          "is_correct": false,
+          "feedback": "Incorrect. Al igual que el turismo, es una actividad temporal de viaje, no un estilo de vida de vivienda permanente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de los procesos de evolución social en la historia antigua. La respuesta correcta identifica el sedentarismo como consecuencia de la agricultura. Los errores reflejan confusión entre los términos técnicos que describen la movilidad humana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v1",
+      "statement": "Colombia está dividida territorialmente en:",
+      "context": "En la clase de sociales de la Escuela \"Anexa\" de Tunja, la profesora pregunta sobre la organización de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provincias",
+          "is_correct": false,
+          "feedback": "No. Colombia no se divide en provincias como otros países."
+        },
+        {
+          "letter": "B",
+          "text": "Departamentos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Colombia se divide en 32 departamentos."
+        },
+        {
+          "letter": "C",
+          "text": "Estados",
+          "is_correct": false,
+          "feedback": "No. Colombia no es una federación de estados como Estados Unidos."
+        },
+        {
+          "letter": "D",
+          "text": "Cantones",
+          "is_correct": false,
+          "feedback": "No. Los cantones son divisiones de otros países como Ecuador o Suiza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia está organizada en 32 departamentos y un Distrito Capital (Bogotá). Cada departamento tiene su propio gobierno y capital.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v2",
+      "statement": "La capital de Colombia se llama:",
+      "context": "Los estudiantes del colegio \"La Enseñanza\" de Bogotá aprenden las capitales de los departamentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medellín",
+          "is_correct": false,
+          "feedback": "No. Medellín es la capital de Antioquia."
+        },
+        {
+          "letter": "B",
+          "text": "Cali",
+          "is_correct": false,
+          "feedback": "No. Cali es la capital del Valle del Cauca."
+        },
+        {
+          "letter": "C",
+          "text": "Bogotá",
+          "is_correct": true,
+          "feedback": "¡Correcto! Bogotá es la capital de Colombia y del departamento de Cundinamarca."
+        },
+        {
+          "letter": "D",
+          "text": "Barranquilla",
+          "is_correct": false,
+          "feedback": "No. Barranquilla es la capital del Atlántico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bogotá es la capital de Colombia. Formalmente se llama Bogotá, Distrito Capital. También es la capital del departamento de Cundinamarca.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v3",
+      "statement": "¿Cuál es la capital del departamento de **Antioquia**?",
+      "context": "En el salón de clase de la escuela \"Pedro Vives\" de Santa Marta, están aprendiendo la relación entre departamentos y capitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá",
+          "is_correct": false,
+          "feedback": "No. Bogotá es la capital de Cundinamarca."
+        },
+        {
+          "letter": "B",
+          "text": "Medellín",
+          "is_correct": true,
+          "feedback": "¡Correcto! Medellín es la capital del departamento de Antioquia."
+        },
+        {
+          "letter": "C",
+          "text": "Cali",
+          "is_correct": false,
+          "feedback": "No. Cali es la capital del Valle del Cauca."
+        },
+        {
+          "letter": "D",
+          "text": "Bucaramanga",
+          "is_correct": false,
+          "feedback": "No. Bucaramanga es la capital de Santander."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Medellín es la capital del departamento de Antioquia. Es la segunda ciudad más grande de Colombia y un importante centro industrial y cultural.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v4",
+      "statement": "**Cartagena** es la capital del departamento de:",
+      "context": "Los estudiantes de la escuela \"Simón Bolívar\" de Cartagena ubican ciudades en el mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magdalena",
+          "is_correct": false,
+          "feedback": "No. Santa Marta es la capital del Magdalena."
+        },
+        {
+          "letter": "B",
+          "text": "Sucre",
+          "is_correct": false,
+          "feedback": "No. Sincelejo es la capital de Sucre."
+        },
+        {
+          "letter": "C",
+          "text": "Bolívar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cartagena es la capital del departamento de Bolívar."
+        },
+        {
+          "letter": "D",
+          "text": "Atlántico",
+          "is_correct": false,
+          "feedback": "No. Barranquilla es la capital del Atlántico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cartagena de Indias, fundada en 1533, es la capital del departamento de Bolívar. Es un importante puerto turístico e histórico en la costa Caribe colombiana.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v5",
+      "statement": "Si Juan David vive en **Cali**, ¿en qué departamento vive?",
+      "context": "Juan David está viendo un mapa de Colombia y necesita ubicar departamentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antioquia",
+          "is_correct": false,
+          "feedback": "No. Medellín es la capital de Antioquia."
+        },
+        {
+          "letter": "B",
+          "text": "Cundinamarca",
+          "is_correct": false,
+          "feedback": "No. Bogotá es la capital de Cundinamarca."
+        },
+        {
+          "letter": "C",
+          "text": "Valle del Cauca",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cali es la capital del Valle del Cauca."
+        },
+        {
+          "letter": "D",
+          "text": "Nariño",
+          "is_correct": false,
+          "feedback": "No. Pasto es la capital de Nariño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cali, oficialmente Santiago de Cali, es la capital del departamento del Valle del Cauca, ubicado en la región Pacífica de Colombia.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v6",
+      "statement": "La profesora señala la región de la Costa Caribe y pregunta: \"¿Qué departamento tiene como capital a **Barranquilla**?\"",
+      "context": "En la clase de sociales, la profesora muestra un mapa en blanco de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolívar",
+          "is_correct": false,
+          "feedback": "No. La capital de Bolívar es Cartagena."
+        },
+        {
+          "letter": "B",
+          "text": "Magdalena",
+          "is_correct": false,
+          "feedback": "No. La capital del Magdalena es Santa Marta."
+        },
+        {
+          "letter": "C",
+          "text": "Atlántico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Barranquilla es la capital del departamento del Atlántico."
+        },
+        {
+          "letter": "D",
+          "text": "Cesar",
+          "is_correct": false,
+          "feedback": "No. La capital del Cesar es Valledupar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Barranquilla, conocida por su carnaval, es la capital del departamento del Atlántico, ubicado en la región Caribe de Colombia.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v7",
+      "statement": "¿A qué departamento pertenece la ciudad de **Pereira**?",
+      "context": "En el colegio \"Promoción Social\" de Pereira, los estudiantes relacionan departamentos con sus productos típicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caldas",
+          "is_correct": false,
+          "feedback": "No. Caldas tiene como capital a Manizales."
+        },
+        {
+          "letter": "B",
+          "text": "Quindío",
+          "is_correct": false,
+          "feedback": "No. El Quindío tiene como capital a Armenia."
+        },
+        {
+          "letter": "C",
+          "text": "Risaralda",
+          "is_correct": true,
+          "feedback": "¡Correcto! Pereira es la capital del departamento de Risaralda."
+        },
+        {
+          "letter": "D",
+          "text": "Tolima",
+          "is_correct": false,
+          "feedback": "No. El Tolima tiene como capital a Ibagué."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pereira es la capital del departamento de Risaralda. Junto con Armenia (Quindío) y Manizales (Caldas), forma parte del llamado \"Triángulo del Café\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v8",
+      "statement": "¿Cuál de los siguientes departamentos está ubicado en la **región Amazónica** de Colombia?",
+      "context": "La profesora de sociales pide a los estudiantes del colegio \"Misael Pastrana\" de Neiva que ubiquen departamentos en el mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antioquia",
+          "is_correct": false,
+          "feedback": "No. Antioquia está en la región Andina."
+        },
+        {
+          "letter": "B",
+          "text": "Santander",
+          "is_correct": false,
+          "feedback": "No. Santander está en la región Andina."
+        },
+        {
+          "letter": "C",
+          "text": "Amazonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Amazonas está en la región Amazónica, al sur de Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Boyacá",
+          "is_correct": false,
+          "feedback": "No. Boyacá está en la región Andina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El departamento del Amazonas está en la región Amazónica colombiana, al sur del país. Su capital es Leticia. Es el departamento más grande de Colombia pero el menos poblado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v9",
+      "statement": "Para ir de la capital de Colombia a la capital del departamento de Antioquia, un viajero debe desplazarse desde Bogotá hacia el:",
+      "context": "La profesora de sociales del colegio \"Nuestra Señora de Fátima\" de Ocaña presenta un problema de ubicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur",
+          "is_correct": false,
+          "feedback": "No. Medellín no está al sur de Bogotá."
+        },
+        {
+          "letter": "B",
+          "text": "Oriente",
+          "is_correct": false,
+          "feedback": "No. Medellín no está al este de Bogotá."
+        },
+        {
+          "letter": "C",
+          "text": "Noroccidente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Medellín está al noroccidente de Bogotá (noroeste)."
+        },
+        {
+          "letter": "D",
+          "text": "Occidente",
+          "is_correct": false,
+          "feedback": "No. Está más al norte que solo occidente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el mapa de Colombia, Bogotá está en el centro. Medellín está al noroccidente (hacia el noroeste). Es importante usar los puntos cardinales para ubicar ciudades y departamentos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-v10",
+      "statement": "¿Por qué Colombia está organizada en **departamentos** y no como un país centralizado sin divisiones?",
+      "context": "En la clase de sociales de la Escuela \"El Carmen\" de Armenia, analizan la organización territorial de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es más fácil que una sola persona gobierne todo desde Bogotá",
+          "is_correct": false,
+          "feedback": "No. La descentralización busca lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los departamentos pueden tener sus propias leyes diferentes a la Constitución",
+          "is_correct": false,
+          "feedback": "No. Todos deben cumplir la Constitución."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permite que cada región administre sus recursos y atienda mejor las necesidades de su gente",
+          "is_correct": true,
+          "feedback": "¡Correcto! La descentralización permite una mejor gestión regional."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es más económico tener muchos gobiernos en vez de uno solo",
+          "is_correct": false,
+          "feedback": "No. La descentralificación tiene costos, pero sus beneficios son mayores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La organización en departamentos permite la descentralización: cada región puede administrar sus propios recursos, atender sus necesidades específicas y tener un gobierno más cercano a la gente. Esto está establecido en la Constitución de 1991.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-departamentos-colombia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v1",
+      "statement": "¿Qué son los **derechos de los niños**?",
+      "context": "En la clase de sociales de la Escuela \"Manuel del Socorro Rodríguez\" de Bogotá, la profesora habla de los derechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Privilegios que solo algunos niños tienen",
+          "is_correct": false,
+          "feedback": "No. Los derechos son para todos, no son privilegios."
+        },
+        {
+          "letter": "B",
+          "text": "Reglas y garantías que protegen a todos los niños y niñas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los derechos protegen a todos los niños por igual."
+        },
+        {
+          "letter": "C",
+          "text": "Tareas que los niños deben hacer en la escuela",
+          "is_correct": false,
+          "feedback": "No. Las tareas son responsabilidades, no derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Juguetes que los niños pueden pedir a sus padres",
+          "is_correct": false,
+          "feedback": "No. Los derechos no son objetos materiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos de los niños son garantías universales que protegen a todas las personas menores de 18 años. Fueron establecidos por la Convención de las Naciones Unidas sobre los Derechos del Niño en 1989.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v2",
+      "statement": "Todo niño y niña tiene derecho a:",
+      "context": "Los estudiantes del colegio \"La Merced\" de Bucaramanga aprenden sobre sus derechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trabajar desde los 5 años",
+          "is_correct": false,
+          "feedback": "No. Los niños no deben trabajar; tienen derecho a jugar y estudiar."
+        },
+        {
+          "letter": "B",
+          "text": "Tener un nombre y una nacionalidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todo niño tiene derecho a tener una identidad (nombre y nacionalidad)."
+        },
+        {
+          "letter": "C",
+          "text": "Decidir las leyes del país",
+          "is_correct": false,
+          "feedback": "No. Los niños aún no pueden votar ni decidir leyes."
+        },
+        {
+          "letter": "D",
+          "text": "Manejar vehículos solos",
+          "is_correct": false,
+          "feedback": "No. Eso no es un derecho infantil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El derecho a la identidad incluye tener un nombre, un apellido y una nacionalidad desde el momento de nacer. Por eso los registros civiles y los documentos de identidad son tan importantes.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v3",
+      "statement": "¿Por qué es importante el **derecho a la educación**?",
+      "context": "En la clase de sociales de la escuela \"José Eusebio Caro\" de Ocaña, hablan sobre la educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los niños deben estar sentados sin hacer nada",
+          "is_correct": false,
+          "feedback": "No. La educación es activa y formativa."
+        },
+        {
+          "letter": "B",
+          "text": "Solo para aprender matemáticas y nada más",
+          "is_correct": false,
+          "feedback": "No. La educación abarca muchas áreas del conocimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los niños aprendan, se desarrollen y tengan mejores oportunidades en el futuro",
+          "is_correct": true,
+          "feedback": "¡Correcto! La educación prepara para la vida."
+        },
+        {
+          "letter": "D",
+          "text": "No es importante, los niños pueden trabajar mejor que estudiar",
+          "is_correct": false,
+          "feedback": "No. El trabajo infantil es ilegal y perjudicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La educación permite a los niños desarrollar sus capacidades, aprender sobre el mundo, prepararse para el futuro y romper el ciclo de la pobreza. Es un derecho fundamental que el Estado debe garantizar.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v4",
+      "statement": "¿Quién es el principal responsable de **proteger** a los niños y garantizar sus derechos?",
+      "context": "Los estudiantes del colegio \"Gimnasio Los Pinares\" de Medellín reflexionan sobre la protección de los niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el presidente de la república",
+          "is_correct": false,
+          "feedback": "No. El presidente ayuda, pero no es el único responsable."
+        },
+        {
+          "letter": "B",
+          "text": "Los niños mismos",
+          "is_correct": false,
+          "feedback": "No. Los niños necesitan protección de los adultos."
+        },
+        {
+          "letter": "C",
+          "text": "La familia, el Estado y la sociedad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La protección es responsabilidad compartida."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente los profesores",
+          "is_correct": false,
+          "feedback": "No. Aunque los profesores ayudan, no son los únicos responsables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La protección de los niños es responsabilidad de todos: la familia es el primer entorno protector, el Estado debe crear leyes y políticas, y la sociedad debe vigilar y denunciar cualquier violación de derechos.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v5",
+      "statement": "María tiene 8 años y no puede ir a la escuela porque sus padres la tienen haciendo oficios en la casa todo el día. ¿Qué derecho se está violando?",
+      "context": "En la escuela \"Francisco José de Caldas\" de Manizales, los estudiantes analizan situaciones cotidianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la salud",
+          "is_correct": false,
+          "feedback": "No. Aunque pueda afectar su salud, el principal derecho violado es la educación."
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a tener mascota",
+          "is_correct": false,
+          "feedback": "No. Eso no es un derecho fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "Derecho a la educación",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todo niño tiene derecho a ir a la escuela."
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a ver televisión",
+          "is_correct": false,
+          "feedback": "No. Eso no es un derecho fundamental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todos los niños tienen derecho a recibir educación. Impedir que un niño asista a la escuela para trabajar en casa es una violación de este derecho. En Colombia, la educación básica es obligatoria y gratuita.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v6",
+      "statement": "Carlos tiene 6 años y está muy enfermo, pero sus padres no lo llevan al médico porque dice que es muy caro. ¿Qué derecho se está incumpliendo?",
+      "context": "Los estudiantes de la escuela \"Nuestra Señora del Perpetuo Socorro\" de Ibagué hablan sobre la salud infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la recreación",
+          "is_correct": false,
+          "feedback": "No. Aunque sea importante, no es el derecho principal aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a tener juguetes",
+          "is_correct": false,
+          "feedback": "No. Eso no es un derecho fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "Derecho a la salud",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todo niño tiene derecho a recibir atención médica."
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a la alimentación",
+          "is_correct": false,
+          "feedback": "No. El problema no es la alimentación, sino la atención médica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El derecho a la salud garantiza que todos los niños reciban atención médica cuando la necesiten. En Colombia, el sistema de salud debe cubrir a todos los niños independientemente de su situación económica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v7",
+      "statement": "¿Cuál de las siguientes situaciones vulnera el **derecho a la protección** de un niño?",
+      "context": "En la clase de sociales del colegio \"San Francisco de Asís\" de Popayán, analizan diferentes derechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un niño que va a la escuela todos los días",
+          "is_correct": false,
+          "feedback": "No. Eso es ejercicio del derecho a la educación."
+        },
+        {
+          "letter": "B",
+          "text": "Un niño que vive con su familia en un hogar seguro",
+          "is_correct": false,
+          "feedback": "No. Eso es protección del derecho a la familia."
+        },
+        {
+          "letter": "C",
+          "text": "Un niño que es maltratado físicamente por un adulto",
+          "is_correct": true,
+          "feedback": "¡Correcto! El maltrato viola el derecho a la protección."
+        },
+        {
+          "letter": "D",
+          "text": "Un niño que juega en el parque con sus amigos",
+          "is_correct": false,
+          "feedback": "No. Eso es ejercicio del derecho a la recreación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los niños tienen derecho a ser protegidos contra toda forma de maltrato, abuso o violencia. Ningún adulto tiene derecho a golpear o maltratar a un niño. Si un niño sufre maltrato, debe pedir ayuda a un adulto de confianza.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v8",
+      "statement": "El **derecho al juego y la recreación** es importante porque:",
+      "context": "Los estudiantes de la escuela rural de Sopetrán reflexionan sobre la recreación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los niños deben estar siempre estudiando sin descanso",
+          "is_correct": false,
+          "feedback": "No. Los niños también necesitan tiempo para jugar."
+        },
+        {
+          "letter": "B",
+          "text": "Jugar es solo para niños que se portan bien",
+          "is_correct": false,
+          "feedback": "No. Jugar es un derecho de todos los niños, no un premio."
+        },
+        {
+          "letter": "C",
+          "text": "El juego ayuda al desarrollo físico y mental de los niños",
+          "is_correct": true,
+          "feedback": "¡Correcto! Jugar es fundamental para el desarrollo infantil."
+        },
+        {
+          "letter": "D",
+          "text": "Los niños deben jugar solo videojuegos",
+          "is_correct": false,
+          "feedback": "No. El juego incluye muchas actividades, no solo videojuegos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El juego y la recreación son derechos fundamentales porque permiten a los niños desarrollar su creatividad, socializar, ejercitar su cuerpo y aprender mientras se divierten. El juego es tan importante como el estudio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v9",
+      "statement": "En un país, hay niños que trabajan en minas en lugar de ir a la escuela. ¿Qué derechos se están violando **al mismo tiempo**?",
+      "context": "La profesora de sociales del colegio \"Luis López de Mesa\" de Tunja presenta un caso para analizar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el derecho a la educación",
+          "is_correct": false,
+          "feedback": "No. Se violan más derechos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el derecho a la salud",
+          "is_correct": false,
+          "feedback": "No. Hay más derechos involucrados."
+        },
+        {
+          "letter": "C",
+          "text": "Derecho a la educación, a la salud, a la protección y a la recreación",
+          "is_correct": true,
+          "feedback": "¡Correcto! El trabajo infantil viola múltiples derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a tener mascota y a la recreación",
+          "is_correct": false,
+          "feedback": "No. Hay derechos más fundamentales que se violan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El trabajo infantil viola varios derechos simultáneamente: el derecho a la educación (no van a la escuela), a la salud (trabajos peligrosos), a la protección (explotación) y a la recreación (no tienen tiempo para jugar). Por eso el trabajo infantil está prohibido.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-v10",
+      "statement": "**Afirmación:** \"Si los niños tienen derechos, entonces no tienen ninguna responsabilidad.\"\n\n¿Esta afirmación es correcta?",
+      "context": "En el colegio \"Colegio Cooperativo\" de Duitama, los estudiantes analizan las responsabilidades junto con los derechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque los derechos eximen de toda responsabilidad",
+          "is_correct": false,
+          "feedback": "No. Los derechos y responsabilidades van de la mano."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque los derechos vienen acompañados de responsabilidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tener derechos implica también cumplir con deberes."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque los niños son demasiado pequeños para tener responsabilidades",
+          "is_correct": false,
+          "feedback": "No. Incluso los niños tienen responsabilidades acordes a su edad."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los derechos son solo para adultos",
+          "is_correct": false,
+          "feedback": "No. Los niños también tienen derechos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos y las responsabilidades están relacionados. Por ejemplo: tengo derecho a la educación, pero tengo la responsabilidad de asistir a clase y prestar atención. Tengo derecho a la familia, pero la responsabilidad de respetar a mis padres y hermanos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v1",
+      "statement": "¿Cuántas **regiones naturales** tiene Colombia?",
+      "context": "En la clase de sociales de la Escuela \"Nuestra Señora del Rosario\" de Bogotá, la profesora pregunta sobre las regiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "No. Colombia tiene más de 3 regiones naturales."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Colombia tiene 5 regiones naturales."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "No. Son 5 regiones naturales."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "No. Colombia tiene más diversidad que solo 2 regiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia tiene 5 regiones naturales: Caribe (costa norte), Andina (centro), Pacífica (costa oeste), Orinoquía (llanos orientales) y Amazonía (sur). Cada una tiene características únicas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v2",
+      "statement": "La **región Caribe** está ubicada en:",
+      "context": "Los estudiantes de la escuela de Riohacha identifican su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sur de Colombia",
+          "is_correct": false,
+          "feedback": "No. Al sur está la Amazonía."
+        },
+        {
+          "letter": "B",
+          "text": "El norte de Colombia, bañada por el mar Caribe",
+          "is_correct": true,
+          "feedback": "¡Correcto! La región Caribe está al norte del país."
+        },
+        {
+          "letter": "C",
+          "text": "El oriente de Colombia",
+          "is_correct": false,
+          "feedback": "No. Al oriente están los Llanos Orientales (Orinoquía)."
+        },
+        {
+          "letter": "D",
+          "text": "El occidente de Colombia",
+          "is_correct": false,
+          "feedback": "No. Al occidente está la región Pacífica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La región Caribe está en el norte de Colombia, bañada por el océano Atlántico (mar Caribe). Incluye departamentos como Atlántico, Magdalena, Bolívar, Cesar, La Guajira, Sucre y Córdoba.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v3",
+      "statement": "¿Cuál es la región natural que atraviesan las **tres cordilleras** de los Andes?",
+      "context": "En el colegio \"San Juan Bautista\" de Pasto, estudian las regiones colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región Caribe",
+          "is_correct": false,
+          "feedback": "No. La región Caribe es plana y costera."
+        },
+        {
+          "letter": "B",
+          "text": "Región Andina",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las tres cordilleras (Occidental, Central y Oriental) cruzan la región Andina."
+        },
+        {
+          "letter": "C",
+          "text": "Región Pacífica",
+          "is_correct": false,
+          "feedback": "No. La Pacífica está entre la cordillera Occidental y el océano."
+        },
+        {
+          "letter": "D",
+          "text": "Región Orinoquía",
+          "is_correct": false,
+          "feedback": "No. La Orinoquía son llanuras al oriente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La región Andina es la más poblada de Colombia y está atravesada por las tres cordilleras de los Andes: Occidental, Central y Oriental. Allí se encuentran las principales ciudades: Bogotá, Medellín, Cali y Bucaramanga.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v4",
+      "statement": "La **región Pacífica** se caracteriza por:",
+      "context": "Los estudiantes de la escuela \"Jorge Eliécer Gaitán\" de Tumaco aprenden sobre su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser una zona desértica y seca",
+          "is_correct": false,
+          "feedback": "No. El desierto está en La Guajira (Caribe)."
+        },
+        {
+          "letter": "B",
+          "text": "Tener muchas lluvias, selvas y gente afrocolombiana",
+          "is_correct": true,
+          "feedback": "¡Correcto! La región Pacífica es muy lluviosa y con fuerte presencia afrocolombiana."
+        },
+        {
+          "letter": "C",
+          "text": "Ser una llanura extensa para la ganadería",
+          "is_correct": false,
+          "feedback": "No. Eso es la Orinoquía."
+        },
+        {
+          "letter": "D",
+          "text": "Tener nieves perpetuas y páramos",
+          "is_correct": false,
+          "feedback": "No. Eso es la región Andina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La región Pacífica, en el occidente de Colombia, es una de las más lluviosas del mundo. Tiene selvas densas, manglares y una cultura afrocolombiana muy fuerte. Sus principales ciudades son Quibdó, Buenaventura y Tumaco.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v5",
+      "statement": "En Colombia hay una región donde se cultiva mucho café, hay montañas y el clima es templado. ¿De qué región se trata?",
+      "context": "En la clase de sociales del colegio \"Liceo Pino Verde\" de Armenia, los estudiantes identifican regiones por su actividad económica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región Caribe",
+          "is_correct": false,
+          "feedback": "No. El café se cultiva en las montañas, no en la costa Caribe."
+        },
+        {
+          "letter": "B",
+          "text": "Región Andina (Eje Cafetero)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El café colombiano se cultiva en la zona montañosa de la región Andina."
+        },
+        {
+          "letter": "C",
+          "text": "Región Amazonía",
+          "is_correct": false,
+          "feedback": "No. La Amazonía tiene selva tropical, no es apta para café."
+        },
+        {
+          "letter": "D",
+          "text": "Región Orinoquía",
+          "is_correct": false,
+          "feedback": "No. Los llanos son cálidos y planos, no montañosos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El café colombiano, famoso en el mundo, se cultiva principalmente en el Eje Cafetero, que hace parte de la región Andina. Los departamentos de Caldas, Quindío y Risaralda son los principales productores.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v6",
+      "statement": "La **región Orinoquía**, también llamada **Llanos Orientales**, se caracteriza por:",
+      "context": "Los estudiantes de la escuela \"Francisco de Paula Santander\" de Arauca conocen bien su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandes montañas y bosques nublados",
+          "is_correct": false,
+          "feedback": "No. Eso es la región Andina."
+        },
+        {
+          "letter": "B",
+          "text": "Desiertos y dunas de arena",
+          "is_correct": false,
+          "feedback": "No. Eso es parte de La Guajira."
+        },
+        {
+          "letter": "C",
+          "text": "Extensas llanuras para la ganadería y la agricultura",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los Llanos Orientales son planicies ideales para ganadería."
+        },
+        {
+          "letter": "D",
+          "text": "Selvas densas con muchos ríos",
+          "is_correct": false,
+          "feedback": "No. Eso es la Amazonía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los Llanos Orientales (Orinoquía) son extensas planicies ubicadas al oriente de Colombia. Su economía se basa en la ganadería extensiva y la agricultura. Sus principales ciudades son Villavicencio, Yopal y Arauca.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v7",
+      "statement": "¿Cuál es la región natural más **extensa** (más grande) de Colombia?",
+      "context": "En el colegio \"Instituto Amazónico\" de Leticia, los estudiantes describen su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región Andina",
+          "is_correct": false,
+          "feedback": "No. La Andina es la más poblada, pero no la más extensa."
+        },
+        {
+          "letter": "B",
+          "text": "Región Caribe",
+          "is_correct": false,
+          "feedback": "No. La Caribe es pequeña en comparación con el sur."
+        },
+        {
+          "letter": "C",
+          "text": "Región Pacífica",
+          "is_correct": false,
+          "feedback": "No. La Pacífica ocupa una franja angosta del occidente."
+        },
+        {
+          "letter": "D",
+          "text": "Región Amazonía",
+          "is_correct": true,
+          "feedback": "¡Correcto! La Amazonía colombiana es la región más extensa del país."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La región Amazónica ocupa aproximadamente el 35% del territorio colombiano (unos 400.000 km²), siendo la más extensa. Sin embargo, es la menos poblada debido a su densa selva tropical.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v8",
+      "statement": "La **cumbia**, el **vallenato** y la **comida de mar** son características culturales de qué región?",
+      "context": "La profesora de sociales de la escuela \"San Mateo\" de Sincelejo explica las costumbres regionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región Andina",
+          "is_correct": false,
+          "feedback": "No. El bambuco y el pasillo son de la región Andina."
+        },
+        {
+          "letter": "B",
+          "text": "Región Caribe",
+          "is_correct": true,
+          "feedback": "¡Correcto! La cumbia, el vallenato y la comida de mar son típicos de la costa Caribe."
+        },
+        {
+          "letter": "C",
+          "text": "Región Pacífica",
+          "is_correct": false,
+          "feedback": "No. En el Pacífico predomina el currulao."
+        },
+        {
+          "letter": "D",
+          "text": "Región Orinoquía",
+          "is_correct": false,
+          "feedback": "No. En los Llanos se escucha el joropo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La región Caribe tiene una cultura rica y variada: la cumbia (baile y música tradicional), el vallenato (música representativa), y platos típicos como el arroz con coco y el pescado frito.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v9",
+      "statement": "¿Por qué la **región Andina** es la más poblada de Colombia?",
+      "context": "Los estudiantes del colegio \"Gimnasio Campestre\" de Bogotá comparan las regiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene el mejor clima para las playas",
+          "is_correct": false,
+          "feedback": "No. En la región Andina no hay playas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es la región más grande en extensión",
+          "is_correct": false,
+          "feedback": "No. La Amazonía es más grande pero menos poblada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tiene clima templado, suelos fértiles y allí se fundaron las principales ciudades",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas condiciones atrajeron a la población."
+        },
+        {
+          "letter": "D",
+          "text": "Porque allí se encuentra el mar, lo que atrae turistas",
+          "is_correct": false,
+          "feedback": "No. La región Andina no tiene mar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La región Andina concentra cerca del 70% de la población colombiana. Esto se debe a su clima templado (ni muy caliente ni muy frío), tierras fértiles para la agricultura y la fundación histórica de las principales ciudades como Bogotá, Medellín y Cali.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-v10",
+      "statement": "**Afirmación:** \"En Colombia, la región Pacífica es más lluviosa que la región Caribe, y la región Orinoquía tiene estaciones secas y húmedas muy marcadas.\"\n\n¿Esta afirmación es correcta?",
+      "context": "En el colegio \"Nueva Granada\" de Bogotá, los estudiantes analizan las diferencias entre regiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es correcta. La región Pacífica es muy lluviosa y la Orinoquía tiene temporada seca y de lluvias bien diferenciadas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa es la realidad climática de esas regiones."
+        },
+        {
+          "letter": "B",
+          "text": "No, es incorrecta. La región Pacífica es seca y la Orinoquía llueve todo el año.",
+          "is_correct": false,
+          "feedback": "No. Es al revés de la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "No, es incorrecta. La región Caribe es más lluviosa que la Pacífica.",
+          "is_correct": false,
+          "feedback": "No. El Pacífico colombiano es una de las zonas más lluviosas del mundo."
+        },
+        {
+          "letter": "D",
+          "text": "No, es incorrecta. Ambas regiones tienen el mismo clima.",
+          "is_correct": false,
+          "feedback": "No. Cada región tiene climas muy diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Chocó biogeográfico (región Pacífica) es uno de los lugares más lluviosos del planeta, con hasta 10.000 mm de lluvia al año. La Orinoquía tiene dos estaciones bien marcadas: invierno (lluvias) de abril a noviembre y verano (sequía) de diciembre a marzo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-4-P1-regiones-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

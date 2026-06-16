@@ -15,26 +15,30 @@
         {
           "letter": "A",
           "text": "x² + 5x + 6 = 0",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "3x - 4 = 10",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "x + y = 5",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "2x = 8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nUna ecuación de segundo grado es aquella donde el exponente más alto de la incógnita es 2.\n\n---",
+      "explanation": "Una ecuación de segundo grado es aquella donde el exponente más alto de la incógnita es 2.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -51,26 +55,30 @@
         {
           "letter": "A",
           "text": "Término independiente",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "Término cuadrático",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "Término lineal",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "Coeficiente principal",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEl término que no tiene variable se conoce como término independiente.\n\n---",
+      "explanation": "El término que no tiene variable se conoce como término independiente.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -87,26 +95,30 @@
         {
           "letter": "A",
           "text": "x = 3, x = -3",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "x = 9, x = -9",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "x = 3",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "x = 0",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nDespejamos: x² = 9. Al sacar raíz cuadrada, obtenemos dos valores: +3 y -3.\n\n---",
+      "explanation": "Despejamos: x² = 9. Al sacar raíz cuadrada, obtenemos dos valores: +3 y -3.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -123,26 +135,30 @@
         {
           "letter": "A",
           "text": "x² + 8x + 16",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "x² + 16",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "x² + 4x + 8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "2x + 8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEs un binomio al cuadrado: (a+b)² = a² + 2ab + b². Entonces x² + 2(4x) + 4² = x² + 8x + 16.\n\n---",
+      "explanation": "Es un binomio al cuadrado: (a+b)² = a² + 2ab + b². Entonces x² + 2(4x) + 4² = x² + 8x + 16.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -159,26 +175,30 @@
         {
           "letter": "A",
           "text": "(x + 2)(x + 3)",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "(x - 2)(x - 3)",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "(x + 5)(x + 1)",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "(x + 6)(x - 1)",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nBuscamos dos números que multiplicados den 6 y sumados den 5. Estos son 2 y 3.\n\n---",
+      "explanation": "Buscamos dos números que multiplicados den 6 y sumados den 5. Estos son 2 y 3.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -195,26 +215,30 @@
         {
           "letter": "A",
           "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "16",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "-16",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nSustituimos: a=1, b=-4, c=4. (-4)² - 4(1)(4) = 16 - 16 = 0.\n\n---",
+      "explanation": "Sustituimos: a=1, b=-4, c=4. (-4)² - 4(1)(4) = 16 - 16 = 0.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -231,26 +255,30 @@
         {
           "letter": "A",
           "text": "x = 2, x = 3",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "x = -2, x = -3",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "x = 1, x = 6",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "x = 5, x = 6",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\n**Paso 1:** Identificar a=1, b=-5, c=6.\n**Paso 2:** Aplicar x = [-(-5) ± √((-5)² - 4(1)(6))] / 2(1) = [5 ± √(25 - 24)] / 2 = [5 ± 1] / 2.\n**Resultado:** x₁ = 6/2 = 3; x₂ = 4/2 = 2.\n\n---",
+      "explanation": "**Paso 1:** Identificar a=1, b=-5, c=6.\n**Paso 2:** Aplicar x = [-(-5) ± √((-5)² - 4(1)(6))] / 2(1) = [5 ± √(25 - 24)] / 2 = [5 ± 1] / 2.\n**Resultado:** x₁ = 6/2 = 3; x₂ = 4/2 = 2.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -267,26 +295,30 @@
         {
           "letter": "A",
           "text": "x² = 144; x = 12 cm",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "4x = 144; x = 36 cm",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "x² = 144; x = 72 cm",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "2x = 144; x = 72 cm",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEl área de un cuadrado es lado al cuadrado (x²). Por lo tanto x² = 144. La raíz cuadrada de 144 es 12.\n\n---",
+      "explanation": "El área de un cuadrado es lado al cuadrado (x²). Por lo tanto x² = 144. La raíz cuadrada de 144 es 12.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -303,26 +335,30 @@
         {
           "letter": "A",
           "text": "x² + x - 156 = 0",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "x² + x + 156 = 0",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "2x + 1 = 156",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "x² + 2x - 156 = 0",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nSean los números x y (x + 1). Su producto es x(x + 1) = 156. Desarrollando: x² + x = 156, lo que equivale a x² + x - 156 = 0.\n\n---",
+      "explanation": "Sean los números x y (x + 1). Su producto es x(x + 1) = 156. Desarrollando: x² + x = 156, lo que equivale a x² + x - 156 = 0.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -339,26 +375,30 @@
         {
           "letter": "A",
           "text": "(2, -1)",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "(4, 3)",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "(-2, 15)",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "(2, 3)",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nLa coordenada x del vértice es -b/2a = -(-4)/2(1) = 4/2 = 2. Para y: f(2) = (2)² - 4(2) + 3 = 4 - 8 + 3 = -1. El vértice es (2, -1).",
+      "explanation": "La coordenada x del vértice es -b/2a = -(-4)/2(1) = 4/2 = 2. Para y: f(2) = (2)² - 4(2) + 3 = 4 - 8 + 3 = -1. El vértice es (2, -1).",
       "difficulty": "5",
       "images": [],
       "tags": [],
