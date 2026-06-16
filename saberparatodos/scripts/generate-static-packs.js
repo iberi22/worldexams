@@ -1,4 +1,4 @@
-﻿import fs from "fs";
+import fs from "fs";
 import path from "path";
 import { execSync } from "child_process";
 import { fileURLToPath } from "url";
@@ -116,18 +116,25 @@ function parseQuestions(body) {
         ? afterHeader.slice(0, optionsStart).trim()
         : afterHeader;
 
-    // Extract context if present (supports both ### Contexto heading and **Context:** inline metadata)
+    // Extract context if present:
+    // 1. ### Contexto / ### Context / ### Texto (section heading)
+    // 2. **Contexto:** or **Context:** (v5.2 inline field, both Spanish and English)
     const contextHeadingMatch = section.match(
       /###\s*(?:Contexto|Context|Texto)([\s\S]*?)(?:###|##|$)/i,
     );
     const contextInlineMatch = section.match(
-      /\*\*Context:\*\*\s*([^\n]*)/i,
+      /\*\*(?:Contexto|Context):\*\*\s*([^\n]+(?:\n(?!\*\*|###|-\s*\[)[^\n]+)*)/i,
     );
     const context = contextHeadingMatch
       ? contextHeadingMatch[1].trim()
       : contextInlineMatch
         ? contextInlineMatch[1].trim()
         : "";
+
+    // Extract QA metadata fields (bloom, icfes, expected_success) for quality control
+    const bloomMatch = section.match(/\*\*Bloom:\*\*\s*([^\n]+)/i);
+    const icfesMatch = section.match(/\*\*ICFES:\*\*\s*([^\n]+)/i);
+    const expectedSuccessMatch = section.match(/\*\*Expected_Success:\*\*\s*([^\n]+)/i);
 
     // Extract statement
     let statement = "";
@@ -141,8 +148,8 @@ function parseQuestions(body) {
       if (contextHeadingMatch) {
         cleanedRaw = cleanedRaw.replace(contextHeadingMatch[0], "");
       }
-      // Strip inline **Context:** from statement
-      cleanedRaw = cleanedRaw.replace(/\*\*Context:\*\*\s*[^\n]*/gi, "");
+      // Strip inline **Context:**/**Contexto:** from statement
+      cleanedRaw = cleanedRaw.replace(/\*\*(?:Context|Contexto):\*\*\s*[^\n]*/gi, "");
       statement = cleanedRaw
         .replace(
           /(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g,
@@ -193,6 +200,10 @@ function parseQuestions(body) {
       difficulty: String(difficulty),
       images: [],
       tags: [],
+      // QA metadata — used by the quality control overlay in the app
+      bloom: bloomMatch ? bloomMatch[1].trim() : undefined,
+      icfes_type: icfesMatch ? icfesMatch[1].trim() : undefined,
+      expected_success: expectedSuccessMatch ? parseFloat(expectedSuccessMatch[1].trim()) : undefined,
     });
   }
 

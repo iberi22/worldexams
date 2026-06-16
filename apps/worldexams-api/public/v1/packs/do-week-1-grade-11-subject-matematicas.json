@@ -10,7 +10,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1",
       "statement": "¿A qué conjunto numérico pertenecen los números que se utilizan para contar elementos individuales (1, 2, 3...)?",
-      "context": "",
+      "context": "Juan está organizando sus ahorros en su cuenta del Banco de Reservas en Santo Domingo.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.9,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el conjunto numérico que incluye naturales, sus opuestos y el cero?",
-      "context": "",
+      "context": "En un colmado de Santiago, el dueño anota las deudas como números negativos y las ganancias como positivos.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3",
       "statement": "¿A qué conjunto pertenece el número 2.5?",
-      "context": "",
+      "context": "Una receta dominicana indica usar 2.5 tazas de harina.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.8,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se clasifica el número $\\pi$ (3.14159...)?",
-      "context": "",
+      "context": "Un ingeniero calcula el área de una plaza circular en Puerto Plata usando $\\pi$.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la unión de los números racionales e irracionales?",
-      "context": "",
+      "context": "Se discute la relación entre los conjuntos en un liceo de La Romana.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.7,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6",
       "statement": "¿A qué conjunto pertenece $\\sqrt{50}$?",
-      "context": "",
+      "context": "Un agrimensor en San Francisco de Macorís mide un lado de terreno de $\\sqrt{50}$ metros.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.7,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7",
       "statement": "¿A qué conjunto pertenece el resultado de $(-8 + 5) \\times 2$?",
-      "context": "",
+      "context": "Un estudiante simplifica la expresión $(-8 + 5) \\times 2$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.65,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8",
       "statement": "¿A qué conjunto pertenecen los números de la forma $a + bi$?",
-      "context": "",
+      "context": "Un técnico analiza un circuito con impedancia $a + bi$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.65,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9",
       "statement": "¿Qué afirmación sobre los racionales es correcta?",
-      "context": "",
+      "context": "Reto sobre la densidad en San Pedro de Macorís.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10",
       "statement": "¿En qué conjunto la división no garantiza un resultado del mismo conjunto?",
-      "context": "",
+      "context": "Un matemático estudia las operaciones en diferentes conjuntos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la inclusión correcta?",
-      "context": "",
+      "context": "Jerarquía de conjuntos en una escuela de Baní.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12",
       "statement": "¿A qué conjunto pertenece $0.333...?$",
-      "context": "",
+      "context": "Un estudiante clasifica el número $0.333...$ en Higüey.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.55,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el resultado de $\\sqrt{-4}$?",
-      "context": "",
+      "context": "Análisis de $\\sqrt{-4}$ en San Juan de la Maguana.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.5,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es FALSA?",
-      "context": "",
+      "context": "Pregunta lógica en competencia en Santiago.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.45,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15",
       "statement": "¿Conjunto más pequeño al que pertenece el resultado?",
-      "context": "",
+      "context": "Simplificación de $\\frac{\\sqrt{16}}{2} + \\pi - \\pi$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.45,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16",
       "statement": "¿Cómo se clasifica un irracional que no es raíz de polinomio racional?",
-      "context": "",
+      "context": "Debate sobre números trascendentes en la UASD.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17",
       "statement": "¿\"Suma de dos irracionales es siempre irracional\"?",
-      "context": "",
+      "context": "Evaluación de proposiciones para Pruebas Nacionales.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.35,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18",
       "statement": "¿Cuál no tiene primer elemento?",
-      "context": "",
+      "context": "Reflexión sobre el orden en Nagua.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.35,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19",
       "statement": "Clasifica $0.121121112...$",
-      "context": "",
+      "context": "Desafío de olimpiada en Santo Domingo.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución",
+      "expected_success": 0.3,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20",
       "statement": "¿Qué se afirma del cociente de dos irracionales?",
-      "context": "",
+      "context": "Examen final de alto rendimiento.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.3,
       "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
