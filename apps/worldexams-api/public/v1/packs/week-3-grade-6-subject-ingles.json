@@ -8,6 +8,406 @@
   },
   "questions": [
     {
+      "id": "AR-ING-06-2026-W03-present-simple-001",
+      "statement": "Complete the sentence: \"I ___ mate with my family in the afternoon.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "drink",
+          "is_correct": true,
+          "feedback": "Correct. \"Drink\" is the correct verb for \"I\" in the Present Simple."
+        },
+        {
+          "letter": "B",
+          "text": "drinks",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Drinks\" is for third-person singular."
+        },
+        {
+          "letter": "C",
+          "text": "drinking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "am drink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el Presente Simple, con el pronombre \"I\", el verbo se mantiene en su forma base para expresar hábitos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-002",
+      "statement": "Choose the correct negative sentence: \"Julián ___ like football.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Don't\" is for I/you/we/they."
+        },
+        {
+          "letter": "B",
+          "text": "doesn't",
+          "is_correct": true,
+          "feedback": "Correct. \"Doesn't\" is the auxiliary for third-person singular (he)."
+        },
+        {
+          "letter": "C",
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "isn't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para formar el negativo en Presente Simple para una tercera persona (he), se utiliza el auxiliar \"doesn't\" seguido del verbo en infinitivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-003",
+      "statement": "Complete the sentence: \"She ___ to school by bus.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect. Third-person singular requires -es."
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correct. For verbs ending in -o, add -es in the third person."
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el Presente Simple, los verbos que terminan en \"o\" (como go o do) agregan \"-es\" cuando el sujeto es una tercera persona del singular (she).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-004",
+      "statement": "Which of these activities is a permanent state or fact?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am eating an empanada now.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is temporary."
+        },
+        {
+          "letter": "B",
+          "text": "Buenos Aires is the capital of Argentina.",
+          "is_correct": true,
+          "feedback": "Correct. This is a permanent fact."
+        },
+        {
+          "letter": "C",
+          "text": "Look! He is running.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I will go to Mendoza.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Simple se utiliza para expresar verdades generales, hechos permanentes o estados habituales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-005",
+      "statement": "What is the correct auxiliary verb for questions with \"they\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": true,
+          "feedback": "Correct. \"Do\" is used for I/you/we/they in questions."
+        },
+        {
+          "letter": "B",
+          "text": "Does",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Does\" is for he/she/it."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En preguntas de Presente Simple, \"Do\" es el auxiliar correspondiente a los sujetos plurales y a la primera persona.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-006",
+      "statement": "Complete the question: \"___ your father work in an office?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Your father\" is he."
+        },
+        {
+          "letter": "B",
+          "text": "Does",
+          "is_correct": true,
+          "feedback": "Correct. \"Your father\" is third-person singular (he), so it takes \"Does\"."
+        },
+        {
+          "letter": "C",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Has",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el sujeto es \"he\" (tu padre), el auxiliar de pregunta correcto es \"Does\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-007",
+      "statement": "Mateo loves music. He ___ the guitar every weekend.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs -s for he."
+        },
+        {
+          "letter": "B",
+          "text": "plays",
+          "is_correct": true,
+          "feedback": "Correct. Add -s for third person singular."
+        },
+        {
+          "letter": "C",
+          "text": "playes",
+          "is_correct": false,
+          "feedback": "Incorrect spelling."
+        },
+        {
+          "letter": "D",
+          "text": "playing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para verbos que terminan en vocal + \"y\", simplemente se agrega la \"-s\" en la tercera persona del singular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-008",
+      "statement": "\"My friends ___ (not/study) on Sundays. They ___ (play) football.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doesn't study / plays",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Friends\" is plural."
+        },
+        {
+          "letter": "B",
+          "text": "don't study / plays",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "don't study / play",
+          "is_correct": true,
+          "feedback": "Correct. Both verbs agree with the plural subject."
+        },
+        {
+          "letter": "D",
+          "text": "not study / play",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sujetos plurales (my friends / they) requieren concordancia: \"don't\" en el negativo y el verbo sin \"-s\" en el afirmativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-009",
+      "statement": "What is the correct way to say that someone does NOT drink milk?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He doesn't drink milk.",
+          "is_correct": true,
+          "feedback": "Correct. \"Doesn't\" + base verb."
+        },
+        {
+          "letter": "B",
+          "text": "He don't drink milk.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't drinks milk.",
+          "is_correct": false,
+          "feedback": "Incorrect. Do not add -s to the main verb."
+        },
+        {
+          "letter": "D",
+          "text": "He not drink milk.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el negativo, el auxiliar \"doesn't\" ya indica la tercera persona, por lo que el verbo principal vuelve a su forma base (sin -s).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-06-2026-W03-present-simple-010",
+      "statement": "Complete the sentence: \"Condors ___ in the Andes mountains.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live",
+          "is_correct": true,
+          "feedback": "Correct. \"Condors\" is plural (they), so use the base form."
+        },
+        {
+          "letter": "B",
+          "text": "lives",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be for one condor."
+        },
+        {
+          "letter": "C",
+          "text": "living",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al hablar de hechos sobre animales en plural, se utiliza la forma base del verbo en Presente Simple.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-ING-06-2026-W03-present-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W03-present-perfect-001-MASTERY-v1",
       "statement": "What is the structure of present perfect?",
       "context": "At Colegio Tolimense de Barranquilla, students review present perfect.",
