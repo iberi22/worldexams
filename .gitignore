@@ -16,3 +16,18 @@ test_*.py
 
 # SaberParaTods build output
 saberparatodos/public/api/
+
+# Node
+node_modules/
+
+# pnpm
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# Astro build
+saberparatodos/.astro/
+saberparatodos/.wrangler/
+saberparatodos/dist/
+
+# Workspace node_modules
+apps/*/node_modules/
