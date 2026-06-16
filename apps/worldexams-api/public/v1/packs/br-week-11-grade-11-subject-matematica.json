@@ -409,20 +409,20 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q01",
-      "statement": "Seja $f(x) = 3x - 5$. Qual é o valor de $f(4)$?",
+      "statement": "Seja f(x) = 3x - 5. Qual e o valor de f(4)?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$7$",
           "is_correct": true,
-          "feedback": "Correto! $f(4)=3(4)-5=12-5=7$."
+          "feedback": "Correto! f(4)=3(4)-5=7."
         },
         {
           "letter": "B",
           "text": "$10$",
           "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de subtrair $5$."
+          "feedback": "Incorreto. Esqueceu de subtrair 5."
         },
         {
           "letter": "C",
@@ -434,11 +434,11 @@
           "letter": "D",
           "text": "$12$",
           "is_correct": false,
-          "feedback": "Incorreto. Não completou a operação."
+          "feedback": "Incorreto. Nao completou."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -449,36 +449,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q02",
-      "statement": "Se $f(x) = 2x + 3$ e $g(x) = x - 1$, qual é $f(2) + g(5)$?",
+      "statement": "Se f(x)=2x+3 e g(x)=x-1, f(2)+g(5)?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$11$",
           "is_correct": true,
-          "feedback": "Correto! $f(2)=7$, $g(5)=4$, $7+4=11$."
+          "feedback": "Correto! f(2)=7, g(5)=4, 7+4=11."
         },
         {
           "letter": "B",
           "text": "$8$",
           "is_correct": false,
-          "feedback": "Incorreto. Recalcule $g(5)=4$."
+          "feedback": "Incorreto. g(5)=4."
         },
         {
           "letter": "C",
           "text": "$10$",
           "is_correct": false,
-          "feedback": "Incorreto. $f(2)=7$, $g(5)=4$."
+          "feedback": "Incorreto. f(2)=7,g(5)=4."
         },
         {
           "letter": "D",
           "text": "$12$",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique $f(2)=7$."
+          "feedback": "Incorreto. f(2)=7."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -489,26 +489,26 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q03",
-      "statement": "O gráfico de $f(x) = -3x + 9$ intersecta o eixo $x$ em:",
+      "statement": "Grafico de f(x) = -3x + 9 intersecta eixo x em:",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$(3,0)$",
           "is_correct": true,
-          "feedback": "Correto! $-3x+9=0 \\Rightarrow x=3$."
+          "feedback": "Correto! -3x+9=0 => x=3."
         },
         {
           "letter": "B",
           "text": "$(0,9)$",
           "is_correct": false,
-          "feedback": "Incorreto. Esse é o intercepto $y$."
+          "feedback": "Incorreto. Intercepto y."
         },
         {
           "letter": "C",
           "text": "$(-3,0)$",
           "is_correct": false,
-          "feedback": "Incorreto. Resolva a equação."
+          "feedback": "Incorreto. Resolva a equacao."
         },
         {
           "letter": "D",
@@ -518,7 +518,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -529,26 +529,26 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q04",
-      "statement": "Determine a raiz de $f(x) = 5x - 15$.",
+      "statement": "Raiz de f(x) = 5x - 15:",
       "context": "",
       "options": [
         {
           "letter": "D",
           "text": "$3$",
           "is_correct": true,
-          "feedback": "Correto! $5x-15=0 \\Rightarrow x=3$."
+          "feedback": "Correto! 5x-15=0 => x=3."
         },
         {
           "letter": "A",
           "text": "$-3$",
           "is_correct": false,
-          "feedback": "Incorreto. $5x=15$, $x$ positivo."
+          "feedback": "Incorreto. x positivo."
         },
         {
           "letter": "B",
           "text": "$5$",
           "is_correct": false,
-          "feedback": "Incorreto. $5(5)-15=10 \\neq 0$."
+          "feedback": "Incorreto. 5(5)-15=10 !=0."
         },
         {
           "letter": "C",
@@ -558,7 +558,7 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -569,14 +569,14 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q05",
-      "statement": "Se $f(x) = \\frac{x}{4} + 3$, qual é $f(8)$?",
+      "statement": "Se f(x)=x/4+3, f(8)?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$5$",
           "is_correct": true,
-          "feedback": "Correto! $\\frac{8}{4}+3 = 2+3 = 5$."
+          "feedback": "Correto! 8/4+3=2+3=5."
         },
         {
           "letter": "B",
@@ -588,17 +588,17 @@
           "letter": "C",
           "text": "$11$",
           "is_correct": false,
-          "feedback": "Incorreto. $\\frac{8}{4}=2$."
+          "feedback": "Incorreto. 8/4=2."
         },
         {
           "letter": "D",
           "text": "$7$",
           "is_correct": false,
-          "feedback": "Incorreto. $2+3=5$."
+          "feedback": "Incorreto. 2+3=5."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -609,36 +609,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q06",
-      "statement": "Para que $k$ a função $f(x) = (k-4)x + 7$ é decrescente?",
+      "statement": "Para que k a funcao f(x)=(k-4)x+7 e decrescente?",
       "context": "",
       "options": [
         {
           "letter": "C",
-          "text": "$k < 4$",
+          "text": "$k<4$",
           "is_correct": true,
-          "feedback": "Correto! $a=k-4<0 \\Rightarrow k<4$."
+          "feedback": "Correto! a=k-4<0 => k<4."
         },
         {
           "letter": "A",
-          "text": "$k > 4$",
+          "text": "$k>4$",
           "is_correct": false,
           "feedback": "Incorreto. Torna crescente."
         },
         {
           "letter": "B",
-          "text": "$k = 4$",
+          "text": "$k=4$",
           "is_correct": false,
-          "feedback": "Incorreto. Função constante."
+          "feedback": "Incorreto. Constante."
         },
         {
           "letter": "D",
-          "text": "$k \\leq 4$",
+          "text": "$k<=4$",
           "is_correct": false,
-          "feedback": "Incorreto. $k=4$ constante."
+          "feedback": "Incorreto. k=4 constante."
         }
       ],
       "correct_answer": "C",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -649,36 +649,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q07",
-      "statement": "Se $f(x)=4x-3$ e $g(x)=2x+1$, calcule $f(3)-g(2)$.",
+      "statement": "f(x)=4x-3, g(x)=2x+1. f(3)-g(2)?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$4$",
           "is_correct": true,
-          "feedback": "Correto! $f(3)=9$, $g(2)=5$, $9-5=4$."
+          "feedback": "Correto! f(3)=9,g(2)=5,9-5=4."
         },
         {
           "letter": "B",
           "text": "$6$",
           "is_correct": false,
-          "feedback": "Incorreto. $f(3)=9$, $g(2)=5$."
+          "feedback": "Incorreto. f(3)=9,g(2)=5."
         },
         {
           "letter": "C",
           "text": "$8$",
           "is_correct": false,
-          "feedback": "Incorreto. Recalcule $g(2)=5$."
+          "feedback": "Incorreto. g(2)=5."
         },
         {
           "letter": "D",
           "text": "$2$",
           "is_correct": false,
-          "feedback": "Incorreto. $g(2)=5$."
+          "feedback": "Incorreto. g(2)=5."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -689,14 +689,14 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q08",
-      "statement": "A reta passa por $(0,-2)$ e $(3,7)$. Qual é $a+b$?",
+      "statement": "Reta por (0,-2) e (3,7). a+b?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$1$",
           "is_correct": true,
-          "feedback": "Correto! $b=-2$, $a=3$, $a+b=1$."
+          "feedback": "Correto! b=-2,a=3,a+b=1."
         },
         {
           "letter": "B",
@@ -708,17 +708,17 @@
           "letter": "C",
           "text": "$-1$",
           "is_correct": false,
-          "feedback": "Incorreto. $a=3$, $b=-2$."
+          "feedback": "Incorreto. a=3,b=-2."
         },
         {
           "letter": "D",
           "text": "$3$",
           "is_correct": false,
-          "feedback": "Incorreto. $a=3$, $b=-2$."
+          "feedback": "Incorreto. a=3,b=-2."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q09",
-      "statement": "Se $f(x)=6x+1$, qual é $f(0)+f(1)+f(2)$?",
+      "statement": "f(x)=6x+1. f(0)+f(1)+f(2)?",
       "context": "",
       "options": [
         {
           "letter": "B",
           "text": "$21$",
           "is_correct": true,
-          "feedback": "Correto! $f(0)=1$, $f(1)=7$, $f(2)=13$, soma $=21$."
+          "feedback": "Correto! f(0)=1,f(1)=7,f(2)=13,soma=21."
         },
         {
           "letter": "A",
           "text": "$22$",
           "is_correct": false,
-          "feedback": "Incorreto. $1+7+13=21$."
+          "feedback": "Incorreto. 1+7+13=21."
         },
         {
           "letter": "C",
           "text": "$19$",
           "is_correct": false,
-          "feedback": "Incorreto. Recalcule $f(2)=13$."
+          "feedback": "Incorreto. f(2)=13."
         },
         {
           "letter": "D",
           "text": "$24$",
           "is_correct": false,
-          "feedback": "Incorreto. $1+7+13=21$."
+          "feedback": "Incorreto. 1+7+13=21."
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -769,36 +769,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q10",
-      "statement": "Táxi: bandeirada R$ 4,50 + R$ 3,00/km. Expressão do custo $C(x)$?",
+      "statement": "Taxi: bandeirada R$4,50 + R$3,00/km. Expressao C(x)?",
       "context": "",
       "options": [
         {
           "letter": "C",
           "text": "$3x+4,5$",
           "is_correct": true,
-          "feedback": "Correto! Taxa fixa R$ 4,50 + R$ 3,00 por km."
+          "feedback": "Correto! Fixa R$4,50+R$3,00/km."
         },
         {
           "letter": "A",
           "text": "$4,5x+3$",
           "is_correct": false,
-          "feedback": "Incorreto. Bandeirada é fixa."
+          "feedback": "Incorreto. Fixa."
         },
         {
           "letter": "B",
           "text": "$7,5x$",
           "is_correct": false,
-          "feedback": "Incorreto. Separe fixo do variável."
+          "feedback": "Incorreto. Separe fixo variável."
         },
         {
           "letter": "D",
           "text": "$x+7,5$",
           "is_correct": false,
-          "feedback": "Incorreto. Custo por km é R$ 3,00."
+          "feedback": "Incorreto. R$3,00/km."
         }
       ],
       "correct_answer": "C",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -809,36 +809,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q11",
-      "statement": "Qual é o coeficiente angular de $f(x)=7x-2$?",
+      "statement": "Coeficiente angular de f(x)=7x-2?",
       "context": "",
       "options": [
         {
           "letter": "B",
           "text": "$7$",
           "is_correct": true,
-          "feedback": "Correto! Na forma $ax+b$, $a=7$."
+          "feedback": "Correto! ax+b, a=7."
         },
         {
           "letter": "A",
           "text": "$-2$",
           "is_correct": false,
-          "feedback": "Incorreto. Esse é o intercepto."
+          "feedback": "Incorreto. Intercepto."
         },
         {
           "letter": "C",
           "text": "$2$",
           "is_correct": false,
-          "feedback": "Incorreto. Coeficiente de $x$ é $7$."
+          "feedback": "Incorreto. Coef x e 7."
         },
         {
           "letter": "D",
           "text": "$5$",
           "is_correct": false,
-          "feedback": "Incorreto. Leia a função."
+          "feedback": "Incorreto."
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -849,36 +849,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q12",
-      "statement": "Para $f(x)=-x+5$, determine $f(3)$.",
+      "statement": "f(x)=-x+5. f(3)?",
       "context": "",
       "options": [
         {
           "letter": "D",
           "text": "$2$",
           "is_correct": true,
-          "feedback": "Correto! $f(3)=-3+5=2$."
+          "feedback": "Correto! -3+5=2."
         },
         {
           "letter": "A",
           "text": "$8$",
           "is_correct": false,
-          "feedback": "Incorreto. $-x = -1 \\cdot x$."
+          "feedback": "Incorreto. -x=-1.x."
         },
         {
           "letter": "B",
           "text": "$-2$",
           "is_correct": false,
-          "feedback": "Incorreto. $-3+5=2$."
+          "feedback": "Incorreto. -3+5=2."
         },
         {
           "letter": "C",
           "text": "$-3$",
           "is_correct": false,
-          "feedback": "Incorreto. Calcule $-3+5$."
+          "feedback": "Incorreto. -3+5=2."
         }
       ],
       "correct_answer": "D",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -889,26 +889,26 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q13",
-      "statement": "Se $f(x)=8x-24$, qual $x$ torna $f(x)=0$?",
+      "statement": "f(x)=8x-24. x para f(x)=0?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$3$",
           "is_correct": true,
-          "feedback": "Correto! $8x-24=0 \\Rightarrow x=3$."
+          "feedback": "Correto! 8x-24=0 => x=3."
         },
         {
           "letter": "B",
           "text": "$-3$",
           "is_correct": false,
-          "feedback": "Incorreto. $8x=24$, $x$ positivo."
+          "feedback": "Incorreto. x positivo."
         },
         {
           "letter": "C",
           "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorreto. $8(4)-24=8 \\neq 0$."
+          "feedback": "Incorreto. 8(4)-24=8 !=0."
         },
         {
           "letter": "D",
@@ -918,7 +918,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -929,36 +929,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q14",
-      "statement": "Para qual $k$ a função $f(x)=(3k-6)x+2$ é constante?",
+      "statement": "k tal que f(x)=(3k-6)x+2 e constante?",
       "context": "",
       "options": [
         {
           "letter": "C",
           "text": "$k=2$",
           "is_correct": true,
-          "feedback": "Correto! $3k-6=0 \\Rightarrow k=2$."
+          "feedback": "Correto! 3k-6=0 => k=2."
         },
         {
           "letter": "A",
           "text": "$k=0$",
           "is_correct": false,
-          "feedback": "Incorreto. $3(0)-6=-6$."
+          "feedback": "Incorreto. -6 !=0."
         },
         {
           "letter": "B",
           "text": "$k=3$",
           "is_correct": false,
-          "feedback": "Incorreto. $9-6=3$."
+          "feedback": "Incorreto. 9-6=3."
         },
         {
           "letter": "D",
           "text": "$k=-2$",
           "is_correct": false,
-          "feedback": "Incorreto. $-6-6=-12$."
+          "feedback": "Incorreto. -6-6=-12."
         }
       ],
       "correct_answer": "C",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -969,36 +969,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q15",
-      "statement": "A reta $f(x)=2x+4$ passa por quais pontos?",
+      "statement": "Reta f(x)=2x+4 passa por quais pontos?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$(0,4) e (-2,0)$",
           "is_correct": true,
-          "feedback": "Correto! Intercepto $y=4$, raiz $x=-2$."
+          "feedback": "Correto! Interc y=4, raiz x=-2."
         },
         {
           "letter": "B",
           "text": "$(0,2) e (-4,0)$",
           "is_correct": false,
-          "feedback": "Incorreto. $f(0)=4$."
+          "feedback": "Incorreto. f(0)=4."
         },
         {
           "letter": "C",
           "text": "$(0,4) e (2,0)$",
           "is_correct": false,
-          "feedback": "Incorreto. Raiz $-2$."
+          "feedback": "Incorreto. Raiz -2."
         },
         {
           "letter": "D",
           "text": "$(4,0) e (0,2)$",
           "is_correct": false,
-          "feedback": "Incorreto. Inverteu eixos."
+          "feedback": "Incorreto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -1009,36 +1009,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q16",
-      "statement": "$f(x)=3x+1$ e $g(x)=-2x+6$ se igualam em qual $x$?",
+      "statement": "f(x)=3x+1 e g(x)=-2x+6 se igualam em x=?",
       "context": "",
       "options": [
         {
           "letter": "A",
           "text": "$x=1$",
           "is_correct": true,
-          "feedback": "Correto! $3x+1=-2x+6 \\Rightarrow 5x=5 \\Rightarrow x=1$."
+          "feedback": "Correto! 3x+1=-2x+6 => 5x=5 => x=1."
         },
         {
           "letter": "B",
           "text": "$x=2$",
           "is_correct": false,
-          "feedback": "Incorreto. $f(2)=7$, $g(2)=2$."
+          "feedback": "Incorreto. f(2)=7,g(2)=2."
         },
         {
           "letter": "C",
           "text": "$x=-1$",
           "is_correct": false,
-          "feedback": "Incorreto. Resolva $3x+2x=5$."
+          "feedback": "Incorreto."
         },
         {
           "letter": "D",
           "text": "$x=5$",
           "is_correct": false,
-          "feedback": "Incorreto. Isole $x$."
+          "feedback": "Incorreto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -1049,36 +1049,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q17",
-      "statement": "Intercepto $y$ de $f(x)=\\frac{2}{3}x-4$?",
+      "statement": "Intercepto y de f(x)=(2/3)x-4?",
       "context": "",
       "options": [
         {
           "letter": "D",
           "text": "$-4$",
           "is_correct": true,
-          "feedback": "Correto! $f(0)=-4$."
+          "feedback": "Correto! f(0)=-4."
         },
         {
           "letter": "A",
           "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorreto. Termo independente $-4$."
+          "feedback": "Incorreto. Termo indep -4."
         },
         {
           "letter": "B",
-          "text": "$\\frac{2}{3}$",
+          "text": "$2/3$",
           "is_correct": false,
-          "feedback": "Incorreto. É o coeficiente angular."
+          "feedback": "Incorreto. Coef angular."
         },
         {
           "letter": "C",
           "text": "$0$",
           "is_correct": false,
-          "feedback": "Incorreto. Calcule $f(0)$."
+          "feedback": "Incorreto. f(0)=-4."
         }
       ],
       "correct_answer": "D",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -1089,36 +1089,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q18",
-      "statement": "Se $f(x)=10x-5$, qual é $f(\\frac{1}{2})$?",
+      "statement": "f(x)=10x-5. f(1/2)?",
       "context": "",
       "options": [
         {
           "letter": "C",
           "text": "$0$",
           "is_correct": true,
-          "feedback": "Correto! $10(0.5)-5=5-5=0$."
+          "feedback": "Correto! 10(0.5)-5=0."
         },
         {
           "letter": "A",
           "text": "$5$",
           "is_correct": false,
-          "feedback": "Incorreto. $10\\cdot0.5=5$, menos $5=0$."
+          "feedback": "Incorreto. 10*0.5=5, -5=0."
         },
         {
           "letter": "B",
           "text": "$-2,5$",
           "is_correct": false,
-          "feedback": "Incorreto. $10\\cdot0.5=5$."
+          "feedback": "Incorreto. 10*0.5=5."
         },
         {
           "letter": "D",
           "text": "$2,5$",
           "is_correct": false,
-          "feedback": "Incorreto. $5-5=0$."
+          "feedback": "Incorreto. 5-5=0."
         }
       ],
       "correct_answer": "C",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -1129,36 +1129,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q19",
-      "statement": "$f(1)=5$, $f(3)=11$. Qual é $f(0)$?",
+      "statement": "f(1)=5, f(3)=11. f(0)?",
       "context": "",
       "options": [
         {
           "letter": "B",
           "text": "$2$",
           "is_correct": true,
-          "feedback": "Correto! $a=3$, $b=2$, $f(0)=2$."
+          "feedback": "Correto! a=3, b=2, f(0)=2."
         },
         {
           "letter": "A",
           "text": "$1$",
           "is_correct": false,
-          "feedback": "Incorreto. Taxa $6/2=3$, $b=5-3=2$."
+          "feedback": "Incorreto. Taxa 3,b=2."
         },
         {
           "letter": "C",
           "text": "$3$",
           "is_correct": false,
-          "feedback": "Incorreto. $b=f(1)-a=2$."
+          "feedback": "Incorreto. b=2."
         },
         {
           "letter": "D",
           "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique."
+          "feedback": "Incorreto."
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -1169,36 +1169,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q20",
-      "statement": "Resolva $3x-7 > 2x+1$.",
+      "statement": "Resolva 3x-7 > 2x+1.",
       "context": "",
       "options": [
         {
           "letter": "D",
-          "text": "$x > 8$",
+          "text": "$x>8$",
           "is_correct": true,
-          "feedback": "Correto! $3x-2x > 1+7 \\Rightarrow x > 8$."
+          "feedback": "Correto! 3x-2x>1+7 => x>8."
         },
         {
           "letter": "A",
-          "text": "$x > 6$",
+          "text": "$x>6$",
           "is_correct": false,
-          "feedback": "Incorreto. $1+7=8$."
+          "feedback": "Incorreto. 1+7=8."
         },
         {
           "letter": "B",
-          "text": "$x < 8$",
+          "text": "$x<8$",
           "is_correct": false,
-          "feedback": "Incorreto. Sinal não inverte."
+          "feedback": "Incorreto. Sinal nao inverte."
         },
         {
           "letter": "C",
-          "text": "$x = 8$",
+          "text": "$x=8$",
           "is_correct": false,
-          "feedback": "Incorreto. É inequação."
+          "feedback": "Incorreto. Inequacao."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Para dominar o tópico de função afim e linear, é essencial praticar problemas variados desde a identificação de conceitos básicos até aplicações contextuais do ENEM. Recomenda-se revisar os fundamentos teóricos, praticar a resolução passo a passo e utilizar representações gráficas para consolidar o aprendizado.",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
       "difficulty": "5",
       "images": [],
       "tags": [],

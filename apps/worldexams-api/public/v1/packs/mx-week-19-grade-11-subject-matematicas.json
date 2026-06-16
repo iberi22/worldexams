@@ -808,37 +808,12 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v1",
-      "statement": "Sobre probabilidad estadistica, analiza las alternativas y señala la correcta:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v1",
+      "statement": "Que medida representa el valor que mas se repite en un conjunto de datos?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$17$",
-          "is_correct": false,
-          "feedback": "El valor $17$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$6$",
-          "is_correct": false,
-          "feedback": "El valor $6$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$28$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $28$."
-        },
-        {
-          "letter": "D",
-          "text": "$85$",
-          "is_correct": false,
-          "feedback": "$85$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "La moda es el valor que aparece con mayor frecuencia en un conjunto de datos.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -848,37 +823,12 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v2",
-      "statement": "En relación al estudio de probabilidad estadistica, marca la opción verdadera:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v2",
+      "statement": "Si un evento tiene probabilidad 0, se dice que es:",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$3$",
-          "is_correct": false,
-          "feedback": "El valor $3$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$-2$",
-          "is_correct": false,
-          "feedback": "El valor $-2$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$24$",
-          "is_correct": false,
-          "feedback": "$24$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$8$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $8$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Un evento imposible tiene probabilidad 0. Un evento seguro tiene probabilidad 1.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -888,37 +838,12 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v3",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v3",
+      "statement": "Si se lanza un dado 600 veces y el numero 3 sale 95 veces, cual es la probabilidad frecuencial de obtener 3?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$7$",
-          "is_correct": false,
-          "feedback": "El valor $7$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$35$",
-          "is_correct": false,
-          "feedback": "$35$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$13$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $13$."
-        },
-        {
-          "letter": "C",
-          "text": "$1$",
-          "is_correct": false,
-          "feedback": "El valor $1$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "La probabilidad frecuencial es la frecuencia relativa: 95/600 = 0.158.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -928,37 +853,12 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v4",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v4",
+      "statement": "Si P(A) = 0.3 y P(B) = 0.4, y A y B son mutuamente excluyentes, cual es P(A o B)?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$14$",
-          "is_correct": false,
-          "feedback": "El valor $14$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$126$",
-          "is_correct": false,
-          "feedback": "$126$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$6$",
-          "is_correct": false,
-          "feedback": "El valor $6$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$22$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $22$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Para eventos mutuamente excluyentes: P(A o B) = P(A) + P(B) = 0.3 + 0.4 = 0.7.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -968,38 +868,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v5",
-      "statement": "¿Cuál de las siguientes proposiciones sobre probabilidad estadistica está CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v5",
+      "statement": "Cual es la media de los datos: 4, 7, 9, 10, 5?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$13$",
-          "is_correct": false,
-          "feedback": "El valor $13$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$25$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $25$."
-        },
-        {
-          "letter": "D",
-          "text": "$52$",
-          "is_correct": false,
-          "feedback": "$52$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$1$",
-          "is_correct": false,
-          "feedback": "El valor $1$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Media = (4+7+9+10+5)/5 = 35/5 = 7.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1008,38 +883,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v6",
-      "statement": "Sobre probabilidad estadistica, analiza las alternativas y señala la correcta:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v6",
+      "statement": "Mediana de: 3, 8, 2, 9, 5, 6?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$18$",
-          "is_correct": false,
-          "feedback": "El valor $18$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$12$",
-          "is_correct": false,
-          "feedback": "El valor $12$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$24$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $24$."
-        },
-        {
-          "letter": "D",
-          "text": "$108$",
-          "is_correct": false,
-          "feedback": "$108$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Ordenando: 2,3,5,6,8,9. (5+6)/2 = 5.5.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1048,38 +898,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v7",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v7",
+      "statement": "Cual es la probabilidad de obtener suma 7 al lanzar dos dados?",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$5$",
-          "is_correct": false,
-          "feedback": "El valor $5$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$54$",
-          "is_correct": false,
-          "feedback": "$54$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$18$",
-          "is_correct": false,
-          "feedback": "El valor $18$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$31$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $31$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Hay 6 formas de sumar 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1). Total 36 combinaciones. Prob = 6/36 = 1/6.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1088,38 +913,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v8",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v8",
+      "statement": "Se extraen dos cartas de una baraja de 52 sin reposicion. Probabilidad de que ambas sean ases?",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$6$",
-          "is_correct": false,
-          "feedback": "El valor $6$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "El valor $10$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$60$",
-          "is_correct": false,
-          "feedback": "$60$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$14$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $14$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "P(primer as) = 4/52. P(segundo as | primer as) = 3/51. P = (4/52)*(3/51) = 12/2652 = 1/221.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1128,38 +928,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v9",
-      "statement": "¿Cuál de las siguientes proposiciones sobre probabilidad estadistica está CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v9",
+      "statement": "Cual es el rango de 5, 12, 8, 20, 3?",
       "context": "",
-      "options": [
-        {
-          "letter": "B",
-          "text": "$23$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $23$."
-        },
-        {
-          "letter": "C",
-          "text": "$13$",
-          "is_correct": false,
-          "feedback": "El valor $13$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$18$",
-          "is_correct": false,
-          "feedback": "El valor $18$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$54$",
-          "is_correct": false,
-          "feedback": "$54$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Rango = max - min = 20 - 3 = 17.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1168,38 +943,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v10",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v10",
+      "statement": "Si la probabilidad de lluvia es 0.4 y si llueve la probabilidad de trafico es 0.8, cual es P(lluvia y trafico)?",
       "context": "",
-      "options": [
-        {
-          "letter": "B",
-          "text": "$7$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $7$."
-        },
-        {
-          "letter": "C",
-          "text": "$5$",
-          "is_correct": false,
-          "feedback": "El valor $5$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$6$",
-          "is_correct": false,
-          "feedback": "El valor $6$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$30$",
-          "is_correct": false,
-          "feedback": "$30$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "P(lluvia y trafico) = P(lluvia) * P(trafico|lluvia) = 0.4 * 0.8 = 0.32.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1208,38 +958,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v11",
-      "statement": "¿Cuál de las siguientes proposiciones sobre probabilidad estadistica está CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v11",
+      "statement": "Si la media es mayor que la mediana en una distribucion, que se puede concluir?",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$14$",
-          "is_correct": false,
-          "feedback": "El valor $14$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$38$",
-          "is_correct": false,
-          "feedback": "$38$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$19$",
-          "is_correct": false,
-          "feedback": "El valor $19$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$24$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $24$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Cuando media > mediana, hay valores atipicos altos que jalan la media, distribucion sesgada a la derecha.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1248,38 +973,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v12",
-      "statement": "Sobre probabilidad estadistica, analiza las alternativas y señala la correcta:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v12",
+      "statement": "Si P(A) = 0.5, P(B) = 0.3 y P(A y B) = 0.15, los eventos son:",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "El valor $10$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$15$",
-          "is_correct": false,
-          "feedback": "El valor $15$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$20$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $20$."
-        },
-        {
-          "letter": "D",
-          "text": "$150$",
-          "is_correct": false,
-          "feedback": "$150$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "P(A)*P(B) = 0.5*0.3 = 0.15 = P(A y B). Son independientes.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1288,38 +988,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v13",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v13",
+      "statement": "De cuantas formas se puede elegir un comite de 3 personas de un grupo de 10?",
       "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "$18$",
-          "is_correct": false,
-          "feedback": "$18$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$-2$",
-          "is_correct": false,
-          "feedback": "El valor $-2$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$9$",
-          "is_correct": false,
-          "feedback": "El valor $9$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$20$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $20$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Es combinacion (orden no importa): C(10,3) = 10!/(3!7!) = 120.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1328,38 +1003,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v14",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v14",
+      "statement": "La suma de todas las probabilidades en una distribucion de probabilidad debe ser:",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$12$",
-          "is_correct": false,
-          "feedback": "El valor $12$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$28$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $28$."
-        },
-        {
-          "letter": "D",
-          "text": "$100$",
-          "is_correct": false,
-          "feedback": "$100$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$20$",
-          "is_correct": false,
-          "feedback": "El valor $20$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "La suma de probabilidades de todos los resultados posibles siempre es 1.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1368,38 +1018,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v15",
-      "statement": "En relación al estudio de probabilidad estadistica, marca la opción verdadera:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v15",
+      "statement": "Si P(A) = 0.6, P(B) = 0.7 y P(A y B) = 0.42, cual es P(A|B)?",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$-4$",
-          "is_correct": false,
-          "feedback": "El valor $-4$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$9$",
-          "is_correct": false,
-          "feedback": "El valor $9$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$90$",
-          "is_correct": false,
-          "feedback": "$90$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$22$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $22$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "P(A|B) = P(A y B)/P(B) = 0.42/0.7 = 0.6.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1408,38 +1033,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v16",
-      "statement": "En relación al estudio de probabilidad estadistica, marca la opción verdadera:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v16",
+      "statement": "Si todos los valores en un conjunto son iguales, la varianza es:",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$3$",
-          "is_correct": false,
-          "feedback": "El valor $3$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$4$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $4$."
-        },
-        {
-          "letter": "D",
-          "text": "$9$",
-          "is_correct": false,
-          "feedback": "$9$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$2$",
-          "is_correct": false,
-          "feedback": "El valor $2$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Si todos los valores son iguales, no hay dispersion, la varianza es 0.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1448,38 +1048,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v17",
-      "statement": "En relación al estudio de probabilidad estadistica, marca la opción verdadera:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v17",
+      "statement": "Se extraen 3 canicas de una bolsa con 5 rojas y 3 azules. Con reposicion, probabilidad de 3 rojas?",
       "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$0$",
-          "is_correct": false,
-          "feedback": "El valor $0$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$9$",
-          "is_correct": false,
-          "feedback": "El valor $9$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$18$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $18$."
-        },
-        {
-          "letter": "D",
-          "text": "$81$",
-          "is_correct": false,
-          "feedback": "$81$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "P(roja) = 5/8 cada vez. Con reposicion: (5/8)^3 = 125/512.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1488,38 +1063,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v18",
-      "statement": "¿Cuál de las siguientes proposiciones sobre probabilidad estadistica está CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v18",
+      "statement": "Un examen detecta una enfermedad con 95% de precision. Prevalencia 2%. Si una persona da positivo, cual es la probabilidad aproximada de que tenga la enfermedad?",
       "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "$4$",
-          "is_correct": false,
-          "feedback": "$4$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$3$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $3$."
-        },
-        {
-          "letter": "C",
-          "text": "$-1$",
-          "is_correct": false,
-          "feedback": "El valor $-1$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "A",
-          "text": "$1$",
-          "is_correct": false,
-          "feedback": "El valor $1$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "Usando Bayes: P(enfermo|+) = (0.02*0.95)/(0.02*0.95+0.98*0.05) = 0.019/0.068 = 0.279 = 28%.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1528,38 +1078,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v19",
-      "statement": "En relación al estudio de probabilidad estadistica, marca la opción verdadera:",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v19",
+      "statement": "De cuantas formas se pueden ordenar 5 libros en un estante?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$15$",
-          "is_correct": false,
-          "feedback": "El valor $15$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$75$",
-          "is_correct": false,
-          "feedback": "$75$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$0$",
-          "is_correct": false,
-          "feedback": "El valor $0$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$30$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $30$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "explanation": "5! = 5*4*3*2*1 = 120 permutaciones.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
@@ -1568,38 +1093,13 @@
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-v20",
-      "statement": "Considerando los conceptos fundamentales de probabilidad estadistica, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+      "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v20",
+      "statement": "Un intervalo de confianza del 95% para la media es [48, 52]. Que significa?",
       "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$11$",
-          "is_correct": false,
-          "feedback": "El valor $11$ no corresponde al resultado esperado. Revisa el concepto de probabilidad estadistica."
-        },
-        {
-          "letter": "C",
-          "text": "$0$",
-          "is_correct": false,
-          "feedback": "El valor $0$ es incorrecto. Recalcula usando las propiedades de probabilidad estadistica."
-        },
-        {
-          "letter": "D",
-          "text": "$22$",
-          "is_correct": false,
-          "feedback": "$22$ no es el resultado correcto. Revisa la definiciÃ³n de probabilidad estadistica."
-        },
-        {
-          "letter": "B",
-          "text": "$22$",
-          "is_correct": false,
-          "feedback": "Â¡Correcto! Aplicando los principios de probabilidad estadistica, obtenemos $22$."
-        }
-      ],
+      "options": [],
       "correct_answer": "A",
-      "explanation": "Para dominar el tema de probabilidad estadistica, es esencial practicar problemas variados y comprender los fundamentos teÃ³ricos. Se recomienda revisar ejemplos resueltos antes de intentar los ejercicios de forma independiente.",
-      "difficulty": "4",
+      "explanation": "El intervalo de confianza indica que si repitieramos el muestreo muchas veces, el 95% de los intervalos contendrian la media poblacional.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bundle_id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle",
