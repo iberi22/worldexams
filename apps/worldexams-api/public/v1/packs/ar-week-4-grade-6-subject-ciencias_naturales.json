@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-4-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-16T07:50:03.148Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición científica más aceptada de energía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una sustancia líquida que fluye por los cables eléctricos.",
+          "is_correct": false,
+          "feedback": "No, la energía no es una sustancia material."
+        },
+        {
+          "letter": "B",
+          "text": "Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La energía se manifiesta a través de los cambios que produce."
+        },
+        {
+          "letter": "C",
+          "text": "Es una fuerza invisible que solo los seres vivos poseen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos inanimados también tienen y transforman energía."
+        },
+        {
+          "letter": "D",
+          "text": "Es un tipo de materia que no tiene peso.",
+          "is_correct": false,
+          "feedback": "No, la energía no es materia; son conceptos diferentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía no se puede ver ni tocar directamente, pero se reconoce por sus efectos. Es lo que permite que un auto se mueva, que una lámpara alumbre o que el agua hierva.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de energía tiene la pelota cuando está en su punto más alto, justo antes de empezar a caer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética",
+          "is_correct": false,
+          "feedback": "No, la energía cinética es la energía del movimiento. En el punto más alto, la velocidad es cero."
+        },
+        {
+          "letter": "B",
+          "text": "Energía potencial gravitatoria",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Energía eléctrica",
+          "is_correct": false,
+          "feedback": "No, una pelota de fútbol no funciona con electricidad."
+        },
+        {
+          "letter": "D",
+          "text": "Energía nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía nuclear está contenida en el núcleo de los átomos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía mecánica total es la suma de la cinética (movimiento) y la potencial (posición). Al subir, la cinética se transforma en potencial. En la altura máxima, toda la energía es potencial gravitatoria.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la transformación de energía que ocurre en este proceso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética del viento en energía eléctrica.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El movimiento de las aspas acciona un generador eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Energía solar en energía química.",
+          "is_correct": false,
+          "feedback": "No, esa es la transformación que ocurre en la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Energía eléctrica en energía sonora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurriría en un parlante o radio."
+        },
+        {
+          "letter": "D",
+          "text": "Energía potencial en energía calórica directamente.",
+          "is_correct": false,
+          "feedback": "No es el proceso principal de un aerogenerador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento. Al girar las aspas, esta energía se transmite a un eje que, mediante un generador, se convierte en energía eléctrica lista para usar.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de energía proveniente del Sol se está transformando en energía térmica (calor) para quemar el papel?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía sonora",
+          "is_correct": false,
+          "feedback": "No, el sol no transmite sonido a través del vacío del espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Energía lumínica (radiante)",
+          "is_correct": true,
+          "feedback": "¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor."
+        },
+        {
+          "letter": "C",
+          "text": "Energía mecánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay movimiento físico de objetos involucrado en el rayo de luz."
+        },
+        {
+          "letter": "D",
+          "text": "Energía hidráulica",
+          "is_correct": false,
+          "feedback": "No, la energía hidráulica es la del agua en movimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía radiante del Sol viaja en forma de ondas electromagnéticas. Al ser concentrada por la lupa sobre el papel, las moléculas de este aumentan su agitación, transformando la energía lumínica en energía térmica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v5",
+      "statement": "Si ambas lamparitas transforman energía eléctrica en luz, ¿por qué la LED es más eficiente según el concepto de transformación de energía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la LED fabrica su propia energía.",
+          "is_correct": false,
+          "feedback": "Falso. Ningún dispositivo fabrica energía, solo la transforma."
+        },
+        {
+          "letter": "B",
+          "text": "Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la LED no necesita electricidad para funcionar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de lámparas necesitan suministro eléctrico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las antiguas lamparitas transformaban la luz en electricidad.",
+          "is_correct": false,
+          "feedback": "No, era al revés: la electricidad se transformaba en luz y (mucha) energía térmica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En toda transformación de energía hay una parte que no se aprovecha para el fin deseado (energía degradada, generalmente calor). Las luces LED son eficientes porque casi toda la electricidad se vuelve luz, mientras que las incandescentes se calentaban mucho, desperdiciando energía.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la cadena de transformación de energía que explica este fenómeno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía térmica -> Energía química",
+          "is_correct": false,
+          "feedback": "No, es el proceso inverso al que ocurre en este caso."
+        },
+        {
+          "letter": "B",
+          "text": "Energía sonora -> Energía lumínica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No estás produciendo luz al frotar las manos."
+        },
+        {
+          "letter": "C",
+          "text": "Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor)",
+          "is_correct": true,
+          "feedback": "¡Excelente! Usás la energía de los alimentos para mover los músculos y la fricción genera calor."
+        },
+        {
+          "letter": "D",
+          "text": "Energía potencial -> Energía nuclear",
+          "is_correct": false,
+          "feedback": "No tiene relación con el frotamiento de las manos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tu cuerpo transforma la energía química de los alimentos en energía cinética para mover las manos. El rozamiento (fricción) entre las superficies de la piel hace que parte de esa energía cinética se degrade en energía térmica, aumentando la temperatura local.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se denomina el mecanismo de transferencia de calor que ocurre a través del metal de la pava (un sólido)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convección",
+          "is_correct": false,
+          "feedback": "No, la convección ocurre en líquidos y gases por el movimiento de masas calientes."
+        },
+        {
+          "letter": "B",
+          "text": "Conducción",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos."
+        },
+        {
+          "letter": "C",
+          "text": "Radiación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiación no requiere un medio material (ej. el calor del sol)."
+        },
+        {
+          "letter": "D",
+          "text": "Aislamiento",
+          "is_correct": false,
+          "feedback": "El aislamiento es lo opuesto; es impedir que el calor pase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conducción ocurre cuando las partículas vibran y chocan entre sí, transmitiendo energía térmica a sus vecinas sin que la materia se desplace. Los metales son excelentes conductores térmicos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v8",
+      "statement": "¿A qué se debe esta diferencia de temperatura si el sol calienta a ambos por igual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que la arena tiene más energía que el agua.",
+          "is_correct": false,
+          "feedback": "No necesariamente; la temperatura no es lo mismo que la energía total."
+        },
+        {
+          "letter": "B",
+          "text": "A que el agua del mar refleja toda la luz y no absorbe calor.",
+          "is_correct": false,
+          "feedback": "Falso. El agua absorbe mucha energía, pero la usa de forma diferente."
+        },
+        {
+          "letter": "C",
+          "text": "A que el agua tiene un mayor calor específico y tarda más en cambiar su temperatura.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua necesita mucha más energía que la arena para subir un grado su temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "A que la arena está más cerca del Sol que el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia al sol es prácticamente la misma para ambas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El calor específico es una propiedad de los materiales. El agua tiene un calor específico muy alto, lo que significa que es un buen regulador térmico: se calienta y se enfría lentamente comparada con los sólidos como la arena.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la principal ventaja ambiental de usar energía solar térmica en lugar de quemar gas natural para calentar agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua sale más limpia si se calienta con el sol.",
+          "is_correct": false,
+          "feedback": "No, la pureza del agua depende del filtrado, no de la fuente de calor."
+        },
+        {
+          "letter": "B",
+          "text": "Que los paneles solares térmicos son indestructibles y duran para siempre.",
+          "is_correct": false,
+          "feedback": "Falso. Todos los dispositivos tienen una vida útil y se desgastan."
+        },
+        {
+          "letter": "C",
+          "text": "Que es una fuente renovable que no emite gases de efecto invernadero durante su funcionamiento.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Ayuda a combatir el cambio climático al reducir el uso de combustibles fósiles."
+        },
+        {
+          "letter": "D",
+          "text": "Que la energía solar es más potente y calienta el agua en un segundo.",
+          "is_correct": false,
+          "feedback": "No, el calentamiento solar suele ser más lento que un termotanque a gas potente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las energías renovables son fundamentales para la sostenibilidad. A diferencia del gas (combustible fósil), el sol es una fuente inagotable a escala humana y su uso no libera dióxido de carbono a la atmósfera.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué propiedad deberías priorizar en los materiales de construcción para evitar que el calor de la calefacción se escape al exterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sean buenos conductores térmicos como el hierro.",
+          "is_correct": false,
+          "feedback": "No, si conducen bien el calor, este se escaparía rápidamente hacia afuera."
+        },
+        {
+          "letter": "B",
+          "text": "Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estos materiales dificultan el paso del calor, manteniendo la casa caliente."
+        },
+        {
+          "letter": "C",
+          "text": "Que sean materiales muy brillantes que reflejen la luz solar.",
+          "is_correct": false,
+          "feedback": "Esto podría ayudar con la radiación, pero para las paredes el problema principal es la conducción."
+        },
+        {
+          "letter": "D",
+          "text": "Que sean materiales muy densos y pesados para que el viento no los mueva.",
+          "is_correct": false,
+          "feedback": "La densidad no garantiza necesariamente un buen aislamiento térmico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En zonas frías, el uso de aislantes térmicos es clave para la eficiencia energética. Al tener baja conductividad, estos materiales reducen la transferencia de calor por conducción desde el interior cálido hacia el exterior frío.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

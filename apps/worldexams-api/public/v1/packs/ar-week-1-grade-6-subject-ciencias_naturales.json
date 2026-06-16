@@ -8,801 +8,401 @@
   },
   "questions": [
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-001",
-      "statement": "¿Cuál es la unidad básica de la vida?",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la unidad más pequeña de los seres vivos que Martina puede identificar como capaz de realizar las funciones vitales?",
       "context": "",
       "options": [
         {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
           "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "text": "La célula",
+          "is_correct": true,
+          "feedback": "¡Exacto! La célula es la unidad estructural y funcional básica de todos los seres vivos."
         },
         {
-          "letter": "D",
-          "text": "Opción D",
+          "letter": "B",
+          "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "No, un tejido es un conjunto de células similares que cumplen una función específica."
         },
         {
           "letter": "C",
-          "text": "Opción C",
+          "text": "El órgano",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Un órgano está formado por diferentes tejidos que trabajan juntos."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema",
+          "is_correct": false,
+          "feedback": "No es correcto. Un sistema es un conjunto de órganos que coordinan una función compleja."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La célula es la unidad mínima de vida. Todos los organismos, desde los unicelulares que Martina busca en el agua hasta los pluricelulares como nosotros, están compuestos por células que realizan las funciones de nutrición, relación y reproducción.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia fundamental existe entre un organismo unicelular, como una bacteria, y uno pluricelular, como un ceibo (árbol nacional argentino)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los unicelulares no tienen ADN y los pluricelulares sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los seres vivos contienen material genético (ADN)."
+        },
+        {
+          "letter": "B",
+          "text": "Los unicelulares están formados por una sola célula y los pluricelulares por muchas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa es la distinción básica basada en la organización celular."
+        },
+        {
+          "letter": "C",
+          "text": "Los unicelulares no necesitan alimentarse para sobrevivir.",
+          "is_correct": false,
+          "feedback": "Falso. Todos los seres vivos necesitan nutrientes para obtener energía."
+        },
+        {
+          "letter": "D",
+          "text": "Los pluricelulares siempre son más pequeños que los unicelulares.",
+          "is_correct": false,
+          "feedback": "No, generalmente es al revés; los pluricelulares suelen ser macroscópicos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La clasificación en unicelulares y pluricelulares se basa en el número de células. Los organismos unicelulares realizan todas sus funciones en una única célula, mientras que los pluricelulares tienen niveles de organización más complejos.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-002",
-      "statement": "Explique el proceso de la fotosíntesis.",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v3",
+      "statement": "Según su tipo de nutrición, ¿cómo clasificarías a este organismo y en qué grupo general lo ubicarías?",
       "context": "",
       "options": [
         {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
           "letter": "A",
-          "text": "Opción A",
+          "text": "Heterótrofo, porque consume otros seres vivos.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "No, si produce su alimento con luz, no consume a otros."
         },
         {
           "letter": "B",
-          "text": "Opción B",
+          "text": "Autótrofo, probablemente dentro del reino de las plantas.",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "¡Muy bien! Los organismos que fabrican su alimento mediante fotosíntesis son autótrofos."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedor, porque absorbe nutrientes del suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores son heterótrofos que degradan materia orgánica."
+        },
+        {
+          "letter": "D",
+          "text": "Carnívoro, porque necesita energía externa.",
+          "is_correct": false,
+          "feedback": "No, los carnívoros son heterótrofos que se alimentan de animales."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "La nutrición autótrofa es característica de las plantas y algunas algas/bacterias que realizan fotosíntesis. Esto les permite transformar energía lumínica y materia inorgánica en materia orgánica (alimento).\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-003",
-      "statement": "¿Qué ley de Newton explica por qué un objeto en reposo tiende a permanecer en reposo?",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v4",
+      "statement": "Si usás un microscopio, ¿qué estructura exclusiva de la célula vegetal te permitiría distinguirla de la célula animal?",
       "context": "",
       "options": [
         {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "Opción A",
+          "text": "El núcleo",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "No, ambas son células eucariotas y poseen núcleo con material genético."
         },
         {
           "letter": "B",
-          "text": "Opción B",
+          "text": "La membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las células tienen membrana para regular el intercambio."
+        },
+        {
+          "letter": "C",
+          "text": "La pared celular y los cloroplastos",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "¡Exacto! Estas estructuras brindan rigidez y permiten la fotosíntesis en vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "El citoplasma",
+          "is_correct": false,
+          "feedback": "No, el citoplasma es el medio interno presente en todas las células."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Las células vegetales se distinguen por tener una pared celular rígida (de celulosa) que les da forma y cloroplastos, organelas donde ocurre la fotosíntesis. Las células animales carecen de ambas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-004",
-      "statement": "Identifique el elemento químico más abundante en la atmósfera terrestre.",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v5",
+      "statement": "Si las algas son organismos pluricelulares que realizan fotosíntesis pero no tienen tejidos especializados (como raíces o tallos), ¿por qué es importante clasificarlas correctamente en la biodiversidad?",
       "context": "",
       "options": [
         {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
           "letter": "A",
-          "text": "Opción A",
+          "text": "Porque si no tienen raíces no son seres vivos.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-005",
-      "statement": "¿Cuál es la función del ADN en las células?",
-      "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Incorrecto. La falta de un órgano específico no quita la condición de ser vivo."
         },
         {
           "letter": "B",
-          "text": "Opción B",
+          "text": "Porque permite entender su evolución y su relación con otros grupos de organismos.",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "¡Correcto! La clasificación científica refleja el parentesco y la historia evolutiva."
         },
         {
           "letter": "C",
-          "text": "Opción C",
+          "text": "Porque solo las plantas pueden estar en el mar.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Falso. Hay muchísimos organismos de distintos reinos en el mar."
         },
         {
-          "letter": "A",
-          "text": "Opción A",
+          "letter": "D",
+          "text": "Porque todas las algas son peligrosas para los humanos.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "No es cierto. Muchas algas son beneficiosas e incluso comestibles."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La clasificación biológica no es caprichosa; busca organizar la diversidad según características compartidas y ancestros comunes. Identificar que las algas difieren de las plantas terrestres ayuda a comprender la complejidad de la vida acuática.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-006",
-      "statement": "Defina el concepto de ecosistema.",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el rol fundamental de los microorganismos descomponedores (como hongos y bacterias) en el ciclo de la materia de un ecosistema argentino?",
       "context": "",
       "options": [
         {
-          "letter": "D",
-          "text": "Opción D",
+          "letter": "A",
+          "text": "Producir oxígeno para que las plantas respiren.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "No, esa es principalmente la función de los organismos fotosintéticos."
         },
         {
           "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
+          "text": "Servir de alimento principal para los grandes carnívoros.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "Incorrecto. Los carnívoros no se alimentan directamente de bacterias u hongos del suelo."
         },
         {
           "letter": "C",
-          "text": "Opción C",
+          "text": "Transformar la materia orgánica muerta en sustancias inorgánicas útiles para las plantas.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Reciclan los nutrientes para que vuelvan a entrar en la red trófica."
+        },
+        {
+          "letter": "D",
+          "text": "Calentar el suelo para que las semillas germinen más rápido.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "No, aunque la descomposición genera calor, no es su rol biológico fundamental."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Los descomponedores cierran el ciclo de la materia. Al degradar restos de animales y plantas, liberan minerales al suelo, permitiendo que las plantas (productores) vuelvan a utilizarlos para crecer.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-007",
-      "statement": "¿Qué tipo de energía almacena una batería?",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v7",
+      "statement": "¿A qué función vital corresponde la capacidad de los pingüinos de reaccionar ante el frío del ambiente y ajustar su cuerpo para sobrevivir?",
       "context": "",
       "options": [
         {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
           "letter": "A",
-          "text": "Opción A",
+          "text": "Nutrición",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "No, la nutrición se encarga de la obtención de energía y materia."
         },
         {
           "letter": "B",
-          "text": "Opción B",
+          "text": "Relación",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "¡Correcto! La función de relación permite detectar cambios externos y responder a ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Reproducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción asegura la continuidad de la especie, no la respuesta al frío."
+        },
+        {
+          "letter": "D",
+          "text": "Fotosíntesis",
+          "is_correct": false,
+          "feedback": "No, los animales no realizan fotosíntesis."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "La función de relación (o irritabilidad) es la que permite a los seres vivos recibir información del medio (estímulos, como el frío) y elaborar una respuesta adecuada para mantener su equilibrio interno.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-008",
-      "statement": "Explique la diferencia entre un elemento y un compuesto.",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la razón científica principal por la que los hongos pertenecen a un reino diferente (Fungi) al de las plantas (Plantae)?",
       "context": "",
       "options": [
         {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
           "letter": "A",
-          "text": "Opción A",
+          "text": "Porque los hongos son unicelulares y las plantas no.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-009",
-      "statement": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
-      "context": "",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-010",
-      "statement": "Describa el ciclo del agua en la naturaleza.",
-      "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Incorrecto. Hay hongos pluricelulares (como los champiñones)."
         },
         {
           "letter": "B",
-          "text": "Opción B",
+          "text": "Porque los hongos son heterótrofos por absorción y las plantas son autótrofas.",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-011",
-      "statement": "¿Qué órgano del cuerpo humano se encarga de bombear la sangre?",
-      "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "¡Correcto! Los hongos no fabrican su alimento; lo absorben de materia orgánica."
         },
         {
           "letter": "C",
-          "text": "Opción C",
+          "text": "Porque las plantas no tienen células y los hongos sí.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "Falso. Ambos están formados por células eucariotas."
         },
         {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "letter": "D",
+          "text": "Porque los hongos solo crecen en la oscuridad total.",
+          "is_correct": false,
+          "feedback": "No es cierto. Aunque muchos prefieren la sombra, no es su característica definitoria."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La diferencia clave es el modo de nutrición. Las plantas son autótrofas (fotosíntesis). Los hongos son heterótrofos: secretan enzimas para digerir materia orgánica externa y luego absorben los nutrientes.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-012",
-      "statement": "¿Cuál es el pH de una sustancia neutra?",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v9",
+      "statement": "Teniendo en cuenta la teoría celular, ¿cuál es el argumento más sólido para sostener que los virus NO son seres vivos?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Opción A",
+          "text": "Porque son muy pequeños y no se ven a simple vista.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
+          "feedback": "No, hay muchos seres vivos microscópicos (bacterias) que sí son considerados vivos."
         },
         {
           "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "text": "Porque no tienen sangre ni órganos internos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias tampoco tienen órganos y están vivas."
         },
         {
           "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "text": "Porque no poseen una estructura celular propia ni pueden reproducirse por sí mismos.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Necesitan infectar una célula viva para replicarse; no son autónomos."
         },
         {
           "letter": "D",
-          "text": "Opción D",
+          "text": "Porque siempre mueren cuando se usa jabón o alcohol.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "No, eso solo indica que son vulnerables a agentes químicos, no define su estatus vital."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La teoría celular establece que la célula es la unidad básica de la vida. Como los virus carecen de células y metabolismo propio (dependen de una célula huésped), la mayoría de los científicos los considera complejos supramoleculares, no seres vivos.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-013",
-      "statement": "Defina qué es la gravedad.",
-      "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-014",
-      "statement": "¿Qué gas producen las plantas durante la fotosíntesis?",
-      "context": "",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-015",
-      "statement": "Identifique la función del núcleo celular.",
-      "context": "",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-016",
-      "statement": "¿Cuál es la fórmula química del agua?",
+      "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo justificarías científicamente que la diversidad de seres vivos (desde bacterias hasta yacarés) es esencial para la salud de un ecosistema como el Iberá?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Opción A",
+          "text": "Porque cuantas más especies hay, más lindo se ve el paisaje para el turismo.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
+          "feedback": "Aunque es cierto, no es una justificación científica de funcionamiento biológico."
         },
         {
           "letter": "B",
-          "text": "Opción B",
+          "text": "Porque cada especie cumple una función (nicho) que permite el flujo de energía y el ciclo de nutrientes.",
           "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
+          "feedback": "¡Correcto! La interdependencia entre especies mantiene el equilibrio del ecosistema."
         },
         {
           "letter": "C",
-          "text": "Opción C",
+          "text": "Porque las especies más grandes siempre protegen a las más chicas de forma voluntaria.",
           "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-017",
-      "statement": "Explique qué causa las estaciones del año.",
-      "context": "",
-      "options": [
+          "feedback": "Falso. Las interacciones suelen ser de competencia, depredación o simbiosis, no \"protección voluntaria\"."
+        },
         {
           "letter": "D",
-          "text": "Opción D",
+          "text": "Porque si desaparecen los yacarés, las plantas crecerán mucho más rápido y habrá más selva.",
           "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        },
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
+          "feedback": "No necesariamente; la falta de un depredador puede causar una sobrepoblación de herbívoros que dañe las plantas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "explanation": "La biodiversidad garantiza que se cumplan todas las funciones ecológicas necesarias (producción, consumo, descomposición). La desaparición de una especie puede romper eslabones de las cadenas tróficas y desestabilizar el sistema completo.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-018",
-      "statement": "¿Qué es un hábitat?",
-      "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-019",
-      "statement": "Defina el concepto de densidad.",
-      "context": "",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-020",
-      "statement": "¿Cuál es la diferencia entre una reacción química exotérmica y endotérmica?",
-      "context": "",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Opción C",
-          "is_correct": false,
-          "feedback": "Incorrect. Common mistake, review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Opción D",
-          "is_correct": false,
-          "feedback": "Incorrect. Try applying the formula correctly."
-        },
-        {
-          "letter": "B",
-          "text": "Opción B",
-          "is_correct": true,
-          "feedback": "Correct. This is correct. Well done!"
-        },
-        {
-          "letter": "A",
-          "text": "Opción A",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the calculation steps carefully."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
