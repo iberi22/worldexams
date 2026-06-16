@@ -80,6 +80,17 @@ function normalizeForPreview(config) {
 function normalizeForProduction(config) {
   config.workers_dev = false;
   config.routes = normalizeProductionRoutes(config);
+
+  // Override vars with production-specific values (mirrors [env.production] in wrangler.toml)
+  config.vars = {
+    ...(config.vars ?? {}),
+    PUBLIC_API_BASE_URL: 'https://api.saberparatodos.space/v1',
+  };
+
+  if (publicSiteUrlOverride) {
+    config.vars.PUBLIC_SITE_URL = publicSiteUrlOverride;
+  }
+
   return config;
 }
 
