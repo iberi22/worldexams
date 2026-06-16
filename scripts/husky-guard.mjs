@@ -23,7 +23,11 @@ function unique(values) {
 
 function existingMarkdown(files) {
   return unique(files).filter(
-    (file) => file.startsWith("questions_data/") && file.endsWith(".md") && fs.existsSync(file),
+    (file) =>
+      file.startsWith("questions_data/") &&
+      file.endsWith(".md") &&
+      !file.endsWith("/README.md") &&
+      fs.existsSync(file),
   );
 }
 
