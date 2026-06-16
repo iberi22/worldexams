@@ -110,6 +110,16 @@ export async function prepareSoloExamQuestions(
   }
 
   if (filtered.length === 0) {
+    console.error('[Orchestrator] No questions after filtering', {
+      poolSize: pool.length,
+      grade: request.grade,
+      subject: request.subject,
+      examMode: request.examMode,
+      period: request.period,
+      hasInglesSubject: pool.some(q => String(q.category || '').toLowerCase().includes('ingl')),
+      sampleCategories: pool.slice(0, 5).map(q => q.category),
+      sampleGrades: pool.slice(0, 5).map(q => q.grade)
+    });
     throw new Error('No hay preguntas disponibles para esta configuración.');
   }
 
@@ -123,6 +133,18 @@ export async function prepareSoloExamQuestions(
   }
 
   if (validQuestions.length === 0) {
+    const sample = filtered.slice(0, 3).map(q => ({
+      id: q.id,
+      hasText: !!q.text,
+      hasCorrectId: !!q.correctOptionId,
+      optionsCount: q.options?.length,
+      sampleOption: q.options?.[0] ? { id: q.options[0].id, textLen: q.options[0].text?.length } : null
+    }));
+    console.error('[Orchestrator] All questions invalid (filterValidQuestions)', {
+      filteredCount: filtered.length,
+      invalidCount,
+      sample
+    });
     throw new Error('No se encontraron preguntas válidas con al menos 2 opciones.');
   }
 

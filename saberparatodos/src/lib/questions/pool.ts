@@ -25,7 +25,11 @@ export async function ensureBasePool(params: {
   const apiSubject = resolveApiSubject(subject);
   const inMemoryCount = loadedQuestions.filter((q) => q.grade === grade).filter((q) => {
     if (!apiSubject) return true;
-    return String(q.category || '').toLowerCase().includes(apiSubject.replace(/_/g, ' '));
+    return String(q.category || '')
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .includes(apiSubject.replace(/_/g, ' '));
   }).length;
 
   if (inMemoryCount >= threshold) {
