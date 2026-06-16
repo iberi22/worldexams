@@ -8,33 +8,37 @@
   },
   "questions": [
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v1",
-      "statement": "¿Cuál es la obra más emblemática de Salvador Salazar Arrué (Salarrué), que recopila cuentos sobre la vida campesina en El Salvador con un lenguaje regionalista?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v1",
+      "statement": "Alfredo Espino es conocido como \"el poeta niño\" y su obra es fundamental en la identidad salvadoreña. En su famoso poema \"Ascensión\", ¿qué elemento de la naturaleza salvadoreña se exalta principalmente?",
+      "context": "Poesía de Alfredo Espino.",
       "options": [
         {
           "letter": "A",
-          "text": "*El dinero maldito* <!-- feedback: Incorrecto. Esta obra es de Alberto Masferrer. -->",
-          "is_correct": false
+          "text": "El mar y los puertos pesqueros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra de Espino es eminentemente rural y montañesa, no se centra en la costa."
         },
         {
           "letter": "B",
-          "text": "*Cuentos de barro* <!-- feedback: Correcto. Es la obra fundamental del costumbrismo salvadoreño de Salarrué. -->",
-          "is_correct": true
+          "text": "El paisaje del campo y las cumbres de los volcanes.",
+          "is_correct": true,
+          "feedback": "Correcto. Espino destaca la belleza de la campiña salvadoreña, los nidos y las montañas en su obra \"Jícaras Tristes\"."
         },
         {
           "letter": "C",
-          "text": "*Jícaras tristes* <!-- feedback: Incorrecto. Esta es una colección de poemas de Alfredo Espino. -->",
-          "is_correct": false
+          "text": "La vida urbana en la capital San Salvador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su temática es bucólica y pastoril, alejada de la industrialización o el ruido urbano."
         },
         {
           "letter": "D",
-          "text": "*Un día en la vida* <!-- feedback: Incorrecto. Esta es una novela de Manlio Argueta sobre el conflicto armado. -->",
-          "is_correct": false
+          "text": "Los desiertos y zonas áridas del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Salvador no posee desiertos; su poesía celebra la fertilidad y el verde del paisaje local."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento de autores y obras fundamentales de la literatura nacional.\n\n---",
+      "explanation": "Identificación de las temáticas y el estilo del autor fundamental de la lírica salvadoreña del siglo XX.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -44,33 +48,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v2",
-      "statement": "Lea los siguientes versos de *Cañal en flor*:\n\"Eran mares los cañales / que yo contemplaba un día / (mi barca de fantasía / bogaba sobre esos mares)\".\n¿Con qué elemento de la naturaleza compara el autor a los cañales?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v2",
+      "statement": "Salarrué es una de las voces más originales de la narrativa salvadoreña. ¿Cuál es la característica principal del lenguaje utilizado en sus \"Cuentos de barro\"?",
+      "context": "Cuentos de barro de Salarrué.",
       "options": [
         {
           "letter": "A",
-          "text": "Con el cielo. <!-- feedback: Incorrecto. El autor usa la palabra \"mares\". -->",
-          "is_correct": false
+          "text": "Uso de un español culto y sofisticado con influencias francesas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salarrué huye del lenguaje académico para acercarse a la raíz popular."
         },
         {
           "letter": "B",
-          "text": "Con el mar. <!-- feedback: Correcto. Usa la metáfora de los \"mares\" para describir la extensión y el movimiento de los cañaverales. -->",
-          "is_correct": true
+          "text": "Recreación del habla popular y el lenguaje del campesino salvadoreño.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor utiliza regionalismos y giros idiomáticos locales para dar autenticidad a sus personajes."
         },
         {
           "letter": "C",
-          "text": "Con una barca. <!-- feedback: Incorrecto. La barca es su fantasía que navega sobre ellos. -->",
-          "is_correct": false
+          "text": "Lenguaje técnico y científico propio de la arqueología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su interés es estético y humano, no técnico o científico."
         },
         {
           "letter": "D",
-          "text": "Con flores. <!-- feedback: Incorrecto. Aunque el título menciona flores, los versos citados usan la metáfora del mar. -->",
-          "is_correct": false
+          "text": "Traducción directa de textos antiguos en náhuat.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque rescata lo indígena, su obra es una creación literaria original en castellano regional."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de metáforas básicas en la lírica tradicional salvadoreña.\n\n---",
+      "explanation": "Comprensión de la técnica narrativa y el uso del registro coloquial regional en la literatura costumbrista.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -80,33 +88,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v3",
-      "statement": "En su obra *El Mínimum Vital*, ¿cuál es la propuesta central de Alberto Masferrer para la sociedad?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v3",
+      "statement": "Un texto publicado en un periódico salvadoreño que analiza y comenta un tema de actualidad desde el punto de vista del consejo de redacción, sin firma individual, se denomina:",
+      "context": "Conceptos de tipología textual.",
       "options": [
         {
           "letter": "A",
-          "text": "Que todos los ciudadanos deben ser ricos. <!-- feedback: Incorrecto. No habla de riqueza, sino de necesidades básicas. -->",
-          "is_correct": false
+          "text": "Crónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica es una narración detallada de hechos firmada por un autor."
         },
         {
           "letter": "B",
-          "text": "Que el Estado y la sociedad deben garantizar a cada persona lo mínimo necesario para vivir con dignidad. <!-- feedback: Correcto. Esta es la esencia del pensamiento vitalista de Masferrer. -->",
-          "is_correct": true
+          "text": "Editorial",
+          "is_correct": true,
+          "feedback": "Correcto. El editorial refleja la postura oficial del periódico sobre un tema de interés nacional."
         },
         {
           "letter": "C",
-          "text": "Que el ejército debe gobernar para mantener el orden. <!-- feedback: Incorrecto. Masferrer se centraba en reformas sociales y éticas. -->",
-          "is_correct": false
+          "text": "Reportaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje es un trabajo de investigación extenso y descriptivo, no necesariamente de opinión institucional."
         },
         {
           "letter": "D",
-          "text": "Que la religión es la única forma de salvar al país. <!-- feedback: Incorrecto. Aunque tenía una base ética, su propuesta era sociopolítica. -->",
-          "is_correct": false
+          "text": "Columna de opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna lleva la firma de un autor particular y representa su opinión personal, no la del diario."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de las ideas principales de los ensayistas nacionales.\n\n---",
+      "explanation": "Diferenciación de los géneros periodísticos de opinión y sus características institucionales.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -116,33 +128,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v4",
-      "statement": "En la literatura salvadoreña clásica, es común encontrar la palabra \"cipote\". ¿Qué significa en nuestro contexto?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v4",
+      "statement": "\"Las nubes son como blancos algodones que viajan hacia el Volcán de Izalco\". ¿Qué figura retórica se utiliza en esta descripción?",
+      "context": "Figuras retóricas en la poesía.",
       "options": [
         {
           "letter": "A",
-          "text": "Un tipo de árbol frutal. <!-- feedback: Incorrecto. Se refiere a personas. -->",
-          "is_correct": false
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se está exagerando una cualidad de forma desmedida para enfatizar."
         },
         {
           "letter": "B",
-          "text": "Niño, muchacho o jovencito. <!-- feedback: Correcto. Es el término coloquial y literario para referirse a la infancia o juventud. -->",
-          "is_correct": true
+          "text": "Símil",
+          "is_correct": true,
+          "feedback": "Correcto. Se establece una comparación directa utilizando el nexo \"como\" entre las nubes y el algodón."
         },
         {
           "letter": "C",
-          "text": "Una herramienta de agricultura. <!-- feedback: Incorrecto. No es un objeto. -->",
-          "is_correct": false
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se atribuyen cualidades humanas a las nubes o al volcán en esta frase."
         },
         {
           "letter": "D",
-          "text": "Un líder de la comunidad. <!-- feedback: Incorrecto. No implica necesariamente liderazgo. -->",
-          "is_correct": false
+          "text": "Metonimia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una sustitución de un término por otro con el que guarde relación de causa o procedencia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de variantes léxicas características del habla salvadoreña presentes en la literatura.\n\n---",
+      "explanation": "Identificación de recursos literarios básicos en textos descriptivos.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -152,33 +168,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v5",
-      "statement": "En muchos de los *Cuentos de barro*, la naturaleza parece tener sentimientos o actuar como un personaje más. ¿Cómo se llama este recurso literario?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v5",
+      "statement": "La \"Generación del 44\" en El Salvador tuvo un papel crucial en la historia política y literaria. ¿Cuál era el objetivo principal de este grupo de intelectuales y escritores?",
+      "context": "Generación del 44.",
       "options": [
         {
           "letter": "A",
-          "text": "Hipérbaton <!-- feedback: Incorrecto. El hipérbaton es la alteración del orden lógico de las palabras. -->",
-          "is_correct": false
+          "text": "Promover únicamente el arte por el arte y la evasión de la realidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este grupo se caracterizó por su compromiso social, no por el esteticismo puro."
         },
         {
           "letter": "B",
-          "text": "Personificación (Prosopopeya) <!-- feedback: Correcto. Salarrué dota de vida y rasgos humanos a elementos del paisaje salvadoreño. -->",
-          "is_correct": true
+          "text": "Denunciar la dictadura del general Maximiliano Hernández Martínez y luchar por la democracia.",
+          "is_correct": true,
+          "feedback": "Correcto. Autores como Oswaldo Escobar Velado utilizaron su pluma para la crítica social y política."
         },
         {
           "letter": "C",
-          "text": "Aliteración <!-- feedback: Incorrecto. La aliteración es la repetición de sonidos. -->",
-          "is_correct": false
+          "text": "Traducir obras clásicas griegas al lenguaje popular salvadoreño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su enfoque era la realidad nacional inmediata, no el clasicismo."
         },
         {
           "letter": "D",
-          "text": "Epíteto <!-- feedback: Incorrecto. El epíteto es un adjetivo que resalta una cualidad intrínseca. -->",
-          "is_correct": false
+          "text": "Fomentar el uso de la tecnología en la agricultura del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Era un movimiento intelectual y artístico con fines de liberación política, no técnica."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento de figuras literarias predominantes en el estilo de autores nacionales.\n\n---",
+      "explanation": "Comprensión de los movimientos literarios vinculados a los procesos históricos de El Salvador.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -188,33 +208,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v6",
-      "statement": "\"¡Dos alas!... ¿Quién tuviera dos alas para el vuelo? / Esta tarde, en la cumbre, casi hemos tocado el cielo\".\n¿Qué sentimiento predomina en estos versos de Espino?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v6",
+      "statement": "¿Cuál de los siguientes conectores es el más adecuado para indicar una consecuencia en la siguiente oración?\n\"El volcán aumentó su actividad sísmica; __________, las autoridades ordenaron la evacuación preventiva de las zonas cercanas\".",
+      "context": "Cohesión y conectores.",
       "options": [
         {
           "letter": "A",
-          "text": "Desesperación y miedo. <!-- feedback: Incorrecto. El tono es elevado y aspiracional. -->",
-          "is_correct": false
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este conector indica oposición, lo cual no es lógico en este contexto de causa-efecto."
         },
         {
           "letter": "B",
-          "text": "Anhelo de libertad y trascendencia. <!-- feedback: Correcto. El deseo de volar y \"tocar el cielo\" refleja una elevación espiritual. -->",
-          "is_correct": true
+          "text": "Por lo tanto",
+          "is_correct": true,
+          "feedback": "Correcto. Introduce de manera coherente la consecuencia lógica de la actividad sísmica."
         },
         {
           "letter": "C",
-          "text": "Odio hacia la ciudad. <!-- feedback: Incorrecto. El poema se centra en la montaña y el vuelo, no en el odio urbano. -->",
-          "is_correct": false
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al igual que \"sin embargo\", indica una contraposición de ideas."
         },
         {
           "letter": "D",
-          "text": "Indiferencia ante la belleza natural. <!-- feedback: Incorrecto. El autor está claramente conmovido por la cumbre. -->",
-          "is_correct": false
+          "text": "Además",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utiliza para añadir información adicional del mismo nivel, no para explicar un resultado."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación del tono y la intención comunicativa en la poesía lírica.\n\n---",
+      "explanation": "Uso de conectores lógicos para la construcción de textos coherentes y cohesionados.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -224,33 +248,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v7",
-      "statement": "Roque Dalton es conocido por su \"Poesía de combate\". ¿Cuál era el objetivo principal de su obra según sus propios planteamientos?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v7",
+      "statement": "De acuerdo con las reglas de acentuación, ¿por qué la palabra \"volcán\" lleva tilde?",
+      "context": "Ortografía: Uso de la tilde.",
       "options": [
         {
           "letter": "A",
-          "text": "Escribir poemas de amor romántico tradicional. <!-- feedback: Incorrecto. Dalton rompió con el romanticismo para enfocarse en lo social. -->",
-          "is_correct": false
+          "text": "Porque es una palabra esdrújula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las esdrújulas tienen la fuerza de voz en la antepenúltima sílaba."
         },
         {
           "letter": "B",
-          "text": "Describir únicamente los volcanes de El Salvador. <!-- feedback: Incorrecto. Usó el paisaje pero con fines políticos. -->",
-          "is_correct": false
+          "text": "Porque es una palabra grave terminada en consonante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las graves llevan tilde si NO terminan en n, s o vocal."
         },
         {
           "letter": "C",
-          "text": "Denunciar las injusticias sociales y llamar a la transformación política del país. <!-- feedback: Correcto. Su obra está profundamente ligada a su activismo revolucionario. -->",
-          "is_correct": true
+          "text": "Porque es una palabra aguda terminada en \"n\".",
+          "is_correct": true,
+          "feedback": "Correcto. Las agudas llevan tilde cuando terminan en vocal, n o s."
         },
         {
           "letter": "D",
-          "text": "Ganar premios literarios en Europa. <!-- feedback: Incorrecto. Aunque ganó premios, su fin era la lucha social. -->",
-          "is_correct": false
+          "text": "Porque presenta un hiato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un encuentro de vocales que requiera tilde por hiato acentual en esta palabra."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nComprensión de la función social de la literatura en la generación de la posguerra.\n\n---",
+      "explanation": "Aplicación de las reglas generales de acentuación gráfica en español.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -260,33 +288,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v8",
-      "statement": "\"La gesta de 1932 dejó una impronta indeleble en la memoria colectiva del campesinado salvadoreño.\"\n¿Qué significa la palabra subrayada en este contexto?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v8",
+      "statement": "En un ensayo sobre la importancia de las remesas en la economía salvadoreña, el autor afirma: \"Las remesas son un tanque de oxígeno para muchas familias, pero también una señal de nuestra incapacidad para generar empleos locales\". ¿Qué tipo de relación establece el autor con el uso del conector \"pero\"?",
+      "context": "Análisis de textos argumentativos.",
       "options": [
         {
           "letter": "A",
-          "text": "Un dibujo artístico. <!-- feedback: Incorrecto. No es una representación gráfica literal. -->",
-          "is_correct": false
+          "text": "Adición",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está sumando dos ideas positivas o negativas del mismo tipo."
         },
         {
           "letter": "B",
-          "text": "Una huella, marca o efecto profundo. <!-- feedback: Correcto. Se refiere al impacto histórico que no se puede borrar. -->",
-          "is_correct": true
+          "text": "Contraste o adversidad",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta una visión ambivalente: el beneficio inmediato frente a la falla estructural de fondo."
         },
         {
           "letter": "C",
-          "text": "Una mentira o mito. <!-- feedback: Incorrecto. Se refiere a un hecho real y su impacto. -->",
-          "is_correct": false
+          "text": "Explicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está aclarando el término \"remesas\", sino contraponiendo una realidad social."
         },
         {
           "letter": "D",
-          "text": "Un documento oficial del gobierno. <!-- feedback: Incorrecto. Se refiere a la memoria, no a un papel. -->",
-          "is_correct": false
+          "text": "Temporalidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica un orden de sucesos en el tiempo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación de términos cultos en el análisis de textos históricos y literarios.\n\n---",
+      "explanation": "Interpretación de las relaciones lógicas entre las ideas en un texto argumentativo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -296,142 +328,38 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v9",
-      "statement": "Claudia Lars, en obras como *Tierra de infancia*, suele evocar:",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v9",
+      "statement": "En la oración \"Los poetas de la Generación Comprometida escribieron versos cargados de esperanza\", ¿cuál es el núcleo del sujeto?",
+      "context": "Sintaxis: El sujeto.",
       "options": [
         {
           "letter": "A",
-          "text": "La guerra y la tecnología moderna. <!-- feedback: Incorrecto. Su obra es más lírica y nostálgica. -->",
-          "is_correct": false
+          "text": "Los poetas de la Generación Comprometida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el sujeto completo (sintagma nominal), no solo el núcleo."
         },
         {
           "letter": "B",
-          "text": "Los recuerdos de la niñez, la magia de lo cotidiano y la naturaleza salvadoreña. <!-- feedback: Correcto. Es una de las voces más delicadas y profundas de la lírica nacional. -->",
-          "is_correct": true
+          "text": "Generación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es parte de un complemento del nombre, no el núcleo del sujeto principal."
         },
         {
           "letter": "C",
-          "text": "Críticas severas al sistema bancario. <!-- feedback: Incorrecto. No es su temática principal. -->",
-          "is_correct": false
+          "text": "Poetas",
+          "is_correct": true,
+          "feedback": "Correcto. Es el sustantivo principal que realiza la acción del verbo."
         },
         {
           "letter": "D",
-          "text": "Historias de piratas en el Puerto de La Unión. <!-- feedback: Incorrecto. No escribió sobre esa temática. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento de las temáticas y el estilo de figuras femeninas clave en la literatura.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v10",
-      "statement": "\"El alcohol es la fuente de todas nuestras desgracias; por él, el obrero olvida a su familia y el campesino pierde su tierra.\"\n¿Qué intención predomina en este texto de Masferrer?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Informativa, describiendo cómo se fabrica el alcohol. <!-- feedback: Incorrecto. No describe procesos, juzga consecuencias. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Moralizante y educativa, buscando corregir vicios sociales. <!-- feedback: Correcto. Masferrer tenía una fuerte vocación pedagógica y ética en sus escritos. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "Recreativa, buscando entretener al lector con historias de bares. <!-- feedback: Incorrecto. El tono es serio y de denuncia. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Científica, analizando los componentes químicos de la bebida. <!-- feedback: Incorrecto. Es un análisis social y moral. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de la intención comunicativa y el tono del autor.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v11",
-      "statement": "En *Un día en la vida*, la narración recae principalmente en voces femeninas (como la de Guadalupe Guardado). ¿Qué efecto busca lograr el autor con esta técnica narrativa?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Demostrar que las mujeres no entendían la guerra. <!-- feedback: Incorrecto. Al contrario, son las que mejor la describen desde la cotidianidad. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Humanizar el conflicto armado desde la perspectiva doméstica y la resistencia cotidiana. <!-- feedback: Correcto. Permite ver el impacto social de la violencia en las familias rurales. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "Hacer que la novela sea más corta y simple. <!-- feedback: Incorrecto. La técnica polifónica la hace más compleja. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Evitar hablar de política directamente. <!-- feedback: Incorrecto. El relato es profundamente político a través de lo personal. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de técnicas narrativas y su relación con el contenido sociopolítico de la obra.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v12",
-      "statement": "\"El salvadoreño es, por definición, un ser en tránsito; la migración no es solo un fenómeno económico, es nuestra forma de estar en el mundo.\"\n¿Qué tesis sostiene el autor sobre la identidad nacional?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que los salvadoreños no quieren a su país. <!-- feedback: Incorrecto. No habla de falta de amor, sino de una condición de movilidad. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Que el problema de la economía se resuelve viajando. <!-- feedback: Incorrecto. El autor dice que va \"más allá de lo económico\". -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "Que la migración es un rasgo constitutivo y cultural de la identidad del país. <!-- feedback: Correcto. Define al salvadoreño como un \"ser en tránsito\". -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "Que nadie debería salir de las fronteras nacionales. <!-- feedback: Incorrecto. No es una prescripción, sino una descripción de la realidad. -->",
-          "is_correct": false
+          "text": "Versos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el núcleo del objeto directo, no del sujeto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEvaluación de tesis centrales en textos ensayísticos contemporáneos.\n\n---",
-      "difficulty": "8",
+      "explanation": "Identificación del núcleo del sujeto en oraciones con complementos nominales.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
@@ -440,34 +368,38 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v13",
-      "statement": "En su famoso *Poema de Amor*, Dalton define a los salvadoreños como: \"los hacelotodo, los vendelotodo, los comelotodo... los mejores artesanos del mundo...\". ¿Qué tono utiliza y qué busca resaltar?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v10",
+      "statement": "El libro \"Un día en la vida\" de Manlio Argueta es un ejemplo del género testimonial. ¿Cuál es el propósito fundamental de este tipo de literatura?",
+      "context": "El género del testimonio en El Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Un tono solemne y aburrido que resalta la historia antigua. <!-- feedback: Incorrecto. El tono es ágil y hasta irónico. -->",
-          "is_correct": false
+          "text": "Entretener al lector con historias de fantasía y dragones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su base es la realidad histórica y social, no la fantasía."
         },
         {
           "letter": "B",
-          "text": "Un tono irónico y coloquial que resalta la capacidad de sobrevivencia y la laboriosidad del pueblo. <!-- feedback: Correcto. Es un homenaje a la \"rebusca\" y el esfuerzo del salvadoreño común. -->",
-          "is_correct": true
+          "text": "Dar voz a los sectores marginados y denunciar injusticias sociales.",
+          "is_correct": true,
+          "feedback": "Correcto. El testimonio busca documentar la realidad desde la perspectiva de quienes la vivieron directamente."
         },
         {
           "letter": "C",
-          "text": "Un tono de burla cruel contra la pobreza. <!-- feedback: Incorrecto. Es un poema de amor (a su pueblo), no de burla. -->",
-          "is_correct": false
+          "text": "Explicar las reglas de los juegos tradicionales salvadoreños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un manual de juegos o tradiciones lúdicas."
         },
         {
           "letter": "D",
-          "text": "Un tono científico para clasificar tipos de trabajadores. <!-- feedback: Incorrecto. Es un texto poético y político. -->",
-          "is_correct": false
+          "text": "Promover la venta de productos agrícolas en el extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su fin es social y político, no comercial o publicitario."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis del tono, el registro y la intención en la poesía social.\n\n---",
-      "difficulty": "8",
+      "explanation": "Reconocimiento de las funciones y características del género testimonial en la literatura centroamericana.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
@@ -476,69 +408,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v14",
-      "statement": "\"Tras la firma de los Acuerdos de Paz, surgió una nueva narrativa que cuestionaba los grandes relatos heroicos. _______, los escritores se enfocaron más en el desencanto urbano y la marginalidad.\"\n¿Cuál conector lógico completa mejor el sentido de la relación?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v11",
+      "statement": "Roque Dalton es una de las figuras más influyentes de la literatura salvadoreña. En su obra \"Poema de Amor\", ¿cómo describe el poeta a sus compatriotas?",
+      "context": "Roque Dalton.",
       "options": [
         {
           "letter": "A",
-          "text": "Sin embargo <!-- feedback: Incorrecto. No hay oposición, hay continuidad de la idea. -->",
-          "is_correct": false
+          "text": "Como personas ricas y poderosas que dominan la región.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, resalta su condición de trabajadores, migrantes y sufridos."
         },
         {
           "letter": "B",
-          "text": "A pesar de ello <!-- feedback: Incorrecto. Indica concesión. -->",
-          "is_correct": false
+          "text": "Como los \"hace-lo-todo\", los \"vende-lo-todo\", resaltando su laboriosidad y lucha diaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza la ironía y el cariño para describir la resiliencia y el esfuerzo del pueblo salvadoreño."
         },
         {
           "letter": "C",
-          "text": "En consecuencia <!-- feedback: Correcto. El enfoque en el desencanto es resultado del cuestionamiento de los relatos heroicos. -->",
-          "is_correct": true
+          "text": "Como seres mitológicos que viven en los volcanes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su poesía es profundamente humana y terrenal, no mitológica en ese sentido."
         },
         {
           "letter": "D",
-          "text": "Por el contrario <!-- feedback: Incorrecto. Indica contraste total. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nUso de conectores para establecer relaciones de causa-efecto en el análisis literario.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v15",
-      "statement": "Una caricatura muestra a un estudiante graduándose con un título en una mano y una maleta hacia el aeropuerto en la otra. ¿Qué fenómeno social de la literatura contemporánea salvadoreña se está representando?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El éxito del sistema educativo nacional. <!-- feedback: Incorrecto. La maleta sugiere que el éxito no se encuentra en el país. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "La \"fuga de cerebros\" y la falta de oportunidades laborales para los profesionales. <!-- feedback: Correcto. Representa la paradoja de estudiar para luego tener que migrar. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "El deseo de los jóvenes de irse de vacaciones tras estudiar mucho. <!-- feedback: Incorrecto. El contexto de maleta y título suele aludir a migración, no a turismo. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "La globalización de la educación superior. <!-- feedback: Incorrecto. Es una crítica a la realidad nacional, más que un elogio a la globalización. -->",
-          "is_correct": false
+          "text": "Como enemigos de la cultura y la educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dalton exalta la identidad y el valor del pueblo, no lo critica como enemigo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación de sátira y simbolismo visual en temas de actualidad nacional.\n\n---",
+      "explanation": "Interpretación de la visión del autor sobre la identidad nacional y la condición social.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -548,33 +448,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v16",
-      "statement": "Mientras Alfredo Espino idealiza el paisaje salvadoreño en su poesía, Roque Dalton lo utiliza como escenario de conflicto social. ¿Qué diferencia fundamental de perspectiva se observa?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v12",
+      "statement": "En su ensayo \"El mínimum vital\", Alberto Masferrer propone que todo ser humano tiene derecho a un nivel básico de vida digna. ¿Cuál es el valor ético central de su propuesta?",
+      "context": "El ensayo \"El mínimum vital\" de Alberto Masferrer.",
       "options": [
         {
           "letter": "A",
-          "text": "Espino era mejor poeta que Dalton. <!-- feedback: Incorrecto. Son juicios de valor subjetivos. -->",
-          "is_correct": false
+          "text": "La acumulación de riqueza individual sobre todas las cosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Masferrer critica el egoísmo y propone la solidaridad social."
         },
         {
           "letter": "B",
-          "text": "Espino tiene una mirada lírico-nostálgica, mientras que Dalton tiene una mirada dialéctico-política. <!-- feedback: Correcto. Uno busca la belleza del paisaje y el otro la realidad de quienes lo habitan. -->",
-          "is_correct": true
+          "text": "La justicia social y la responsabilidad del Estado y los ciudadanos hacia los más pobres.",
+          "is_correct": true,
+          "feedback": "Correcto. El \"Vitalismo\" de Masferrer busca asegurar que nadie carezca de lo esencial para vivir."
         },
         {
           "letter": "C",
-          "text": "Espino escribía en inglés y Dalton en español. <!-- feedback: Incorrecto. Ambos escribían en español. -->",
-          "is_correct": false
+          "text": "El derecho de los más fuertes a dominar la sociedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su pensamiento es humanista y opuesto a cualquier forma de opresión."
         },
         {
           "letter": "D",
-          "text": "Espino solo escribía sobre la playa y Dalton sobre la montaña. <!-- feedback: Incorrecto. Ambos trataron diversos paisajes nacionales. -->",
-          "is_correct": false
+          "text": "La importancia de viajar por el mundo para conocer otras culturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centra en la necesidad de resolver el hambre y la miseria en la propia tierra."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis comparativo de visiones estéticas y filosóficas en la historia literaria del país.\n\n---",
+      "explanation": "Evaluación de las ideas filosóficas y sociales de los pensadores fundamentales de El Salvador.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -584,33 +488,197 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v17",
-      "statement": "\"Escribir en El Salvador es un acto de terquedad. En un país que lee poco y olvida rápido, la literatura es el último refugio de la verdad frente al ruido de las redes sociales.\"\n¿Qué juicio de valor emite el autor sobre la función de la literatura en la actualidad?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v13",
+      "statement": "En El Salvador, el uso del \"vos\" es predominante en la comunicación cotidiana. ¿Cómo se denomina este fenómeno lingüístico?",
+      "context": "Variedades de la lengua: El voseo.",
       "options": [
         {
           "letter": "A",
-          "text": "Que la literatura es obsoleta y nadie debería escribir. <!-- feedback: Incorrecto. El autor defiende su importancia como \"refugio\". -->",
-          "is_correct": false
+          "text": "Tutueo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe este término en la gramática española."
         },
         {
           "letter": "B",
-          "text": "Que la literatura cumple una función ética de preservación de la memoria y la verdad. <!-- feedback: Correcto. La opone al olvido y al ruido informativo. -->",
-          "is_correct": true
+          "text": "Voseo",
+          "is_correct": true,
+          "feedback": "Correcto. Es el empleo del pronombre \"vos\" y sus formas verbales correspondientes para la segunda persona del singular."
         },
         {
           "letter": "C",
-          "text": "Que los escritores son personas muy adineradas. <!-- feedback: Incorrecto. Habla de \"terquedad\", lo que sugiere dificultad, no riqueza. -->",
-          "is_correct": false
+          "text": "Ustedeo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ustedeo es el uso de \"usted\", que también se usa en el país pero de forma más formal."
         },
         {
           "letter": "D",
-          "text": "Que las redes sociales son mejores que los libros para conocer la verdad. <!-- feedback: Incorrecto. Dice que la literatura es el refugio frente a ese ruido. -->",
-          "is_correct": false
+          "text": "Leísmo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El leísmo es el uso de \"le\" en lugar de \"lo\" o \"la\" como objeto directo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de la postura del autor frente a los desafíos de la cultura contemporánea.\n\n---",
+      "explanation": "Identificación de las variedades dialectales y el uso de pronombres en la región centroamericana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "SV-LEN-11-P1-lectura-001-v14",
+      "statement": "La novela \"El asco\" de Castellanos Moya generó una gran polémica en El Salvador. ¿Cuál es el recurso estilístico principal que utiliza el autor para criticar la cultura salvadoreña de la posguerra?",
+      "context": "Crítica a la obra \"El asco\" de Horacio Castellanos Moya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción romántica e idealizada de los paisajes de montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra es una crítica feroz y no tiene nada de romántica."
+        },
+        {
+          "letter": "B",
+          "text": "La diatriba o el monólogo lleno de odio y rechazo hacia las tradiciones locales.",
+          "is_correct": true,
+          "feedback": "Correcto. A través de un personaje que regresa del exilio, el autor cuestiona con dureza la identidad nacional."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de poemas cortos en náhuat intercalados en la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza este recurso lingüístico."
+        },
+        {
+          "letter": "D",
+          "text": "La inclusión de recetas de cocina tradicional para resaltar la cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica incluso la gastronomía local en esta obra específica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de las tendencias literarias contemporáneas (posguerra) y su ruptura con el nacionalismo tradicional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "SV-LEN-11-P1-lectura-001-v15",
+      "statement": "Indica la función del \"se\" en la siguiente oración: \"Se prohibe tirar basura en este parque nacional\".",
+      "context": "Valores del \"se\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se reflexivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de prohibir no recae sobre el mismo sujeto que la realiza."
+        },
+        {
+          "letter": "B",
+          "text": "Se de pasiva refleja",
+          "is_correct": true,
+          "feedback": "Correcto. Equivale a \"Tirar basura es prohibido\". El sujeto gramatical es \"tirar basura\"."
+        },
+        {
+          "letter": "C",
+          "text": "Se impersonal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque parecida, en este caso hay un sujeto paciente explícito."
+        },
+        {
+          "letter": "D",
+          "text": "Se recíproco",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay dos sujetos que realicen la acción el uno sobre el otro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciación de los valores gramaticales del pronombre \"se\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "SV-LEN-11-P1-lectura-001-v16",
+      "statement": "En un texto editorial sobre la migración, el autor utiliza frecuentemente el pronombre \"nosotros\" al referirse a las causas del problema. ¿Qué efecto busca producir en el lector?",
+      "context": "Análisis de la intención comunicativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Culpar al lector directamente de los problemas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca la culpabilización individual sino la responsabilidad colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Generar un sentido de identidad y responsabilidad compartida ante el fenómeno migratorio.",
+          "is_correct": true,
+          "feedback": "Correcto. Al usar el plural inclusivo, el autor involucra a toda la sociedad en la solución."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que el autor es el único que tiene la verdad sobre el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"nosotros\" democratiza la opinión, no la monopoliza."
+        },
+        {
+          "letter": "D",
+          "text": "Excluir a los extranjeros de la discusión sobre el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco es la unión interna de la nación ante un desafío común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación del uso de marcas de modalización y recursos de cohesión para la persuasión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "SV-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "SV-LEN-11-P1-lectura-001-v17",
+      "statement": "Claudia Lars es una de las mayores poetisas de El Salvador. En su obra \"Tierra de Infancia\", logra una síntesis perfecta entre lo real y lo poético. ¿Cuál es el valor fundamental de esta obra para la memoria colectiva del país?",
+      "context": "Claudia Lars y el mundo mágico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionar un mapa detallado de las carreteras de El Salvador en 1950.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un texto cartográfico o técnico."
+        },
+        {
+          "letter": "B",
+          "text": "Rescatar la infancia y la tradición oral como fuentes de identidad y belleza.",
+          "is_correct": true,
+          "feedback": "Correcto. La obra es una evocación lírica de su niñez en Sonsonate, llena de símbolos culturales."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar la falta de industrias en los pueblos pequeños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su visión es poética y nostálgica, no económica o industrial."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar cómo cultivar flores de forma científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ama la naturaleza, su enfoque es estético y no técnico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de la obra de los autores fundamentales en la construcción del imaginario nacional.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -620,33 +688,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v18",
-      "statement": "La narrativa de Castellanos Moya (como en *El Asco*) se caracteriza por una crítica feroz y descarnada a la cultura salvadoreña post-guerra. ¿Cuál es la reacción que busca provocar en el lector?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v18",
+      "statement": "Si debes escribir un ensayo sobre \"La literatura como espejo del conflicto armado en El Salvador\", ¿cuál de las siguientes opciones representa una tesis bien formulada?",
+      "context": "Formulación de tesis para ensayo.",
       "options": [
         {
           "letter": "A",
-          "text": "Un sentimiento de orgullo patriótico profundo. <!-- feedback: Incorrecto. Su obra es deliberadamente antipatriótica en el sentido tradicional. -->",
-          "is_correct": false
+          "text": "El conflicto armado en El Salvador duró doce años y terminó con la firma de los Acuerdos de Paz en 1992.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho histórico objetivo, no una tesis que defienda una postura para debatir."
         },
         {
           "letter": "B",
-          "text": "Una ruptura con la complacencia y un cuestionamiento de los mitos nacionales. <!-- feedback: Correcto. Busca incomodar para forzar una reflexión crítica sobre la sociedad. -->",
-          "is_correct": true
+          "text": "La narrativa salvadoreña de la posguerra funciona como un espacio de duelo y reconstrucción de la memoria histórica frente al olvido oficial.",
+          "is_correct": true,
+          "feedback": "Correcto. Propone una interpretación del papel de la literatura y establece una postura clara para ser argumentada."
         },
         {
           "letter": "C",
-          "text": "El deseo de aprender a cocinar platos típicos. <!-- feedback: Incorrecto. No es una temática de su obra. -->",
-          "is_correct": false
+          "text": "Hubo muchos escritores que murieron durante la guerra y por eso ahora no hay tantos libros en las librerías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una generalización simplista y difícil de sustentar académicamente."
         },
         {
           "letter": "D",
-          "text": "Indiferencia absoluta ante los problemas del país. <!-- feedback: Incorrecto. Su crítica es tan fuerte que busca precisamente evitar la indiferencia. -->",
-          "is_correct": false
+          "text": "La guerra fue mala para todos los salvadoreños porque se destruyeron muchos edificios y escuelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un juicio de valor obvio que no profundiza en la relación literatura-historia solicitada."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nCapacidad de identificar la intencionalidad estética y comunicativa de la narrativa de ruptura.\n\n---",
+      "explanation": "Capacidad de formular tesis académicas coherentes y argumentables sobre temas de literatura e historia nacional.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -656,33 +728,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v19",
-      "statement": "\"El voseo, lejos de desaparecer con la globalización digital, se ha fortalecido en los chats y redes sociales como una marca de identidad y cercanía que nos diferencia de otros países hispanohablantes.\"\n¿Cuál es la premisa del autor sobre la evolución del lenguaje?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v19",
+      "statement": "Un análisis crítico de la realidad salvadoreña afirma: \"Somos un país que vive en el futuro de sus promesas tecnológicas y en el pasado de sus traumas sociales\". ¿Qué contradicción fundamental señala esta frase?",
+      "context": "Análisis de discursos contemporáneos.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el internet destruye las tradiciones lingüísticas. <!-- feedback: Incorrecto. El autor dice que el voseo se ha \"fortalecido\". -->",
-          "is_correct": false
+          "text": "Que los salvadoreños no saben usar las computadoras nuevas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretación literal superficial de una metáfora social."
         },
         {
           "letter": "B",
-          "text": "Que las nuevas tecnologías pueden servir como herramientas de reafirmación de rasgos dialectales propios. <!-- feedback: Correcto. El voseo se usa como \"marca de identidad\" en el entorno digital. -->",
-          "is_correct": true
+          "text": "La brecha entre el deseo de modernización rápida y las heridas históricas no resueltas de la sociedad.",
+          "is_correct": true,
+          "feedback": "Correcto. Apunta a la tensión entre la imagen de modernidad y los problemas estructurales y de memoria que persisten."
         },
         {
           "letter": "C",
-          "text": "Que el \"tú\" es mejor que el \"vos\" para hablar por internet. <!-- feedback: Incorrecto. El texto resalta el valor del voseo. -->",
-          "is_correct": false
+          "text": "Que el pasado era mejor porque no había tecnología que distrajera a la gente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no hace un juicio de valor positivo sobre el pasado, lo describe como un \"trauma\"."
         },
         {
           "letter": "D",
-          "text": "Que en El Salvador ya nadie habla correctamente. <!-- feedback: Incorrecto. El autor ve el voseo como una evolución válida y fuerte, no como error. -->",
-          "is_correct": false
+          "text": "Que el gobierno debe comprar más servidores para guardar la historia del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretación técnica errónea de un planteamiento sociológico."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de argumentos sobre sociolingüística e identidad en la era digital.\n\n---",
+      "explanation": "Evaluación de las implicaciones ideológicas y sociales en textos argumentativos y críticos complejos.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -692,33 +768,37 @@
       "cefr_level": null
     },
     {
-      "id": "SV-LEN-11-P1-literatura-salvadorena-001-v20",
-      "statement": "Si comparamos los mitos de la tradición oral (como la Siguanaba o el Cipitío) con su tratamiento en la literatura moderna de terror, ¿qué transformación se observa en la función de estos personajes?",
-      "context": "",
+      "id": "SV-LEN-11-P1-lectura-001-v20",
+      "statement": "Reescribe la siguiente expresión coloquial para que sea adecuada en una solicitud formal dirigida a una autoridad universitaria: \"Mira, necesito que me eches la mano con el trámite de mi beca porque ya no tengo pisto\".",
+      "context": "Producción de textos formales.",
       "options": [
         {
           "letter": "A",
-          "text": "Han dejado de ser importantes para los salvadoreños. <!-- feedback: Incorrecto. Se siguen usando en nuevos géneros. -->",
-          "is_correct": false
+          "text": "Oye, por favor ayúdame con mi beca que estoy bien pobre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo excesivamente informal (\"Oye\", \"bien pobre\")."
         },
         {
           "letter": "B",
-          "text": "Han pasado de ser figuras pedagógicas de control social a elementos de exploración estética y psicológica del miedo. <!-- feedback: Correcto. El mito original buscaba \"educar\" o asustar con fines morales; la literatura moderna los usa como recursos artísticos. -->",
-          "is_correct": true
+          "text": "Es necesario que usted mueva mis papeles de la beca porque mi situación económica es mala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es un poco exigente y carece de las fórmulas de cortesía adecuadas."
         },
         {
           "letter": "C",
-          "text": "Ahora son personajes de ciencia ficción que viven en Marte. <!-- feedback: Incorrecto. Se mantienen en el ámbito del terror o lo fantástico nacional. -->",
-          "is_correct": false
+          "text": "Solicito cordialmente su apoyo para agilizar el trámite de mi beca, debido a que mi situación financiera actual es precaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza un registro formal, vocabulario preciso y mantiene la cortesía institucional requerida."
         },
         {
           "letter": "D",
-          "text": "Ya no asustan a nadie porque la tecnología los reemplazó. <!-- feedback: Incorrecto. La pregunta se centra en su función literaria, no en su efectividad real. -->",
-          "is_correct": false
+          "text": "Quiero mi beca ya porque no tengo dinero para pagar la universidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tono imperativo y poco profesional para una solicitud formal."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de la evolución de motivos literarios y míticos a través del tiempo y los géneros.",
+      "correct_answer": "C",
+      "explanation": "Dominio de la adecuación lingüística y los registros formales de la lengua española.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

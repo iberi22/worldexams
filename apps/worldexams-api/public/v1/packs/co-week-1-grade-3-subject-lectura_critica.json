@@ -8,684 +8,1604 @@
   },
   "questions": [
     {
-      "id": "CO-LEC-3-afiches-001-v1",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v1`\n\n### Enunciado\n¿Cuál es el nombre del evento que anuncia el afiche?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v1",
+      "statement": "¿De qué trata principalmente el texto?",
+      "context": "Los perros son excelentes compañeros para los seres humanos. Ellos nos cuidan, juegan con nosotros y nos dan mucho cariño. Por eso se dice que son el mejor amigo del hombre.",
       "options": [
         {
           "letter": "A",
-          "text": "La Gran Feria del Libro.",
-          "is_correct": true
+          "text": "De cómo bañar a un perro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no da instrucciones."
         },
         {
           "letter": "B",
-          "text": "El Festival de Cine.",
-          "is_correct": false
+          "text": "De por qué los perros son buenos amigos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Resume toda la información del párrafo."
         },
         {
           "letter": "C",
-          "text": "El Concurso de Baile.",
-          "is_correct": false
+          "text": "De los diferentes tipos de perros",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "La Fiesta de Halloween.",
-          "is_correct": false
+          "text": "De la comida para perros",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl título del afiche indica claramente el nombre del evento.\n\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
-      "periodo": 1,
-      "protocol_version": "3"
-    },
-    {
-      "id": "CO-LEC-3-afiches-001-v2",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v2`\n\n### Enunciado\n¿En qué lugar se realizará el evento?\n\n### Opciones",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En el Parque Simón Bolívar.",
-          "is_correct": true
-        },
-        {
-          "letter": "B",
-          "text": "En el Colegio.",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "En la Biblioteca Pública.",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "En el Centro Comercial.",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLa información de \"Lugar\" especifica el sitio del evento.\n\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
-      "periodo": 1,
-      "protocol_version": "3"
-    },
-    {
-      "id": "CO-LEC-3-afiches-001-v3",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v3`\n\n### Enunciado\n¿Cuánto cuesta la entrada al evento?\n\n### Opciones",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es totalmente gratis (no cuesta nada).",
-          "is_correct": true
-        },
-        {
-          "letter": "B",
-          "text": "Cuesta mucho dinero.",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "Cuesta un libro viejo.",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Cuesta 5.000 pesos.",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl afiche dice \"¡Entrada: Totalmente Gratis!\", lo que significa costo cero.\n\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
-      "periodo": 1,
-      "protocol_version": "3"
-    },
-    {
-      "id": "CO-LEC-3-afiches-001-v4",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v4`\n\n### Enunciado\n¿Qué objetos salen del libro abierto en la imagen del afiche?\n\n### Opciones",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Estrellas y cohetes de colores.",
-          "is_correct": true
-        },
-        {
-          "letter": "B",
-          "text": "Gatos y perros.",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "Dulces y helados.",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Letras y números negros.",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLa descripción de la imagen menciona elementos de fantasía como \"estrellas y cohetes\".\n\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
-      "periodo": 1,
-      "protocol_version": "3"
-    },
-    {
-      "id": "CO-LEC-3-afiches-001-v5",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v5`\n\n### Enunciado\n¿Cuál es el propósito principal de este afiche?\n\n### Opciones",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Invitar a las personas a ir a la Feria del Libro.",
-          "is_correct": true
-        },
-        {
-          "letter": "B",
-          "text": "Enseñar cómo se hace un libro.",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "Contar un cuento sobre un cohete.",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Vender entradas caras para el parque.",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLos afiches publicitarios tienen como función persuadir o invitar al público a participar en algo.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El tema responde a la pregunta: ¿de quién o de qué se habla en todo el texto?\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-afiches-001-v6",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v6`\n\n### Enunciado\n¿Por qué crees que el afiche muestra a niños \"leyendo sonriendo\"?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v2",
+      "statement": "¿Cuál es la idea más importante del texto?",
+      "context": "Cepillarse los dientes es muy importante para la salud. Debemos hacerlo tres veces al día para evitar las caries y tener un aliento fresco. Unos dientes limpios nos ayudan a sonreír con confianza.",
       "options": [
         {
           "letter": "A",
-          "text": "Para mostrar que leer es una actividad divertida y agradable.",
-          "is_correct": true
+          "text": "Que nos gusta sonreír",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un detalle, no lo más importante."
         },
         {
           "letter": "B",
-          "text": "Porque a los niños no les gusta leer.",
-          "is_correct": false
+          "text": "Que debemos cepillarnos los dientes para estar sanos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el mensaje principal del autor."
         },
         {
           "letter": "C",
-          "text": "Para mostrar que los libros son aburridos.",
-          "is_correct": false
+          "text": "Que las caries son negras",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "Porque así se ven más bonitos en la foto.",
-          "is_correct": false
+          "text": "Que el cepillo debe ser azul",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLa imagen busca asociar la lectura con emociones positivas (alegría) para atraer al público infantil.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La idea principal es lo que el autor quiere que aprendamos o hagamos después de leer.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-afiches-001-v7",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v7`\n\n### Enunciado\n¿A quiénes está dirigido principalmente este evento?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v3",
+      "statement": "¿Cuál sería el mejor título para este texto?",
+      "context": "Las abejas vuelan de flor en flor buscando néctar. Mientras lo hacen, llevan el polen de una planta a otra. Gracias a este trabajo de las abejas, pueden nacer nuevas flores y frutos en el campo.",
       "options": [
         {
           "letter": "A",
-          "text": "A niños y niñas interesados en cuentos y diversión.",
-          "is_correct": true
+          "text": "Las flores de colores",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "A científicos que estudian cohetes espaciales.",
-          "is_correct": false
+          "text": "El néctar dulce",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "A personas mayores que solo leen periódicos.",
-          "is_correct": false
+          "text": "El importante trabajo de las abejas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El título refleja de qué trata la historia."
         },
         {
           "letter": "D",
-          "text": "A nadie en especial.",
-          "is_correct": false
+          "text": "Cómo volar rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl uso de elementos infantiles (cohetes, magia, niños) indica que el público objetivo son los niños.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Un buen título debe resumir el contenido principal del texto en pocas palabras.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-afiches-001-v8",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v8`\n\n### Enunciado\n¿Qué relación hay entre el texto \"Magia y diversión te esperan\" y la imagen de los cohetes saliendo del libro?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v4",
+      "statement": "Según el texto, ¿por qué es bueno reciclar?",
+      "context": "El reciclaje ayuda a proteger nuestro planeta. Cuando reciclamos papel, evitamos que se corten más árboles. Si reciclamos plástico, evitamos que llegue a los ríos y océanos, dañando a los animales.",
       "options": [
         {
           "letter": "A",
-          "text": "Ambos sugieren que los libros nos llevan a mundos fantásticos y emocionantes.",
-          "is_correct": true
+          "text": "Porque es divertido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Ninguna, son cosas totalmente diferentes.",
-          "is_correct": false
+          "text": "Porque protege el medio ambiente y los animales",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la razón principal que da el texto."
         },
         {
           "letter": "C",
-          "text": "Que los libros son peligrosos porque explotan como cohetes.",
-          "is_correct": false
+          "text": "Porque el papel es blanco",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "Que en la feria van a regalar cohetes de verdad.",
-          "is_correct": false
+          "text": "Porque los árboles son altos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl texto y la imagen se complementan para transmitir la idea de que la lectura estimula la imaginación (\"viajar\" en cohete).\n\n---",
+      "correct_answer": "B",
+      "explanation": "Identificar los beneficios o razones de un tema ayuda a encontrar la idea central.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-afiches-001-v9",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v9`\n\n### Enunciado\nSi el afiche no tuviera la fecha (20 de Septiembre), ¿qué problema tendría?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v5",
+      "statement": "¿Qué pasaría si el sol no existiera, según el texto?",
+      "context": "El sol es una estrella gigante que nos da luz y calor. Sin el sol, las plantas no podrían crecer y la Tierra sería un lugar muy frío y oscuro donde no podríamos vivir.",
       "options": [
         {
           "letter": "A",
-          "text": "Las personas no sabrían cuándo ir al evento y podrían perderse la feria.",
-          "is_correct": true
+          "text": "Las plantas crecerían más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario."
         },
         {
           "letter": "B",
-          "text": "El afiche se vería más bonito sin tantos números.",
-          "is_correct": false
+          "text": "Habría mucha luz",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "La gente iría todos los días al parque sin problema.",
-          "is_correct": false
+          "text": "No podríamos vivir en la Tierra",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto indica que sería muy frío y oscuro."
         },
         {
           "letter": "D",
-          "text": "No pasaría nada, la fecha no es importante.",
-          "is_correct": false
+          "text": "El cielo sería azul",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLa información de \"cuándo\" es esencial en un texto informativo sobre un evento; sin ella, el afiche pierde su utilidad práctica.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Comprender las consecuencias de un hecho ayuda a entender su importancia en el texto.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-afiches-001-v10",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v10`\n\n### Enunciado\n¿Qué frase podrías agregar al afiche para convencer aún a más niños de ir?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v6",
+      "statement": "¿Cuál de estos temas resume mejor el texto anterior?",
+      "context": "Hacer ejercicio físico es fundamental para los niños. Jugar fútbol, correr o montar bicicleta ayuda a fortalecer los músculos y el corazón. Además, nos hace sentir con mucha energía durante el día.",
       "options": [
         {
           "letter": "A",
-          "text": "\"¡Habrá regalos sorpresa para los primeros asistentes!\"",
-          "is_correct": true
+          "text": "Beneficios del deporte en los niños",
+          "is_correct": true,
+          "feedback": "¡Correcto! Abarca los ejemplos y las ventajas mencionadas."
         },
         {
           "letter": "B",
-          "text": "\"Es obligatorio llevar uniforme escolar.\"",
-          "is_correct": false
+          "text": "Reglas para jugar fútbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona reglas."
         },
         {
           "letter": "C",
-          "text": "\"No se permite reír ni jugar en la feria.\"",
-          "is_correct": false
+          "text": "Los deportes más peligrosos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "\"Los libros son muy costosos.\"",
-          "is_correct": false
+          "text": "Cómo montar bicicleta",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nOfrecer un incentivo adicional (regalos) es una estrategia de persuasión efectiva en publicidad.\n\n---",
+      "explanation": "Un resumen debe incluir el tema general y el propósito del autor.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-afiches-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v1",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v1`\n\n### Enunciado\n¿En qué lugares vive principalmente el Mohán según el texto?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v7",
+      "statement": "¿Qué idea quiere transmitir el autor sobre los libros?",
+      "context": "Los libros son como ventanas a otros mundos. Al leerlos, podemos conocer lugares lejanos, aprender sobre animales antiguos o imaginar historias fantásticas sin salir de nuestra casa.",
       "options": [
         {
           "letter": "A",
-          "text": "En los ríos grandes y cuevas debajo del agua.",
-          "is_correct": true
+          "text": "Que son pesados para cargar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "En la cima de las montañas nevadas.",
-          "is_correct": false
+          "text": "Que solo sirven para estudiar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "En los parques de la ciudad de Bogotá.",
-          "is_correct": false
+          "text": "Que nos permiten viajar con la imaginación",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es lo que significa la comparación con \"ventanas\"."
         },
         {
           "letter": "D",
-          "text": "En el desierto de la Guajira.",
-          "is_correct": false
+          "text": "Que tienen muchas páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl texto menciona que \"vive en los ríos grandes del Tolima y el Huila\" y en \"cuevas profundas debajo del agua\".\n\n---",
-      "difficulty": "1",
+      "correct_answer": "C",
+      "explanation": "A veces el autor usa comparaciones para explicar su idea principal.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v2",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v2`\n\n### Enunciado\n¿Qué aspecto físico tiene el Mohán?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v8",
+      "statement": "¿Cuál es el beneficio de dormir bien mencionado al final del texto?",
+      "context": "Dormir bien es tan importante como comer. Durante el sueño, nuestro cuerpo descansa y nuestro cerebro organiza lo que aprendimos en el día. Un niño que duerme suficiente estará más atento en clase.",
       "options": [
         {
           "letter": "A",
-          "text": "Tiene cabello largo, barba espesa y es musculoso.",
-          "is_correct": true
+          "text": "Tener hambre al despertar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Es pequeño, calvo y muy delgado.",
-          "is_correct": false
+          "text": "Estar más atento en clase",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la ventaja específica mencionada para los niños."
         },
         {
           "letter": "C",
-          "text": "Tiene forma de animal con alas grandes.",
-          "is_correct": false
+          "text": "Crecer muy rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "Es invisible y nadie lo puede ver.",
-          "is_correct": false
+          "text": "Olvidar lo aprendido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLa descripción física dice: \"ser de cabellera larga y abundante, con barba espesa y cuerpo musculoso\".\n\n---",
-      "difficulty": "1",
+      "correct_answer": "B",
+      "explanation": "Las ideas secundarias apoyan a la idea principal dando ejemplos o beneficios específicos.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v3",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v3`\n\n### Enunciado\n¿A quiénes persigue el Mohán según cuentan los abuelos?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v9",
+      "statement": "¿Qué significa la palabra **biodiversidad** según el texto?",
+      "context": "Colombia es un país con mucha biodiversidad. Esto significa que tiene una gran cantidad de animales y plantas diferentes. Tenemos desde grandes montañas hasta hermosas selvas y dos océanos.",
       "options": [
         {
           "letter": "A",
-          "text": "A las lavanderas que van al río.",
-          "is_correct": true
+          "text": "Que tiene mucha gente",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "A los pescadores que usan redes.",
-          "is_correct": false
+          "text": "Que tiene muchos animales y plantas diferentes",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto lo explica en la oración siguiente."
         },
         {
           "letter": "C",
-          "text": "A los niños que no quieren dormir.",
-          "is_correct": false
+          "text": "Que tiene muchas ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "A los animales de la selva.",
-          "is_correct": false
+          "text": "Que es un país muy grande",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl texto afirma explícitamente que \"le gusta perseguir a las lavanderas\".\n\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "La definición de un término clave suele ser la base de la idea principal del texto.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v4",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v4`\n\n### Enunciado\n¿Para qué fuma tabaco el Mohán?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-v10",
+      "statement": "¿Cuál es la función del semáforo según el texto?",
+      "context": "El semáforo es una señal de tránsito muy importante. El color rojo indica que debemos parar, el amarillo es para prevenir y el verde significa que podemos seguir. Respetar el semáforo evita accidentes.",
       "options": [
         {
           "letter": "A",
-          "text": "Para espantar a los insectos.",
-          "is_correct": true
+          "text": "Adornar las calles",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Porque tiene mucho frío en el río.",
-          "is_correct": false
+          "text": "Cambiar de colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es su característica, no su función."
         },
         {
           "letter": "C",
-          "text": "Para llamar a otros Mohanes.",
-          "is_correct": false
+          "text": "Organizar el tránsito y evitar accidentes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el propósito final mencionado."
         },
         {
           "letter": "D",
-          "text": "El texto no dice por qué lo hace.",
-          "is_correct": false
+          "text": "Ayudar a los carros a correr más",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nSe menciona que \"fuma tabaco para espantar a los insectos\".\n\n---",
-      "difficulty": "2",
+      "correct_answer": "C",
+      "explanation": "Entender para qué sirve lo que se describe en el texto nos ayuda a identificar el mensaje central.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-ideas-principales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v5",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v5`\n\n### Enunciado\n¿Qué tipo de narración es este texto sobre El Mohán?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v1",
+      "statement": "¿En qué lugar se desarrolla la historia?",
+      "context": "**Día de playa**\nEl domingo, la familia de Camilo fue al mar. Hacía mucho sol y el agua estaba muy fría. Pasaron toda la tarde construyendo castillos de arena.",
       "options": [
         {
           "letter": "A",
-          "text": "Un mito o leyenda de la tradición oral.",
-          "is_correct": true
+          "text": "En el campo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Una noticia real de un periódico.",
-          "is_correct": false
+          "text": "En la playa (el mar)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona el mar y castillos de arena."
         },
         {
           "letter": "C",
-          "text": "Un poema de amor.",
-          "is_correct": false
+          "text": "En un parque",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "Una receta de cocina.",
-          "is_correct": false
+          "text": "En la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl inicio \"Cuentan los abuelos\" y el tema de un ser fantástico indican que es un mito o leyenda.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El lugar es el espacio físico donde están los personajes. Palabras como \"mar\" y \"arena\" nos dan la pista.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v6",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v6`\n\n### Enunciado\n¿Por qué crees que el Mohán vive en cuevas \"debajo del agua\"?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v2",
+      "statement": "¿En qué momento del día construyeron los castillos?",
+      "context": "(Mismo texto de Camilo)",
       "options": [
         {
           "letter": "A",
-          "text": "Porque es un ser fantástico con poderes sobrenaturales.",
-          "is_correct": true
+          "text": "En la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Porque es un pez grande disfrazado de humano.",
-          "is_correct": false
+          "text": "Al amanecer",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "Porque no le gusta el aire libre.",
-          "is_correct": false
+          "text": "En la tarde",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice \"pasaron toda la tarde\"."
         },
         {
           "letter": "D",
-          "text": "Porque las casas en la tierra son muy caras.",
-          "is_correct": false
+          "text": "En la noche",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEn los mitos, los personajes tienen características mágicas que les permiten hacer cosas imposibles para los humanos, como vivir bajo el agua.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El tiempo indica el momento del día o la época en que ocurren las acciones.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v7",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v7`\n\n### Enunciado\n¿Qué significa que el Mohán guarda \"tesoros de oro\" en sus cuevas?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v3",
+      "statement": "¿Dónde estaba escondido el castillo?",
+      "context": "**La escuela de magia**\nHace muchos años, en un castillo escondido entre las montañas, vivían unos niños que aprendían a volar. Las clases empezaban cuando salía la primera estrella.",
       "options": [
         {
           "letter": "A",
-          "text": "Que es un personaje rico y poderoso en la historia.",
-          "is_correct": true
+          "text": "En el bosque",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Que trabaja en un banco de la ciudad.",
-          "is_correct": false
+          "text": "Entre las montañas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la ubicación exacta mencionada."
         },
         {
           "letter": "C",
-          "text": "Que el oro no vale nada para él.",
-          "is_correct": false
+          "text": "Bajo el mar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "Que robó el oro a los piratas del mar.",
-          "is_correct": false
+          "text": "En las nubes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLos tesoros en las leyendas suelen simbolizar el poder, el misterio y la riqueza oculta de la naturaleza.\n\n---",
+      "correct_answer": "B",
+      "explanation": "A veces el lugar se describe con mayor detalle (no solo \"un castillo\", sino dónde está el castillo).\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v8",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v8`\n\n### Enunciado\n¿Quiénes son las personas que transmiten estas historias según el inicio del texto?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v4",
+      "statement": "¿A qué hora empezaban las clases?",
+      "context": "(Mismo texto de la escuela)",
       "options": [
         {
           "letter": "A",
-          "text": "Los abuelos (la tradición oral).",
-          "is_correct": true
+          "text": "A mediodía",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Los profesores de matemáticas.",
-          "is_correct": false
+          "text": "Al salir el sol",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "Los presentadores de televisión.",
-          "is_correct": false
+          "text": "Cuando salía la primera estrella",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esto indica que las clases eran de noche."
         },
         {
           "letter": "D",
-          "text": "Los turistas extranjeros.",
-          "is_correct": false
+          "text": "A las ocho",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLa frase \"Cuentan los abuelos\" hace referencia a la transmisión oral de saberes de generación en generación.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El tiempo puede indicarse mediante eventos naturales (como la salida de las estrellas).\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v9",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v9`\n\n### Enunciado\nSi quisieras investigar más sobre el Mohán, ¿a qué departamentos de Colombia deberías ir principalmente?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v5",
+      "statement": "¿En qué estación del año viaja la ballena?",
+      "context": "**El viaje de la ballena**\nDurante el invierno, la ballena azul viaja hacia aguas más cálidas. Le toma tres meses llegar a su destino favorito en el océano.",
       "options": [
         {
           "letter": "A",
-          "text": "A Tolima y Huila.",
-          "is_correct": true
+          "text": "Verano",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "A Amazonas y Vaupés.",
-          "is_correct": false
+          "text": "Primavera",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "A Atlántico y Bolívar.",
-          "is_correct": false
+          "text": "Otoño",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "D",
-          "text": "A Antioquia y Caldas.",
-          "is_correct": false
+          "text": "Invierno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto inicia diciendo \"Durante el invierno\"."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nEl texto ubica geográficamente la leyenda en \"los ríos grandes del Tolima y el Huila\".\n\n---",
+      "correct_answer": "D",
+      "explanation": "Las estaciones son una forma de marcar el tiempo en narraciones sobre la naturaleza.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
     },
     {
-      "id": "CO-LEC-3-mitos-001-v10",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v10`\n\n### Enunciado\n¿Cuál es la función principal de este tipo de historias en la cultura?\n\n### Opciones",
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v6",
+      "statement": "¿Cuánto tiempo dura el viaje de la ballena?",
+      "context": "(Mismo texto de la ballena)",
       "options": [
         {
           "letter": "A",
-          "text": "Mantener vivas las creencias y costumbres de los pueblos.",
-          "is_correct": true
+          "text": "Un mes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "B",
-          "text": "Enseñar a los niños a nadar en los ríos profundos.",
-          "is_correct": false
+          "text": "Todo el año",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         },
         {
           "letter": "C",
-          "text": "Vender libros de historia en las librerías.",
-          "is_correct": false
+          "text": "Tres meses",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto lo menciona explícitamente."
         },
         {
           "letter": "D",
-          "text": "Asustar a las lavanderas para que no trabajen.",
-          "is_correct": false
+          "text": "Dos semanas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Pedagógica\nLos mitos y leyendas forman parte de la identidad cultural y preservan la memoria colectiva de una comunidad.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Identificar la duración es otra forma de comprender el factor tiempo en un texto.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bundle_id": "CO-LEC-3-mitos-001-bundle",
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "3"
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v7",
+      "statement": "¿En qué parte exacta del supermercado se perdió Mateo?",
+      "context": "**Perdido en el supermercado**\nAyer, Mateo se soltó de la mano de su mamá mientras buscaban los cereales en el pasillo 5. Por suerte, un guardia lo encontró rápidamente cerca de las cajas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el pasillo 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Allí estaban buscando los cereales."
+        },
+        {
+          "letter": "B",
+          "text": "Cerca de las cajas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Allí lo encontraron, pero se perdió en el pasillo 5."
+        },
+        {
+          "letter": "C",
+          "text": "En la entrada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En la frutería",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es importante distinguir entre el lugar donde ocurre un problema y el lugar donde se resuelve.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v8",
+      "statement": "¿Cuándo ocurrió esta historia?",
+      "context": "(Mismo texto de Mateo)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hoy",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Ayer",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto comienza con la palabra \"Ayer\"."
+        },
+        {
+          "letter": "C",
+          "text": "Hace un año",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adverbios de tiempo como \"ayer\", \"hoy\" o \"mañana\" son claves fundamentales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v9",
+      "statement": "¿Cuál es el lugar elegido para la fiesta?",
+      "context": "**Fiesta en la selva**\nLos animales celebrarán el cumpleaños del león bajo el árbol más alto de la selva. La fiesta será el próximo viernes a las 10 de la mañana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cueva del león",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Bajo el árbol más alto",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto lo dice claramente."
+        },
+        {
+          "letter": "C",
+          "text": "En la orilla de un río",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En un salón de eventos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los detalles del lugar pueden incluir una referencia a un objeto (el árbol) dentro de un espacio más grande (la selva).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-v10",
+      "statement": "¿A qué hora será el cumpleaños?",
+      "context": "(Mismo texto de la fiesta)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la noche",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "A las 10 de la mañana",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el dato exacto dado en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Al mediodía",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El viernes por la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hora es un dato temporal específico que debemos localizar sin confundirnos con el día.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-lugar-tiempo-narracion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v1",
+      "statement": "¿De qué color es el pelo del conejo?",
+      "context": "**El conejo saltarín**\nHabía una vez un conejo llamado Orejas Largas. Tenía el pelo blanco como la nieve y unos ojos rojos muy brillantes. Siempre estaba saltando por el bosque buscando zanahorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blanco",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice \"blanco como la nieve\"."
+        },
+        {
+          "letter": "B",
+          "text": "Rojo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus ojos son rojos, no su pelo."
+        },
+        {
+          "letter": "C",
+          "text": "Gris",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Marrón",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La información literal se encuentra escrita directamente en el texto. Debemos buscar la palabra clave \"pelo\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v2",
+      "statement": "¿Cuál es el nombre del personaje principal?",
+      "context": "(Mismo texto del conejo)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saltarín",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un adjetivo, no su nombre."
+        },
+        {
+          "letter": "B",
+          "text": "Conejito",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Orejas Largas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice \"llamado Orejas Largas\"."
+        },
+        {
+          "letter": "D",
+          "text": "Zanahoria",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los nombres de los personajes suelen aparecer al principio de la historia acompañados de la palabra \"llamado\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v3",
+      "statement": "¿Qué objeto usó Lucía para entrar al desván?",
+      "context": "**La niña valiente**\nLucía era una niña que no le tenía miedo a la oscuridad. Una noche, tomó su linterna y entró al desván para buscar su juguete favorito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una vela",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una linterna",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona que tomó su linterna."
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Un teléfono",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar objetos asociados a un personaje nos ayuda a comprender sus acciones en el relato.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v4",
+      "statement": "Según la historia, ¿cómo es la personalidad de Lucía?",
+      "context": "(Mismo texto de Lucía)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temerosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Valiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! El título y el texto indican que no tiene miedo."
+        },
+        {
+          "letter": "C",
+          "text": "Distraída",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Enojada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las características de personalidad se deducen de lo que el personaje hace o de lo que el autor dice de él.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v5",
+      "statement": "¿Por qué Bernardo casi no jugaba con los demás?",
+      "context": "**El oso perezoso**\nBernardo era un oso muy grande y café. Le gustaba dormir todo el día bajo la sombra de un roble. Casi nunca jugaba con los demás animales porque siempre tenía sueño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque era muy grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una característica física, no el motivo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tenía amigos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque siempre tenía sueño",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto lo dice al final."
+        },
+        {
+          "letter": "D",
+          "text": "Porque le gustaban los robles",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Buscar la causa de una acción en el texto es una habilidad de comprensión literal avanzada.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v6",
+      "statement": "¿Dónde le gustaba dormir a Bernardo?",
+      "context": "(Mismo texto de Bernardo)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una cueva fría",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Bajo la sombra de un roble",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona el roble específicamente."
+        },
+        {
+          "letter": "C",
+          "text": "En la orilla de un río",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Sobre una montaña",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los detalles del lugar ayudan a situar al personaje en su ambiente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v7",
+      "statement": "¿De qué color es la antena de Z-40?",
+      "context": "**Un robot especial**\nZ-40 era un robot plateado con una antena verde en la cabeza. Su trabajo era limpiar el jardín y regar las flores todas las mañanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plateada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el color del robot."
+        },
+        {
+          "letter": "B",
+          "text": "Roja",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Verde",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto especifica \"antena verde\"."
+        },
+        {
+          "letter": "D",
+          "text": "Azul",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Debemos prestar atención a qué parte del personaje se refiere el adjetivo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v8",
+      "statement": "¿Cuáles son las dos tareas que hace el robot?",
+      "context": "(Mismo texto del robot)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limpiar el jardín y regar las flores",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son las dos acciones mencionadas."
+        },
+        {
+          "letter": "B",
+          "text": "Barrer la casa y cocinar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Jugar y correr",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Reparar antenas y limpiar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A veces el texto presenta listas de acciones que debemos identificar completamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v9",
+      "statement": "¿Cómo era el tamaño de la hoja comparado con la hormiga?",
+      "context": "**La hormiga trabajadora**\nHormiguita cargaba una hoja tres veces más grande que ella. Caminaba despacio pero no se detenía hasta llegar al hormiguero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Igual de grande",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Más pequeña",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Tres veces más grande",
+          "is_correct": true,
+          "feedback": "¡Correcto! Así lo indica el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Un poquito más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las comparaciones de tamaño son detalles descriptivos importantes en la comprensión de lectura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-v10",
+      "statement": "¿Hasta dónde caminaba la hormiga sin detenerse?",
+      "context": "(Mismo texto de la hormiga)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hasta la hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Hasta el hormiguero",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el destino final mencionado."
+        },
+        {
+          "letter": "C",
+          "text": "Hasta el bosque",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Hasta su casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el hormiguero sea su casa, el texto usa la palabra \"hormiguero\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nivel literal, es preferible usar la palabra exacta que aparece en el texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v1",
+      "statement": "¿Qué significa la palabra **gracioso** en el texto?",
+      "context": "El payaso del circo era muy **gracioso**; todos los niños se reían a carcajadas con sus piruetas y chistes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está enojado",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que da mucha risa",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice que los niños se reían."
+        },
+        {
+          "letter": "C",
+          "text": "Que es muy alto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que está triste",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra \"reían\" nos ayuda a saber que \"gracioso\" tiene que ver con la alegría y la risa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v2",
+      "statement": "La palabra **gélida** significa que el agua estaba:",
+      "context": "El agua del río estaba **gélida**. En cuanto metí el pie, sentí un frío muy fuerte y tuve que sacarlo rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muy caliente",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Muy sucia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Muy fría",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona que sintió un \"frío muy fuerte\"."
+        },
+        {
+          "letter": "D",
+          "text": "Muy profunda",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A menudo, el texto explica la palabra difícil en la oración siguiente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v3",
+      "statement": "¿Cuál palabra significa lo mismo que **veloz**?",
+      "context": "Marta es muy **veloz**. Siempre llega de primera en todas las carreras de la escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Rápida",
+          "is_correct": true,
+          "feedback": "¡Correcto! Llegar de primera indica mucha velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Inteligente",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sinónimos son palabras diferentes que tienen el mismo significado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v4",
+      "statement": "¿Qué significa la palabra **enorme**?",
+      "context": "El campesino cargaba un **enorme** bulto de papas. Era tan grande que apenas podía pasar por la puerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muy pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Muy pesado",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Muy grande",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pista es que \"apenas podía pasar por la puerta\"."
+        },
+        {
+          "letter": "D",
+          "text": "Muy viejo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El contexto físico (no caber por una puerta) nos indica el tamaño del objeto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v5",
+      "statement": "En este texto, la palabra **exhaustos** significa:",
+      "context": "Después de caminar todo el día bajo el sol, los exploradores estaban **exhaustos**. Solo querían acostarse y cerrar los ojos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hambrientos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Felices",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Muy cansados",
+          "is_correct": true,
+          "feedback": "¡Correcto! Querer acostarse y cerrar los ojos es señal de cansancio extremo."
+        },
+        {
+          "letter": "D",
+          "text": "Asustados",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acciones de los personajes nos dicen cómo se sienten físicamente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v6",
+      "statement": "La palabra **cautela** significa:",
+      "context": "El gato caminaba con **cautela** por el tejado para no despertar a los perros que dormían abajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mucho ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Mucho cuidado",
+          "is_correct": true,
+          "feedback": "¡Correcto! Caminar para no despertar a alguien requiere cuidado."
+        },
+        {
+          "letter": "C",
+          "text": "Mucha prisa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Mucho miedo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intención del personaje (no despertar a otros) define su forma de actuar.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v7",
+      "statement": "¿Qué palabra puede cambiar a **relato** sin cambiar el significado?",
+      "context": "Mi abuelo me contó un **relato** sobre un tesoro escondido. Fue una historia muy emocionante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regalo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Dibujo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Cuento",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un relato y un cuento son historias narradas."
+        },
+        {
+          "letter": "D",
+          "text": "Sueño",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituir una palabra por otra nos ayuda a comprobar si entendimos su significado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v8",
+      "statement": "¿Qué significa **penumbra**?",
+      "context": "La cueva estaba en total **penumbra**. No se veía absolutamente nada y tuvimos que encender las linternas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mucha luz",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Oscuridad",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice que \"no se veía nada\"."
+        },
+        {
+          "letter": "C",
+          "text": "Mucho ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Mucho calor",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La necesidad de una linterna es la pista clave para entender que hay falta de luz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v9",
+      "statement": "La palabra **destreza** significa que el pájaro lo hizo con:",
+      "context": "El pájaro construyó su nido con mucha **destreza**. Usó ramitas y lodo para que quedara firme y seguro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tristeza",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Pereza",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Habilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! Lograr que algo quede firme y seguro requiere saber hacerlo bien."
+        },
+        {
+          "letter": "D",
+          "text": "Ayuda",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los buenos resultados de un trabajo indican la habilidad o destreza de quien lo hizo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-v10",
+      "statement": "¿Qué significa la palabra **fragante**?",
+      "context": "El aroma de las flores era **fragante**. Todo el jardín olía delicioso en primavera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene espinas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que tiene buen olor",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona que \"olía delicioso\"."
+        },
+        {
+          "letter": "C",
+          "text": "Que es muy colorido",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que está seco",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras relacionadas con los sentidos (olfato, en este caso) se explican con adjetivos descriptivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-03-P1-vocabulario-contexto-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
     }
   ]
 }

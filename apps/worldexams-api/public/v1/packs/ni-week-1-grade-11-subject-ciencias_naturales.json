@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ni",
+    "pack_id": "ni-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-06-16T00:17:33.415Z"
+  },
+  "questions": [
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v1",
+      "statement": "Durante un estudio biológico en la Reserva de la Biosfera Bosawás, se analizan muestras de agua. Se identifica un organismo unicelular que no posee núcleo ni orgánulos rodeados por membranas. ¿Cómo se clasifica biológicamente a esta célula?",
+      "context": "Biodiversidad en la Reserva Bosawás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula Eucariota",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las eucariotas se definen precisamente por poseer un núcleo verdadero y orgánulos membranosos."
+        },
+        {
+          "letter": "B",
+          "text": "Célula Procariota",
+          "is_correct": true,
+          "feedback": "Correcto. Las bacterias y arqueas son procariotas, caracterizadas por tener su material genético libre en el citoplasma."
+        },
+        {
+          "letter": "C",
+          "text": "Virus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los virus no son células; son entidades biológicas acelulares que carecen de metabolismo propio."
+        },
+        {
+          "letter": "D",
+          "text": "Hongo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos son organismos eucariotas, ya sean unicelulares (levaduras) o pluricelulares."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los tipos fundamentales de organización celular basándose en la presencia o ausencia de compartimentación nuclear.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v2",
+      "statement": "El consumo de leguminosas como el frijol es vital en la dieta nicaragüense. ¿Qué biomolécula orgánica, fundamental para la construcción de tejidos, es abundante en estos alimentos?",
+      "context": "Componentes de la dieta nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lípidos son grasas y aceites que funcionan como reserva energética o aislamiento, no son el componente principal del frijol."
+        },
+        {
+          "letter": "B",
+          "text": "Proteínas",
+          "is_correct": true,
+          "feedback": "Correcto. Los frijoles son una excelente fuente de aminoácidos necesarios para la síntesis de proteínas estructurales y enzimáticas."
+        },
+        {
+          "letter": "C",
+          "text": "Ácidos Nucleicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque están presentes en todas las células, no son el macronutriente principal que se busca en estos alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Sales Minerales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sales son biomoléculas inorgánicas, no orgánicas como se solicita en el enunciado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de la función biológica y origen alimenticio de las principales macromoléculas orgánicas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v3",
+      "statement": "En las zonas secas del pacífico nicaragüense, las plantas deben evitar la pérdida excesiva de agua. ¿Qué orgánulo vegetal almacena grandes cantidades de agua y genera la presión necesaria para que la planta se mantenga erguida?",
+      "context": "Adaptación de las plantas en el Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función es la fotosíntesis, no el almacenamiento de agua para soporte estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encarga de la respiración celular y producción de ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Vacuola Central",
+          "is_correct": true,
+          "feedback": "Correcto. En plantas, la vacuola central mantiene la turgencia celular al ejercer presión hidrostática contra la pared celular."
+        },
+        {
+          "letter": "D",
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función principal es el empaquetamiento y transporte de proteínas y lípidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de las funciones específicas de los orgánulos en la homeostasis y fisiología vegetal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v4",
+      "statement": "La membrana celular es selectivamente permeable. ¿Qué componente de su estructura es responsable de actuar como un \"portero\", permitiendo el paso de moléculas específicas que no pueden atravesar la capa de grasa?",
+      "context": "Funcionamiento de la membrana plasmática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colesterol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol regula la fluidez de la membrana, pero no transporta moléculas de forma selectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Proteínas de transporte",
+          "is_correct": true,
+          "feedback": "Correcto. Las proteínas integrales funcionan como canales o bombas para mover sustancias a través de la membrana."
+        },
+        {
+          "letter": "C",
+          "text": "Carbohidratos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos participan en el reconocimiento celular en la cara externa de la membrana."
+        },
+        {
+          "letter": "D",
+          "text": "Fosfolípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fosfolípidos forman la barrera estructural, pero impiden el paso de muchas sustancias hidrofílicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación entre la estructura de mosaico fluido de la membrana y sus funciones de transporte y regulación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v5",
+      "statement": "Un productor de cacao en Waslala cruza una planta de semillas oscuras (dominante puro, AA) con una de semillas blancas (recesiva pura, aa). ¿Cómo será el genotipo de los descendientes en la primera generación (F1)?",
+      "context": "Genética Mendeliana aplicada al cacao.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% AA y 50% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este resultado se obtendría de un cruce entre heterocigoto y recesivo."
+        },
+        {
+          "letter": "B",
+          "text": "100% Aa",
+          "is_correct": true,
+          "feedback": "Correcto. Según la Ley de la Uniformidad de Mendel, todos heredan un alelo dominante y uno recesivo, siendo heterocigotos."
+        },
+        {
+          "letter": "C",
+          "text": "100% AA",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para esto ambos padres deberían ser dominantes puros."
+        },
+        {
+          "letter": "D",
+          "text": "75% Aa y 25% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción es característica de la F2 (segunda generación), no de la F1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de las leyes fundamentales de la herencia para predecir resultados genotípicos en cruces monohíbridos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v6",
+      "statement": "Las selvas de Nicaragua actúan como sumideros de carbono. ¿Cuál es el proceso biológico por el cual las plantas capturan el $CO_2$ de la atmósfera para convertirlo en materia orgánica (azúcares)?",
+      "context": "El ciclo del carbono y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiración celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración libera $CO_2$ como desecho, no lo captura."
+        },
+        {
+          "letter": "B",
+          "text": "Fotosíntesis",
+          "is_correct": true,
+          "feedback": "Correcto. En la etapa oscura (Ciclo de Calvin), las plantas fijan el carbono inorgánico en moléculas orgánicas utilizando energía solar."
+        },
+        {
+          "letter": "C",
+          "text": "Transpiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la pérdida de vapor de agua a través de las hojas, no tiene que ver con la captura de carbono."
+        },
+        {
+          "letter": "D",
+          "text": "Fermentación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso catabólico de degradación en ausencia de oxígeno, no de síntesis a partir de gas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del papel de los organismos productores en el flujo de materia y energía del ecosistema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v7",
+      "statement": "Para que una característica se exprese, la información debe fluir del núcleo al citoplasma. ¿Cómo se llama el proceso de copiar un segmento de ADN en una cadena de ARN mensajero?",
+      "context": "El Dogma Central de la Biología Molecular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Replicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el proceso de duplicar el ADN completo antes de la división celular."
+        },
+        {
+          "letter": "B",
+          "text": "Traducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el paso de ARN a secuencia de aminoácidos (proteína)."
+        },
+        {
+          "letter": "C",
+          "text": "Transcripción",
+          "is_correct": true,
+          "feedback": "Correcto. Ocurre en el núcleo y permite llevar el mensaje genético fuera de él en forma de ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Mutación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una mutación es un error o cambio en la secuencia original, no el proceso normal de copia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciación de los pasos clave en la expresión de la información genética.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v8",
+      "statement": "Cuando te haces una herida en la piel, las células deben dividirse para cerrar la lesión. ¿En qué fase del ciclo celular ocurre la duplicación del ADN para asegurar que las nuevas células tengan la misma información?",
+      "context": "Ciclo celular y regeneración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la mitosis se reparte el ADN, pero la copia ya se hizo antes."
+        },
+        {
+          "letter": "B",
+          "text": "Fase G1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una fase de crecimiento y funciones metabólicas normales antes de la síntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Fase S",
+          "is_correct": true,
+          "feedback": "Correcto. La \"S\" significa Síntesis, que es cuando el ADN se replica exactamente."
+        },
+        {
+          "letter": "D",
+          "text": "Citocinesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la división final del citoplasma, cuando ya se han formado los dos núcleos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de las etapas de preparación y ejecución de la división celular somática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v9",
+      "statement": "En la producción de jugos naturales, se usan enzimas para aclarar el líquido. ¿Qué sucede con la velocidad de esta reacción química si se aumenta ligeramente la temperatura sin llegar a quemar el producto?",
+      "context": "Enzimas en la industria alimentaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reacción se detiene inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor moderado suele favorecer el movimiento molecular y la catálisis."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de reacción aumenta debido a una mayor energía cinética.",
+          "is_correct": true,
+          "feedback": "Correcto. Dentro de un rango óptimo, el calor acelera las reacciones enzimáticas."
+        },
+        {
+          "letter": "C",
+          "text": "La enzima se convierte en azúcar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas son proteínas y no cambian su naturaleza química básica por la temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad disminuye porque la enzima se cansa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas no se agotan ni se cansan, son catalizadores que se recuperan tras la reacción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de los factores que afectan la actividad enzimática y la cinética química biológica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v10",
+      "statement": "¿Cuál es el propósito principal de la respiración celular que ocurre en las mitocondrias de nuestras células?",
+      "context": "Respiración celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir glucosa para alimentar al cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa se obtiene de los alimentos o la fotosíntesis, no de la respiración."
+        },
+        {
+          "letter": "B",
+          "text": "Almacenar agua en los músculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque produce agua como desecho, no es su función biológica primordial."
+        },
+        {
+          "letter": "C",
+          "text": "Transformar la energía química de los alimentos en ATP (energía utilizable).",
+          "is_correct": true,
+          "feedback": "Correcto. Es el proceso de obtención de energía para todos los trabajos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar el oxígeno sobrante del cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno es un reactivo necesario, no algo que se deba \"eliminar\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión del metabolismo energético celular y la importancia del ATP.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v11",
+      "statement": "En las lagunas cratéricas de Nicaragua (como Apoyo), han evolucionado especies de peces cíclidos únicos. Si una población de peces tiene individuos con bocas de diferentes tamaños, ¿qué sucederá tras muchas generaciones si solo las semillas duras son la fuente de alimento disponible?",
+      "context": "Selección Natural en los lagos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los peces aprenderán a ablandar las semillas con agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los organismos no \"aprenden\" adaptaciones biológicas heredables de ese modo."
+        },
+        {
+          "letter": "B",
+          "text": "Los peces con bocas más fuertes sobrevivirán y dejarán más descendencia, aumentando ese rasgo en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el mecanismo de selección natural propuesto por Darwin."
+        },
+        {
+          "letter": "C",
+          "text": "Las semillas mutarán para volverse blandas y ayudar a los peces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución no ocurre para \"ayudar\" a otras especies de forma consciente."
+        },
+        {
+          "letter": "D",
+          "text": "La población se extinguirá inmediatamente porque el cambio es imposible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si existe variabilidad previa, la selección puede actuar sobre ella permitiendo la adaptación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de los principios de la selección natural a casos de especiación y adaptación local.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v12",
+      "statement": "En los arrecifes de Corn Island, el pez limpiador se alimenta de los parásitos de peces más grandes. El pez grande queda libre de plagas y el pequeño obtiene comida. ¿Cómo se clasifica esta relación biológica?",
+      "context": "Relaciones simbióticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parásito daña al huésped; aquí ambos se benefician."
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo",
+          "is_correct": true,
+          "feedback": "Correcto. Es una interacción donde ambas especies involucradas obtienen una ventaja para su supervivencia."
+        },
+        {
+          "letter": "C",
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el comensalismo, uno se beneficia y el otro no se ve afectado ni positiva ni negativamente."
+        },
+        {
+          "letter": "D",
+          "text": "Competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No luchan por el mismo recurso, sino que cooperan de forma indirecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación y valoración de las interacciones bióticas en ecosistemas marinos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v13",
+      "statement": "En un ecosistema como la Reserva Indio Maíz, ¿por qué la cantidad de energía disponible disminuye drásticamente a medida que subimos de las plantas a los jaguares?",
+      "context": "Pirámides tróficas y energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los jaguares son muy perezosos y no buscan energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una cuestión de comportamiento, sino de leyes físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las plantas esconden su energía para no ser comidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas usan energía para sus propios procesos vitales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la mayor parte de la energía se pierde como calor y en procesos metabólicos en cada nivel.",
+          "is_correct": true,
+          "feedback": "Correcto. Según la regla del 10%, solo una pequeña parte de la energía pasa al siguiente nivel trófico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol solo ilumina a las plantas y no a los animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol es la fuente primaria, pero la energía fluye a través de la cadena alimentaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis del flujo de energía y las leyes de la termodinámica aplicadas a la ecología.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v14",
+      "statement": "La introducción de la tilapia en lagunas naturales de Nicaragua ha causado la disminución de especies nativas (mojarras). ¿Cuál es la principal razón biológica de este impacto negativo?",
+      "context": "Impacto de especies invasoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tilapia les enseña a las mojarras a nadar más lento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especies no se transmiten comportamientos de este tipo entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "La tilapia compite por el mismo nicho ecológico (comida y espacio) y suele ser más agresiva o eficiente.",
+          "is_correct": true,
+          "feedback": "Correcto. El desplazamiento por competencia es la causa principal del declive de especies nativas ante invasoras."
+        },
+        {
+          "letter": "C",
+          "text": "Las mojarras deciden irse a vivir a otro país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los organismos no migran de forma consciente a grandes distancias por decisión propia ante una competencia local."
+        },
+        {
+          "letter": "D",
+          "text": "La tilapia produce oxígeno que es tóxico para las mojarras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces consumen oxígeno, no lo producen en cantidades significativas (eso lo hacen las plantas/algas)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de las consecuencias de la alteración de los ecosistemas por actividades humanas (biogeografía).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v15",
+      "statement": "Algunas bacterias han desarrollado resistencia a los antibióticos en los hospitales de Nicaragua. ¿Cómo explica la biología este fenómeno desde una perspectiva evolutiva?",
+      "context": "Biotecnología y salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las bacterias se asustan de los antibióticos y se esconden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso biológico poblacional, no una respuesta psicológica individual."
+        },
+        {
+          "letter": "B",
+          "text": "El antibiótico muta a la bacteria para volverla más fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El antibiótico no causa la mutación; esta suele ser previa y aleatoria."
+        },
+        {
+          "letter": "C",
+          "text": "El antibiótico actúa como presión selectiva, matando a las bacterias débiles y dejando que solo las resistentes se reproduzcan.",
+          "is_correct": true,
+          "feedback": "Correcto. Es selección natural acelerada por la intervención humana."
+        },
+        {
+          "letter": "D",
+          "text": "Las bacterias roban los genes de los médicos para protegerse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias pueden intercambiar genes entre ellas (transferencia horizontal), pero no de humanos para resistencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de procesos evolutivos contemporáneos con impacto en la salud pública.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v16",
+      "statement": "¿Cuál es la función de las \"enzimas de restricción\" en la biotecnología moderna, por ejemplo para crear insulina humana en bacterias?",
+      "context": "Ingeniería Genética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pegar trozos de ADN de diferentes animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de la ADN ligasa."
+        },
+        {
+          "letter": "B",
+          "text": "Cortar el ADN en secuencias específicas para poder insertar nuevos genes.",
+          "is_correct": true,
+          "feedback": "Correcto. Funcionan como \"tijeras moleculares\" precisas."
+        },
+        {
+          "letter": "C",
+          "text": "Acelerar la respiración de las bacterias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No actúan sobre el metabolismo energético directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar que el ADN se oxide con el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen una función protectora antioxidante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conocimiento de las herramientas moleculares básicas de la ingeniería genética.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v17",
+      "statement": "El aumento de la temperatura de los océanos provoca el \"blanqueamiento de los corales\" en el Caribe nicaragüense. ¿Cuál es el mecanismo biológico exacto de este proceso?",
+      "context": "El cambio climático y los corales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El coral se quema con el sol como si fuera piel humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso interno de ruptura de una relación simbiótica."
+        },
+        {
+          "letter": "B",
+          "text": "El agua caliente tiñe de blanco el esqueleto del coral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color blanco siempre estuvo ahí (carbonato), lo que se pierde es el tejido vivo coloreado."
+        },
+        {
+          "letter": "C",
+          "text": "El coral expulsa a las algas simbióticas (zooxantelas) debido al estrés térmico, perdiendo su fuente de alimento y color.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin las algas, el tejido del coral se vuelve transparente y deja ver el esqueleto blanco."
+        },
+        {
+          "letter": "D",
+          "text": "Los peces se comen la pintura de los corales cuando hace calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corales no tienen pintura; su color proviene de pigmentos biológicos de sus simbiontes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Modelización de las consecuencias del estrés ambiental en las relaciones ecológicas complejas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v18",
+      "statement": "Se ha descubierto que las plantas de café pueden \"recordar\" periodos de sequía severa y preparar a sus descendientes mediante marcas químicas en el ADN (sin cambiar la secuencia de letras). ¿Cómo se llama esta área de estudio?",
+      "context": "Epigenética y entorno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paleontología",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el estudio de los fósiles."
+        },
+        {
+          "letter": "B",
+          "text": "Epigenética",
+          "is_correct": true,
+          "feedback": "Correcto. Estudia cambios heredables en la expresión génica que no implican alteraciones en la secuencia del ADN."
+        },
+        {
+          "letter": "C",
+          "text": "Taxonomía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la ciencia de clasificar a los seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "Embriología",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el estudio del desarrollo de los embriones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de los avances modernos en la comprensión de la herencia y la expresión génica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v19",
+      "statement": "Si un científico propusiera clonar a un jaguar de la selva nicaragüense para salvar la especie, ¿cuál sería el argumento biológico más fuerte",
+      "context": "Ética y Biotecnología.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los jaguares clonados serían muy feos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia no es un factor científico relevante en este debate."
+        },
+        {
+          "letter": "B",
+          "text": "Que la clonación es muy barata y fácil de hacer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cara y compleja, pero eso no es un argumento biológico sobre la población."
+        },
+        {
+          "letter": "C",
+          "text": "Que la clonación no recupera la diversidad genética de la población, haciéndola vulnerable a enfermedades.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de variabilidad genética pone en riesgo la supervivencia a largo plazo de la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Que los jaguares clonados no sabrían rugir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los instintos básicos suelen mantenerse, pero el problema real es la genética poblacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación crítica de las intervenciones biotecnológicas en la conservación de la biodiversidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-CIE-11-P1-biologia-001-v20",
+      "statement": "El experimento de Miller-Urey intentó recrear las condiciones de la Tierra primitiva. ¿Cuál fue el hallazgo principal que dio pistas sobre el origen de la vida?",
+      "context": "El experimento de Miller-Urey y el origen de la vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se puede crear una hormiga de la nada en una semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se crearon organismos, solo moléculas."
+        },
+        {
+          "letter": "B",
+          "text": "Que el oxígeno era muy abundante al principio de la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó una atmósfera reductora sin oxígeno libre."
+        },
+        {
+          "letter": "C",
+          "text": "Que las moléculas orgánicas (como aminoácidos) pueden formarse a partir de materia inorgánica bajo ciertas condiciones de energía.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostró la posibilidad de la evolución química previa a la biológica."
+        },
+        {
+          "letter": "D",
+          "text": "Que los volcanes de Nicaragua son los más antiguos del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento no trataba sobre geología regional específica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de las evidencias experimentales que sustentan las teorías científicas sobre el origen de las biomoléculas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

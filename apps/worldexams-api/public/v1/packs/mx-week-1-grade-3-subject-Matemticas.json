@@ -15,26 +15,30 @@
         {
           "letter": "A",
           "text": "25",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "20",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "30",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "15",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nAl sumar 15 y 10, obtenemos 25. Es una suma básica de decenas y unidades.\n\n---",
+      "explanation": "Al sumar 15 y 10, obtenemos 25. Es una suma básica de decenas y unidades.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -51,26 +55,30 @@
         {
           "letter": "A",
           "text": "15",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "25",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "20",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nEsta es una resta simple: 20 menos 5 es igual a 15.\n\n---",
+      "explanation": "Esta es una resta simple: 20 menos 5 es igual a 15.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -87,26 +95,30 @@
         {
           "letter": "A",
           "text": "25",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "30",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "21",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "24",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nLa secuencia aumenta de 5 en 5. Después del 20 sigue el 25.\n\n---",
+      "explanation": "La secuencia aumenta de 5 en 5. Después del 20 sigue el 25.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -123,26 +135,30 @@
         {
           "letter": "A",
           "text": "$20 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$18 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$22 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$10 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nSe realiza una suma de los precios: 8 + 12 = 20. El contexto usa moneda nacional ($).\n\n---",
+      "explanation": "Se realiza una suma de los precios: 8 + 12 = 20. El contexto usa moneda nacional ($).\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -159,26 +175,30 @@
         {
           "letter": "A",
           "text": "24",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "20",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "28",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nLa multiplicación es una suma iterada: 6 + 6 + 6 + 6 = 24.\n\n---",
+      "explanation": "La multiplicación es una suma iterada: 6 + 6 + 6 + 6 = 24.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -195,26 +215,30 @@
         {
           "letter": "A",
           "text": "24 naranjas",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "11 naranjas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "18 naranjas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "32 naranjas",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nSe multiplica el número de bolsas por la cantidad de naranjas por bolsa: 3 x 8 = 24.\n\n---",
+      "explanation": "Se multiplica el número de bolsas por la cantidad de naranjas por bolsa: 3 x 8 = 24.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -231,26 +255,30 @@
         {
           "letter": "A",
           "text": "$66 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$60 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$44 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$63 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\n**Paso 1:** Identificar el precio por unidad ($22).\n**Paso 2:** Multiplicar por la cantidad (3).\n**Resultado:** 22 x 3 = 66.\n\n---",
+      "explanation": "**Paso 1:** Identificar el precio por unidad ($22).\n**Paso 2:** Multiplicar por la cantidad (3).\n**Resultado:** 22 x 3 = 66.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -267,26 +295,30 @@
         {
           "letter": "A",
           "text": "9 tazos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "8 tazos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "7 tazos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "10 tazos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nSe realiza una división: 36 dividido entre 4 es igual a 9.\n\n---",
+      "explanation": "Se realiza una división: 36 dividido entre 4 es igual a 9.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -303,26 +335,30 @@
         {
           "letter": "A",
           "text": "$53 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "$47 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "$65 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "$50 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPrimero se suma el gasto total: 35 + 12 = 47. Luego se resta del dinero inicial: 100 - 47 = 53.\n\n---",
+      "explanation": "Primero se suma el gasto total: 35 + 12 = 47. Luego se resta del dinero inicial: 100 - 47 = 53.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -339,26 +375,30 @@
         {
           "letter": "A",
           "text": "92 alumnos",
-          "is_correct": true
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "B",
           "text": "100 alumnos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "C",
           "text": "108 alumnos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
           "text": "82 alumnos",
-          "is_correct": false
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\n\nPrimero calculamos el total de alumnos: 4 x 25 = 100. Luego restamos los que faltaron: 100 - 8 = 92.",
+      "explanation": "Primero calculamos el total de alumnos: 4 x 25 = 100. Luego restamos los que faltaron: 100 - 8 = 92.",
       "difficulty": "5",
       "images": [],
       "tags": [],

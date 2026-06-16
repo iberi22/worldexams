@@ -10,31 +10,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v1",
       "statement": "Según el modelo atómico de Bohr, ¿dónde se ubican los electrones en un átomo de litio?",
-      "context": "",
+      "context": "Los estudiantes analizan el litio, fundamental para las baterías.",
       "options": [
         {
           "letter": "A",
-          "text": "Incrustados en una masa de carga positiva como pasas en un pastel. <!-- feedback: Incorrecto. Este es el modelo de Thomson. -->",
-          "is_correct": false
+          "text": "Incrustados en una masa de carga positiva como pasas en un pastel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el modelo de Thomson."
         },
         {
           "letter": "B",
-          "text": "Concentrados únicamente en el núcleo del átomo. <!-- feedback: Incorrecto. El núcleo contiene protones y neutrones; los electrones están fuera. -->",
-          "is_correct": false
+          "text": "Concentrados únicamente en el núcleo del átomo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo contiene protones y neutrones; los electrones están fuera."
         },
         {
           "letter": "C",
-          "text": "Girando en órbitas circulares definidas alrededor del núcleo. <!-- feedback: Correcto. Bohr propuso que los electrones orbitan el núcleo en niveles de energía específicos. -->",
-          "is_correct": true
+          "text": "Girando en órbitas circulares definidas alrededor del núcleo.",
+          "is_correct": true,
+          "feedback": "Correcto. Bohr propuso que los electrones orbitan el núcleo en niveles de energía específicos."
         },
         {
           "letter": "D",
-          "text": "Distribuidos de forma aleatoria en una nube difusa de probabilidad. <!-- feedback: Incorrecto. Este corresponde al modelo mecánico-cuántico actual, posterior a Bohr. -->",
-          "is_correct": false
+          "text": "Distribuidos de forma aleatoria en una nube difusa de probabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al modelo mecánico-cuántico actual, posterior a Bohr."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEvalúa el conocimiento fundamental sobre la evolución de los modelos atómicos y las características del modelo de Bohr.\n\n---",
+      "explanation": "Evalúa el conocimiento fundamental sobre la evolución de los modelos atómicos y las características del modelo de Bohr.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v2",
       "statement": "Si un átomo de cobre tiene un número atómico ($Z$) de 29 y un número másico ($A$) de 64, ¿cuántos neutrones tiene en su núcleo?",
-      "context": "",
+      "context": "Identificación de partículas subatómicas.",
       "options": [
         {
           "letter": "A",
-          "text": "29 <!-- feedback: Incorrecto. 29 es el número de protones ($Z$). -->",
-          "is_correct": false
+          "text": "29",
+          "is_correct": false,
+          "feedback": "Incorrecto. 29 es el número de protones ($Z$)."
         },
         {
           "letter": "B",
-          "text": "35 <!-- feedback: Correcto. El número de neutrones se calcula como $A - Z = 64 - 29 = 35$. -->",
-          "is_correct": true
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. El número de neutrones se calcula como $A - Z = 64 - 29 = 35$."
         },
         {
           "letter": "C",
-          "text": "64 <!-- feedback: Incorrecto. 64 es el número másico total (protones + neutrones). -->",
-          "is_correct": false
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. 64 es el número másico total (protones + neutrones)."
         },
         {
           "letter": "D",
-          "text": "93 <!-- feedback: Incorrecto. Este valor es la suma errónea de $A + Z$. -->",
-          "is_correct": false
+          "text": "93",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor es la suma errónea de $A + Z$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nLa pregunta evalúa la capacidad de calcular la composición del núcleo atómico a partir de la notación estándar.\n\n---",
+      "explanation": "La pregunta evalúa la capacidad de calcular la composición del núcleo atómico a partir de la notación estándar.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v3",
       "statement": "El sodio ($Na$) suele perder un electrón para formar parte de las sales del norte. Al perder ese electrón, el sodio se transforma en:",
-      "context": "",
+      "context": "El salitre y los iones.",
       "options": [
         {
           "letter": "A",
-          "text": "Un anión con carga negativa. <!-- feedback: Incorrecto. Al perder un electrón (carga negativa), el átomo queda con exceso de carga positiva. -->",
-          "is_correct": false
+          "text": "Un anión con carga negativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al perder un electrón (carga negativa), el átomo queda con exceso de carga positiva."
         },
         {
           "letter": "B",
-          "text": "Un catión con carga positiva. <!-- feedback: Correcto. Los metales como el sodio tienden a perder electrones formando iones positivos o cationes. -->",
-          "is_correct": true
+          "text": "Un catión con carga positiva.",
+          "is_correct": true,
+          "feedback": "Correcto. Los metales como el sodio tienden a perder electrones formando iones positivos o cationes."
         },
         {
           "letter": "C",
-          "text": "Un isótopo del sodio con distinta masa. <!-- feedback: Incorrecto. Los isótopos varían en neutrones, no en electrones. -->",
-          "is_correct": false
+          "text": "Un isótopo del sodio con distinta masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los isótopos varían en neutrones, no en electrones."
         },
         {
           "letter": "D",
-          "text": "Un nuevo elemento químico. <!-- feedback: Incorrecto. La identidad del elemento la da el número de protones, que no cambia. -->",
-          "is_correct": false
+          "text": "Un nuevo elemento químico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad del elemento la da el número de protones, que no cambia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvalúa la comprensión del proceso de formación de iones y la diferencia entre cationes y aniones.\n\n---",
+      "explanation": "Evalúa la comprensión del proceso de formación de iones y la diferencia entre cationes y aniones.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v4",
       "statement": "Dos átomos son considerados **isótopos** entre sí cuando presentan:",
-      "context": "",
+      "context": "Isótopos en la naturaleza.",
       "options": [
         {
           "letter": "A",
-          "text": "El mismo número másico pero distinto número atómico. <!-- feedback: Incorrecto. Estos se llaman isóbaros. -->",
-          "is_correct": false
+          "text": "El mismo número másico pero distinto número atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos se llaman isóbaros."
         },
         {
           "letter": "B",
-          "text": "El mismo número atómico pero distinto número de neutrones. <!-- feedback: Correcto. Los isótopos son átomos del mismo elemento (mismo $Z$) con diferente cantidad de neutrones (diferente $A$). -->",
-          "is_correct": true
+          "text": "El mismo número atómico pero distinto número de neutrones.",
+          "is_correct": true,
+          "feedback": "Correcto. Los isótopos son átomos del mismo elemento (mismo $Z$) con diferente cantidad de neutrones (diferente $A$)."
         },
         {
           "letter": "C",
-          "text": "La misma cantidad de electrones de valencia. <!-- feedback: Incorrecto. Esto los hace pertenecer al mismo grupo de la tabla periódica, pero no necesariamente son isótopos. -->",
-          "is_correct": false
+          "text": "La misma cantidad de electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto los hace pertenecer al mismo grupo de la tabla periódica, pero no necesariamente son isótopos."
         },
         {
           "letter": "D",
-          "text": "El mismo número de protones y de electrones en estado iónico. <!-- feedback: Incorrecto. Los isótopos se definen por la composición del núcleo. -->",
-          "is_correct": false
+          "text": "El mismo número de protones y de electrones en estado iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los isótopos se definen por la composición del núcleo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nDefine el concepto de isótopo, clave para entender la estabilidad nuclear y la masa atómica promedio.\n\n---",
+      "explanation": "Define el concepto de isótopo, clave para entender la estabilidad nuclear y la masa atómica promedio.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v5",
       "statement": "Un elemento químico desconocido tiene una configuración electrónica que termina en $3s^2 3p^5$. ¿A qué grupo y periodo pertenece?",
-      "context": "",
+      "context": "Ubicación en la tabla periódica.",
       "options": [
         {
           "letter": "A",
-          "text": "Grupo 5, Periodo 3. <!-- feedback: Incorrecto. El grupo se determina sumando los electrones del último nivel ($2+5=7$ o grupo 17). -->",
-          "is_correct": false
+          "text": "Grupo 5, Periodo 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo se determina sumando los electrones del último nivel ($2+5=7$ o grupo 17)."
         },
         {
           "letter": "B",
-          "text": "Grupo 15, Periodo 2. <!-- feedback: Incorrecto. El nivel de energía principal es 3, por lo que el periodo es 3. -->",
-          "is_correct": false
+          "text": "Grupo 15, Periodo 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nivel de energía principal es 3, por lo que el periodo es 3."
         },
         {
           "letter": "C",
-          "text": "Grupo 17 (VIIA), Periodo 3. <!-- feedback: Correcto. Tiene 7 electrones de valencia (Grupo 17) y su nivel más alto es 3 (Periodo 3). Es un halógeno. -->",
-          "is_correct": true
+          "text": "Grupo 17 (VIIA), Periodo 3.",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene 7 electrones de valencia (Grupo 17) y su nivel más alto es 3 (Periodo 3). Es un halógeno."
         },
         {
           "letter": "D",
-          "text": "Grupo 2, Periodo 5. <!-- feedback: Incorrecto. Error al interpretar los números de la configuración. -->",
-          "is_correct": false
+          "text": "Grupo 2, Periodo 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al interpretar los números de la configuración."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEvalúa la relación directa entre la configuración electrónica y la posición de un elemento en la tabla periódica.\n\n---",
+      "explanation": "Evalúa la relación directa entre la configuración electrónica y la posición de un elemento en la tabla periódica.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v6",
       "statement": "¿Cuál es la tendencia general de la **electronegatividad** en la tabla periódica?",
-      "context": "",
+      "context": "Propiedades periódicas: Electronegatividad.",
       "options": [
         {
           "letter": "A",
-          "text": "Aumenta al bajar en un grupo y aumenta hacia la izquierda en un periodo. <!-- feedback: Incorrecto. Al bajar en un grupo el radio aumenta y la electronegatividad disminuye. -->",
-          "is_correct": false
+          "text": "Aumenta al bajar en un grupo y aumenta hacia la izquierda en un periodo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al bajar en un grupo el radio aumenta y la electronegatividad disminuye."
         },
         {
           "letter": "B",
-          "text": "Aumenta al subir en un grupo y aumenta hacia la derecha en un periodo. <!-- feedback: Correcto. Los elementos más pequeños y con más protones (arriba a la derecha, como el Flúor) atraen más los electrones. -->",
-          "is_correct": true
+          "text": "Aumenta al subir en un grupo y aumenta hacia la derecha en un periodo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los elementos más pequeños y con más protones (arriba a la derecha, como el Flúor) atraen más los electrones."
         },
         {
           "letter": "C",
-          "text": "Disminuye al subir en un grupo y aumenta hacia la derecha en un periodo. <!-- feedback: Incorrecto. Tendencia contradictoria en el grupo. -->",
-          "is_correct": false
+          "text": "Disminuye al subir en un grupo y aumenta hacia la derecha en un periodo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tendencia contradictoria en el grupo."
         },
         {
           "letter": "D",
-          "text": "Es constante para todos los elementos de un mismo periodo. <!-- feedback: Incorrecto. Varía significativamente según el número atómico. -->",
-          "is_correct": false
+          "text": "Es constante para todos los elementos de un mismo periodo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Varía significativamente según el número atómico."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nSe evalúa la comprensión de las propiedades periódicas, esenciales para predecir el tipo de enlace químico.\n\n---",
+      "explanation": "Se evalúa la comprensión de las propiedades periódicas, esenciales para predecir el tipo de enlace químico.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v7",
       "statement": "Si comparamos el Sodio ($Na$, $Z=11$) con el Cloro ($Cl$, $Z=17$), ambos en el periodo 3, ¿cuál de las siguientes afirmaciones es correcta?",
-      "context": "",
+      "context": "Comparación de radios atómicos.",
       "options": [
         {
           "letter": "A",
-          "text": "El átomo de Cloro es más grande que el de Sodio porque tiene más partículas. <!-- feedback: Incorrecto. En un periodo, al aumentar $Z$, la carga nuclear atrae más los electrones, achicando el átomo. -->",
-          "is_correct": false
+          "text": "El átomo de Cloro es más grande que el de Sodio porque tiene más partículas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un periodo, al aumentar $Z$, la carga nuclear atrae más los electrones, achicando el átomo."
         },
         {
           "letter": "B",
-          "text": "El átomo de Sodio es más grande que el de Cloro debido a una menor carga nuclear efectiva. <!-- feedback: Correcto. El sodio tiene menos protones para atraer sus electrones hacia el núcleo comparado con el cloro. -->",
-          "is_correct": true
+          "text": "El átomo de Sodio es más grande que el de Cloro debido a una menor carga nuclear efectiva.",
+          "is_correct": true,
+          "feedback": "Correcto. El sodio tiene menos protones para atraer sus electrones hacia el núcleo comparado con el cloro."
         },
         {
           "letter": "C",
-          "text": "Ambos tienen el mismo tamaño por estar en el mismo periodo. <!-- feedback: Incorrecto. El tamaño varía a lo largo del periodo. -->",
-          "is_correct": false
+          "text": "Ambos tienen el mismo tamaño por estar en el mismo periodo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño varía a lo largo del periodo."
         },
         {
           "letter": "D",
-          "text": "El tamaño no se puede comparar sin conocer la masa atómica. <!-- feedback: Incorrecto. El radio atómico es una propiedad periódica predecible por $Z$. -->",
-          "is_correct": false
+          "text": "El tamaño no se puede comparar sin conocer la masa atómica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio atómico es una propiedad periódica predecible por $Z$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvalúa la comprensión del concepto de carga nuclear efectiva y su influencia en el radio atómico.\n\n---",
+      "explanation": "Evalúa la comprensión del concepto de carga nuclear efectiva y su influencia en el radio atómico.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v8",
       "statement": "Los elementos situados en el bloque $d$ de la tabla periódica (como el cobre y el hierro) se caracterizan principalmente por:",
-      "context": "",
+      "context": "Metales de transición y sus usos.",
       "options": [
         {
           "letter": "A",
-          "text": "Ser gases nobles altamente reactivos. <!-- feedback: Incorrecto. Los gases nobles están en el bloque $p$ y son casi inertes. -->",
-          "is_correct": false
+          "text": "Ser gases nobles altamente reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases nobles están en el bloque $p$ y son casi inertes."
         },
         {
           "letter": "B",
-          "text": "Tener subniveles $d$ en proceso de llenado y presentar varios estados de oxidación. <!-- feedback: Correcto. Son metales de transición con propiedades magnéticas y catalíticas únicas. -->",
-          "is_correct": true
+          "text": "Tener subniveles $d$ en proceso de llenado y presentar varios estados de oxidación.",
+          "is_correct": true,
+          "feedback": "Correcto. Son metales de transición con propiedades magnéticas y catalíticas únicas."
         },
         {
           "letter": "C",
-          "text": "Tener un solo electrón en su capa más externa. <!-- feedback: Incorrecto. Estos son los metales alcalinos (bloque $s$). -->",
-          "is_correct": false
+          "text": "Tener un solo electrón en su capa más externa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son los metales alcalinos (bloque $s$)."
         },
         {
           "letter": "D",
-          "text": "Ser no metales que forman enlaces iónicos únicamente con el oxígeno. <!-- feedback: Incorrecto. Son metales. -->",
-          "is_correct": false
+          "text": "Ser no metales que forman enlaces iónicos únicamente con el oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son metales."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento de las características generales de los metales de transición, fundamentales para la industria minera chilena.\n\n---",
+      "explanation": "Reconocimiento de las características generales de los metales de transición, fundamentales para la industria minera chilena.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v9",
       "statement": "¿Por qué los gases nobles presentan las energías de ionización más altas de sus respectivos periodos?",
-      "context": "",
+      "context": "Energía de ionización.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque son muy grandes y los electrones están lejos del núcleo. <!-- feedback: Incorrecto. Son los más pequeños de su periodo. -->",
-          "is_correct": false
+          "text": "Porque son muy grandes y los electrones están lejos del núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son los más pequeños de su periodo."
         },
         {
           "letter": "B",
-          "text": "Porque tienen su capa de valencia completa, lo que les otorga una gran estabilidad. <!-- feedback: Correcto. Quitar un electrón a una estructura de octeto completo requiere muchísima energía. -->",
-          "is_correct": true
+          "text": "Porque tienen su capa de valencia completa, lo que les otorga una gran estabilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Quitar un electrón a una estructura de octeto completo requiere muchísima energía."
         },
         {
           "letter": "C",
-          "text": "Porque no tienen protones en su núcleo para atraer electrones. <!-- feedback: Incorrecto. Tienen el máximo número de protones de su periodo. -->",
-          "is_correct": false
+          "text": "Porque no tienen protones en su núcleo para atraer electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen el máximo número de protones de su periodo."
         },
         {
           "letter": "D",
-          "text": "Porque siempre se encuentran en estado líquido a temperatura ambiente. <!-- feedback: Incorrecto. Son gases. -->",
-          "is_correct": false
+          "text": "Porque siempre se encuentran en estado líquido a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son gases."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nVincula la estabilidad electrónica (regla del octeto) con la energía necesaria para remover electrones.\n\n---",
+      "explanation": "Vincula la estabilidad electrónica (regla del octeto) con la energía necesaria para remover electrones.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v10",
       "statement": "¿Cuántos electrones de valencia tiene un átomo de Azufre ($S$, $Z=16$)?",
-      "context": "",
+      "context": "Electrones de valencia.",
       "options": [
         {
           "letter": "A",
-          "text": "2 <!-- feedback: Incorrecto. Este es el número de electrones en el primer nivel. -->",
-          "is_correct": false
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el número de electrones en el primer nivel."
         },
         {
           "letter": "B",
-          "text": "4 <!-- feedback: Incorrecto. Error en la distribución electrónica. -->",
-          "is_correct": false
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la distribución electrónica."
         },
         {
           "letter": "C",
-          "text": "6 <!-- feedback: Correcto. Su configuración es $[Ne] 3s^2 3p^4$. Los electrones del nivel 3 son $2+4=6$. -->",
-          "is_correct": true
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Su configuración es $[Ne] 3s^2 3p^4$. Los electrones del nivel 3 son $2+4=6$."
         },
         {
           "letter": "D",
-          "text": "8 <!-- feedback: Incorrecto. 8 es el número que busca alcanzar para ser estable, no el que tiene originalmente. -->",
-          "is_correct": false
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 es el número que busca alcanzar para ser estable, no el que tiene originalmente."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEvalúa la habilidad para determinar los electrones de la capa externa, responsables de los enlaces químicos.\n\n---",
+      "explanation": "Evalúa la habilidad para determinar los electrones de la capa externa, responsables de los enlaces químicos.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v11",
       "statement": "El enlace iónico se caracteriza fundamentalmente por:",
-      "context": "",
+      "context": "El enlace iónico en la sal de mesa.",
       "options": [
         {
           "letter": "A",
-          "text": "La compartición equitativa de pares de electrones entre dos no metales. <!-- feedback: Incorrecto. Esto define al enlace covalente apolar. -->",
-          "is_correct": false
+          "text": "La compartición equitativa de pares de electrones entre dos no metales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define al enlace covalente apolar."
         },
         {
           "letter": "B",
-          "text": "La transferencia de electrones desde un metal a un no metal debido a una gran diferencia de electronegatividad. <!-- feedback: Correcto. Se generan iones de carga opuesta que se atraen electrostáticamente. -->",
-          "is_correct": true
+          "text": "La transferencia de electrones desde un metal a un no metal debido a una gran diferencia de electronegatividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Se generan iones de carga opuesta que se atraen electrostáticamente."
         },
         {
           "letter": "C",
-          "text": "Una \"nube\" de electrones libres que rodea a núcleos positivos. <!-- feedback: Incorrecto. Esto describe al enlace metálico. -->",
-          "is_correct": false
+          "text": "Una \"nube\" de electrones libres que rodea a núcleos positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe al enlace metálico."
         },
         {
           "letter": "D",
-          "text": "La unión de dos gases nobles para formar moléculas diatómicas. <!-- feedback: Incorrecto. Los gases nobles rara vez forman enlaces. -->",
-          "is_correct": false
+          "text": "La unión de dos gases nobles para formar moléculas diatómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases nobles rara vez forman enlaces."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nDefine las características distintivas del enlace iónico frente a otros tipos de uniones químicas.\n\n---",
+      "explanation": "Define las características distintivas del enlace iónico frente a otros tipos de uniones químicas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v12",
       "statement": "Dadas las electronegatividades: $Cl = 3,0$ y $Na = 0,9$. ¿Qué tipo de enlace formarán al unirse?",
-      "context": "",
+      "context": "Predicción del tipo de enlace.",
       "options": [
         {
           "letter": "A",
-          "text": "Enlace Iónico. <!-- feedback: Correcto. La diferencia es $3,0 - 0,9 = 2,1$. Al ser mayor a 1,7, se considera un enlace iónico. -->",
-          "is_correct": true
+          "text": "Enlace Iónico.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es $3,0 - 0,9 = 2,1$. Al ser mayor a 1,7, se considera un enlace iónico."
         },
         {
           "letter": "B",
-          "text": "Enlace Covalente Polar. <!-- feedback: Incorrecto. La diferencia de electronegatividad es demasiado alta para ser covalente. -->",
-          "is_correct": false
+          "text": "Enlace Covalente Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de electronegatividad es demasiado alta para ser covalente."
         },
         {
           "letter": "C",
-          "text": "Enlace Covalente Apolar. <!-- feedback: Incorrecto. Requeriría una diferencia cercana a cero. -->",
-          "is_correct": false
+          "text": "Enlace Covalente Apolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requeriría una diferencia cercana a cero."
         },
         {
           "letter": "D",
-          "text": "Enlace Metálico. <!-- feedback: Incorrecto. El cloro es un no metal. -->",
-          "is_correct": false
+          "text": "Enlace Metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloro es un no metal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nUso de la escala de Pauling para predecir cuantitativamente el tipo de enlace entre dos átomos.\n\n---",
+      "explanation": "Uso de la escala de Pauling para predecir cuantitativamente el tipo de enlace entre dos átomos.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v13",
       "statement": "En la molécula de agua ($H_2O$), los enlaces entre el Oxígeno y los Hidrógenos son covalentes polares. Esto significa que:",
-      "context": "",
+      "context": "El agua y el enlace covalente.",
       "options": [
         {
           "letter": "A",
-          "text": "El Oxígeno regala sus electrones a los Hidrógenos. <!-- feedback: Incorrecto. No hay transferencia total de carga. -->",
-          "is_correct": false
+          "text": "El Oxígeno regala sus electrones a los Hidrógenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay transferencia total de carga."
         },
         {
           "letter": "B",
-          "text": "Los electrones compartidos pasan más tiempo cerca del núcleo del Oxígeno por ser más electronegativo. <!-- feedback: Correcto. Se genera un dipolo con carga parcial negativa en el oxígeno y positiva en los hidrógenos. -->",
-          "is_correct": true
+          "text": "Los electrones compartidos pasan más tiempo cerca del núcleo del Oxígeno por ser más electronegativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Se genera un dipolo con carga parcial negativa en el oxígeno y positiva en los hidrógenos."
         },
         {
           "letter": "C",
-          "text": "La molécula es totalmente simétrica y no tiene polos de carga. <!-- feedback: Incorrecto. La geometría angular y la diferencia de electronegatividad la hacen polar. -->",
-          "is_correct": false
+          "text": "La molécula es totalmente simétrica y no tiene polos de carga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría angular y la diferencia de electronegatividad la hacen polar."
         },
         {
           "letter": "D",
-          "text": "Los átomos se mantienen unidos por fuerzas de Van der Waals únicamente. <!-- feedback: Incorrecto. Estas son fuerzas intermoleculares, no el enlace dentro de la molécula. -->",
-          "is_correct": false
+          "text": "Los átomos se mantienen unidos por fuerzas de Van der Waals únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son fuerzas intermoleculares, no el enlace dentro de la molécula."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvalúa la comprensión de la polaridad en los enlaces covalentes y sus consecuencias en la estructura de la materia.\n\n---",
+      "explanation": "Evalúa la comprensión de la polaridad en los enlaces covalentes y sus consecuencias en la estructura de la materia.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v14",
       "statement": "¿Cuál de las siguientes es una propiedad típica de los compuestos **iónicos** como el cloruro de sodio?",
-      "context": "",
+      "context": "Propiedades de los compuestos.",
       "options": [
         {
           "letter": "A",
-          "text": "Tienen bajos puntos de fusión y ebullición. <!-- feedback: Incorrecto. Las fuerzas electrostáticas son muy fuertes, requiriendo mucha energía para romperse. -->",
-          "is_correct": false
+          "text": "Tienen bajos puntos de fusión y ebullición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas electrostáticas son muy fuertes, requiriendo mucha energía para romperse."
         },
         {
           "letter": "B",
-          "text": "Son buenos conductores de la electricidad en estado sólido. <!-- feedback: Incorrecto. En sólido los iones están fijos; no hay portadores de carga libres. -->",
-          "is_correct": false
+          "text": "Son buenos conductores de la electricidad en estado sólido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En sólido los iones están fijos; no hay portadores de carga libres."
         },
         {
           "letter": "C",
-          "text": "Conducen la corriente eléctrica cuando están disueltos en agua o fundidos. <!-- feedback: Correcto. Al disolverse, los iones se separan y pueden moverse, transportando carga. -->",
-          "is_correct": true
+          "text": "Conducen la corriente eléctrica cuando están disueltos en agua o fundidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Al disolverse, los iones se separan y pueden moverse, transportando carga."
         },
         {
           "letter": "D",
-          "text": "Son generalmente líquidos o gases a temperatura ambiente. <!-- feedback: Incorrecto. Suelen formar redes cristalinas sólidas y quebradizas. -->",
-          "is_correct": false
+          "text": "Son generalmente líquidos o gases a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suelen formar redes cristalinas sólidas y quebradizas."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nRelaciona el tipo de enlace químico con las propiedades macroscópicas observables de las sustancias.\n\n---",
+      "explanation": "Relaciona el tipo de enlace químico con las propiedades macroscópicas observables de las sustancias.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v15",
       "statement": "La molécula de metano ($CH_4$) tiene una geometría:",
-      "context": "",
+      "context": "Geometría molecular (VSEPR).",
       "options": [
         {
           "letter": "A",
-          "text": "Lineal. <!-- feedback: Incorrecto. Los 4 pares de electrones se repelen buscando la máxima distancia. -->",
-          "is_correct": false
+          "text": "Lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los 4 pares de electrones se repelen buscando la máxima distancia."
         },
         {
           "letter": "B",
-          "text": "Trigonal Plana. <!-- feedback: Incorrecto. Esta corresponde a moléculas con 3 nubes electrónicas. -->",
-          "is_correct": false
+          "text": "Trigonal Plana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta corresponde a moléculas con 3 nubes electrónicas."
         },
         {
           "letter": "C",
-          "text": "Tetraédrica. <!-- feedback: Correcto. Según la teoría RPECV, 4 pares enlazantes alrededor de un átomo central se disponen hacia los vértices de un tetraedro (ángulo de 109,5°). -->",
-          "is_correct": true
+          "text": "Tetraédrica.",
+          "is_correct": true,
+          "feedback": "Correcto. Según la teoría RPECV, 4 pares enlazantes alrededor de un átomo central se disponen hacia los vértices de un tetraedro (ángulo de 109,5°)."
         },
         {
           "letter": "D",
-          "text": "Octaédrica. <!-- feedback: Incorrecto. Requeriría 6 pares de electrones. -->",
-          "is_correct": false
+          "text": "Octaédrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requeriría 6 pares de electrones."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nEvalúa la aplicación de la Teoría de Repulsión de Pares de Electrones de la Capa de Valencia para determinar la forma tridimensional de las moléculas.\n\n---",
+      "explanation": "Evalúa la aplicación de la Teoría de Repulsión de Pares de Electrones de la Capa de Valencia para determinar la forma tridimensional de las moléculas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v16",
       "statement": "¿Por qué el cobre es un excelente conductor del calor y la electricidad?",
-      "context": "",
+      "context": "El enlace metálico y el cobre chileno.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque sus átomos están unidos por enlaces iónicos muy fuertes. <!-- feedback: Incorrecto. El cobre es un elemento puro, no un compuesto iónico. -->",
-          "is_correct": false
+          "text": "Porque sus átomos están unidos por enlaces iónicos muy fuertes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cobre es un elemento puro, no un compuesto iónico."
         },
         {
           "letter": "B",
-          "text": "Debido a la presencia de un \"mar de electrones\" deslocalizados que pueden moverse libremente por toda la estructura. <!-- feedback: Correcto. El modelo del enlace metálico explica la movilidad electrónica como base de la conductividad. -->",
-          "is_correct": true
+          "text": "Debido a la presencia de un \"mar de electrones\" deslocalizados que pueden moverse libremente por toda la estructura.",
+          "is_correct": true,
+          "feedback": "Correcto. El modelo del enlace metálico explica la movilidad electrónica como base de la conductividad."
         },
         {
           "letter": "C",
-          "text": "Porque el cobre tiene una electronegatividad muy alta que atrapa los electrones. <!-- feedback: Incorrecto. Los metales tienen electronegatividades bajas. -->",
-          "is_correct": false
+          "text": "Porque el cobre tiene una electronegatividad muy alta que atrapa los electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales tienen electronegatividades bajas."
         },
         {
           "letter": "D",
-          "text": "Porque forma moléculas diatómicas gaseosas que transportan la energía. <!-- feedback: Incorrecto. El cobre es un sólido metálico. -->",
-          "is_correct": false
+          "text": "Porque forma moléculas diatómicas gaseosas que transportan la energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cobre es un sólido metálico."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nVincula el modelo de enlace metálico con las aplicaciones industriales clave del cobre en Chile.\n\n---",
+      "explanation": "Vincula el modelo de enlace metálico con las aplicaciones industriales clave del cobre en Chile.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v17",
       "statement": "Al dibujar la estructura de Lewis del dióxido de carbono ($CO_2$), se observa que:",
-      "context": "",
+      "context": "Estructuras de Lewis complejas.",
       "options": [
         {
           "letter": "A",
-          "text": "El carbono forma enlaces simples con cada oxígeno. <!-- feedback: Incorrecto. El carbono no completaría su octeto y quedarían electrones desapareados en el oxígeno. -->",
-          "is_correct": false
+          "text": "El carbono forma enlaces simples con cada oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono no completaría su octeto y quedarían electrones desapareados en el oxígeno."
         },
         {
           "letter": "B",
-          "text": "Existen dos enlaces dobles entre el carbono central y los oxígenos. <!-- feedback: Correcto. Cada oxígeno comparte dos pares de electrones con el carbono para que todos cumplan la regla del octeto. -->",
-          "is_correct": true
+          "text": "Existen dos enlaces dobles entre el carbono central y los oxígenos.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada oxígeno comparte dos pares de electrones con el carbono para que todos cumplan la regla del octeto."
         },
         {
           "letter": "C",
-          "text": "La molécula presenta un par de electrones no enlazantes sobre el átomo de carbono. <!-- feedback: Incorrecto. El carbono usa sus 4 electrones de valencia en los enlaces. -->",
-          "is_correct": false
+          "text": "La molécula presenta un par de electrones no enlazantes sobre el átomo de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono usa sus 4 electrones de valencia en los enlaces."
         },
         {
           "letter": "D",
-          "text": "Es una molécula iónica debido a la diferencia de electronegatividad. <!-- feedback: Incorrecto. La diferencia es de 1,0 (3,5 - 2,5), lo que indica enlace covalente. -->",
-          "is_correct": false
+          "text": "Es una molécula iónica debido a la diferencia de electronegatividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es de 1,0 (3,5 - 2,5), lo que indica enlace covalente."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nRequiere el dominio de la representación de Lewis y la satisfacción de la regla del octeto en moléculas multi-enlace.\n\n---",
+      "explanation": "Requiere el dominio de la representación de Lewis y la satisfacción de la regla del octeto en moléculas multi-enlace.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v18",
       "statement": "¿Cuál de las siguientes moléculas presenta un **octeto incompleto** en su átomo central?",
-      "context": "",
+      "context": "Excepciones a la regla del octeto.",
       "options": [
         {
           "letter": "A",
-          "text": "$CH_4$ <!-- feedback: Incorrecto. El carbono tiene 8 electrones. -->",
-          "is_correct": false
+          "text": "$CH_4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono tiene 8 electrones."
         },
         {
           "letter": "B",
-          "text": "$BF_3$ <!-- feedback: Correcto. El boro solo tiene 3 electrones de valencia y al formar tres enlaces simples queda con 6 electrones, siendo estable así. -->",
-          "is_correct": true
+          "text": "$BF_3$",
+          "is_correct": true,
+          "feedback": "Correcto. El boro solo tiene 3 electrones de valencia y al formar tres enlaces simples queda con 6 electrones, siendo estable así."
         },
         {
           "letter": "C",
-          "text": "$NH_3$ <!-- feedback: Incorrecto. El nitrógeno tiene 8 electrones (3 pares enlazantes y 1 libre). -->",
-          "is_correct": false
+          "text": "$NH_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno tiene 8 electrones (3 pares enlazantes y 1 libre)."
         },
         {
           "letter": "D",
-          "text": "$PCl_5$ <!-- feedback: Incorrecto. Este es un ejemplo de octeto expandido (10 electrones). -->",
-          "is_correct": false
+          "text": "$PCl_5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un ejemplo de octeto expandido (10 electrones)."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvalúa el conocimiento de las limitaciones de la regla del octeto, centrándose en elementos como el Boro o el Berilio.\n\n---",
+      "explanation": "Evalúa el conocimiento de las limitaciones de la regla del octeto, centrándose en elementos como el Boro o el Berilio.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v19",
       "statement": "En la molécula de eteno ($CH_2=CH_2$), los átomos de carbono presentan una hibridación:",
-      "context": "",
+      "context": "Hibridación de orbitales.",
       "options": [
         {
           "letter": "A",
-          "text": "$sp$ <!-- feedback: Incorrecto. Esta corresponde a enlaces triples o dos dobles acumulados (geometría lineal). -->",
-          "is_correct": false
+          "text": "$sp$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta corresponde a enlaces triples o dos dobles acumulados (geometría lineal)."
         },
         {
           "letter": "B",
-          "text": "$sp^2$ <!-- feedback: Correcto. Los carbonos con enlace doble tienen geometría trigonal plana, lo que requiere hibridación $sp^2$. -->",
-          "is_correct": true
+          "text": "$sp^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Los carbonos con enlace doble tienen geometría trigonal plana, lo que requiere hibridación $sp^2$."
         },
         {
           "letter": "C",
-          "text": "$sp^3$ <!-- feedback: Incorrecto. Corresponde a carbonos con solo enlaces simples (geometría tetraédrica). -->",
-          "is_correct": false
+          "text": "$sp^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a carbonos con solo enlaces simples (geometría tetraédrica)."
         },
         {
           "letter": "D",
-          "text": "$d^2sp^3$ <!-- feedback: Incorrecto. Típica de complejos de coordinación de metales, no de carbono. -->",
-          "is_correct": false
+          "text": "$d^2sp^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Típica de complejos de coordinación de metales, no de carbono."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nRepresenta el nivel más alto de comprensión de la estructura atómica aplicada a la química orgánica, explicando la geometría y el tipo de enlace (sigma y pi).\n\n---",
+      "explanation": "Representa el nivel más alto de comprensión de la estructura atómica aplicada a la química orgánica, explicando la geometría y el tipo de enlace (sigma y pi).\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,31 +770,35 @@
     {
       "id": "CL-CIE-10-P1-quimica-001-v20",
       "statement": "¿Por qué el agua ($H_2O$) tiene un punto de ebullición mucho más alto que el sulfuro de hidrógeno ($H_2S$), a pesar de que el azufre es más pesado que el oxígeno?",
-      "context": "",
+      "context": "Fuerzas intermoleculares y puntos de ebullición.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque el enlace $O-H$ es más débil que el $S-H$. <!-- feedback: Incorrecto. La fuerza del enlace intramolecular no determina el punto de ebullición directamente. -->",
-          "is_correct": false
+          "text": "Porque el enlace $O-H$ es más débil que el $S-H$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza del enlace intramolecular no determina el punto de ebullición directamente."
         },
         {
           "letter": "B",
-          "text": "Debido a la formación de puentes de hidrógeno en el agua, una fuerza intermolecular muy intensa. <!-- feedback: Correcto. El hidrógeno unido a un átomo muy pequeño y electronegativo (F, O, N) genera esta atracción extra. -->",
-          "is_correct": true
+          "text": "Debido a la formación de puentes de hidrógeno en el agua, una fuerza intermolecular muy intensa.",
+          "is_correct": true,
+          "feedback": "Correcto. El hidrógeno unido a un átomo muy pequeño y electronegativo (F, O, N) genera esta atracción extra."
         },
         {
           "letter": "C",
-          "text": "Porque el $H_2S$ es una molécula iónica. <!-- feedback: Incorrecto. Ambas son covalentes polares. -->",
-          "is_correct": false
+          "text": "Porque el $H_2S$ es una molécula iónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son covalentes polares."
         },
         {
           "letter": "D",
-          "text": "Por el mayor radio atómico del oxígeno comparado con el azufre. <!-- feedback: Incorrecto. El azufre tiene mayor radio que el oxígeno. -->",
-          "is_correct": false
+          "text": "Por el mayor radio atómico del oxígeno comparado con el azufre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azufre tiene mayor radio que el oxígeno."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIntegra conocimientos de electronegatividad, polaridad y fuerzas intermoleculares para explicar comportamientos anómalos pero vitales de la materia.",
+      "explanation": "Integra conocimientos de electronegatividad, polaridad y fuerzas intermoleculares para explicar comportamientos anómalos pero vitales de la materia.",
       "difficulty": "10",
       "images": [],
       "tags": [],

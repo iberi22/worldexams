@@ -10,31 +10,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v1",
       "statement": "¿Cuál de los siguientes organelos celulares es exclusivo de las células vegetales y permite realizar la fotosíntesis?",
-      "context": "",
+      "context": "Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Mitocondria <!-- feedback: Incorrecto. La mitocondria está en células animales y vegetales para la respiración. -->",
-          "is_correct": false
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria está en células animales y vegetales para la respiración."
         },
         {
           "letter": "B",
-          "text": "Cloroplasto <!-- feedback: Correcto. Los cloroplastos contienen clorofila y realizan la fotosíntesis. -->",
-          "is_correct": true
+          "text": "Cloroplasto",
+          "is_correct": true,
+          "feedback": "Correcto. Los cloroplastos contienen clorofila y realizan la fotosíntesis."
         },
         {
           "letter": "C",
-          "text": "Ribosoma <!-- feedback: Incorrecto. Los ribosomas se encargan de la síntesis de proteínas en todos los tipos de células. -->",
-          "is_correct": false
+          "text": "Ribosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se encargan de la síntesis de proteínas en todos los tipos de células."
         },
         {
           "letter": "D",
-          "text": "Aparato de Golgi <!-- feedback: Incorrecto. Se encarga de procesar y empaquetar proteínas. -->",
-          "is_correct": false
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encarga de procesar y empaquetar proteínas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de estructuras celulares diferenciadas según el tipo de organismo.\n\n---",
+      "explanation": "Identificación de estructuras celulares diferenciadas según el tipo de organismo.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v2",
       "statement": "El proceso mediante el cual una molécula de ADN genera una copia idéntica de sí misma se conoce como:",
-      "context": "",
+      "context": "El dogma central de la biología.",
       "options": [
         {
           "letter": "A",
-          "text": "Transcripción <!-- feedback: Incorrecto. Es el paso de ADN a ARN. -->",
-          "is_correct": false
+          "text": "Transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el paso de ADN a ARN."
         },
         {
           "letter": "B",
-          "text": "Traducción <!-- feedback: Incorrecto. Es el paso de ARN a proteína. -->",
-          "is_correct": false
+          "text": "Traducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el paso de ARN a proteína."
         },
         {
           "letter": "C",
-          "text": "Replicación <!-- feedback: Correcto. La replicación duplica el material genético antes de la división celular. -->",
-          "is_correct": true
+          "text": "Replicación",
+          "is_correct": true,
+          "feedback": "Correcto. La replicación duplica el material genético antes de la división celular."
         },
         {
           "letter": "D",
-          "text": "Mutación <!-- feedback: Incorrecto. Es una alteración en la secuencia de ADN, no el proceso de copia. -->",
-          "is_correct": false
+          "text": "Mutación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una alteración en la secuencia de ADN, no el proceso de copia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nReconocimiento de los procesos moleculares fundamentales para la herencia biológica.\n\n---",
+      "explanation": "Reconocimiento de los procesos moleculares fundamentales para la herencia biológica.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v3",
       "statement": "En la cadena alimentaria, las plantas son consideradas \"productores\" porque:",
-      "context": "",
+      "context": "Nutrición y energía.",
       "options": [
         {
           "letter": "A",
-          "text": "Producen desechos para el suelo. <!-- feedback: Incorrecto. No es la razón de su rol trófico principal. -->",
-          "is_correct": false
+          "text": "Producen desechos para el suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la razón de su rol trófico principal."
         },
         {
           "letter": "B",
-          "text": "Transforman la energía solar en energía química (materia orgánica). <!-- feedback: Correcto. Mediante la fotosíntesis producen su propio alimento. -->",
-          "is_correct": true
+          "text": "Transforman la energía solar en energía química (materia orgánica).",
+          "is_correct": true,
+          "feedback": "Correcto. Mediante la fotosíntesis producen su propio alimento."
         },
         {
           "letter": "C",
-          "text": "Consumen a otros organismos microscópicos. <!-- feedback: Incorrecto. Esto las haría consumidores. -->",
-          "is_correct": false
+          "text": "Consumen a otros organismos microscópicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto las haría consumidores."
         },
         {
           "letter": "D",
-          "text": "Producen semillas para su reproducción. <!-- feedback: Incorrecto. Aunque lo hacen, el término productor se refiere a la entrada de energía al sistema. -->",
-          "is_correct": false
+          "text": "Producen semillas para su reproducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque lo hacen, el término productor se refiere a la entrada de energía al sistema."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión del flujo de energía en los ecosistemas y el papel de la autotrofia.\n\n---",
+      "explanation": "Comprensión del flujo de energía en los ecosistemas y el papel de la autotrofia.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v4",
       "statement": "Si un estudiante observa una célula al microscopio y nota la ausencia de un núcleo definido, pero encuentra ADN libre en el citoplasma, ¿qué tipo de célula está observando?",
-      "context": "",
+      "context": "Microscopía básica.",
       "options": [
         {
           "letter": "A",
-          "text": "Célula vegetal <!-- feedback: Incorrecto. Es eucariota y tiene núcleo. -->",
-          "is_correct": false
+          "text": "Célula vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es eucariota y tiene núcleo."
         },
         {
           "letter": "B",
-          "text": "Célula animal <!-- feedback: Incorrecto. Es eucariota y tiene núcleo. -->",
-          "is_correct": false
+          "text": "Célula animal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es eucariota y tiene núcleo."
         },
         {
           "letter": "C",
-          "text": "Célula procariota (bacteriana) <!-- feedback: Correcto. Las procariotas no tienen membrana nuclear. -->",
-          "is_correct": true
+          "text": "Célula procariota (bacteriana)",
+          "is_correct": true,
+          "feedback": "Correcto. Las procariotas no tienen membrana nuclear."
         },
         {
           "letter": "D",
-          "text": "Célula fúngica (hongo) <!-- feedback: Incorrecto. Los hongos son eucariotas. -->",
-          "is_correct": false
+          "text": "Célula fúngica (hongo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos son eucariotas."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nDiferenciación entre tipos celulares basada en características estructurales observables.\n\n---",
+      "explanation": "Diferenciación entre tipos celulares basada en características estructurales observables.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v5",
       "statement": "Si cruzamos dos plantas heterocigotas para el tamaño (Tt), donde T (alto) es dominante sobre t (bajo), ¿cuál es la proporción fenotípica esperada en la descendencia?",
-      "context": "",
+      "context": "Herencia mendeliana.",
       "options": [
         {
           "letter": "A",
-          "text": "100% plantas altas <!-- feedback: Incorrecto. El alelo t se manifestará en los homocigotos recesivos. -->",
-          "is_correct": false
+          "text": "100% plantas altas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo t se manifestará en los homocigotos recesivos."
         },
         {
           "letter": "B",
-          "text": "3 altas por cada 1 baja <!-- feedback: Correcto. Según el cuadro de Punnett: TT (1), Tt (2), tt (1). Las primeras tres son altas. -->",
-          "is_correct": true
+          "text": "3 altas por cada 1 baja",
+          "is_correct": true,
+          "feedback": "Correcto. Según el cuadro de Punnett: TT (1), Tt (2), tt (1). Las primeras tres son altas."
         },
         {
           "letter": "C",
-          "text": "1 alta por cada 1 baja <!-- feedback: Incorrecto. Esto ocurriría en un cruce Tt x tt. -->",
-          "is_correct": false
+          "text": "1 alta por cada 1 baja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría en un cruce Tt x tt."
         },
         {
           "letter": "D",
-          "text": "3 bajas por cada 1 alta <!-- feedback: Incorrecto. Inversión de la dominancia. -->",
-          "is_correct": false
+          "text": "3 bajas por cada 1 alta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inversión de la dominancia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de las leyes de Mendel para predecir resultados de cruces genéticos monohíbridos.\n\n---",
+      "explanation": "Aplicación de las leyes de Mendel para predecir resultados de cruces genéticos monohíbridos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v6",
       "statement": "Los habitantes de las zonas altas de Bolivia (Altiplano) presentan adaptaciones fisiológicas como un mayor volumen de glóbulos rojos. ¿Cuál es la función biológica de esta adaptación?",
-      "context": "",
+      "context": "Adaptaciones en el Altiplano.",
       "options": [
         {
           "letter": "A",
-          "text": "Protegerse del frío intenso. <!-- feedback: Incorrecto. El transporte de calor no es función principal de los glóbulos rojos. -->",
-          "is_correct": false
+          "text": "Protegerse del frío intenso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte de calor no es función principal de los glóbulos rojos."
         },
         {
           "letter": "B",
-          "text": "Optimizar el transporte de oxígeno en un ambiente con menor presión parcial de este gas. <!-- feedback: Correcto. A mayor altitud hay menos oxígeno disponible; más glóbulos rojos compensan esta carencia. -->",
-          "is_correct": true
+          "text": "Optimizar el transporte de oxígeno en un ambiente con menor presión parcial de este gas.",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor altitud hay menos oxígeno disponible; más glóbulos rojos compensan esta carencia."
         },
         {
           "letter": "C",
-          "text": "Aumentar la velocidad de la digestión. <!-- feedback: Incorrecto. No guarda relación con el sistema digestivo. -->",
-          "is_correct": false
+          "text": "Aumentar la velocidad de la digestión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con el sistema digestivo."
         },
         {
           "letter": "D",
-          "text": "Filtrar mejor el agua que se consume. <!-- feedback: Incorrecto. No es función hematológica. -->",
-          "is_correct": false
+          "text": "Filtrar mejor el agua que se consume.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es función hematológica."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de los mecanismos de adaptación de los seres vivos a condiciones ambientales extremas (hipoxia).\n\n---",
+      "explanation": "Análisis de los mecanismos de adaptación de los seres vivos a condiciones ambientales extremas (hipoxia).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v7",
       "statement": "¿Cuál de los siguientes procesos biológicos retira dióxido de carbono (CO2) de la atmósfera y lo incorpora a la biomasa?",
-      "context": "",
+      "context": "Ciclo del carbono.",
       "options": [
         {
           "letter": "A",
-          "text": "Respiración celular <!-- feedback: Incorrecto. La respiración libera CO2. -->",
-          "is_correct": false
+          "text": "Respiración celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración libera CO2."
         },
         {
           "letter": "B",
-          "text": "Combustión <!-- feedback: Incorrecto. La combustión libera CO2. -->",
-          "is_correct": false
+          "text": "Combustión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión libera CO2."
         },
         {
           "letter": "C",
-          "text": "Fermentación <!-- feedback: Incorrecto. Libera CO2 en muchos casos. -->",
-          "is_correct": false
+          "text": "Fermentación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Libera CO2 en muchos casos."
         },
         {
           "letter": "D",
-          "text": "Fotosíntesis <!-- feedback: Correcto. Las plantas fijan el carbono del CO2 para formar azúcares. -->",
-          "is_correct": true
+          "text": "Fotosíntesis",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas fijan el carbono del CO2 para formar azúcares."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pedagógica\nComprensión de los flujos de materia en los ciclos biogeoquímicos.\n\n---",
+      "explanation": "Comprensión de los flujos de materia en los ciclos biogeoquímicos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v8",
       "statement": "Durante un ejercicio físico intenso en el que el oxígeno es insuficiente, las células musculares pueden producir energía mediante:",
-      "context": "",
+      "context": "Metabolismo energético.",
       "options": [
         {
           "letter": "A",
-          "text": "Respiración aeróbica acelerada. <!-- feedback: Incorrecto. El enunciado dice que el oxígeno es insuficiente. -->",
-          "is_correct": false
+          "text": "Respiración aeróbica acelerada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que el oxígeno es insuficiente."
         },
         {
           "letter": "B",
-          "text": "Fermentación láctica. <!-- feedback: Correcto. Es una vía anaeróbica que produce ATP y ácido láctico. -->",
-          "is_correct": true
+          "text": "Fermentación láctica.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una vía anaeróbica que produce ATP y ácido láctico."
         },
         {
           "letter": "C",
-          "text": "Fotosíntesis interna. <!-- feedback: Incorrecto. Las células animales no realizan fotosíntesis. -->",
-          "is_correct": false
+          "text": "Fotosíntesis interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales no realizan fotosíntesis."
         },
         {
           "letter": "D",
-          "text": "Descomposición del ADN. <!-- feedback: Incorrecto. El ADN no es una fuente de energía metabólica para el ejercicio. -->",
-          "is_correct": false
+          "text": "Descomposición del ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN no es una fuente de energía metabólica para el ejercicio."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de rutas metabólicas alternativas en condiciones de estrés fisiológico.\n\n---",
+      "explanation": "Identificación de rutas metabólicas alternativas en condiciones de estrés fisiológico.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v9",
       "statement": "Las micorrizas son asociaciones entre hongos y las raíces de las plantas. El hongo ayuda a la planta a absorber minerales y la planta proporciona azúcares al hongo. ¿Qué tipo de relación es esta?",
-      "context": "",
+      "context": "Relaciones interespecíficas.",
       "options": [
         {
           "letter": "A",
-          "text": "Parasitismo <!-- feedback: Incorrecto. Ambos se benefician, el parásito daña al huésped. -->",
-          "is_correct": false
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos se benefician, el parásito daña al huésped."
         },
         {
           "letter": "B",
-          "text": "Comensalismo <!-- feedback: Incorrecto. Uno se beneficia y el otro es indiferente; aquí ambos se benefician. -->",
-          "is_correct": false
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uno se beneficia y el otro es indiferente; aquí ambos se benefician."
         },
         {
           "letter": "C",
-          "text": "Mutualismo <!-- feedback: Correcto. Es una relación de beneficio mutuo. -->",
-          "is_correct": true
+          "text": "Mutualismo",
+          "is_correct": true,
+          "feedback": "Correcto. Es una relación de beneficio mutuo."
         },
         {
           "letter": "D",
-          "text": "Competencia <!-- feedback: Incorrecto. No están luchando por el mismo recurso, colaboran. -->",
-          "is_correct": false
+          "text": "Competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No están luchando por el mismo recurso, colaboran."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nClasificación de interacciones biológicas basadas en el impacto para los organismos involucrados.\n\n---",
+      "explanation": "Clasificación de interacciones biológicas basadas en el impacto para los organismos involucrados.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v10",
       "statement": "En la molécula de ADN, según las reglas de apareamiento de bases, la adenina (A) siempre se une con la:",
-      "context": "",
+      "context": "Estructura del ADN.",
       "options": [
         {
           "letter": "A",
-          "text": "Citosina (C) <!-- feedback: Incorrecto. La citosina se une con la guanina. -->",
-          "is_correct": false
+          "text": "Citosina (C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citosina se une con la guanina."
         },
         {
           "letter": "B",
-          "text": "Timina (T) <!-- feedback: Correcto. A-T y C-G son las parejas complementarias en el ADN. -->",
-          "is_correct": true
+          "text": "Timina (T)",
+          "is_correct": true,
+          "feedback": "Correcto. A-T y C-G son las parejas complementarias en el ADN."
         },
         {
           "letter": "C",
-          "text": "Guanina (G) <!-- feedback: Incorrecto. La guanina se une con la citosina. -->",
-          "is_correct": false
+          "text": "Guanina (G)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guanina se une con la citosina."
         },
         {
           "letter": "D",
-          "text": "Uracilo (U) <!-- feedback: Incorrecto. El uracilo reemplaza a la timina en el ARN. -->",
-          "is_correct": false
+          "text": "Uracilo (U)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uracilo reemplaza a la timina en el ARN."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nConocimiento de la estructura química y el principio de complementariedad de las bases nitrogenadas.\n\n---",
+      "explanation": "Conocimiento de la estructura química y el principio de complementariedad de las bases nitrogenadas.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v11",
       "statement": "Una población de bacterias es expuesta a un antibiótico. La mayoría muere, pero unas pocas sobreviven y se multiplican, creando una nueva población resistente. ¿Cómo explica la selección natural este fenómeno?",
-      "context": "",
+      "context": "Selección natural y antibióticos.",
       "options": [
         {
           "letter": "A",
-          "text": "El antibiótico provocó mutaciones en las bacterias para que se hicieran resistentes. <!-- feedback: Incorrecto. Las mutaciones son previas y aleatorias; el antibiótico selecciona. -->",
-          "is_correct": false
+          "text": "El antibiótico provocó mutaciones en las bacterias para que se hicieran resistentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son previas y aleatorias; el antibiótico selecciona."
         },
         {
           "letter": "B",
-          "text": "Las bacterias aprendieron a comerse el antibiótico. <!-- feedback: Incorrecto. No es una adaptación conductual. -->",
-          "is_correct": false
+          "text": "Las bacterias aprendieron a comerse el antibiótico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una adaptación conductual."
         },
         {
           "letter": "C",
-          "text": "Las bacterias que ya tenían una variación genética de resistencia sobrevivieron y pasaron sus genes a la descendencia. <!-- feedback: Correcto. Es la base de la selección natural: supervivencia del más apto en ese ambiente. -->",
-          "is_correct": true
+          "text": "Las bacterias que ya tenían una variación genética de resistencia sobrevivieron y pasaron sus genes a la descendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la base de la selección natural: supervivencia del más apto en ese ambiente."
         },
         {
           "letter": "D",
-          "text": "El sistema inmune del paciente ayudó a las bacterias a cambiar. <!-- feedback: Incorrecto. El proceso es propio de la población bacteriana bajo estrés químico. -->",
-          "is_correct": false
+          "text": "El sistema inmune del paciente ayudó a las bacterias a cambiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El proceso es propio de la población bacteriana bajo estrés químico."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAplicación de los principios de la evolución biológica a problemas de salud contemporáneos.\n\n---",
+      "explanation": "Aplicación de los principios de la evolución biológica a problemas de salud contemporáneos.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v12",
       "statement": "¿Cuál es la función principal de los linfocitos B en la respuesta inmune adquirida?",
-      "context": "",
+      "context": "Inmunología.",
       "options": [
         {
           "letter": "A",
-          "text": "Ingerir y destruir bacterias directamente (fagocitosis). <!-- feedback: Incorrecto. Esa es función principal de neutrófilos y macrófagos. -->",
-          "is_correct": false
+          "text": "Ingerir y destruir bacterias directamente (fagocitosis).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función principal de neutrófilos y macrófagos."
         },
         {
           "letter": "B",
-          "text": "Producir anticuerpos específicos que neutralizan patógenos. <!-- feedback: Correcto. Los linfocitos B son los responsables de la inmunidad humoral. -->",
-          "is_correct": true
+          "text": "Producir anticuerpos específicos que neutralizan patógenos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los linfocitos B son los responsables de la inmunidad humoral."
         },
         {
           "letter": "C",
-          "text": "Transportar oxígeno a los sitios de infección. <!-- feedback: Incorrecto. Función de los glóbulos rojos. -->",
-          "is_correct": false
+          "text": "Transportar oxígeno a los sitios de infección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Función de los glóbulos rojos."
         },
         {
           "letter": "D",
-          "text": "Destruir células del propio cuerpo infectadas por virus. <!-- feedback: Incorrecto. Esa es función de los linfocitos T citotóxicos. -->",
-          "is_correct": false
+          "text": "Destruir células del propio cuerpo infectadas por virus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de los linfocitos T citotóxicos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nDiferenciación de roles celulares dentro del sistema inmunológico humano.\n\n---",
+      "explanation": "Diferenciación de roles celulares dentro del sistema inmunológico humano.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v13",
       "statement": "Una mutación puntual en la que una base nitrogenada es sustituida por otra puede dar lugar a una proteína defectuosa si:",
-      "context": "",
+      "context": "Mutaciones genéticas.",
       "options": [
         {
           "letter": "A",
-          "text": "La mutación ocurre en una sección de ADN que no se traduce (intrón). <!-- feedback: Incorrecto. Los intrones se eliminan y no afectan la proteína final. -->",
-          "is_correct": false
+          "text": "La mutación ocurre en una sección de ADN que no se traduce (intrón).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los intrones se eliminan y no afectan la proteína final."
         },
         {
           "letter": "B",
-          "text": "El nuevo codón codifica para un aminoácido diferente que altera el plegamiento de la proteína. <!-- feedback: Correcto. Es una mutación de sentido erróneo (missense). -->",
-          "is_correct": true
+          "text": "El nuevo codón codifica para un aminoácido diferente que altera el plegamiento de la proteína.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una mutación de sentido erróneo (missense)."
         },
         {
           "letter": "C",
-          "text": "La mutación ocurre después de que la proteína ya se fabricó. <!-- feedback: Incorrecto. Las mutaciones son cambios en el ADN, no en la proteína terminada. -->",
-          "is_correct": false
+          "text": "La mutación ocurre después de que la proteína ya se fabricó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son cambios en el ADN, no en la proteína terminada."
         },
         {
           "letter": "D",
-          "text": "La mutación se produce en el ARN mensajero únicamente. <!-- feedback: Incorrecto. Las mutaciones son hereditarias y están en el ADN. -->",
-          "is_correct": false
+          "text": "La mutación se produce en el ARN mensajero únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son hereditarias y están en el ADN."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis del impacto de las alteraciones genéticas en la síntesis y funcionalidad de las proteínas.\n\n---",
+      "explanation": "Análisis del impacto de las alteraciones genéticas en la síntesis y funcionalidad de las proteínas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v14",
       "statement": "Bolivia debate el uso de semillas transgénicas. Un argumento científico a favor del uso de plantas modificadas para resistir plagas es que:",
-      "context": "",
+      "context": "Biotecnología (OGM).",
       "options": [
         {
           "letter": "A",
-          "text": "Las plantas transgénicas no necesitan agua. <!-- feedback: Incorrecto. Todas las plantas necesitan agua. -->",
-          "is_correct": false
+          "text": "Las plantas transgénicas no necesitan agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las plantas necesitan agua."
         },
         {
           "letter": "B",
-          "text": "Se reduce la necesidad de aplicar pesticidas químicos externos, disminuyendo la contaminación del suelo. <!-- feedback: Correcto. La planta produce su propia defensa (ej. toxina Bt). -->",
-          "is_correct": true
+          "text": "Se reduce la necesidad de aplicar pesticidas químicos externos, disminuyendo la contaminación del suelo.",
+          "is_correct": true,
+          "feedback": "Correcto. La planta produce su propia defensa (ej. toxina Bt)."
         },
         {
           "letter": "C",
-          "text": "Las semillas transgénicas son más baratas porque se encuentran en la naturaleza. <!-- feedback: Incorrecto. Son productos de laboratorio con patentes caras. -->",
-          "is_correct": false
+          "text": "Las semillas transgénicas son más baratas porque se encuentran en la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son productos de laboratorio con patentes caras."
         },
         {
           "letter": "D",
-          "text": "Garantizan que la planta nunca muera. <!-- feedback: Incorrecto. Las plantas tienen ciclos de vida finitos y otras causas de muerte. -->",
-          "is_correct": false
+          "text": "Garantizan que la planta nunca muera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas tienen ciclos de vida finitos y otras causas de muerte."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de las implicaciones ambientales y tecnológicas de la ingeniería genética en la agricultura.\n\n---",
+      "explanation": "Evaluación de las implicaciones ambientales y tecnológicas de la ingeniería genética en la agricultura.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v15",
       "statement": "¿En qué fase de la meiosis ocurre el \"entrecruzamiento\" (crossing-over) que permite la recombinación genética entre cromosomas homólogos?",
-      "context": "",
+      "context": "Meiosis y variabilidad.",
       "options": [
         {
           "letter": "A",
-          "text": "Profase II <!-- feedback: Incorrecto. Ocurre en la primera división meiótica. -->",
-          "is_correct": false
+          "text": "Profase II",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en la primera división meiótica."
         },
         {
           "letter": "B",
-          "text": "Profase I <!-- feedback: Correcto. Durante la sinapsis de homólogos se intercambian segmentos de ADN. -->",
-          "is_correct": true
+          "text": "Profase I",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la sinapsis de homólogos se intercambian segmentos de ADN."
         },
         {
           "letter": "C",
-          "text": "Metafase I <!-- feedback: Incorrecto. Los cromosomas se alinean en el ecuador. -->",
-          "is_correct": false
+          "text": "Metafase I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cromosomas se alinean en el ecuador."
         },
         {
           "letter": "D",
-          "text": "Anafase I <!-- feedback: Incorrecto. Los homólogos se separan hacia los polos. -->",
-          "is_correct": false
+          "text": "Anafase I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los homólogos se separan hacia los polos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nConocimiento de los mecanismos celulares que generan diversidad genética en la reproducción sexual.\n\n---",
+      "explanation": "Conocimiento de los mecanismos celulares que generan diversidad genética en la reproducción sexual.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v16",
       "statement": "En una persona con diabetes tipo 1, el cuerpo no produce suficiente insulina. ¿Cuál es la consecuencia directa de esto en el metabolismo celular?",
-      "context": "",
+      "context": "Control de la glucosa (Homeostasis).",
       "options": [
         {
           "letter": "A",
-          "text": "La glucosa entra demasiado rápido a las células y las hace explotar. <!-- feedback: Incorrecto. Ocurre lo contrario. -->",
-          "is_correct": false
+          "text": "La glucosa entra demasiado rápido a las células y las hace explotar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre lo contrario."
         },
         {
           "letter": "B",
-          "text": "Las células no pueden absorber la glucosa de la sangre para obtener energía, a pesar de que hay niveles altos de azúcar circulando. <!-- feedback: Correcto. La insulina es la \"llave\" que permite la entrada de glucosa. -->",
-          "is_correct": true
+          "text": "Las células no pueden absorber la glucosa de la sangre para obtener energía, a pesar de que hay niveles altos de azúcar circulando.",
+          "is_correct": true,
+          "feedback": "Correcto. La insulina es la \"llave\" que permite la entrada de glucosa."
         },
         {
           "letter": "C",
-          "text": "El cuerpo empieza a producir oxígeno en lugar de CO2. <!-- feedback: Incorrecto. No cambia la química básica de la respiración. -->",
-          "is_correct": false
+          "text": "El cuerpo empieza a producir oxígeno en lugar de CO2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cambia la química básica de la respiración."
         },
         {
           "letter": "D",
-          "text": "La sangre se vuelve muy espesa y se convierte en grasa sólida. <!-- feedback: Incorrecto. Exageración no fisiológica. -->",
-          "is_correct": false
+          "text": "La sangre se vuelve muy espesa y se convierte en grasa sólida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exageración no fisiológica."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de fallos en los sistemas de regulación hormonal y su impacto en la nutrición celular.\n\n---",
+      "explanation": "Análisis de fallos en los sistemas de regulación hormonal y su impacto en la nutrición celular.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v17",
       "statement": "Dos ratones genéticamente idénticos presentan colores de pelaje distintos y diferentes riesgos de salud debido a la dieta de sus madres durante el embarazo. Este fenómeno se debe a:",
-      "context": "",
+      "context": "Epigenética.",
       "options": [
         {
           "letter": "A",
-          "text": "Mutaciones rápidas en el ADN del feto. <!-- feedback: Incorrecto. Las mutaciones cambian la secuencia, aquí la secuencia es idéntica. -->",
-          "is_correct": false
+          "text": "Mutaciones rápidas en el ADN del feto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones cambian la secuencia, aquí la secuencia es idéntica."
         },
         {
           "letter": "B",
-          "text": "Cambios en la expresión de los genes debido a marcas químicas (como grupos metilo) sobre el ADN, sin cambiar la secuencia de bases. <!-- feedback: Correcto. Esto es la regulación epigenética. -->",
-          "is_correct": true
+          "text": "Cambios en la expresión de los genes debido a marcas químicas (como grupos metilo) sobre el ADN, sin cambiar la secuencia de bases.",
+          "is_correct": true,
+          "feedback": "Correcto. Esto es la regulación epigenética."
         },
         {
           "letter": "C",
-          "text": "Que uno de los ratones es más inteligente que el otro. <!-- feedback: Incorrecto. No explica la diferencia física y de salud de forma biológica. -->",
-          "is_correct": false
+          "text": "Que uno de los ratones es más inteligente que el otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica la diferencia física y de salud de forma biológica."
         },
         {
           "letter": "D",
-          "text": "Errores en la replicación del ADN durante la gestación. <!-- feedback: Incorrecto. Los errores serían mutaciones, no cambios de expresión por dieta. -->",
-          "is_correct": false
+          "text": "Errores en la replicación del ADN durante la gestación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los errores serían mutaciones, no cambios de expresión por dieta."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de los mecanismos que regulan la expresión genética en respuesta al ambiente.\n\n---",
+      "explanation": "Comprensión de los mecanismos que regulan la expresión genética en respuesta al ambiente.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v18",
       "statement": "Una especie de paraba frente a la deforestación de su hábitat en la Chiquitanía muestra una curva de crecimiento que se estabiliza. Si la deforestación continúa reduciendo el área de bosque, ¿qué sucederá matemáticamente con la \"Capacidad de Carga\" (K) del ecosistema para esta especie?",
-      "context": "",
+      "context": "Dinámica de poblaciones y capacidad de carga.",
       "options": [
         {
           "letter": "A",
-          "text": "Aumentará, porque habrá más espacio libre. <!-- feedback: Incorrecto. El espacio libre de bosque no es hábitat para la paraba. -->",
-          "is_correct": false
+          "text": "Aumentará, porque habrá más espacio libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio libre de bosque no es hábitat para la paraba."
         },
         {
           "letter": "B",
-          "text": "Disminuirá, limitando el número máximo de individuos que pueden sobrevivir. <!-- feedback: Correcto. Menos recursos (comida, nidos) bajan el límite poblacional. -->",
-          "is_correct": true
+          "text": "Disminuirá, limitando el número máximo de individuos que pueden sobrevivir.",
+          "is_correct": true,
+          "feedback": "Correcto. Menos recursos (comida, nidos) bajan el límite poblacional."
         },
         {
           "letter": "C",
-          "text": "Se mantendrá igual, porque las aves pueden volar a otros países. <!-- feedback: Incorrecto. La capacidad de carga es específica de un área geográfica y sus recursos. -->",
-          "is_correct": false
+          "text": "Se mantendrá igual, porque las aves pueden volar a otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La capacidad de carga es específica de un área geográfica y sus recursos."
         },
         {
           "letter": "D",
-          "text": "Se volverá infinita. <!-- feedback: Incorrecto. Nada en biología es infinito. -->",
-          "is_correct": false
+          "text": "Se volverá infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en biología es infinito."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de los límites ecológicos al crecimiento poblacional bajo estrés ambiental.\n\n---",
+      "explanation": "Análisis de los límites ecológicos al crecimiento poblacional bajo estrés ambiental.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v19",
       "statement": "La tecnología CRISPR-Cas9 permite editar genes con alta precisión. ¿Cuál es el dilema bioético más profundo respecto a su aplicación en humanos?",
-      "context": "",
+      "context": "Bioética y CRISPR.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el equipo de laboratorio es muy caro. <!-- feedback: Incorrecto. Es un problema económico, no un dilema ético fundamental. -->",
-          "is_correct": false
+          "text": "Que el equipo de laboratorio es muy caro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un problema económico, no un dilema ético fundamental."
         },
         {
           "letter": "B",
-          "text": "Que las personas editadas pesen más que las normales. <!-- feedback: Incorrecto. Efecto secundario irrelevante frente a la ética. -->",
-          "is_correct": false
+          "text": "Que las personas editadas pesen más que las normales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Efecto secundario irrelevante frente a la ética."
         },
         {
           "letter": "C",
-          "text": "La posibilidad de realizar cambios en la línea germinal (óvulos/espermatozoides) que se heredarían a perpetuidad, alterando el acervo genético humano sin consentimiento de las generaciones futuras. <!-- feedback: Correcto. Es el núcleo del debate sobre \"bebés a la carta\" y eugenesia moderna. -->",
-          "is_correct": true
+          "text": "La posibilidad de realizar cambios en la línea germinal (óvulos/espermatozoides) que se heredarían a perpetuidad, alterando el acervo genético humano sin consentimiento de las generaciones futuras.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el núcleo del debate sobre \"bebés a la carta\" y eugenesia moderna."
         },
         {
           "letter": "D",
-          "text": "Que los virus se vuelvan más grandes para defenderse. <!-- feedback: Incorrecto. No es una consecuencia probable ni un dilema ético humano. -->",
-          "is_correct": false
+          "text": "Que los virus se vuelvan más grandes para defenderse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una consecuencia probable ni un dilema ético humano."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nCapacidad de evaluar implicaciones éticas y sociales de los avances biotecnológicos de vanguardia.\n\n---",
+      "explanation": "Capacidad de evaluar implicaciones éticas y sociales de los avances biotecnológicos de vanguardia.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,31 +770,35 @@
     {
       "id": "BO-CIE-11-P1-biologia-001-v20",
       "statement": "Para investigar si el aumento de la temperatura del agua afecta la tasa fotosintética de una planta acuática del Lago Titicaca, un científico debe controlar todas las variables excepto una. ¿Cuál es el diseño más adecuado?",
-      "context": "",
+      "context": "Diseño experimental complejo.",
       "options": [
         {
           "letter": "A",
-          "text": "Poner una planta al sol y otra en la sombra y medir el oxígeno. <!-- feedback: Incorrecto. Está variando la luz, no solo la temperatura. -->",
-          "is_correct": false
+          "text": "Poner una planta al sol y otra en la sombra y medir el oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está variando la luz, no solo la temperatura."
         },
         {
           "letter": "B",
-          "text": "Medir el CO2 en el lago durante todo un año sin intervenir. <!-- feedback: Incorrecto. Es un estudio observacional, no un experimento controlado. -->",
-          "is_correct": false
+          "text": "Medir el CO2 en el lago durante todo un año sin intervenir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un estudio observacional, no un experimento controlado."
         },
         {
           "letter": "C",
-          "text": "Mantener constante la intensidad de luz, el nivel de CO2 y la especie de planta, variando solo la temperatura en intervalos controlados (15°C, 20°C, 25°C) y midiendo el burbujeo de oxígeno. <!-- feedback: Correcto. Sigue el método científico de control de variables. -->",
-          "is_correct": true
+          "text": "Mantener constante la intensidad de luz, el nivel de CO2 y la especie de planta, variando solo la temperatura en intervalos controlados (15°C, 20°C, 25°C) y midiendo el burbujeo de oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcto. Sigue el método científico de control de variables."
         },
         {
           "letter": "D",
-          "text": "Usar diferentes especies de plantas a diferentes temperaturas. <!-- feedback: Incorrecto. Introduce una variable extra (especie) que confunde los resultados. -->",
-          "is_correct": false
+          "text": "Usar diferentes especies de plantas a diferentes temperaturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce una variable extra (especie) que confunde los resultados."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nHabilidad para diseñar protocolos experimentales rigurosos con control estricto de variables independientes y dependientes.",
+      "explanation": "Habilidad para diseñar protocolos experimentales rigurosos con control estricto de variables independientes y dependientes.",
       "difficulty": "10",
       "images": [],
       "tags": [],

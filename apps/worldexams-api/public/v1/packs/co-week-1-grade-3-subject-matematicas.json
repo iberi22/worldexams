@@ -1,0 +1,2211 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-1-grade-3-subject-matematicas",
+    "generated_at": "2026-06-16T00:17:32.404Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v1",
+      "statement": "¿Cuál de los siguientes signos completa correctamente la comparación?\n**456 ____ 465**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": ">",
+          "is_correct": false,
+          "feedback": "Incorrecto. 456 no es mayor que 465."
+        },
+        {
+          "letter": "B",
+          "text": "<",
+          "is_correct": true,
+          "feedback": "¡Correcto! 456 es menor que 465 porque 5 decenas es menos que 6 decenas."
+        },
+        {
+          "letter": "C",
+          "text": "=",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "+",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo + es para sumar, no para comparar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar números, miramos de izquierda a derecha. Si las centenas son iguales, comparamos las decenas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v2",
+      "statement": "¿Cuál es el número que está justo **antes** de 1.000?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.001",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número está después."
+        },
+        {
+          "letter": "B",
+          "text": "900",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está lejos de 1.000."
+        },
+        {
+          "letter": "C",
+          "text": "999",
+          "is_correct": true,
+          "feedback": "¡Correcto! 999 + 1 = 1.000."
+        },
+        {
+          "letter": "D",
+          "text": "990",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le faltan 10 para llegar a 1.000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El antecesor de un número se obtiene restando 1.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v3",
+      "statement": "¿Cuál de estos grupos de números está ordenado de **menor a mayor**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500, 400, 300",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están ordenados de mayor a menor."
+        },
+        {
+          "letter": "B",
+          "text": "1.200, 1.100, 1.300",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 1.100 debe ir al principio."
+        },
+        {
+          "letter": "C",
+          "text": "2.450, 2.540, 2.600",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los números aumentan su valor."
+        },
+        {
+          "letter": "D",
+          "text": "3.000, 2.000, 4.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2.000 debe ir antes que el 3.000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ordenar de menor a mayor significa empezar con el número más pequeño e ir subiendo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v4",
+      "statement": "Juan tiene 3.450 canicas y Luis tiene 3.540. ¿Quién tiene **más** canicas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.450 es menor que 3.540."
+        },
+        {
+          "letter": "B",
+          "text": "Luis",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3.540 es mayor que 3.450."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dígitos de las centenas y decenas son diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber",
+          "is_correct": false,
+          "feedback": "Incorrecto. Podemos comparar los números perfectamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparamos las centenas: Luis tiene 5 y Juan tiene 4. Por lo tanto, Luis tiene más.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v5",
+      "statement": "¿Qué número puede ir en el espacio para que la comparación sea correcta?\n**2.300 < _______ < 2.500**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.250",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2.250 es menor que 2.300."
+        },
+        {
+          "letter": "B",
+          "text": "2.400",
+          "is_correct": true,
+          "feedback": "¡Correcto! 2.400 es mayor que 2.300 y menor que 2.500."
+        },
+        {
+          "letter": "C",
+          "text": "2.550",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2.550 es mayor que 2.500."
+        },
+        {
+          "letter": "D",
+          "text": "2.100",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2.100 es menor que 2.300."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos un número que esté \"entre\" los dos valores dados.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v6",
+      "statement": "¿Cuál afirmación es verdadera?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.001 > 7.999",
+          "is_correct": true,
+          "feedback": "¡Correcto! 8 unidades de mil es mayor que 7."
+        },
+        {
+          "letter": "B",
+          "text": "1.250 = 1.520",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las centenas y decenas son diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "4.300 < 4.030",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 centenas es mayor que 0 centenas."
+        },
+        {
+          "letter": "D",
+          "text": "6.000 > 6.001",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6.001 tiene una unidad más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprobar cada cifra según su valor posicional permite verificar si una comparación es cierta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v7",
+      "statement": "Si organizas estos números de **mayor a menor**, ¿cuál va en la segunda posición?\n**4.500 - 4.050 - 4.550 - 4.005**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.550",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el más grande, iría en la primera posición."
+        },
+        {
+          "letter": "B",
+          "text": "4.500",
+          "is_correct": true,
+          "feedback": "¡Correcto! El orden es 4.550, 4.500, 4.050, 4.005."
+        },
+        {
+          "letter": "C",
+          "text": "4.050",
+          "is_correct": false,
+          "feedback": "Incorrecto. Iría en la tercera posición."
+        },
+        {
+          "letter": "D",
+          "text": "4.005",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el más pequeño, iría al final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero identificamos el mayor y luego el que le sigue hacia abajo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v8",
+      "statement": "¿Cuál es el número más pequeño de 4 cifras que se puede formar sin usar el cero?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.111",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el dígito más pequeño en todas las posiciones."
+        },
+        {
+          "letter": "B",
+          "text": "1.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice \"sin usar el cero\"."
+        },
+        {
+          "letter": "C",
+          "text": "1.234",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pueden repetir dígitos para hacerlo más pequeño."
+        },
+        {
+          "letter": "D",
+          "text": "9.999",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el más grande."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para el número menor, usamos el dígito más pequeño posible en cada lugar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v9",
+      "statement": "En la recta numérica, ¿qué número está más cerca del 5.000?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está a 200 unidades de distancia."
+        },
+        {
+          "letter": "B",
+          "text": "5.150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está a 150 unidades de distancia."
+        },
+        {
+          "letter": "C",
+          "text": "4.950",
+          "is_correct": true,
+          "feedback": "¡Correcto! Solo le faltan 50 unidades para llegar a 5.000."
+        },
+        {
+          "letter": "D",
+          "text": "5.100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está a 100 unidades de distancia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cercanía se mide por la diferencia menor entre dos números.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-v10",
+      "statement": "¿Qué número es **mayor** que 3.000 y **menor** que 3.010?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mayor que 3.010."
+        },
+        {
+          "letter": "B",
+          "text": "3.005",
+          "is_correct": true,
+          "feedback": "¡Correcto! Está en el rango entre 3.000 y 3.010."
+        },
+        {
+          "letter": "C",
+          "text": "2.999",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es menor que 3.000."
+        },
+        {
+          "letter": "D",
+          "text": "3.015",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mayor que 3.010."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar los límites (mayor que y menor que) ayuda a encontrar el número correcto en un rango pequeño.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-comparacion-orden-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v1",
+      "statement": "¿Cuánto es 82 - 45?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "47",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar las decenas después de prestar."
+        },
+        {
+          "letter": "B",
+          "text": "37",
+          "is_correct": true,
+          "feedback": "¡Correcto! 12 - 5 = 7. El 8 quedó en 7, y 7 - 4 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "43",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 5 - 2 en lugar de pedir prestado."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo es impreciso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si el número de arriba es menor que el de abajo en una columna, debemos \"pedir prestado\" a la columna de la izquierda.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v2",
+      "statement": "Cuando una unidad \"pide prestado\" a una decena, ¿en cuánto se convierte esa unidad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se le suma 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se le suma una decena (10 unidades)."
+        },
+        {
+          "letter": "B",
+          "text": "Se le suman 10",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una decena son 10 unidades."
+        },
+        {
+          "letter": "C",
+          "text": "Se queda igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia para poder realizar la resta."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se convierte en 10 más lo que ya tenía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desagrupar significa convertir una unidad de valor superior en 10 unidades de valor inferior.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v3",
+      "statement": "De un total de 500 dulces, se vendieron 125. ¿Cuántos dulces quedaron?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "475",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar las centenas."
+        },
+        {
+          "letter": "B",
+          "text": "375",
+          "is_correct": true,
+          "feedback": "¡Correcto! 500 - 100 = 400, 400 - 25 = 375."
+        },
+        {
+          "letter": "C",
+          "text": "385",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la desagrupación de las decenas."
+        },
+        {
+          "letter": "D",
+          "text": "425",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo restaste los 100 dulces, olvidaste los 25."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al restar de un número con ceros, debemos desagrupar sucesivamente desde la cifra con valor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v4",
+      "statement": "¿Cuál es el resultado de **2.450 - 1.280**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.170",
+          "is_correct": true,
+          "feedback": "¡Correcto! 15 - 8 = 7 en decenas. El 4 quedó en 3, y 3 - 2 = 1."
+        },
+        {
+          "letter": "B",
+          "text": "1.270",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste reducir el 4 después de prestar."
+        },
+        {
+          "letter": "C",
+          "text": "1.130",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 8-5 en lugar de prestar."
+        },
+        {
+          "letter": "D",
+          "text": "1.230",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en varios pasos del proceso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recuerda tachar o marcar el número que prestó para no olvidar que su valor disminuyó.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v5",
+      "statement": "Si restamos 1 a 4.000, ¿cuántas centenas quedan en el resultado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quedan 9 centenas (3.999)."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "¡Correcto! El resultado es 3.999, que tiene 9 centenas."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No puede haber 10 centenas en esa posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al restar 1 de un millar exacto, todas las posiciones anteriores se convierten en 9.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v6",
+      "statement": "En una biblioteca hay 3.560 libros. Si se prestan 1.600, ¿cuántos quedan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.960",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal las unidades de mil."
+        },
+        {
+          "letter": "B",
+          "text": "1.960",
+          "is_correct": true,
+          "feedback": "¡Correcto! 15 - 6 = 9 en centenas. El 3 quedó en 2, y 2 - 1 = 1."
+        },
+        {
+          "letter": "C",
+          "text": "2.060",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al desagrupar las centenas."
+        },
+        {
+          "letter": "D",
+          "text": "1.860",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de centenas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resta de grandes cantidades sigue la misma lógica: prestar si es necesario y restar columna por columna.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v7",
+      "statement": "Si el minuendo es **7.000** y el sustraendo es **3.450**, ¿cuál es la diferencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.550",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste que el 7 prestó."
+        },
+        {
+          "letter": "B",
+          "text": "3.550",
+          "is_correct": true,
+          "feedback": "¡Correcto! 7.000 - 3.000 = 4.000, 4.000 - 450 = 3.550."
+        },
+        {
+          "letter": "C",
+          "text": "3.650",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de centenas."
+        },
+        {
+          "letter": "D",
+          "text": "4.650",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el proceso completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia es el nombre que se le da al resultado de la resta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v8",
+      "statement": "Un avión debe recorrer 9.800 kilómetros. Si ya recorrió 5.950, ¿cuánto le falta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.850",
+          "is_correct": true,
+          "feedback": "¡Correcto! 10 - 5 = 5 en decenas. 17 - 9 = 8 en centenas. 8 - 5 = 3 en mil."
+        },
+        {
+          "letter": "B",
+          "text": "4.850",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste que el 9 prestó a las centenas."
+        },
+        {
+          "letter": "C",
+          "text": "3.950",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar las centenas."
+        },
+        {
+          "letter": "D",
+          "text": "3.800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar las decenas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restar lo recorrido del total nos da lo que falta. La desagrupación es necesaria en decenas y centenas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v9",
+      "statement": "¿Cuál de estas restas requiere desagrupar en las **decenas**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "456 - 123",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 > 3 y 5 > 2, no se necesita prestar."
+        },
+        {
+          "letter": "B",
+          "text": "742 - 238",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como 2 es menor que 8, hay que pedir a la decena."
+        },
+        {
+          "letter": "C",
+          "text": "890 - 450",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 > 5, no se necesita prestar."
+        },
+        {
+          "letter": "D",
+          "text": "333 - 111",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las cifras de arriba son mayores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos la necesidad de desagrupar comparando cifra por cifra cada columna.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-v10",
+      "statement": "En la resta **3._45 - 1.260 = 2.085**, ¿qué cifra falta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.145 - 1.260 = 1.885."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3.345 - 1.260 = 2.085."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.245 - 1.260 = 1.985."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.445 - 1.260 = 2.185."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos sumar la diferencia y el sustraendo para encontrar el minuendo original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-resta-desagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v1",
+      "statement": "¿Cuánto es 45 + 27?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "62",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la decena que reagrupaste (5+7=12)."
+        },
+        {
+          "letter": "B",
+          "text": "72",
+          "is_correct": true,
+          "feedback": "¡Correcto! 5+7=12 (pongo 2 y llevo 1), 4+2+1=7."
+        },
+        {
+          "letter": "C",
+          "text": "612",
+          "is_correct": false,
+          "feedback": "Incorrecto. No reagrupaste, solo pusiste el 12 al lado del 6."
+        },
+        {
+          "letter": "D",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo de las unidades es incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la suma de una columna es 10 o más, dejamos la unidad y \"llevamos\" la decena a la siguiente columna.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v2",
+      "statement": "Si en una suma de unidades el resultado es **15**, ¿cuántas decenas \"llevas\" a la siguiente columna?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 1 representa una decena que se suma a la columna de las decenas."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 se queda en el resultado de las unidades."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llevas 1 decena, no 10 decenas."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí debes reagrupar porque el resultado es mayor que 9."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reagrupar significa mover grupos de 10 a la posición de valor superior.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v3",
+      "statement": "Un granjero recolectó 350 huevos en la mañana y 480 en la tarde. ¿Cuántos huevos recolectó en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "730",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste la centena reagrupada de 50+80=130."
+        },
+        {
+          "letter": "B",
+          "text": "830",
+          "is_correct": true,
+          "feedback": "¡Correcto! 0+0=0, 5+8=13 (llevo 1), 3+4+1=8."
+        },
+        {
+          "letter": "C",
+          "text": "7130",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al organizar los valores de la suma."
+        },
+        {
+          "letter": "D",
+          "text": "800",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo de las decenas es incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sumamos columna por columna empezando por la derecha y reagrupamos cuando sea necesario.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v4",
+      "statement": "¿Cuál es el resultado de sumar **1.245 + 1.355**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la decena de 5+5."
+        },
+        {
+          "letter": "B",
+          "text": "2.600",
+          "is_correct": true,
+          "feedback": "¡Correcto! 5+5=10 (llevo 1), 4+5+1=10 (llevo 1), 2+3+1=6, 1+1=2."
+        },
+        {
+          "letter": "C",
+          "text": "2.590",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la reagrupación de las unidades."
+        },
+        {
+          "letter": "D",
+          "text": "2.610",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste una decena de más."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En esta suma debes reagrupar dos veces: de unidades a decenas, y de decenas a centenas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v5",
+      "statement": "Si sumas dos números y el resultado termina en **0**, ¿cuál de estos pares de unidades pudo causar una reagrupación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 y 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 + 5 = 9, no termina en 0."
+        },
+        {
+          "letter": "B",
+          "text": "7 y 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! 7 + 3 = 10, termina en 0 y llevas 1."
+        },
+        {
+          "letter": "C",
+          "text": "8 y 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 + 1 = 9, no termina en 0."
+        },
+        {
+          "letter": "D",
+          "text": "2 y 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 + 6 = 8, no termina en 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las parejas de números que suman 10 siempre provocan una reagrupación y dejan un 0 en esa columna.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v6",
+      "statement": "En la suma **2.900 + 200**, ¿qué posición cambia debido a la reagrupación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo las centenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9+2=11 centenas, por lo que las unidades de mil cambian."
+        },
+        {
+          "letter": "B",
+          "text": "Las centenas y las unidades de mil",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al sumar 900+200 obtienes 1.100, cambiando ambas posiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Solo las decenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cambio en las decenas."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay una reagrupación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reagrupar centenas crea nuevas unidades de mil.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v7",
+      "statement": "Un camión lleva 4.560 kilos de papa y otro lleva 3.440 kilos. ¿Cuántos kilos llevan en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.900",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste la reagrupación de 60+40 y 500+400."
+        },
+        {
+          "letter": "B",
+          "text": "8.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! 60+40=100 (llevo 1 a centenas), 500+400+100=1.000 (llevo 1 a mil), 4+3+1=8."
+        },
+        {
+          "letter": "C",
+          "text": "7.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error grave en la suma de unidades de mil."
+        },
+        {
+          "letter": "D",
+          "text": "8.100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste una centena de más."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un ejemplo de reagrupación en cadena donde el \"llevo\" afecta varias columnas seguidas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v8",
+      "statement": "Si sumas un número de tres cifras con otro de tres cifras, ¿cuál es el resultado máximo que puedes obtener?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "999",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número más grande de 3 cifras, no el resultado de una suma."
+        },
+        {
+          "letter": "B",
+          "text": "1.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede obtener un número mayor sumando, por ejemplo, 900 + 900."
+        },
+        {
+          "letter": "C",
+          "text": "1.998",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumando los mayores números posibles: 999 + 999."
+        },
+        {
+          "letter": "D",
+          "text": "10.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es imposible llegar a 10.000 sumando solo dos números de 3 cifras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar los valores máximos ayuda a entender los límites de las operaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v9",
+      "statement": "Marta compró un televisor por $4.250 y una mesa por $1.750. ¿Cuánto pagó en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la reagrupación de las centenas."
+        },
+        {
+          "letter": "B",
+          "text": "$6.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! 250 + 750 = 1.000, 4.000 + 1.000 + 1.000 = 6.000."
+        },
+        {
+          "letter": "C",
+          "text": "$5.900",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de las decenas."
+        },
+        {
+          "letter": "D",
+          "text": "$6.100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal las centenas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usar números redondos o completar millares facilita el cálculo mental y la verificación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-v10",
+      "statement": "¿Qué cifra falta en la siguiente suma?\n**1.5_7 + 243 = 1.800**",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.507 + 243 = 1.750."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.547 + 243 = 1.790."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! 1.557 + 243 = 1.800."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.567 + 243 = 1.810."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Podemos encontrar el número faltante probando las opciones o restando el sumando conocido del total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-suma-reagrupacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v1",
+      "statement": "¿Qué número se forma con 3 centenas, 5 decenas y 2 unidades?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "325",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la posición de las decenas y las unidades."
+        },
+        {
+          "letter": "B",
+          "text": "352",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3 centenas (300) + 5 decenas (50) + 2 unidades (2) = 352."
+        },
+        {
+          "letter": "C",
+          "text": "532",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 está en las centenas en esta opción."
+        },
+        {
+          "letter": "D",
+          "text": "253",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2 está en las centenas en esta opción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor de cada cifra depende de su lugar: las centenas valen 100, las decenas 10 y las unidades 1.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v2",
+      "statement": "En el número **4.781**, ¿qué cifra ocupa el lugar de las unidades de mil?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 1 ocupa el lugar de las unidades."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 8 ocupa el lugar de las decenas."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 7 ocupa el lugar de las centenas."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 4 representa 4.000 unidades."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un número de cuatro cifras, la primera de izquierda a derecha representa las unidades de mil.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v3",
+      "statement": "¿Cuál es el valor de la cifra **6** en el número 6.402?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el valor si estuviera en las decenas."
+        },
+        {
+          "letter": "B",
+          "text": "600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el valor si estuviera en las centenas."
+        },
+        {
+          "letter": "C",
+          "text": "6.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al estar en las unidades de mil, su valor es 6.000."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el valor si estuviera en las unidades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor posicional indica cuánto vale un número según su ubicación. 6 en unidades de mil es 6.000.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v4",
+      "statement": "Si descomponemos el número **2.350**, ¿cuál es la forma correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.000 + 300 + 50",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la suma de los valores de cada cifra."
+        },
+        {
+          "letter": "B",
+          "text": "200 + 300 + 50",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2 representa unidades de mil (2.000)."
+        },
+        {
+          "letter": "C",
+          "text": "2.000 + 30 + 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los valores de decenas y centenas."
+        },
+        {
+          "letter": "D",
+          "text": "2 + 3 + 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es solo la suma de los dígitos, no su valor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descomposición aditiva muestra la suma de los valores posicionales de cada dígito.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v5",
+      "statement": "Camila tiene 4 billetes de $1.000 y 7 monedas de $100. ¿Cuánto dinero tiene en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.070",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las 7 monedas de 100 representan 700."
+        },
+        {
+          "letter": "B",
+          "text": "$4.700",
+          "is_correct": true,
+          "feedback": "¡Correcto! 4.000 + 700 = 4.700."
+        },
+        {
+          "letter": "C",
+          "text": "$7.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la cantidad de billetes y monedas."
+        },
+        {
+          "letter": "D",
+          "text": "$470",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es diez veces mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el valor posicional para organizar cantidades de dinero: mil corresponde a unidades de mil y cien a centenas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v6",
+      "statement": "Si a una centena le sumamos 3 decenas, ¿qué número obtenemos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "103",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado 3 unidades, no 3 decenas."
+        },
+        {
+          "letter": "B",
+          "text": "130",
+          "is_correct": true,
+          "feedback": "¡Correcto! 100 + 30 = 130."
+        },
+        {
+          "letter": "C",
+          "text": "310",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambió el valor de centenas y decenas."
+        },
+        {
+          "letter": "D",
+          "text": "400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó 3 centenas en lugar de 3 decenas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una centena es 100 y tres decenas son 30. Al sumarlos se obtiene 130.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v7",
+      "statement": "¿Cuál es el número más grande que puedes formar usando los dígitos **8, 0, 3, 5** sin repetirlos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.350",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una forma de poner los dígitos para que el número sea mayor."
+        },
+        {
+          "letter": "B",
+          "text": "8.503",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 3 es mayor que el 0, debería ir en una posición superior."
+        },
+        {
+          "letter": "C",
+          "text": "8.530",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al poner los dígitos mayores en las posiciones más altas (mil y cien), obtenemos el mayor valor."
+        },
+        {
+          "letter": "D",
+          "text": "5.830",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 8 es el mayor dígito y debe ir en las unidades de mil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para formar el número mayor, colocamos los dígitos de mayor a menor empezando por la izquierda.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v8",
+      "statement": "Si cambiamos la cifra de las decenas por un **0** en el número 2.584, ¿qué número queda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.084",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste las centenas."
+        },
+        {
+          "letter": "B",
+          "text": "2.504",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 8 estaba en las decenas y se cambió por 0."
+        },
+        {
+          "letter": "C",
+          "text": "2.580",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste las unidades."
+        },
+        {
+          "letter": "D",
+          "text": "0.584",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste las unidades de mil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la posición correcta es clave para modificar el valor de un número de forma precisa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v9",
+      "statement": "En una papelería hay 9 paquetes de 1.000 hojas cada uno y 9 hojas sueltas. ¿Cuántas hojas hay en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "99",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay 9 paquetes de mil."
+        },
+        {
+          "letter": "B",
+          "text": "990",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan las unidades de mil."
+        },
+        {
+          "letter": "C",
+          "text": "9.900",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número indica 9 centenas, no 9 unidades."
+        },
+        {
+          "letter": "D",
+          "text": "9.009",
+          "is_correct": true,
+          "feedback": "¡Correcto! 9.000 + 9 = 9.009. No hay centenas ni decenas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando una posición no tiene valor, se representa con un cero para mantener el lugar de las otras cifras.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes expresiones es igual a **7.043**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siete mil cuatrocientos tres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería 7.403."
+        },
+        {
+          "letter": "B",
+          "text": "Siete mil cuarenta y tres",
+          "is_correct": true,
+          "feedback": "¡Correcto! 7.000 + 40 + 3."
+        },
+        {
+          "letter": "C",
+          "text": "Siete mil cuatrocientos treinta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería 7.430."
+        },
+        {
+          "letter": "D",
+          "text": "Siete mil cuatro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan las unidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura de números requiere identificar correctamente el valor posicional de cada cifra, especialmente el cero.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-03-P1-valor-posicional-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v1",
+      "statement": "En la biblioteca del Colegio San Agustin de Sincelejo, hay 246 libros de ciencia y 189 de historia. Cuantos MAS de ciencia?",
+      "context": "En Colegio San Agustin de Sincelejo de Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "57",
+          "is_correct": true,
+          "feedback": "Correcto! 246-189=57."
+        },
+        {
+          "letter": "B",
+          "text": "67",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16-9=7, no 6."
+        },
+        {
+          "letter": "C",
+          "text": "47",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16-9=7, no 6."
+        },
+        {
+          "letter": "D",
+          "text": "57 menos",
+          "is_correct": false,
+          "feedback": "Son 57 MAS de ciencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Unidades:6-9=presto=16-9=7. Decenas:3-8=presto=13-8=5. Centenas:1-1=0. Diferencia:57.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v2",
+      "statement": "Don Miguel tiene 24 huevos y los empaca en cartones de 6. Cuantos cartones?",
+      "context": "En Colegio El Rosario de Ibague de Medellin",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto! 24 ÷ 6 = 4 cartones."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "6x6=36 huevos, son mas de 24."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "3x6=18 huevos, le sobran 6."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "8x6=48 huevos, el doble."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reparto equitativo: 24 huevos ÷ 6 por carton = 4 cartones.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v3",
+      "statement": "Cual de estas es una fraccion equivalente a 1/2?",
+      "context": "En Colegio INEM de Pereira de Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/4",
+          "is_correct": true,
+          "feedback": "Correcto! 1/2 = 2/4. Ambas representan la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "1/4 es la cuarta parte, no la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "3/4 son tres cuartos, mas de la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "2/2",
+          "is_correct": false,
+          "feedback": "2/2 = 1 entero, no la mitad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fracciones equivalentes representan la misma cantidad. 1/2 = 2/4 = 3/6 = 4/8. Todas son la mitad.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v4",
+      "statement": "Cuantos vertices tiene un cuadrado?",
+      "context": "En Colegio San Bartolome de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto! Cuadrado tiene 4 vertices (esquinas)."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "3 vertices es un triangulo."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "6 vertices es un hexagono."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Las figuras geometricas tienen vertices."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vertices: puntos donde se unen los lados. Cuadrado: 4 vertices.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v5",
+      "statement": "Si son las 3:00, que hora es?",
+      "context": "En Inem Santiago Perez de Armenia de Ibague",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las 3 en punto",
+          "is_correct": true,
+          "feedback": "Correcto! 3:00 = las 3 en punto."
+        },
+        {
+          "letter": "B",
+          "text": "Las 3 y media",
+          "is_correct": false,
+          "feedback": "3:30 seria las 3 y media."
+        },
+        {
+          "letter": "C",
+          "text": "Las 3 y cuarto",
+          "is_correct": false,
+          "feedback": "3:15 seria las 3 y cuarto."
+        },
+        {
+          "letter": "D",
+          "text": "Las 4",
+          "is_correct": false,
+          "feedback": "Las 4 seria 4:00."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el minutero esta en el 12, es la hora en punto. 3:00 = las 3 en punto.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v6",
+      "statement": "Si en una bolsa hay 3 canicas rojas y 1 azul, cual color es MAS PROBABLE de sacar?",
+      "context": "En Colegio La Salle de Medellin de Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roja, porque hay mas",
+          "is_correct": true,
+          "feedback": "Correcto! 3 rojas > 1 azul, mas probable sacar roja."
+        },
+        {
+          "letter": "B",
+          "text": "Azul, es mas especial",
+          "is_correct": false,
+          "feedback": "La probabilidad depende de la cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas igual",
+          "is_correct": false,
+          "feedback": "No, hay diferente cantidad."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber",
+          "is_correct": false,
+          "feedback": "Si, hay mas rojas que azules."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A mayor cantidad de un color, mayor probabilidad de sacarlo. 3/4 roja vs 1/4 azul.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v7",
+      "statement": "Cual es el MENOR? 234, 243, 324, 342",
+      "context": "En Colegio San Agustin de Sincelejo de Popayan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "234",
+          "is_correct": true,
+          "feedback": "Correcto! 234 tiene 2 centenas y 3 decenas."
+        },
+        {
+          "letter": "B",
+          "text": "243",
+          "is_correct": false,
+          "feedback": "Incorrecto. 243 > 234."
+        },
+        {
+          "letter": "C",
+          "text": "324",
+          "is_correct": false,
+          "feedback": "Incorrecto. 324 tiene 3 centenas."
+        },
+        {
+          "letter": "D",
+          "text": "342",
+          "is_correct": false,
+          "feedback": "Incorrecto. 342 es el mayor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Compara centenas primero. 234 y 243 tienen 2 centenas. Entre ellos, 3 < 4 decenas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v8",
+      "statement": "Doña Maria compra 3kg papa a $1.200/kg y 2kg cebolla a $800/kg. Cuanto paga?",
+      "context": "En Inem Santiago Perez de Armenia de Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.200",
+          "is_correct": true,
+          "feedback": "Correcto! 3x1.200=3.600, 2x800=1.600. Total:5.200."
+        },
+        {
+          "letter": "B",
+          "text": "$3.600",
+          "is_correct": false,
+          "feedback": "Faltan las cebollas."
+        },
+        {
+          "letter": "C",
+          "text": "$4.400",
+          "is_correct": false,
+          "feedback": "3x1.200=3.600, 2x800=1.600. Total:5.200."
+        },
+        {
+          "letter": "D",
+          "text": "$6.000",
+          "is_correct": false,
+          "feedback": "3x1.200=3.600, 2x800=1.600. Total:5.200."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Papas:3x1.200=3.600. Cebollas:2x800=1.600. Total:3.600+1.600=5.200.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v9",
+      "statement": "En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?",
+      "context": "En Colegio Simon Bolivar de Bucaramanga de Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "Correcto! 8x4=32 sillas."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "8+4=12. Hay grupos iguales, se multiplica."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "4x4=16. Son 8 mesas."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "6x4=24. Son 8 mesas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "8 mesas x 4 sillas = 8x4 = 32 sillas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v10",
+      "statement": "Que fraccion representa 1 de 4 partes iguales de una pizza?",
+      "context": "En Colegio Nuestra Senora del Rosario de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correcto! 1 parte de 4 = 1/4."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "1/2 seria 1 de 2 partes."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "1/3 seria 1 de 3 partes."
+        },
+        {
+          "letter": "D",
+          "text": "4/1",
+          "is_correct": false,
+          "feedback": "4/1 significa 4 enteros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fraccion como parte de un todo: numerador (partes que tomamos) / denominador (total de partes). 1 de 4 = 1/4.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v11",
+      "statement": "Que figura geometrica tiene 4 lados iguales?",
+      "context": "En Colegio San Bartolome de Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto! Cuadrado: 4 lados iguales, 4 angulos rectos."
+        },
+        {
+          "letter": "B",
+          "text": "Triangulo",
+          "is_correct": false,
+          "feedback": "Triangulo tiene 3 lados."
+        },
+        {
+          "letter": "C",
+          "text": "Circulo",
+          "is_correct": false,
+          "feedback": "Circulo no tiene lados."
+        },
+        {
+          "letter": "D",
+          "text": "Rectangulo",
+          "is_correct": false,
+          "feedback": "Rectangulo tiene lados iguales de a pares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuadrado: 4 lados iguales, 4 esquinas (vertices).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v12",
+      "statement": "Cuantos dias tiene una semana?",
+      "context": "En Colegio Simon Bolivar de Bucaramanga de Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto! Una semana tiene 7 dias."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "5 son los dias laborales."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "No, una semana son 7 dias."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "30 son los dias de un mes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Semana: lunes, martes, miercoles, jueves, viernes, sabado, domingo = 7 dias.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v13",
+      "statement": "Cual de estos eventos es IMPOSIBLE?",
+      "context": "En Colegio San Bartolome de Ibague",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que llueva caramelos",
+          "is_correct": true,
+          "feedback": "Correcto! Los caramelos no caen del cielo."
+        },
+        {
+          "letter": "B",
+          "text": "Que llueva manana",
+          "is_correct": false,
+          "feedback": "Es posible, depende del clima."
+        },
+        {
+          "letter": "C",
+          "text": "Que salga sol",
+          "is_correct": false,
+          "feedback": "Es posible."
+        },
+        {
+          "letter": "D",
+          "text": "Que alguien cumpla anos",
+          "is_correct": false,
+          "feedback": "Es seguro que siempre alguien cumple anos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evento imposible = no puede ocurrir jamas. Llover caramelos va contra las leyes de la naturaleza.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v14",
+      "statement": "Que numero esta ANTES de 500?",
+      "context": "En Colegio San Francisco de Asis de Popayan de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "499",
+          "is_correct": true,
+          "feedback": "Correcto! 499 + 1 = 500."
+        },
+        {
+          "letter": "B",
+          "text": "500",
+          "is_correct": false,
+          "feedback": "Incorrecto. 500 es el mismo numero."
+        },
+        {
+          "letter": "C",
+          "text": "501",
+          "is_correct": false,
+          "feedback": "Incorrecto. 501 sigue despues de 500."
+        },
+        {
+          "letter": "D",
+          "text": "490",
+          "is_correct": false,
+          "feedback": "Incorrecto. 490 esta 10 antes. El anterior inmediato es 499."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El numero anterior es uno menos: 500 - 1 = 499.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v15",
+      "statement": "Si 345 + 200 = 545, cuanto es 545 - 200?",
+      "context": "En Colegio Nuestra Senora del Rosario de Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "345",
+          "is_correct": true,
+          "feedback": "Correcto! Suma y resta son operaciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "200",
+          "is_correct": false,
+          "feedback": "Incorrecto. 545 - 200 = 345."
+        },
+        {
+          "letter": "C",
+          "text": "545",
+          "is_correct": false,
+          "feedback": "Incorrecto. 545 - 200 no da 545."
+        },
+        {
+          "letter": "D",
+          "text": "745",
+          "is_correct": false,
+          "feedback": "Incorrecto. 545 + 200 = 745. Aqui es resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si a+b=c, entonces c-b=a. 345+200=545, entonces 545-200=345.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,31 +10,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v1",
       "statement": "Lea el siguiente fragmento:\n\"La carreta pintada, con sus diseños geométricos y colores vibrantes, avanzaba lentamente por el camino de lastre, anunciando su paso con el cantar de sus ruedas de madera.\"\nSegún el texto, ¿qué característica tienen las ruedas de la carreta?",
-      "context": "",
+      "context": "Fragmento literario de autor costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "Son de metal. <!-- feedback: Incorrecto. El texto dice explícitamente que son de madera. -->",
-          "is_correct": false
+          "text": "Son de metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice explícitamente que son de madera."
         },
         {
           "letter": "B",
-          "text": "Producen un sonido al avanzar. <!-- feedback: Correcto. El texto menciona el \"cantar de sus ruedas\", lo que alude al sonido característico. -->",
-          "is_correct": true
+          "text": "Producen un sonido al avanzar.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto menciona el \"cantar de sus ruedas\", lo que alude al sonido característico."
         },
         {
           "letter": "C",
-          "text": "Son de colores vibrantes. <!-- feedback: Incorrecto. El texto atribuye los colores a los diseños de la carreta, no específicamente a las ruedas. -->",
-          "is_correct": false
+          "text": "Son de colores vibrantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto atribuye los colores a los diseños de la carreta, no específicamente a las ruedas."
         },
         {
           "letter": "D",
-          "text": "Son cuadradas. <!-- feedback: Incorrecto. Las carretas tienen ruedas circulares y el texto no menciona formas geométricas en las ruedas. -->",
-          "is_correct": false
+          "text": "Son cuadradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las carretas tienen ruedas circulares y el texto no menciona formas geométricas en las ruedas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de información explícita en un texto descriptivo.\n\n---",
+      "explanation": "Identificación de información explícita en un texto descriptivo.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v2",
       "statement": "Lea la siguiente oración:\n\"A pesar de los problemas, don Juan siempre decía que la vida es pura vida.\"\n¿Qué sentimiento o actitud se infiere del uso de la expresión subrayada en el contexto de la oración?",
-      "context": "",
+      "context": "Uso de modismos locales.",
       "options": [
         {
           "letter": "A",
-          "text": "Resignación ante el fracaso. <!-- feedback: Incorrecto. \"Pura vida\" tiene una connotación positiva, no de derrota. -->",
-          "is_correct": false
+          "text": "Resignación ante el fracaso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Pura vida\" tiene una connotación positiva, no de derrota."
         },
         {
           "letter": "B",
-          "text": "Optimismo y aprecio por la existencia. <!-- feedback: Correcto. En Costa Rica, \"pura vida\" refleja una actitud positiva y agradecida ante la vida. -->",
-          "is_correct": true
+          "text": "Optimismo y aprecio por la existencia.",
+          "is_correct": true,
+          "feedback": "Correcto. En Costa Rica, \"pura vida\" refleja una actitud positiva y agradecida ante la vida."
         },
         {
           "letter": "C",
-          "text": "Preocupación por la salud. <!-- feedback: Incorrecto. La expresión va más allá de la salud física. -->",
-          "is_correct": false
+          "text": "Preocupación por la salud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión va más allá de la salud física."
         },
         {
           "letter": "D",
-          "text": "Indiferencia hacia los demás. <!-- feedback: Incorrecto. Es una expresión de vitalidad, no de falta de interés. -->",
-          "is_correct": false
+          "text": "Indiferencia hacia los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una expresión de vitalidad, no de falta de interés."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión del sentido de expresiones culturales propias del país.\n\n---",
+      "explanation": "Comprensión del sentido de expresiones culturales propias del país.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v3",
       "statement": "\"Costa Rica alberga el 6% de la biodiversidad mundial en apenas el 0.03% de la superficie terrestre, lo que lo convierte en un destino líder en ecoturismo.\"\nDe acuerdo con el texto, ¿qué factor contribuye a que el país sea un líder en ecoturismo?",
-      "context": "",
+      "context": "Texto informativo sobre biodiversidad.",
       "options": [
         {
           "letter": "A",
-          "text": "Su gran concentración de biodiversidad. <!-- feedback: Correcto. El texto vincula directamente la riqueza biológica con el liderazgo en ecoturismo. -->",
-          "is_correct": true
+          "text": "Su gran concentración de biodiversidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto vincula directamente la riqueza biológica con el liderazgo en ecoturismo."
         },
         {
           "letter": "B",
-          "text": "Su gran extensión territorial. <!-- feedback: Incorrecto. El texto menciona que la superficie es muy pequeña (0.03%). -->",
-          "is_correct": false
+          "text": "Su gran extensión territorial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona que la superficie es muy pequeña (0.03%)."
         },
         {
           "letter": "C",
-          "text": "La cantidad de turistas que recibe. <!-- feedback: Incorrecto. Aunque es cierto, el texto señala la biodiversidad como la causa mencionada. -->",
-          "is_correct": false
+          "text": "La cantidad de turistas que recibe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es cierto, el texto señala la biodiversidad como la causa mencionada."
         },
         {
           "letter": "D",
-          "text": "Su ubicación en el centro de América. <!-- feedback: Incorrecto. El texto no menciona la posición geográfica como causa en este fragmento. -->",
-          "is_correct": false
+          "text": "Su ubicación en el centro de América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona la posición geográfica como causa en este fragmento."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nExtracción de relaciones de causa y efecto explícitas en el texto.\n\n---",
+      "explanation": "Extracción de relaciones de causa y efecto explícitas en el texto.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v4",
       "statement": "\"El boyero arreaba a sus bueyes con paciencia, siguiendo la tradición de sus abuelos.\"\n¿Cuál es el significado de la palabra subrayada según el contexto?",
-      "context": "",
+      "context": "Texto sobre tradiciones.",
       "options": [
         {
           "letter": "A",
-          "text": "Persona que fabrica carretas. <!-- feedback: Incorrecto. Ese sería un artesano o carpintero. -->",
-          "is_correct": false
+          "text": "Persona que fabrica carretas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería un artesano o carpintero."
         },
         {
           "letter": "B",
-          "text": "Persona que guía o conduce bueyes. <!-- feedback: Correcto. El boyero es el encargado de manejar el yunta de bueyes. -->",
-          "is_correct": true
+          "text": "Persona que guía o conduce bueyes.",
+          "is_correct": true,
+          "feedback": "Correcto. El boyero es el encargado de manejar el yunta de bueyes."
         },
         {
           "letter": "C",
-          "text": "Animal de carga. <!-- feedback: Incorrecto. Se refiere al sujeto que realiza la acción de arrear. -->",
-          "is_correct": false
+          "text": "Animal de carga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al sujeto que realiza la acción de arrear."
         },
         {
           "letter": "D",
-          "text": "Instrumento para arar la tierra. <!-- feedback: Incorrecto. Es una ocupación humana. -->",
-          "is_correct": false
+          "text": "Instrumento para arar la tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una ocupación humana."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación del significado de palabras relacionadas con el entorno cultural nacional.\n\n---",
+      "explanation": "Identificación del significado de palabras relacionadas con el entorno cultural nacional.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v5",
       "statement": "\"La abolición del ejército en 1948 permitió que Costa Rica redirigiera recursos hacia la educación y la salud, sentando las bases de una estabilidad social envidiable en la región.\"\n¿Cuál es la idea implícita fundamental del fragmento?",
-      "context": "",
+      "context": "Texto argumentativo sobre el sistema educativo.",
       "options": [
         {
           "letter": "A",
-          "text": "El ejército es necesario para la educación. <!-- feedback: Incorrecto. El texto sugiere lo contrario: que su ausencia benefició a la educación. -->",
-          "is_correct": false
+          "text": "El ejército es necesario para la educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sugiere lo contrario: que su ausencia benefició a la educación."
         },
         {
           "letter": "B",
-          "text": "Las prioridades de inversión estatal determinan el desarrollo social de un país. <!-- feedback: Correcto. Se infiere que elegir educación sobre armas generó estabilidad. -->",
-          "is_correct": true
+          "text": "Las prioridades de inversión estatal determinan el desarrollo social de un país.",
+          "is_correct": true,
+          "feedback": "Correcto. Se infiere que elegir educación sobre armas generó estabilidad."
         },
         {
           "letter": "C",
-          "text": "Costa Rica es el único país sin ejército. <!-- feedback: Incorrecto. El texto no afirma que sea el único, solo menciona el caso nacional. -->",
-          "is_correct": false
+          "text": "Costa Rica es el único país sin ejército.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma que sea el único, solo menciona el caso nacional."
         },
         {
           "letter": "D",
-          "text": "La salud es más importante que la seguridad nacional. <!-- feedback: Incorrecto. El texto habla de \"redirigir recursos\", no establece una jerarquía absoluta de importancia. -->",
-          "is_correct": false
+          "text": "La salud es más importante que la seguridad nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto habla de \"redirigir recursos\", no establece una jerarquía absoluta de importancia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInferencia de ideas principales en textos de carácter histórico-argumentativo.\n\n---",
+      "explanation": "Inferencia de ideas principales en textos de carácter histórico-argumentativo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v6",
       "statement": "\"El sol se ocultaba tras los cerros de Escazú, tiñendo el cielo de arreboles. Mientras tanto, en la ciudad, el tráfico se volvía una serpiente metálica e interminable.\"\n¿Qué figura literaria predomina en la descripción del tráfico?",
-      "context": "",
+      "context": "Fragmento de una crónica.",
       "options": [
         {
           "letter": "A",
-          "text": "Hipérbole <!-- feedback: Incorrecto. Aunque hay exageración, hay una comparación implícita más fuerte. -->",
-          "is_correct": false
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay exageración, hay una comparación implícita más fuerte."
         },
         {
           "letter": "B",
-          "text": "Metáfora <!-- feedback: Correcto. Se identifica el tráfico directamente con una \"serpiente metálica\" sin usar conectores comparativos. -->",
-          "is_correct": true
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": "Correcto. Se identifica el tráfico directamente con una \"serpiente metálica\" sin usar conectores comparativos."
         },
         {
           "letter": "C",
-          "text": "Símil <!-- feedback: Incorrecto. No utiliza palabras como \"como\" o \"parece\". -->",
-          "is_correct": false
+          "text": "Símil",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza palabras como \"como\" o \"parece\"."
         },
         {
           "letter": "D",
-          "text": "Personificación <!-- feedback: Incorrecto. No se le otorgan rasgos humanos al tráfico, sino animales (serpiente). -->",
-          "is_correct": false
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se le otorgan rasgos humanos al tráfico, sino animales (serpiente)."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación y análisis de recursos retóricos en textos narrativos/descriptivos.\n\n---",
+      "explanation": "Identificación y análisis de recursos retóricos en textos narrativos/descriptivos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v7",
       "statement": "\"El tico se caracteriza por su aversión al conflicto directo, prefiriendo el rodeo y la cortesía, lo que a veces se interpreta como falta de sinceridad por extranjeros.\"\nSegún el autor, ¿cuál es una posible consecuencia de la forma de ser del costarricense?",
-      "context": "",
+      "context": "Fragmento de un ensayo sobre identidad.",
       "options": [
         {
           "letter": "A",
-          "text": "Una comunicación siempre clara y directa. <!-- feedback: Incorrecto. El autor menciona que se prefiere el \"rodeo\". -->",
-          "is_correct": false
+          "text": "Una comunicación siempre clara y directa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor menciona que se prefiere el \"rodeo\"."
         },
         {
           "letter": "B",
-          "text": "Una percepción externa de ambigüedad o hipocresía. <!-- feedback: Correcto. El texto menciona que extranjeros pueden interpretarlo como \"falta de sinceridad\". -->",
-          "is_correct": true
+          "text": "Una percepción externa de ambigüedad o hipocresía.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto menciona que extranjeros pueden interpretarlo como \"falta de sinceridad\"."
         },
         {
           "letter": "C",
-          "text": "El aislamiento social de la población. <!-- feedback: Incorrecto. El texto habla de cortesía, no de aislamiento. -->",
-          "is_correct": false
+          "text": "El aislamiento social de la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto habla de cortesía, no de aislamiento."
         },
         {
           "letter": "D",
-          "text": "La desaparición de las tradiciones locales. <!-- feedback: Incorrecto. El tema es el carácter, no la vigencia de las tradiciones. -->",
-          "is_correct": false
+          "text": "La desaparición de las tradiciones locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema es el carácter, no la vigencia de las tradiciones."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación de puntos de vista y sus repercusiones en un texto ensayístico.\n\n---",
+      "explanation": "Interpretación de puntos de vista y sus repercusiones en un texto ensayístico.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v8",
       "statement": "\"La actividad fumarólica del volcán Poás ha incrementado, liberando gases que afectan los cultivos aledaños.\"\nEn el texto, la palabra subrayada se refiere a:",
-      "context": "",
+      "context": "Texto científico sobre vulcanismo.",
       "options": [
         {
           "letter": "A",
-          "text": "Emisión de lava hirviente. <!-- feedback: Incorrecto. Eso sería una colada de lava. -->",
-          "is_correct": false
+          "text": "Emisión de lava hirviente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una colada de lava."
         },
         {
           "letter": "B",
-          "text": "Emisión de gases y vapores por grietas. <!-- feedback: Correcto. Las fumarolas son escapes de gas volcánico. -->",
-          "is_correct": true
+          "text": "Emisión de gases y vapores por grietas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fumarolas son escapes de gas volcánico."
         },
         {
           "letter": "C",
-          "text": "Cenizas que cubren la ciudad. <!-- feedback: Incorrecto. Eso es caída de tefra o ceniza. -->",
-          "is_correct": false
+          "text": "Cenizas que cubren la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es caída de tefra o ceniza."
         },
         {
           "letter": "D",
-          "text": "Movimientos sísmicos leves. <!-- feedback: Incorrecto. Eso serían microsismos o tremores. -->",
-          "is_correct": false
+          "text": "Movimientos sísmicos leves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso serían microsismos o tremores."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nPrecisión léxica en contextos de divulgación científica regional.\n\n---",
+      "explanation": "Precisión léxica en contextos de divulgación científica regional.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v9",
       "statement": "\"¡Noble patria!, tu hermosa bandera / expresión de tu vida nos da; / bajo el límpido azul de tu cielo / blanca y pura descansa la paz.\"\nSegún la estrofa anterior, ¿dónde descansa la paz?",
-      "context": "",
+      "context": "Texto sobre el Himno Nacional.",
       "options": [
         {
           "letter": "A",
-          "text": "En la bandera. <!-- feedback: Incorrecto. La bandera es la expresión de la vida. -->",
-          "is_correct": false
+          "text": "En la bandera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bandera es la expresión de la vida."
         },
         {
           "letter": "B",
-          "text": "En la noble patria. <!-- feedback: Incorrecto. Es un vocativo general. -->",
-          "is_correct": false
+          "text": "En la noble patria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un vocativo general."
         },
         {
           "letter": "C",
-          "text": "Bajo el cielo azul. <!-- feedback: Correcto. El texto dice explícitamente \"bajo el límpido azul de tu cielo... descansa la paz\". -->",
-          "is_correct": true
+          "text": "Bajo el cielo azul.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice explícitamente \"bajo el límpido azul de tu cielo... descansa la paz\"."
         },
         {
           "letter": "D",
-          "text": "En el trabajo diario. <!-- feedback: Incorrecto. Esa idea aparece en otras estrofas, no en esta. -->",
-          "is_correct": false
+          "text": "En el trabajo diario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa idea aparece en otras estrofas, no en esta."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAnálisis de la sintaxis y el contenido de textos líricos patrióticos.\n\n---",
+      "explanation": "Análisis de la sintaxis y el contenido de textos líricos patrióticos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v10",
       "statement": "\"El grano de oro costarricense sigue conquistando mercados europeos gracias a su alta calidad y procesos de producción sostenibles.\"\n¿Qué se puede inferir sobre la denominación \"grano de oro\"?",
-      "context": "",
+      "context": "Noticia sobre exportación de café.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el café es de color amarillo brillante. <!-- feedback: Incorrecto. El café es marrón; el término es metafórico. -->",
-          "is_correct": false
+          "text": "Que el café es de color amarillo brillante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El café es marrón; el término es metafórico."
         },
         {
           "letter": "B",
-          "text": "Que representa una gran fuente de riqueza para el país. <!-- feedback: Correcto. \"Oro\" alude al valor económico histórico que el café ha tenido para Costa Rica. -->",
-          "is_correct": true
+          "text": "Que representa una gran fuente de riqueza para el país.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Oro\" alude al valor económico histórico que el café ha tenido para Costa Rica."
         },
         {
           "letter": "C",
-          "text": "Que el café se mezcla con partículas de metal. <!-- feedback: Incorrecto. Es una interpretación literal errónea de una metáfora. -->",
-          "is_correct": false
+          "text": "Que el café se mezcla con partículas de metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal errónea de una metáfora."
         },
         {
           "letter": "D",
-          "text": "Que solo se vende a personas con mucho dinero. <!-- feedback: Incorrecto. El texto habla de mercados, no de una élite exclusiva. -->",
-          "is_correct": false
+          "text": "Que solo se vende a personas con mucho dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto habla de mercados, no de una élite exclusiva."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de metáforas culturales consolidadas en el lenguaje nacional.\n\n---",
+      "explanation": "Comprensión de metáforas culturales consolidadas en el lenguaje nacional.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v11",
       "statement": "\"La Gran Área Metropolitana (GAM) se expande sin un plan regulador unificado, devorando zonas de recarga acuífera y aumentando la huella de carbono.\"\n¿Cuál es la postura del autor respecto al crecimiento de la GAM?",
-      "context": "",
+      "context": "Editorial sobre el desarrollo urbano.",
       "options": [
         {
           "letter": "A",
-          "text": "Entusiasta ante el progreso económico. <!-- feedback: Incorrecto. El lenguaje usado (\"devorando\", \"aumentando huella de carbono\") es negativo. -->",
-          "is_correct": false
+          "text": "Entusiasta ante el progreso económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje usado (\"devorando\", \"aumentando huella de carbono\") es negativo."
         },
         {
           "letter": "B",
-          "text": "Crítica frente a la falta de planificación ambiental. <!-- feedback: Correcto. El autor señala las consecuencias negativas de una expansión desordenada. -->",
-          "is_correct": true
+          "text": "Crítica frente a la falta de planificación ambiental.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor señala las consecuencias negativas de una expansión desordenada."
         },
         {
           "letter": "C",
-          "text": "Neutral, limitándose a describir datos geográficos. <!-- feedback: Incorrecto. El uso de verbos cargados de juicio muestra una posición. -->",
-          "is_correct": false
+          "text": "Neutral, limitándose a describir datos geográficos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de verbos cargados de juicio muestra una posición."
         },
         {
           "letter": "D",
-          "text": "Nostálgica por el pasado rural del país. <!-- feedback: Incorrecto. El enfoque es ambiental y de planificación urbana actual, no meramente nostálgico. -->",
-          "is_correct": false
+          "text": "Nostálgica por el pasado rural del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfoque es ambiental y de planificación urbana actual, no meramente nostálgico."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de la intención y tono del autor en textos de opinión.\n\n---",
+      "explanation": "Identificación de la intención y tono del autor en textos de opinión.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v12",
       "statement": "\"Si bien la ley garantiza el ahorro obligatorio, algunos sectores argumentan que reduce el salario líquido inmediato, afectando el consumo de las familias de menores ingresos.\"\n¿Cuál es el contraargumento presentado en el texto?",
-      "context": "",
+      "context": "Texto sobre la Ley de Protección al Trabajador.",
       "options": [
         {
           "letter": "A",
-          "text": "La ley garantiza un ahorro para el futuro. <!-- feedback: Incorrecto. Este es el argumento a favor. -->",
-          "is_correct": false
+          "text": "La ley garantiza un ahorro para el futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el argumento a favor."
         },
         {
           "letter": "B",
-          "text": "El impacto negativo en la capacidad de compra actual. <!-- feedback: Correcto. El texto señala que se reduce el dinero disponible hoy para el consumo. -->",
-          "is_correct": true
+          "text": "El impacto negativo en la capacidad de compra actual.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto señala que se reduce el dinero disponible hoy para el consumo."
         },
         {
           "letter": "C",
-          "text": "La falta de información sobre los beneficios de la ley. <!-- feedback: Incorrecto. El texto no menciona la falta de información. -->",
-          "is_correct": false
+          "text": "La falta de información sobre los beneficios de la ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona la falta de información."
         },
         {
           "letter": "D",
-          "text": "La obligatoriedad como una violación a la libertad. <!-- feedback: Incorrecto. El argumento se centra en la economía familiar, no en la libertad filosófica. -->",
-          "is_correct": false
+          "text": "La obligatoriedad como una violación a la libertad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento se centra en la economía familiar, no en la libertad filosófica."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de estructuras argumentativas: tesis y contratesis.\n\n---",
+      "explanation": "Identificación de estructuras argumentativas: tesis y contratesis.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v13",
       "statement": "\"Llegó a la cita con el tiempo justo, pero el 'ahorita' de su amigo se extendió por cuarenta minutos, tiempo suficiente para que el café se enfriara y la paciencia se evaporara.\"\n¿Qué crítica social se desprende del uso de la palabra entrecomillada?",
-      "context": "",
+      "context": "Relato breve contemporáneo.",
       "options": [
         {
           "letter": "A",
-          "text": "La falta de vocabulario de la población joven. <!-- feedback: Incorrecto. No se critica la capacidad lingüística. -->",
-          "is_correct": false
+          "text": "La falta de vocabulario de la población joven.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se critica la capacidad lingüística."
         },
         {
           "letter": "B",
-          "text": "La eficiencia del servicio en las cafeterías. <!-- feedback: Incorrecto. El foco está en la puntualidad del amigo. -->",
-          "is_correct": false
+          "text": "La eficiencia del servicio en las cafeterías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está en la puntualidad del amigo."
         },
         {
           "letter": "C",
-          "text": "La percepción elástica e informal del tiempo en la cultura local. <!-- feedback: Correcto. El \"ahorita\" en Costa Rica suele significar un tiempo indefinido, a menudo largo. -->",
-          "is_correct": true
+          "text": "La percepción elástica e informal del tiempo en la cultura local.",
+          "is_correct": true,
+          "feedback": "Correcto. El \"ahorita\" en Costa Rica suele significar un tiempo indefinido, a menudo largo."
         },
         {
           "letter": "D",
-          "text": "El gusto por el café frío en ciertas regiones. <!-- feedback: Incorrecto. La mención del café es una consecuencia de la espera, no el tema central. -->",
-          "is_correct": false
+          "text": "El gusto por el café frío en ciertas regiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mención del café es una consecuencia de la espera, no el tema central."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAnálisis de ironía y crítica cultural a través de giros idiomáticos.\n\n---",
+      "explanation": "Análisis de ironía y crítica cultural a través de giros idiomáticos.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v14",
       "statement": "\"La apertura del mercado de telecomunicaciones generó mayor competencia. _______, los precios de los planes de datos disminuyeron significativamente.\"\n¿Cuál conector lógico completa correctamente el sentido de la relación entre las oraciones?",
-      "context": "",
+      "context": "Texto sobre telecomunicaciones en CR.",
       "options": [
         {
           "letter": "A",
-          "text": "Sin embargo <!-- feedback: Incorrecto. Indica oposición, pero aquí hay una consecuencia. -->",
-          "is_correct": false
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica oposición, pero aquí hay una consecuencia."
         },
         {
           "letter": "B",
-          "text": "Por consiguiente <!-- feedback: Correcto. Establece una relación de causa-consecuencia (competencia -> baja de precios). -->",
-          "is_correct": true
+          "text": "Por consiguiente",
+          "is_correct": true,
+          "feedback": "Correcto. Establece una relación de causa-consecuencia (competencia -> baja de precios)."
         },
         {
           "letter": "C",
-          "text": "Por el contrario <!-- feedback: Incorrecto. Indica contraste. -->",
-          "is_correct": false
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica contraste."
         },
         {
           "letter": "D",
-          "text": "No obstante <!-- feedback: Incorrecto. Es sinónimo de sin embargo. -->",
-          "is_correct": false
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es sinónimo de sin embargo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nUso de conectores para establecer relaciones lógicas en el texto.\n\n---",
+      "explanation": "Uso de conectores para establecer relaciones lógicas en el texto.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v15",
       "statement": "Una infografía muestra que el 80% de los residuos sólidos en Costa Rica son valorizables, pero solo se recicla efectivamente el 10%. ¿Qué conclusión se extrae de esta relación estadística?",
-      "context": "",
+      "context": "Descripción de una infografía sobre reciclaje.",
       "options": [
         {
           "letter": "A",
-          "text": "Costa Rica es líder mundial en reciclaje. <!-- feedback: Incorrecto. El 10% es una cifra baja. -->",
-          "is_correct": false
+          "text": "Costa Rica es líder mundial en reciclaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 10% es una cifra baja."
         },
         {
           "letter": "B",
-          "text": "Existe una brecha significativa entre el potencial de reciclaje y la práctica real. <!-- feedback: Correcto. Hay una gran diferencia entre lo que se \"podría\" hacer (80%) y lo que se hace (10%). -->",
-          "is_correct": true
+          "text": "Existe una brecha significativa entre el potencial de reciclaje y la práctica real.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay una gran diferencia entre lo que se \"podría\" hacer (80%) y lo que se hace (10%)."
         },
         {
           "letter": "C",
-          "text": "La mayoría de los residuos en el país no se pueden reciclar. <!-- feedback: Incorrecto. El 80% sí es valorizable según el dato. -->",
-          "is_correct": false
+          "text": "La mayoría de los residuos en el país no se pueden reciclar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 80% sí es valorizable según el dato."
         },
         {
           "letter": "D",
-          "text": "El gobierno ha prohibido el uso de materiales no reciclables. <!-- feedback: Incorrecto. El dato no habla de leyes, sino de porcentajes de manejo de residuos. -->",
-          "is_correct": false
+          "text": "El gobierno ha prohibido el uso de materiales no reciclables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato no habla de leyes, sino de porcentajes de manejo de residuos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nInterpretación de datos estadísticos aplicados a la realidad nacional.\n\n---",
+      "explanation": "Interpretación de datos estadísticos aplicados a la realidad nacional.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v16",
       "statement": "Mientras un texto histórico resalta el valor militar de las tropas costarricenses en 1856, otro texto literario se enfoca en el miedo y la nostalgia de los campesinos que dejaron sus tierras. ¿En qué difieren fundamentalmente ambos enfoques?",
-      "context": "",
+      "context": "Comparación de visiones sobre la Campaña Nacional de 1856.",
       "options": [
         {
           "letter": "A",
-          "text": "En la perspectiva: uno es institucional/heroico y el otro es humano/íntimo. <!-- feedback: Correcto. Uno mira el evento como gesta nacional y el otro como vivencia personal. -->",
-          "is_correct": true
+          "text": "En la perspectiva: uno es institucional/heroico y el otro es humano/íntimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Uno mira el evento como gesta nacional y el otro como vivencia personal."
         },
         {
           "letter": "B",
-          "text": "En la veracidad de los hechos: la literatura miente y la historia dice la verdad. <!-- feedback: Incorrecto. Ambos pueden ser verdaderos en sus propios planos de realidad. -->",
-          "is_correct": false
+          "text": "En la veracidad de los hechos: la literatura miente y la historia dice la verdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser verdaderos en sus propios planos de realidad."
         },
         {
           "letter": "C",
-          "text": "En la ubicación geográfica de los hechos descritos. <!-- feedback: Incorrecto. Ambos tratan el mismo evento histórico. -->",
-          "is_correct": false
+          "text": "En la ubicación geográfica de los hechos descritos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tratan el mismo evento histórico."
         },
         {
           "letter": "D",
-          "text": "En el idioma utilizado para la narración. <!-- feedback: Incorrecto. Ambos estarían en español en el contexto escolar. -->",
-          "is_correct": false
+          "text": "En el idioma utilizado para la narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos estarían en español en el contexto escolar."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nAnálisis comparativo de diversos tipos de textos sobre un mismo tema.\n\n---",
+      "explanation": "Análisis comparativo de diversos tipos de textos sobre un mismo tema.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v17",
       "statement": "\"No venimos a pedir, venimos a exigir que la justicia social sea una realidad y no una consigna hueca que se lleva el viento de cada campaña.\"\n¿Qué estrategia retórica utiliza el emisor para enfatizar su mensaje?",
-      "context": "",
+      "context": "Fragmento de un discurso político clásico.",
       "options": [
         {
           "letter": "A",
-          "text": "Uso de eufemismos para suavizar la demanda. <!-- feedback: Incorrecto. El lenguaje es directo y confrontativo (\"exigir\"). -->",
-          "is_correct": false
+          "text": "Uso de eufemismos para suavizar la demanda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es directo y confrontativo (\"exigir\")."
         },
         {
           "letter": "B",
-          "text": "Antítesis entre la acción real y el discurso vacío. <!-- feedback: Correcto. Contrasta \"realidad\" con \"consigna hueca\" para resaltar su punto. -->",
-          "is_correct": true
+          "text": "Antítesis entre la acción real y el discurso vacío.",
+          "is_correct": true,
+          "feedback": "Correcto. Contrasta \"realidad\" con \"consigna hueca\" para resaltar su punto."
         },
         {
           "letter": "C",
-          "text": "Referencias a datos estadísticos irrefutables. <!-- feedback: Incorrecto. El fragmento es puramente cualitativo y emocional. -->",
-          "is_correct": false
+          "text": "Referencias a datos estadísticos irrefutables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento es puramente cualitativo y emocional."
         },
         {
           "letter": "D",
-          "text": "Apelación a la autoridad de filósofos griegos. <!-- feedback: Incorrecto. No hay citas de autoridad en el texto. -->",
-          "is_correct": false
+          "text": "Apelación a la autoridad de filósofos griegos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay citas de autoridad en el texto."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de recursos de persuasión en textos de carácter político.\n\n---",
+      "explanation": "Evaluación de recursos de persuasión en textos de carácter político.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v18",
       "statement": "El estudio concluye que la clase media costarricense está \"estrujada\": sus ingresos se estancan mientras los costos de servicios privados (educación, salud) aumentan debido a la deficiencia de los servicios públicos. ¿Cuál es el núcleo del problema descrito?",
-      "context": "",
+      "context": "Resumen de un estudio sociológico sobre la \"Clase Media\" en CR.",
       "options": [
         {
           "letter": "A",
-          "text": "El exceso de ahorro de las familias. <!-- feedback: Incorrecto. Al contrario, están bajo presión económica. -->",
-          "is_correct": false
+          "text": "El exceso de ahorro de las familias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, están bajo presión económica."
         },
         {
           "letter": "B",
-          "text": "La desaparición total de la educación pública. <!-- feedback: Incorrecto. Existe, pero se percibe como deficiente. -->",
-          "is_correct": false
+          "text": "La desaparición total de la educación pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe, pero se percibe como deficiente."
         },
         {
           "letter": "C",
-          "text": "La pérdida de poder adquisitivo por el fallo del Estado en garantizar derechos básicos de calidad. <!-- feedback: Correcto. La deficiencia pública obliga al gasto privado, reduciendo el ingreso disponible. -->",
-          "is_correct": true
+          "text": "La pérdida de poder adquisitivo por el fallo del Estado en garantizar derechos básicos de calidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La deficiencia pública obliga al gasto privado, reduciendo el ingreso disponible."
         },
         {
           "letter": "D",
-          "text": "El aumento de los salarios por encima de la inflación. <!-- feedback: Incorrecto. El texto dice que los ingresos se \"estancan\". -->",
-          "is_correct": false
+          "text": "El aumento de los salarios por encima de la inflación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que los ingresos se \"estancan\"."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nCapacidad de síntesis de fenómenos socioeconómicos complejos a partir de la lectura.\n\n---",
+      "explanation": "Capacidad de síntesis de fenómenos socioeconómicos complejos a partir de la lectura.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v19",
       "statement": "\"La IA puede redactar noticias deportivas básicas, pero carece de la sensibilidad para narrar el trasfondo humano de un triunfo olímpico o la tragedia de un desastre natural en nuestras comunidades.\"\n¿Cuál es la premisa implícita del autor sobre la labor periodística?",
-      "context": "",
+      "context": "Texto sobre el impacto de la Inteligencia Artificial en el periodismo local.",
       "options": [
         {
           "letter": "A",
-          "text": "Los periodistas deben ser reemplazados por máquinas eficientes. <!-- feedback: Incorrecto. El autor destaca lo que la máquina NO puede hacer. -->",
-          "is_correct": false
+          "text": "Los periodistas deben ser reemplazados por máquinas eficientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor destaca lo que la máquina NO puede hacer."
         },
         {
           "letter": "B",
-          "text": "El valor diferenciador del periodismo humano reside en la empatía y la contextualización emocional. <!-- feedback: Correcto. Se infiere que la \"sensibilidad\" es lo que hace valioso al humano frente a la IA. -->",
-          "is_correct": true
+          "text": "El valor diferenciador del periodismo humano reside en la empatía y la contextualización emocional.",
+          "is_correct": true,
+          "feedback": "Correcto. Se infiere que la \"sensibilidad\" es lo que hace valioso al humano frente a la IA."
         },
         {
           "letter": "C",
-          "text": "La tecnología es irrelevante para el futuro de la comunicación. <!-- feedback: Incorrecto. Reconoce que puede redactar noticias básicas. -->",
-          "is_correct": false
+          "text": "La tecnología es irrelevante para el futuro de la comunicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconoce que puede redactar noticias básicas."
         },
         {
           "letter": "D",
-          "text": "Las noticias deportivas son menos importantes que las tragedias. <!-- feedback: Incorrecto. El texto compara capacidades técnicas, no importancia de temas. -->",
-          "is_correct": false
+          "text": "Las noticias deportivas son menos importantes que las tragedias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto compara capacidades técnicas, no importancia de temas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de premisas y supuestos subyacentes en textos de actualidad tecnológica.\n\n---",
+      "explanation": "Evaluación de premisas y supuestos subyacentes en textos de actualidad tecnológica.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,31 +770,35 @@
     {
       "id": "CR-ESP-11-P1-comprension-lectora-001-v20",
       "statement": "La Ley de Biodiversidad protege los conocimientos ancestrales. Un artículo de opinión argumenta que esta ley frena la investigación biotecnológica al imponer demasiados trámites. ¿En qué punto convergen y en cuál divergen ambos textos?",
-      "context": "",
+      "context": "Comparación entre una ley ambiental y un artículo de opinión.",
       "options": [
         {
           "letter": "A",
-          "text": "Convergen en que la ley es mala; divergen en quién debe aplicarla. <!-- feedback: Incorrecto. La ley en sí misma no dice que es mala. -->",
-          "is_correct": false
+          "text": "Convergen en que la ley es mala; divergen en quién debe aplicarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley en sí misma no dice que es mala."
         },
         {
           "letter": "B",
-          "text": "Convergen en el objeto de regulación (biodiversidad/conocimiento); divergen en la valoración de los mecanismos de control. <!-- feedback: Correcto. Ambos tratan el mismo tema, pero uno lo ve como protección y el otro como obstáculo. -->",
-          "is_correct": true
+          "text": "Convergen en el objeto de regulación (biodiversidad/conocimiento); divergen en la valoración de los mecanismos de control.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos tratan el mismo tema, pero uno lo ve como protección y el otro como obstáculo."
         },
         {
           "letter": "C",
-          "text": "Convergen en la necesidad de eliminar los trámites; divergen en el papel de los indígenas. <!-- feedback: Incorrecto. La ley no busca eliminar trámites. -->",
-          "is_correct": false
+          "text": "Convergen en la necesidad de eliminar los trámites; divergen en el papel de los indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley no busca eliminar trámites."
         },
         {
           "letter": "D",
-          "text": "No tienen ningún punto de convergencia temática. <!-- feedback: Incorrecto. Ambos tratan sobre la regulación de la biodiversidad en el país. -->",
-          "is_correct": false
+          "text": "No tienen ningún punto de convergencia temática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tratan sobre la regulación de la biodiversidad en el país."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de diálogos entre textos de diferente naturaleza (normativo vs. argumentativo).",
+      "explanation": "Evaluación de diálogos entre textos de diferente naturaleza (normativo vs. argumentativo).",
       "difficulty": "10",
       "images": [],
       "tags": [],

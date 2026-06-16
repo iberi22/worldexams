@@ -10,31 +10,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v1",
       "statement": "¿Cuál es el orgánulo encargado de la producción de energía en forma de ATP mediante la respiración celular?",
-      "context": "",
+      "context": "Identificación de orgánulos.",
       "options": [
         {
           "letter": "A",
-          "text": "Ribosoma <!-- feedback: Incorrecto. Los ribosomas se encargan de la síntesis de proteínas. -->",
-          "is_correct": false
+          "text": "Ribosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se encargan de la síntesis de proteínas."
         },
         {
           "letter": "B",
-          "text": "Aparato de Golgi <!-- feedback: Incorrecto. Este orgánulo se encarga del procesamiento y empaque de proteínas. -->",
-          "is_correct": false
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orgánulo se encarga del procesamiento y empaque de proteínas."
         },
         {
           "letter": "C",
-          "text": "Mitocondria <!-- feedback: Correcto. Las mitocondrias son las \"centrales energéticas\" de la célula donde ocurre la respiración aeróbica. -->",
-          "is_correct": true
+          "text": "Mitocondria",
+          "is_correct": true,
+          "feedback": "Correcto. Las mitocondrias son las \"centrales energéticas\" de la célula donde ocurre la respiración aeróbica."
         },
         {
           "letter": "D",
-          "text": "Lisosoma <!-- feedback: Incorrecto. Los lisosomas contienen enzimas digestivas para la degradación de desechos. -->",
-          "is_correct": false
+          "text": "Lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lisosomas contienen enzimas digestivas para la degradación de desechos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nReconocimiento de las funciones básicas de los componentes celulares fundamentales.\n\n---",
+      "explanation": "Reconocimiento de las funciones básicas de los componentes celulares fundamentales.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -46,31 +50,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v2",
       "statement": "¿Qué estructura está presente en las células vegetales pero NO en las células animales?",
-      "context": "",
+      "context": "Diferencias entre células animales y vegetales.",
       "options": [
         {
           "letter": "A",
-          "text": "Núcleo <!-- feedback: Incorrecto. Ambas son células eucariotas y poseen un núcleo definido. -->",
-          "is_correct": false
+          "text": "Núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son células eucariotas y poseen un núcleo definido."
         },
         {
           "letter": "B",
-          "text": "Pared celular <!-- feedback: Correcto. La pared celular de celulosa proporciona soporte rígido a las plantas y no existe en las células animales. -->",
-          "is_correct": true
+          "text": "Pared celular",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular de celulosa proporciona soporte rígido a las plantas y no existe en las células animales."
         },
         {
           "letter": "C",
-          "text": "Membrana plasmática <!-- feedback: Incorrecto. Todas las células vivas poseen una membrana plasmática. -->",
-          "is_correct": false
+          "text": "Membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las células vivas poseen una membrana plasmática."
         },
         {
           "letter": "D",
-          "text": "Citoplasma <!-- feedback: Incorrecto. El citoplasma es el medio interno presente en todo tipo de células. -->",
-          "is_correct": false
+          "text": "Citoplasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El citoplasma es el medio interno presente en todo tipo de células."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de características distintivas entre los principales tipos de células eucariotas.\n\n---",
+      "explanation": "Identificación de características distintivas entre los principales tipos de células eucariotas.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -82,31 +90,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v3",
       "statement": "Uno de los postulados de la teoría celular establece que:",
-      "context": "",
+      "context": "Teoría celular.",
       "options": [
         {
           "letter": "A",
-          "text": "Todos los seres vivos están formados por átomos. <!-- feedback: Incorrecto. Aunque es cierto químicamente, no es un postulado específico de la teoría celular biológica. -->",
-          "is_correct": false
+          "text": "Todos los seres vivos están formados por átomos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es cierto químicamente, no es un postulado específico de la teoría celular biológica."
         },
         {
           "letter": "B",
-          "text": "Las células pueden surgir de materia inanimada espontáneamente. <!-- feedback: Incorrecto. La teoría celular establece justamente lo contrario: toda célula proviene de otra preexistente. -->",
-          "is_correct": false
+          "text": "Las células pueden surgir de materia inanimada espontáneamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría celular establece justamente lo contrario: toda célula proviene de otra preexistente."
         },
         {
           "letter": "C",
-          "text": "La célula es la unidad básica de estructura y función de los seres vivos. <!-- feedback: Correcto. Este es uno de los pilares fundamentales de la biología moderna. -->",
-          "is_correct": true
+          "text": "La célula es la unidad básica de estructura y función de los seres vivos.",
+          "is_correct": true,
+          "feedback": "Correcto. Este es uno de los pilares fundamentales de la biología moderna."
         },
         {
           "letter": "D",
-          "text": "Solo los animales están compuestos por células. <!-- feedback: Incorrecto. Las plantas, hongos y microorganismos también están compuestos por células. -->",
-          "is_correct": false
+          "text": "Solo los animales están compuestos por células.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas, hongos y microorganismos también están compuestos por células."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nConocimiento de los principios fundamentales que rigen la biología celular.\n\n---",
+      "explanation": "Conocimiento de los principios fundamentales que rigen la biología celular.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -118,31 +130,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v4",
       "statement": "El componente principal de la membrana plasmática que forma una bicapa y permite su fluidez es:",
-      "context": "",
+      "context": "Composición química de la membrana.",
       "options": [
         {
           "letter": "A",
-          "text": "La glucosa <!-- feedback: Incorrecto. La glucosa es un carbohidrato utilizado principalmente para obtener energía. -->",
-          "is_correct": false
+          "text": "La glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa es un carbohidrato utilizado principalmente para obtener energía."
         },
         {
           "letter": "B",
-          "text": "El fosfolípido <!-- feedback: Correcto. Los fosfolípidos tienen una cabeza hidrofílica y colas hidrofóbicas que forman la estructura básica de la membrana. -->",
-          "is_correct": true
+          "text": "El fosfolípido",
+          "is_correct": true,
+          "feedback": "Correcto. Los fosfolípidos tienen una cabeza hidrofílica y colas hidrofóbicas que forman la estructura básica de la membrana."
         },
         {
           "letter": "C",
-          "text": "El ADN <!-- feedback: Incorrecto. El ADN se encuentra en el núcleo y contiene la información genética. -->",
-          "is_correct": false
+          "text": "El ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN se encuentra en el núcleo y contiene la información genética."
         },
         {
           "letter": "D",
-          "text": "La queratina <!-- feedback: Incorrecto. La queratina es una proteína estructural del citoesqueleto o tejidos externos, no el componente principal de la bicapa. -->",
-          "is_correct": false
+          "text": "La queratina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La queratina es una proteína estructural del citoesqueleto o tejidos externos, no el componente principal de la bicapa."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de la estructura química y molecular de la membrana celular (modelo de mosaico fluido).\n\n---",
+      "explanation": "Comprensión de la estructura química y molecular de la membrana celular (modelo de mosaico fluido).\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,31 +170,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v5",
       "statement": "Si colocamos una célula animal en una solución **hipotónica** (donde hay menos soluto fuera que dentro de la célula), ¿qué ocurrirá probablemente?",
-      "context": "",
+      "context": "Osmosis y transporte pasivo.",
       "options": [
         {
           "letter": "A",
-          "text": "La célula se encogerá debido a la pérdida de agua. <!-- feedback: Incorrecto. Esto ocurriría en una solución hipertónica. -->",
-          "is_correct": false
+          "text": "La célula se encogerá debido a la pérdida de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría en una solución hipertónica."
         },
         {
           "letter": "B",
-          "text": "El agua entrará a la célula y esta podría explotar (lisis). <!-- feedback: Correcto. El agua se mueve por ósmosis hacia donde hay más concentración de solutos (hacia el interior de la célula). -->",
-          "is_correct": true
+          "text": "El agua entrará a la célula y esta podría explotar (lisis).",
+          "is_correct": true,
+          "feedback": "Correcto. El agua se mueve por ósmosis hacia donde hay más concentración de solutos (hacia el interior de la célula)."
         },
         {
           "letter": "C",
-          "text": "No habrá movimiento de agua en ninguna dirección. <!-- feedback: Incorrecto. Esto ocurriría en una solución isotónica. -->",
-          "is_correct": false
+          "text": "No habrá movimiento de agua en ninguna dirección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría en una solución isotónica."
         },
         {
           "letter": "D",
-          "text": "La célula producirá más cloroplastos para defenderse. <!-- feedback: Incorrecto. Las células animales no tienen cloroplastos y la ósmosis es un proceso físico-químico pasivo. -->",
-          "is_correct": false
+          "text": "La célula producirá más cloroplastos para defenderse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales no tienen cloroplastos y la ósmosis es un proceso físico-químico pasivo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nPredicción del comportamiento celular ante diferentes gradientes de concentración mediante el proceso de ósmosis.\n\n---",
+      "explanation": "Predicción del comportamiento celular ante diferentes gradientes de concentración mediante el proceso de ósmosis.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -190,31 +210,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v6",
       "statement": "Durante qué fase de la mitosis los cromosomas se alinean en el centro (ecuador) de la célula?",
-      "context": "",
+      "context": "Ciclo celular (Mitosis).",
       "options": [
         {
           "letter": "A",
-          "text": "Profase <!-- feedback: Incorrecto. En la profase la cromatina se condensa y desaparece la envoltura nuclear. -->",
-          "is_correct": false
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina se condensa y desaparece la envoltura nuclear."
         },
         {
           "letter": "B",
-          "text": "Metafase <!-- feedback: Correcto. El alineamiento en la placa metafásica es el evento distintivo de esta etapa. -->",
-          "is_correct": true
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "Correcto. El alineamiento en la placa metafásica es el evento distintivo de esta etapa."
         },
         {
           "letter": "C",
-          "text": "Anafase <!-- feedback: Incorrecto. En la anafase las cromátidas hermanas se separan hacia los polos opuestos. -->",
-          "is_correct": false
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan hacia los polos opuestos."
         },
         {
           "letter": "D",
-          "text": "Telofase <!-- feedback: Incorrecto. En la telofase se forman los nuevos núcleos en cada polo. -->",
-          "is_correct": false
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase se forman los nuevos núcleos en cada polo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de las etapas del ciclo celular y sus eventos característicos.\n\n---",
+      "explanation": "Identificación de las etapas del ciclo celular y sus eventos característicos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -226,31 +250,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v7",
       "statement": "¿Cuál es el propósito principal de la fase luminosa de la fotosíntesis?",
-      "context": "",
+      "context": "Fotosíntesis.",
       "options": [
         {
           "letter": "A",
-          "text": "Producir glucosa directamente a partir de $CO_2$. <!-- feedback: Incorrecto. La producción de glucosa ocurre en el ciclo de Calvin (fase oscura). -->",
-          "is_correct": false
+          "text": "Producir glucosa directamente a partir de $CO_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción de glucosa ocurre en el ciclo de Calvin (fase oscura)."
         },
         {
           "letter": "B",
-          "text": "Convertir la energía solar en energía química (ATP y NADPH). <!-- feedback: Correcto. Esta energía será utilizada posteriormente en la fase oscura para fijar el carbono. -->",
-          "is_correct": true
+          "text": "Convertir la energía solar en energía química (ATP y NADPH).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta energía será utilizada posteriormente en la fase oscura para fijar el carbono."
         },
         {
           "letter": "C",
-          "text": "Liberar dióxido de carbono a la atmósfera. <!-- feedback: Incorrecto. La fotosíntesis absorbe dióxido de carbono y libera oxígeno. -->",
-          "is_correct": false
+          "text": "Liberar dióxido de carbono a la atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis absorbe dióxido de carbono y libera oxígeno."
         },
         {
           "letter": "D",
-          "text": "Consumir el almidón almacenado en las raíces. <!-- feedback: Incorrecto. El almidón es un producto de reserva, no algo que se consuma para iniciar la fotosíntesis. -->",
-          "is_correct": false
+          "text": "Consumir el almidón almacenado en las raíces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almidón es un producto de reserva, no algo que se consuma para iniciar la fotosíntesis."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de la transformación de energía en los procesos autótrofos.\n\n---",
+      "explanation": "Comprensión de la transformación de energía en los procesos autótrofos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -262,31 +290,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v8",
       "statement": "En ausencia de oxígeno, las células musculares humanas pueden producir energía mediante un proceso llamado:",
-      "context": "",
+      "context": "Respiración celular vs. Fermentación.",
       "options": [
         {
           "letter": "A",
-          "text": "Respiración aeróbica. <!-- feedback: Incorrecto. La respiración aeróbica requiere oxígeno por definición. -->",
-          "is_correct": false
+          "text": "Respiración aeróbica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración aeróbica requiere oxígeno por definición."
         },
         {
           "letter": "B",
-          "text": "Fermentación láctica. <!-- feedback: Correcto. Este proceso produce ácido láctico y una pequeña cantidad de ATP cuando el suministro de oxígeno es insuficiente. -->",
-          "is_correct": true
+          "text": "Fermentación láctica.",
+          "is_correct": true,
+          "feedback": "Correcto. Este proceso produce ácido láctico y una pequeña cantidad de ATP cuando el suministro de oxígeno es insuficiente."
         },
         {
           "letter": "C",
-          "text": "Fotosíntesis muscular. <!-- feedback: Incorrecto. Los músculos no realizan fotosíntesis. -->",
-          "is_correct": false
+          "text": "Fotosíntesis muscular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los músculos no realizan fotosíntesis."
         },
         {
           "letter": "D",
-          "text": "Ciclo de Krebs. <!-- feedback: Incorrecto. El ciclo de Krebs es parte de la respiración aeróbica y se detiene sin oxígeno. -->",
-          "is_correct": false
+          "text": "Ciclo de Krebs.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Krebs es parte de la respiración aeróbica y se detiene sin oxígeno."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de las rutas metabólicas alternativas en condiciones de hipoxia.\n\n---",
+      "explanation": "Análisis de las rutas metabólicas alternativas en condiciones de hipoxia.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,31 +330,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v9",
       "statement": "¿Cuál es la función principal de las enzimas en las reacciones bioquímicas celulares?",
-      "context": "",
+      "context": "Enzimas.",
       "options": [
         {
           "letter": "A",
-          "text": "Servir como fuente de energía para la célula. <!-- feedback: Incorrecto. Las enzimas son catalizadores, no el combustible (como los azúcares). -->",
-          "is_correct": false
+          "text": "Servir como fuente de energía para la célula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas son catalizadores, no el combustible (como los azúcares)."
         },
         {
           "letter": "B",
-          "text": "Disminuir la energía de activación para acelerar las reacciones. <!-- feedback: Correcto. Las enzimas permiten que las reacciones ocurran a velocidades compatibles con la vida. -->",
-          "is_correct": true
+          "text": "Disminuir la energía de activación para acelerar las reacciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas permiten que las reacciones ocurran a velocidades compatibles con la vida."
         },
         {
           "letter": "C",
-          "text": "Transportar oxígeno por todo el cuerpo. <!-- feedback: Incorrecto. Esta es la función de la hemoglobina, no de todas las enzimas. -->",
-          "is_correct": false
+          "text": "Transportar oxígeno por todo el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la hemoglobina, no de todas las enzimas."
         },
         {
           "letter": "D",
-          "text": "Formar parte de la estructura ósea. <!-- feedback: Incorrecto. Las enzimas tienen funciones catalíticas, no estructurales. -->",
-          "is_correct": false
+          "text": "Formar parte de la estructura ósea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas tienen funciones catalíticas, no estructurales."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión del papel de las proteínas catalíticas en el metabolismo celular.\n\n---",
+      "explanation": "Comprensión del papel de las proteínas catalíticas en el metabolismo celular.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -334,31 +370,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v10",
       "statement": "Si una molécula de ADN contiene un 20% de Adenina (A), ¿cuál será el porcentaje de Citosina (C)?",
-      "context": "",
+      "context": "Estructura del ADN.",
       "options": [
         {
           "letter": "A",
-          "text": "20% <!-- feedback: Incorrecto. Según las leyes de Chargaff, la Adenina es igual a la Timina, no a la Citosina. -->",
-          "is_correct": false
+          "text": "20%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Según las leyes de Chargaff, la Adenina es igual a la Timina, no a la Citosina."
         },
         {
           "letter": "B",
-          "text": "30% <!-- feedback: Correcto. Si A=20%, entonces T=20% (Suma=40%). El resto es 60%, que se divide entre C y G (30% cada una). -->",
-          "is_correct": true
+          "text": "30%",
+          "is_correct": true,
+          "feedback": "Correcto. Si A=20%, entonces T=20% (Suma=40%). El resto es 60%, que se divide entre C y G (30% cada una)."
         },
         {
           "letter": "C",
-          "text": "80% <!-- feedback: Incorrecto. La suma de todas las bases debe ser 100%. -->",
-          "is_correct": false
+          "text": "80%",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de todas las bases debe ser 100%."
         },
         {
           "letter": "D",
-          "text": "50% <!-- feedback: Incorrecto. Este sería el porcentaje si solo hubiera dos tipos de bases. -->",
-          "is_correct": false
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el porcentaje si solo hubiera dos tipos de bases."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de las leyes de apareamiento de bases nitrogenadas (Chargaff) para determinar la composición genómica.\n\n---",
+      "explanation": "Aplicación de las leyes de apareamiento de bases nitrogenadas (Chargaff) para determinar la composición genómica.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -370,31 +410,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v11",
       "statement": "¿Cuál es la secuencia de ARN mensajero (ARNm) que se produciría a partir de la siguiente hebra de ADN: **TAC-GGC-ATT**?",
-      "context": "",
+      "context": "Transcripción y Traducción.",
       "options": [
         {
           "letter": "A",
-          "text": "ATG-CCG-TAA <!-- feedback: Incorrecto. Esta sería la hebra complementaria de ADN, pero el ARN usa Uracilo (U) en lugar de Timina (T). -->",
-          "is_correct": false
+          "text": "ATG-CCG-TAA",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la hebra complementaria de ADN, pero el ARN usa Uracilo (U) en lugar de Timina (T)."
         },
         {
           "letter": "B",
-          "text": "AUG-CCG-UAA <!-- feedback: Correcto. El ARN complementa: T->A, A->U, C->G, G->C. -->",
-          "is_correct": true
+          "text": "AUG-CCG-UAA",
+          "is_correct": true,
+          "feedback": "Correcto. El ARN complementa: T->A, A->U, C->G, G->C."
         },
         {
           "letter": "C",
-          "text": "UAC-GGC-AUU <!-- feedback: Incorrecto. Esta es una copia exacta cambiando T por U, no la complementaria. -->",
-          "is_correct": false
+          "text": "UAC-GGC-AUU",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una copia exacta cambiando T por U, no la complementaria."
         },
         {
           "letter": "D",
-          "text": "TAC-GGC-ATT <!-- feedback: Incorrecto. Esto es ADN, no ARN. -->",
-          "is_correct": false
+          "text": "TAC-GGC-ATT",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es ADN, no ARN."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nModelación del flujo de información genética (dogma central de la biología) desde el ADN al ARNm.\n\n---",
+      "explanation": "Modelación del flujo de información genética (dogma central de la biología) desde el ADN al ARNm.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -406,31 +450,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v12",
       "statement": "Una mutación por **sustitución** que cambia un codón para un aminoácido por un codón de \"parada\" (STOP) se denomina:",
-      "context": "",
+      "context": "Mutaciones genéticas.",
       "options": [
         {
           "letter": "A",
-          "text": "Mutación silenciosa. <!-- feedback: Incorrecto. En la silenciosa el aminoácido no cambia. -->",
-          "is_correct": false
+          "text": "Mutación silenciosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la silenciosa el aminoácido no cambia."
         },
         {
           "letter": "B",
-          "text": "Mutación sin sentido (Nonsense). <!-- feedback: Correcto. Estas mutaciones truncan la proteína prematuramente al introducir un codón de parada. -->",
-          "is_correct": true
+          "text": "Mutación sin sentido (Nonsense).",
+          "is_correct": true,
+          "feedback": "Correcto. Estas mutaciones truncan la proteína prematuramente al introducir un codón de parada."
         },
         {
           "letter": "C",
-          "text": "Mutación de sentido erróneo (Missense). <!-- feedback: Incorrecto. En estas se cambia un aminoácido por otro distinto. -->",
-          "is_correct": false
+          "text": "Mutación de sentido erróneo (Missense).",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estas se cambia un aminoácido por otro distinto."
         },
         {
           "letter": "D",
-          "text": "Mutación por inserción. <!-- feedback: Incorrecto. El enunciado habla de sustitución de un nucleótido, no de añadir uno nuevo. -->",
-          "is_correct": false
+          "text": "Mutación por inserción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado habla de sustitución de un nucleótido, no de añadir uno nuevo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nClasificación de mutaciones puntuales y sus efectos en la síntesis de proteínas.\n\n---",
+      "explanation": "Clasificación de mutaciones puntuales y sus efectos en la síntesis de proteínas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -442,31 +490,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v13",
       "statement": "El experimento de Miller-Urey fue fundamental para la biología porque demostró que:",
-      "context": "",
+      "context": "Experimento de Miller-Urey.",
       "options": [
         {
           "letter": "A",
-          "text": "La vida puede crearse en un laboratorio en una semana. <!-- feedback: Incorrecto. No crearon vida, solo moléculas orgánicas precursoras. -->",
-          "is_correct": false
+          "text": "La vida puede crearse en un laboratorio en una semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No crearon vida, solo moléculas orgánicas precursoras."
         },
         {
           "letter": "B",
-          "text": "Las moléculas orgánicas complejas pueden formarse a partir de precursores inorgánicos bajo condiciones de la Tierra primitiva. <!-- feedback: Correcto. Sintetizaron aminoácidos simulando la atmósfera antigua y descargas eléctricas. -->",
-          "is_correct": true
+          "text": "Las moléculas orgánicas complejas pueden formarse a partir de precursores inorgánicos bajo condiciones de la Tierra primitiva.",
+          "is_correct": true,
+          "feedback": "Correcto. Sintetizaron aminoácidos simulando la atmósfera antigua y descargas eléctricas."
         },
         {
           "letter": "C",
-          "text": "El ADN es la molécula de la herencia. <!-- feedback: Incorrecto. Eso fue demostrado por otros experimentos (Avery, Hershey-Chase). -->",
-          "is_correct": false
+          "text": "El ADN es la molécula de la herencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso fue demostrado por otros experimentos (Avery, Hershey-Chase)."
         },
         {
           "letter": "D",
-          "text": "Las mitocondrias fueron originalmente bacterias independientes. <!-- feedback: Incorrecto. Esa es la teoría endosimbiótica de Lynn Margulis. -->",
-          "is_correct": false
+          "text": "Las mitocondrias fueron originalmente bacterias independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la teoría endosimbiótica de Lynn Margulis."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de la importancia histórica y científica de los experimentos sobre el origen de la vida.\n\n---",
+      "explanation": "Evaluación de la importancia histórica y científica de los experimentos sobre el origen de la vida.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -478,31 +530,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v14",
       "statement": "¿Cuál es la función de las **enzimas de restricción** en biotecnología?",
-      "context": "",
+      "context": "Tecnología del ADN recombinante.",
       "options": [
         {
           "letter": "A",
-          "text": "Unir dos fragmentos de ADN de especies diferentes. <!-- feedback: Incorrecto. Esa es la función de la ADN ligasa. -->",
-          "is_correct": false
+          "text": "Unir dos fragmentos de ADN de especies diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de la ADN ligasa."
         },
         {
           "letter": "B",
-          "text": "Cortar el ADN en secuencias específicas de nucleótidos. <!-- feedback: Correcto. Funcionan como \"tijeras moleculares\" que reconocen sitios de restricción. -->",
-          "is_correct": true
+          "text": "Cortar el ADN en secuencias específicas de nucleótidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Funcionan como \"tijeras moleculares\" que reconocen sitios de restricción."
         },
         {
           "letter": "C",
-          "text": "Copiar millones de veces una secuencia de ADN. <!-- feedback: Incorrecto. Esa es la función de la polimerasa en la PCR. -->",
-          "is_correct": false
+          "text": "Copiar millones de veces una secuencia de ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de la polimerasa en la PCR."
         },
         {
           "letter": "D",
-          "text": "Traducir el ARN en proteínas en el citoplasma. <!-- feedback: Incorrecto. Esta es la función de los ribosomas. -->",
-          "is_correct": false
+          "text": "Traducir el ARN en proteínas en el citoplasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de los ribosomas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nConocimiento de las herramientas fundamentales de la ingeniería genética.\n\n---",
+      "explanation": "Conocimiento de las herramientas fundamentales de la ingeniería genética.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -514,31 +570,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v15",
       "statement": "El cáncer se describe fundamentalmente desde la biología celular como:",
-      "context": "",
+      "context": "Control del ciclo celular (Cáncer).",
       "options": [
         {
           "letter": "A",
-          "text": "Una infección viral contagiosa. <!-- feedback: Incorrecto. Algunos virus pueden causar cáncer, pero la enfermedad no es contagiosa per se. -->",
-          "is_correct": false
+          "text": "Una infección viral contagiosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunos virus pueden causar cáncer, pero la enfermedad no es contagiosa per se."
         },
         {
           "letter": "B",
-          "text": "Una pérdida de control sobre el ciclo celular que lleva a una división descontrolada. <!-- feedback: Correcto. Las células ignoran las señales de parada y los puntos de control del ciclo. -->",
-          "is_correct": true
+          "text": "Una pérdida de control sobre el ciclo celular que lleva a una división descontrolada.",
+          "is_correct": true,
+          "feedback": "Correcto. Las células ignoran las señales de parada y los puntos de control del ciclo."
         },
         {
           "letter": "C",
-          "text": "La falta total de mitocondrias en las células de un tejido. <!-- feedback: Incorrecto. Las células cancerosas tienen mitocondrias y suelen tener un metabolismo muy activo. -->",
-          "is_correct": false
+          "text": "La falta total de mitocondrias en las células de un tejido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células cancerosas tienen mitocondrias y suelen tener un metabolismo muy activo."
         },
         {
           "letter": "D",
-          "text": "El envejecimiento natural de las células de la piel. <!-- feedback: Incorrecto. El envejecimiento (senescencia) es lo opuesto a la división descontrolada. -->",
-          "is_correct": false
+          "text": "El envejecimiento natural de las células de la piel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El envejecimiento (senescencia) es lo opuesto a la división descontrolada."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de las patologías biológicas como fallos en los mecanismos de regulación celular.\n\n---",
+      "explanation": "Comprensión de las patologías biológicas como fallos en los mecanismos de regulación celular.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -550,31 +610,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v16",
       "statement": "¿En qué fase de la meiosis ocurre el \"entrecruzamiento\" (crossing-over) que genera variabilidad genética?",
-      "context": "",
+      "context": "Meiosis y Variabilidad.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase II. <!-- feedback: Incorrecto. En esta fase los cromosomas se alinean de nuevo, pero ya no hay intercambio. -->",
-          "is_correct": false
+          "text": "Metafase II.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta fase los cromosomas se alinean de nuevo, pero ya no hay intercambio."
         },
         {
           "letter": "B",
-          "text": "Profase I. <!-- feedback: Correcto. Los cromosomas homólogos se aparean y se intercambian segmentos de ADN. -->",
-          "is_correct": true
+          "text": "Profase I.",
+          "is_correct": true,
+          "feedback": "Correcto. Los cromosomas homólogos se aparean y se intercambian segmentos de ADN."
         },
         {
           "letter": "C",
-          "text": "Anafase I. <!-- feedback: Incorrecto. En esta fase se separan los cromosomas homólogos. -->",
-          "is_correct": false
+          "text": "Anafase I.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta fase se separan los cromosomas homólogos."
         },
         {
           "letter": "D",
-          "text": "Telofase II. <!-- feedback: Incorrecto. Es la fase final donde se forman las cuatro células hijas. -->",
-          "is_correct": false
+          "text": "Telofase II.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la fase final donde se forman las cuatro células hijas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de los mecanismos biológicos responsables de la diversidad genética en la reproducción sexual.\n\n---",
+      "explanation": "Identificación de los mecanismos biológicos responsables de la diversidad genética en la reproducción sexual.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -586,31 +650,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v17",
       "statement": "La tecnología CRISPR-Cas9 se diferencia de las técnicas de ingeniería genética tradicionales principalmente porque:",
-      "context": "",
+      "context": "CRISPR-Cas9 y edición genética.",
       "options": [
         {
           "letter": "A",
-          "text": "Es la única que puede usarse en seres humanos. <!-- feedback: Incorrecto. Otras técnicas se han intentado, pero CRISPR es más eficiente. -->",
-          "is_correct": false
+          "text": "Es la única que puede usarse en seres humanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Otras técnicas se han intentado, pero CRISPR es más eficiente."
         },
         {
           "letter": "B",
-          "text": "Permite editar el genoma de forma extremadamente precisa, barata y dirigida. <!-- feedback: Correcto. Actúa como un sistema de \"buscar y reemplazar\" nucleótidos específicos. -->",
-          "is_correct": true
+          "text": "Permite editar el genoma de forma extremadamente precisa, barata y dirigida.",
+          "is_correct": true,
+          "feedback": "Correcto. Actúa como un sistema de \"buscar y reemplazar\" nucleótidos específicos."
         },
         {
           "letter": "C",
-          "text": "No utiliza enzimas para modificar el ADN. <!-- feedback: Incorrecto. Cas9 es precisamente una enzima (nucleasa). -->",
-          "is_correct": false
+          "text": "No utiliza enzimas para modificar el ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cas9 es precisamente una enzima (nucleasa)."
         },
         {
           "letter": "D",
-          "text": "Tarda años en mostrar resultados en el laboratorio. <!-- feedback: Incorrecto. Una de sus ventajas es la rapidez respecto a métodos antiguos. -->",
-          "is_correct": false
+          "text": "Tarda años en mostrar resultados en el laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una de sus ventajas es la rapidez respecto a métodos antiguos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de las innovaciones tecnológicas recientes en el campo de la genética molecular.\n\n---",
+      "explanation": "Evaluación de las innovaciones tecnológicas recientes en el campo de la genética molecular.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -622,31 +690,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v18",
       "statement": "¿Cuál es la principal controversia ética relacionada con el uso de células madre embrionarias en investigación médica?",
-      "context": "",
+      "context": "Células madre y diferenciación.",
       "options": [
         {
           "letter": "A",
-          "text": "Que las células madre pueden volverse inmortales y dominar el cuerpo. <!-- feedback: Incorrecto. Esto es una idea de ciencia ficción, no el centro del debate ético. -->",
-          "is_correct": false
+          "text": "Que las células madre pueden volverse inmortales y dominar el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es una idea de ciencia ficción, no el centro del debate ético."
         },
         {
           "letter": "B",
-          "text": "La destrucción de embriones humanos en etapa temprana para obtener las células. <!-- feedback: Correcto. El debate gira en torno al estatus moral del embrión. -->",
-          "is_correct": true
+          "text": "La destrucción de embriones humanos en etapa temprana para obtener las células.",
+          "is_correct": true,
+          "feedback": "Correcto. El debate gira en torno al estatus moral del embrión."
         },
         {
           "letter": "C",
-          "text": "Que el tratamiento es tan barato que las farmacéuticas no ganan dinero. <!-- feedback: Incorrecto. Generalmente los tratamientos son muy costosos. -->",
-          "is_correct": false
+          "text": "Que el tratamiento es tan barato que las farmacéuticas no ganan dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente los tratamientos son muy costosos."
         },
         {
           "letter": "D",
-          "text": "Que las células madre solo funcionan en personas jóvenes. <!-- feedback: Incorrecto. La investigación busca curar enfermedades en todas las edades. -->",
-          "is_correct": false
+          "text": "Que las células madre solo funcionan en personas jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La investigación busca curar enfermedades en todas las edades."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de las implicaciones éticas y sociales del avance del conocimiento científico-biológico.\n\n---",
+      "explanation": "Análisis de las implicaciones éticas y sociales del avance del conocimiento científico-biológico.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -658,31 +730,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v19",
       "statement": "El estudio de cómo factores ambientales (como la dieta o el estrés) pueden activar o desactivar genes sin cambiar la secuencia de ADN se conoce como:",
-      "context": "",
+      "context": "Epigenética.",
       "options": [
         {
           "letter": "A",
-          "text": "Genética mendeliana clásica. <!-- feedback: Incorrecto. Mendel estudió la herencia de rasgos basados en alelos dominantes y recesivos. -->",
-          "is_correct": false
+          "text": "Genética mendeliana clásica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mendel estudió la herencia de rasgos basados en alelos dominantes y recesivos."
         },
         {
           "letter": "B",
-          "text": "Mutagénesis dirigida. <!-- feedback: Incorrecto. Esto implica cambiar la secuencia de nucleótidos. -->",
-          "is_correct": false
+          "text": "Mutagénesis dirigida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto implica cambiar la secuencia de nucleótidos."
         },
         {
           "letter": "C",
-          "text": "Epigenética. <!-- feedback: Correcto. Son cambios químicos (como la metilación) que regulan la expresión genética sin alterar el código. -->",
-          "is_correct": true
+          "text": "Epigenética.",
+          "is_correct": true,
+          "feedback": "Correcto. Son cambios químicos (como la metilación) que regulan la expresión genética sin alterar el código."
         },
         {
           "letter": "D",
-          "text": "Selección natural artificial. <!-- feedback: Incorrecto. Término contradictorio que no se refiere a la expresión génica. -->",
-          "is_correct": false
+          "text": "Selección natural artificial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Término contradictorio que no se refiere a la expresión génica."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nComprensión de los mecanismos complejos de regulación génica más allá del código nucleotídico.\n\n---",
+      "explanation": "Comprensión de los mecanismos complejos de regulación génica más allá del código nucleotídico.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -694,31 +770,35 @@
     {
       "id": "PR-CIE-11-P1-biologia-celular-001-v20",
       "statement": "Diseñas un experimento para probar el efecto de diferentes longitudes de onda de luz (colores) en la tasa de fotosíntesis de una planta acuática de Puerto Rico (*Elodea*). ¿Cuál sería tu **variable dependiente**?",
-      "context": "",
+      "context": "Diseño experimental.",
       "options": [
         {
           "letter": "A",
-          "text": "El color de la luz utilizada (rojo, azul, verde). <!-- feedback: Incorrecto. Esta es la variable independiente (la que tú manipulas). -->",
-          "is_correct": false
+          "text": "El color de la luz utilizada (rojo, azul, verde).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la variable independiente (la que tú manipulas)."
         },
         {
           "letter": "B",
-          "text": "La cantidad de burbujas de oxígeno producidas por minuto. <!-- feedback: Correcto. Es lo que mides para saber si la fotosíntesis cambió (la respuesta al estímulo). -->",
-          "is_correct": true
+          "text": "La cantidad de burbujas de oxígeno producidas por minuto.",
+          "is_correct": true,
+          "feedback": "Correcto. Es lo que mides para saber si la fotosíntesis cambió (la respuesta al estímulo)."
         },
         {
           "letter": "C",
-          "text": "La temperatura del agua en el recipiente. <!-- feedback: Incorrecto. Esta debería ser una variable controlada para que no afecte el resultado. -->",
-          "is_correct": false
+          "text": "La temperatura del agua en el recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta debería ser una variable controlada para que no afecte el resultado."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta utilizada en el experimento. <!-- feedback: Incorrecto. Esto es una variable controlada para asegurar que el efecto es por la luz y no por la especie. -->",
-          "is_correct": false
+          "text": "El tipo de planta utilizada en el experimento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es una variable controlada para asegurar que el efecto es por la luz y no por la especie."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de los componentes de un diseño experimental científico (variables independiente, dependiente y controlada).",
+      "explanation": "Identificación de los componentes de un diseño experimental científico (variables independiente, dependiente y controlada).",
       "difficulty": "10",
       "images": [],
       "tags": [],

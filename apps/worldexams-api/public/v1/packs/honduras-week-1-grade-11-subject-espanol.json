@@ -8,33 +8,37 @@
   },
   "questions": [
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v1",
-      "statement": "¿Cuál es la regla general para acentuar ortográficamente las palabras agudas?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v1",
+      "statement": "Juan Ramón Molina es considerado el poeta hondureño más universal y exponente del Modernismo. En su obra \"Tierras, mares y cielos\", ¿qué rasgo estilístico es predominante siguiendo la influencia de Rubén Darío?",
+      "context": "Literatura hondureña: Juan Ramón Molina.",
       "options": [
         {
           "letter": "A",
-          "text": "Se acentúan siempre. <!-- feedback: Incorrecto. Solo bajo ciertas condiciones. -->",
-          "is_correct": false
+          "text": "El uso de un lenguaje vulgar y extremadamente sencillo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modernismo busca la elegancia y el refinamiento, no la vulgaridad."
         },
         {
           "letter": "B",
-          "text": "Se acentúan cuando terminan en vocal, 'n' o 's'. <!-- feedback: Correcto. Esta es la norma fundamental para las agudas. -->",
-          "is_correct": true
+          "text": "La búsqueda de la belleza formal, el exotismo y la musicalidad del verso.",
+          "is_correct": true,
+          "feedback": "Correcto. Molina utiliza imágenes sensoriales y un léxico culto propios de la estética modernista."
         },
         {
           "letter": "C",
-          "text": "Se acentúan cuando terminan en cualquier consonante excepto 'n' o 's'. <!-- feedback: Incorrecto. Esa es la regla de las palabras graves o llanas. -->",
-          "is_correct": false
+          "text": "La descripción científica y objetiva de la agricultura en Honduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Molina es un poeta lírico, no un autor de textos técnicos o científicos."
         },
         {
           "letter": "D",
-          "text": "Nunca se acentúan si tienen más de dos sílabas. <!-- feedback: Incorrecto. La cantidad de sílabas no impide la acentuación. -->",
-          "is_correct": false
+          "text": "La ausencia total de adjetivos en sus descripciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modernismo se caracteriza precisamente por una adjetivación rica y colorista."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación y aplicación de las reglas básicas de acentuación ortográfica.\n\n---",
+      "explanation": "Identificación de las características de la corriente modernista en el máximo exponente literario de Honduras.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -44,33 +48,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v2",
-      "statement": "En la oración \"Los estudiantes hondureños estudian con mucho entusiasmo\", ¿cuál es el adjetivo gentilicio?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v2",
+      "statement": "Froylán Turcios fue un intelectual hondureño que fundó importantes revistas literarias. ¿Cuál fue su papel principal durante la intervención extranjera en Centroamérica a principios del siglo XX?",
+      "context": "Froylán Turcios y la revista \"Esfinge\".",
       "options": [
         {
           "letter": "A",
-          "text": "Estudiantes <!-- feedback: Incorrecto. Es un sustantivo común. -->",
-          "is_correct": false
+          "text": "Apoyar la ocupación para modernizar la economía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Turcios fue un ferviente opositor a la intervención."
         },
         {
           "letter": "B",
-          "text": "Hondureños <!-- feedback: Correcto. Indica el origen o nacionalidad de los estudiantes. -->",
-          "is_correct": true
+          "text": "Defender la soberanía nacional a través de sus escritos y activismo político.",
+          "is_correct": true,
+          "feedback": "Correcto. Fue secretario de Sandino y utilizó su pluma para denunciar las injusticias del imperialismo."
         },
         {
           "letter": "C",
-          "text": "Entusiasmo <!-- feedback: Incorrecto. Es un sustantivo abstracto. -->",
-          "is_correct": false
+          "text": "Escribir libros de cocina tradicional hondureña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra es política, poética y narrativa de carácter intelectual."
         },
         {
           "letter": "D",
-          "text": "Mucho <!-- feedback: Incorrecto. Es un determinante indefinido o cuantificador. -->",
-          "is_correct": false
+          "text": "Traducir únicamente obras de teatro en inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centró en la creación original y la difusión de la cultura hispanoamericana."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de categorías gramaticales específicas en un contexto oracional.\n\n---",
+      "explanation": "Comprensión del papel del intelectual en la historia política y literaria de Honduras.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -80,33 +88,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v3",
-      "statement": "¿Cuál de las siguientes palabras está escrita correctamente?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v3",
+      "statement": "Un texto publicado en un diario de circulación nacional (como El Heraldo o La Prensa) que relata un suceso de forma detallada, cronológica y con matices literarios se llama:",
+      "context": "Tipos de textos periodísticos.",
       "options": [
         {
           "letter": "A",
-          "text": "Escribiría <!-- feedback: Correcto. Las terminaciones del pretérito imperfecto de la primera conjugación son con 'b' (-aba), pero las del condicional de cualquier verbo son con 'í-a'. Un momento, rectificando la pregunta: se busca el uso de b/v en raíces. -->",
-          "is_correct": false
+          "text": "Editorial",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial es un texto de opinión institucional, no un relato de sucesos."
         },
         {
           "letter": "B",
-          "text": "Vagabundo <!-- feedback: Correcto. Las palabras terminadas en -bundo o -bunda se escriben con 'b'. -->",
-          "is_correct": true
+          "text": "Crónica",
+          "is_correct": true,
+          "feedback": "Correcto. La crónica combina la información de la noticia con la interpretación y el estilo personal del autor."
         },
         {
           "letter": "C",
-          "text": "Mobiliario <!-- feedback: Correcto. (Nota: Rectificando distractores para que solo uno sea claramente correcto según una regla específica). -->",
-          "is_correct": false
+          "text": "Aviso clasificado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su fin es comercial y breve, no narrativo."
         },
         {
           "letter": "D",
-          "text": "Herbíboro <!-- feedback: Incorrecto. La terminación -ívoro (que se alimenta de) se escribe con 'v'. -->",
-          "is_correct": false
+          "text": "Diccionario",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un género periodístico, sino una obra de consulta léxica."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de reglas ortográficas sobre el uso de grafías dudosas.\n\n---",
+      "explanation": "Diferenciación de los géneros periodísticos narrativos por su estructura y propósito.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -116,69 +128,117 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v4",
-      "statement": "¿Cuál es el sujeto de la siguiente oración? \"Ayer llegaron tarde al entrenamiento los jugadores de la selección\".",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v4",
+      "statement": "\"Las Ruinas de Copán son centinelas mudos de un pasado glorioso\". ¿Qué figura literaria se utiliza en esta frase?",
+      "context": "Figuras retóricas.",
       "options": [
         {
           "letter": "A",
-          "text": "Ayer <!-- feedback: Incorrecto. Es un adverbio de tiempo (complemento circunstancial). -->",
-          "is_correct": false
+          "text": "Onomatopeya",
+          "is_correct": false,
+          "feedback": "Incorrecto. No intenta imitar ningún sonido natural con las palabras."
         },
         {
           "letter": "B",
-          "text": "Tarde <!-- feedback: Incorrecto. Es un adverbio (complemento circunstancial). -->",
-          "is_correct": false
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": "Correcto. Identifica las ruinas con \"centinelas mudos\", trasladando las cualidades de guardia y silencio a los monumentos."
         },
         {
           "letter": "C",
-          "text": "Los jugadores de la selección <!-- feedback: Correcto. Es el grupo nominal que realiza la acción de llegar. -->",
-          "is_correct": true
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una exageración desmedida, sino una identificación simbólica."
         },
         {
           "letter": "D",
-          "text": "El entrenamiento <!-- feedback: Incorrecto. Es el término de un complemento circunstancial de lugar/fin. -->",
-          "is_correct": false
+          "text": "Pleonasmo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición innecesaria de términos para dar énfasis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de tropos literarios aplicados al patrimonio histórico nacional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v5",
+      "statement": "En la novela \"Prisión Verde\", Ramón Amaya Amador denuncia las condiciones de vida de los trabajadores en las plantaciones bananeras. ¿Cuál es el tema central de esta obra fundamental del realismo social hondureño?",
+      "context": "La novela \"Prisión Verde\" de Ramón Amaya Amador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El amor romántico entre los dueños de las compañías y los campesinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra se centra en la lucha de clases y la explotación, no en el romance."
+        },
+        {
+          "letter": "B",
+          "text": "La explotación de los trabajadores hondureños por parte de las compañías transnacionales.",
+          "is_correct": true,
+          "feedback": "Correcto. Denuncia el sistema de \"enclave bananero\" y la falta de derechos laborales."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción técnica de cómo cultivar bananos de exportación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una obra literaria de denuncia social, no un manual agrícola."
+        },
+        {
+          "letter": "D",
+          "text": "La historia del fútbol en la zona norte de Honduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque menciona la vida en la zona, el foco es la injusticia social y económica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del contenido y la intención de la obra más emblemática del realismo social en Honduras.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v6",
+      "statement": "¿Qué conector es el más adecuado para completar la relación de oposición en la siguiente frase?\n\"Honduras posee una gran riqueza en recursos naturales; __________, gran parte de su población vive en condiciones de pobreza\".",
+      "context": "Cohesión y conectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Además",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para sumar información del mismo signo, no para marcar contraste."
+        },
+        {
+          "letter": "B",
+          "text": "Por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica consecuencia, lo cual contradice la lógica de la paradoja presentada."
+        },
+        {
+          "letter": "C",
+          "text": "Sin embargo",
+          "is_correct": true,
+          "feedback": "Correcto. Establece el contraste necesario entre la riqueza del país y la realidad social de sus habitantes."
+        },
+        {
+          "letter": "D",
+          "text": "En primer lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utiliza para ordenar una enumeración o secuencia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nIdentificación del núcleo y modificadores del sujeto en oraciones con orden alterado.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v5",
-      "statement": "¿En cuál de las siguientes oraciones se utiliza correctamente la coma vocativa?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Honduras, es un país con mucha historia. <!-- feedback: Incorrecto. No se debe separar el sujeto del predicado con una coma. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Juan, tráeme el libro de español que está en la mesa. <!-- feedback: Correcto. La coma separa el nombre de la persona a la que se dirige el mensaje (vocativo). -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "Compré mangos, bananos, y naranjas. <!-- feedback: Incorrecto. No se pone coma antes de la 'y' en una enumeración simple. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "El examen, estaba muy difícil ayer. <!-- feedback: Incorrecto. Uso incorrecto de la coma entre sujeto y verbo. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de las reglas de puntuación para marcar pausas y funciones apelativas.\n\n---",
+      "explanation": "Uso de marcadores textuales para la construcción de argumentos coherentes sobre la realidad nacional.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -188,33 +248,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v6",
-      "statement": "¿En qué tiempo y modo se encuentra el verbo subrayado? \"Ojalá que mañana **vengas** a la reunión de estudio\".",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v7",
+      "statement": "¿Cuál de las siguientes palabras está correctamente escrita de acuerdo con las reglas de acentuación de la RAE?",
+      "context": "Ortografía: Uso de la tilde en hiatos y diptongos.",
       "options": [
         {
           "letter": "A",
-          "text": "Presente de indicativo. <!-- feedback: Incorrecto. El indicativo sería \"vienes\". -->",
-          "is_correct": false
+          "text": "Tiita",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una palabra grave terminada en vocal y tiene un hiato de dos vocales iguales, no lleva tilde."
         },
         {
           "letter": "B",
-          "text": "Presente de subjuntivo. <!-- feedback: Correcto. El subjuntivo expresa deseo, duda o posibilidad, reforzado por \"ojalá\". -->",
-          "is_correct": true
+          "text": "Raúl",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta un hiato de vocal abierta y cerrada tónica, lo que obliga a poner tilde sobre la vocal cerrada."
         },
         {
           "letter": "C",
-          "text": "Pretérito perfecto. <!-- feedback: Incorrecto. Se refiere a una acción futura o deseada. -->",
-          "is_correct": false
+          "text": "Fue",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los monosílabos, por regla general, no llevan tilde a menos que sea diacrítica."
         },
         {
           "letter": "D",
-          "text": "Futuro de indicativo. <!-- feedback: Incorrecto. El futuro sería \"vendrás\". -->",
-          "is_correct": false
+          "text": "Hondureñisimo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una palabra esdrújula y debe llevar tilde en la \"i\" (Hondureñísimo)."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de accidentes verbales (tiempo y modo) según el sentido de la oración.\n\n---",
+      "explanation": "Aplicación de las normas de acentuación gráfica en casos especiales de encuentros vocálicos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -224,141 +288,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v7",
-      "statement": "¿Cuál de las siguientes oraciones utiliza correctamente la tilde diacrítica?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v8",
+      "statement": "En un artículo de opinión sobre la migración, el autor sostiene que \"el verdadero muro no está en la frontera, sino en la falta de oportunidades en nuestras propias comunidades\". ¿Cuál es la tesis principal del autor?",
+      "context": "Análisis de la tesis en un texto argumentativo.",
       "options": [
         {
           "letter": "A",
-          "text": "El libro es para mí, pero no se si lo leeré hoy. <!-- feedback: Incorrecto. Falta la tilde en \"sé\" (verbo saber). -->",
-          "is_correct": false
+          "text": "Que se deben construir muros más altos en Honduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor usa \"muro\" de forma metafórica para señalar otro problema."
         },
         {
           "letter": "B",
-          "text": "Él siempre llega temprano, aunque tú no lo creas. <!-- feedback: Correcto. \"Él\" y \"tú\" llevan tilde cuando son pronombres personales. -->",
-          "is_correct": true
+          "text": "Que a los hondureños no les gusta viajar al extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de gustos, sino de causas económicas y sociales."
         },
         {
           "letter": "C",
-          "text": "Dé su opinión sobre el tema, por favor. <!-- feedback: Correcto. \"Dé\" lleva tilde cuando es del verbo dar. (Nota: Revisando para que solo haya una mejor opción). -->",
-          "is_correct": false
+          "text": "Que la causa de la migración es la falta de desarrollo económico local.",
+          "is_correct": true,
+          "feedback": "Correcto. Propone que la solución es mejorar las condiciones internas para que la gente no tenga que irse."
         },
         {
           "letter": "D",
-          "text": "Te invito a tomar una taza de té esta tarde. <!-- feedback: Correcto. \"Té\" lleva tilde cuando es sustantivo (bebida). -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de la tilde diacrítica para diferenciar palabras con igual escritura pero distinta función.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v8",
-      "statement": "\"La baleada es un plato **suculento** y tradicional de Honduras\". ¿Cuál es un antónimo adecuado para la palabra subrayada?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Sabroso <!-- feedback: Incorrecto. Es un sinónimo. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Insípido <!-- feedback: Correcto. Significa que no tiene sabor, lo opuesto a algo suculento o sabroso. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "Abundante <!-- feedback: Incorrecto. Suculento implica buen sabor, no solo cantidad. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Exquisito <!-- feedback: Incorrecto. Es un sinónimo. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento de relaciones de oposición semántica en el vocabulario.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v9",
-      "statement": "¿Qué tipo de oración es: \"Juan estudia matemáticas mientras María lee un libro\"?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Oración simple. <!-- feedback: Incorrecto. Contiene dos verbos conjugados (\"estudia\" y \"lee\"). -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Oración compuesta coordinada. <!-- feedback: Incorrecto. Es subordinada adverbial de tiempo. Rectificando: se clasifica como compuesta. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "Oración compuesta subordinada. <!-- feedback: Correcto. La proposición encabezada por \"mientras\" depende de la principal. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Oración yuxtapuesta. <!-- feedback: Incorrecto. No están separadas por signos de puntuación, sino por un nexo. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nDiferenciación entre estructuras oracionales según el número de predicados y sus nexos.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v10",
-      "statement": "¿Cuál de las siguientes palabras está escrita INCORRECTAMENTE?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hielo <!-- feedback: Incorrecto. Se escribe con 'h' porque empieza con el diptongo 'ie'. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Huida <!-- feedback: Incorrecto. Se escribe con 'h' porque empieza con el diptongo 'ui'. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "Erbolario <!-- feedback: Correcto. Se escribe \"herbolario\" (relacionado con hierba). Aunque \"herbario\" también lleva H. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "Humildad <!-- feedback: Incorrecto. Está escrita correctamente con 'h'. -->",
-          "is_correct": false
+          "text": "Que la frontera con Estados Unidos es muy fácil de cruzar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está en el origen del problema, no en la dificultad física del viaje."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAplicación de reglas ortográficas sobre el uso de la letra 'h'.\n\n---",
+      "explanation": "Identificación de la idea central y la postura del autor en textos de carácter ensayístico o periodístico.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,213 +328,117 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v11",
-      "statement": "En la oración \"El director entregó los diplomas a los graduados ayer\", ¿qué función sintáctica cumple el fragmento \"a los graduados\"?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v9",
+      "statement": "En la oración \"Llegaron muy temprano los delegados de la OEA a Tegucigalpa\", ¿cuál es el sujeto de la oración?",
+      "context": "Sintaxis: Identificación del sujeto.",
       "options": [
         {
           "letter": "A",
-          "text": "Complemento Directo. <!-- feedback: Incorrecto. El CD es \"los diplomas\" (qué entregó). -->",
-          "is_correct": false
+          "text": "Tegucigalpa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el complemento circunstancial de lugar."
         },
         {
           "letter": "B",
-          "text": "Complemento Indirecto. <!-- feedback: Correcto. Indica el destinatario de la acción (a quién se los entregó). -->",
-          "is_correct": true
+          "text": "Muy temprano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento circunstancial de tiempo."
         },
         {
           "letter": "C",
-          "text": "Complemento Circunstancial de lugar. <!-- feedback: Incorrecto. No indica dónde, sino a quién. -->",
-          "is_correct": false
+          "text": "Los delegados de la OEA",
+          "is_correct": true,
+          "feedback": "Correcto. Es el sintagma nominal que concuerda en número y persona con el verbo \"llegaron\"."
         },
         {
           "letter": "D",
-          "text": "Sujeto. <!-- feedback: Incorrecto. El sujeto es \"El director\". -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación de complementos verbales y sus funciones en la oración.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v12",
-      "statement": "¿Cuál de las siguientes oraciones presenta un error de concordancia?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El grupo de jóvenes cantó en el parque. <!-- feedback: Incorrecto. La concordancia es correcta en singular con el núcleo \"grupo\". -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Habían muchos estudiantes en la manifestación. <!-- feedback: Correcto. El verbo \"haber\" cuando es impersonal (existencia) debe usarse solo en singular: \"Había muchos...\". -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "La gente gritaba con fuerza durante el partido. <!-- feedback: Incorrecto. Concordancia correcta en singular. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Las camisas y los pantalones están limpios. <!-- feedback: Incorrecto. Concordancia correcta en plural masculino. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de errores comunes de concordancia gramatical en el uso del verbo haber.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v13",
-      "statement": "¿Cuál de las siguientes expresiones contiene una perífrasis verbal de obligación?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Juan se puso a llorar. <!-- feedback: Incorrecto. Es una perífrasis incoativa (inicio de acción). -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Tenemos que estudiar más para el examen. <!-- feedback: Correcto. \"Tener que + infinitivo\" expresa necesidad u obligación. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "María anda buscando sus llaves. <!-- feedback: Incorrecto. Es una perífrasis durativa. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Voy a comer ahora mismo. <!-- feedback: Incorrecto. Es una perífrasis de futuro próximo o intención. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nIdentificación y clasificación de perífrasis verbales según su matiz significativo.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v14",
-      "statement": "Transforme la oración activa \"El autor escribió la novela\" a voz pasiva.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La novela escribió el autor. <!-- feedback: Incorrecto. Solo alteraste el orden, no la estructura verbal. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "La novela fue escrita por el autor. <!-- feedback: Correcto. Se utiliza el verbo ser + participio y el sujeto pasa a ser complemento agente. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "El autor ha escrito la novela. <!-- feedback: Incorrecto. Sigue siendo voz activa en pretérito perfecto. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Se escribió la novela por el autor. <!-- feedback: Incorrecto. Esta es una pasiva refleja incompleta o forzada. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nComprensión de las transformaciones sintácticas entre voz activa y voz pasiva.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v15",
-      "statement": "En Honduras, se utiliza comúnmente el voseo. ¿Cómo se conjuga y tilda correctamente el verbo \"cantar\" en la segunda persona del singular del presente de indicativo bajo esta modalidad?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Vos cantas <!-- feedback: Incorrecto. Esta es la forma del tuteo. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Vos cantás <!-- feedback: Correcto. En el voseo, la mayoría de verbos en presente llevan tilde en la última sílaba (agudas). -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "Vos cantes <!-- feedback: Incorrecto. Esta forma se usa para el imperativo o subjuntivo. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "Tú cantas <!-- feedback: Incorrecto. No corresponde al voseo. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nReconocimiento y aplicación de las normas de conjugación y acentuación del voseo.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "HN-ESP-11-P1-gramatica-001-v16",
-      "statement": "¿Qué función cumple el pronombre \"se\" en la oración: \"Juan se lava las manos\"?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Se impersonal. <!-- feedback: Incorrecto. Hay un sujeto claro: Juan. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "Se de pasiva refleja. <!-- feedback: Incorrecto. La acción recae sobre el propio sujeto. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "Se reflexivo. <!-- feedback: Correcto. La acción la realiza el sujeto sobre sí mismo. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "Se recíproco. <!-- feedback: Incorrecto. Se requiere más de un sujeto que intercambie la acción. -->",
-          "is_correct": false
+          "text": "Llegaron",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el núcleo del predicado (verbo)."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAnálisis de los diferentes usos y valores del pronombre \"se\".\n\n---",
+      "explanation": "Reconocimiento del sujeto en oraciones con orden alterado (sujeto pospuesto).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v10",
+      "statement": "Lucila Gamero de Medina es una pionera de la narrativa femenina en Honduras. En su obra, suele explorar la psicología de sus personajes y la situación de la mujer. ¿A qué movimiento literario pertenece predominantemente su obra más famosa, \"Blanca Olmedo\"?",
+      "context": "El cuento \"Ángel de la guarda\" de Lucila Gamero de Medina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vanguardismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estilo es anterior a las rupturas experimentales de la vanguardia."
+        },
+        {
+          "letter": "B",
+          "text": "Romanticismo tardío",
+          "is_correct": true,
+          "feedback": "Correcto. \"Blanca Olmedo\" es una novela romántica que exalta los sentimientos y critica las convenciones sociales de la época."
+        },
+        {
+          "letter": "C",
+          "text": "Realismo mágico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza elementos fantásticos como parte de la realidad cotidiana."
+        },
+        {
+          "letter": "D",
+          "text": "Neoclasicismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El neoclasicismo se centra en la razón y la regla, mientras que Gamero se centra en la emoción y la pasión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificación de las autoras fundamentales de la literatura nacional en sus respectivos contextos estéticos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v11",
+      "statement": "Clementina Suárez es la \"Mujer Nueva\" de la poesía hondureña. ¿Qué aspecto de su vida y obra rompió con las tradiciones de su tiempo?",
+      "context": "Clementina Suárez y la vanguardia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir solo sobre temas religiosos y de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Clementina fue una poeta de ruptura, no de tradición doméstica."
+        },
+        {
+          "letter": "B",
+          "text": "Su actitud independiente, su poesía erótica y su papel como promotora de arte.",
+          "is_correct": true,
+          "feedback": "Correcto. Clementina desafió los roles de género y trajo la vanguardia estética a Honduras."
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo de la rima consonante y el soneto clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra utiliza el verso libre y formas más abiertas acordes a la modernidad."
+        },
+        {
+          "letter": "D",
+          "text": "Vivir siempre encerrada en su casa de Tegucigalpa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una viajera incansable y una figura pública muy activa en el mundo bohemio e intelectual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación del impacto cultural y estético de la obra de las mujeres líderes en las letras hondureñas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -584,33 +448,237 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v17",
-      "statement": "¿Cuál de las siguientes oraciones presenta una anfibología (error de claridad por doble sentido)?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v12",
+      "statement": "Un ensayista contemporáneo afirma: \"Nuestra identidad es un palimpsesto donde la lengua de Castilla intenta tapar, sin éxito, los susurros de los lencas y chortís\". ¿Qué quiere decir con esta metáfora?",
+      "context": "El ensayo hondureño contemporáneo.",
       "options": [
         {
           "letter": "A",
-          "text": "Vimos a tu hermano en la calle ayer. <!-- feedback: Incorrecto. La oración es clara. -->",
-          "is_correct": false
+          "text": "Que el español es el único idioma que se habla bien en Honduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dice que el español \"no tiene éxito\" en tapar las otras lenguas."
         },
         {
           "letter": "B",
-          "text": "El perro de mi tío tiene rabia. <!-- feedback: Correcto. No queda claro si se refiere al animal o es un insulto despectivo hacia el tío. -->",
-          "is_correct": true
+          "text": "Que la identidad hondureña está formada por capas de cultura indígena y española que conviven aunque se intente negar una.",
+          "is_correct": true,
+          "feedback": "Correcto. Un palimpsesto es un manuscrito que conserva huellas de textos anteriores borrados; representa la mezcla cultural latente."
         },
         {
           "letter": "C",
-          "text": "Los estudiantes entregaron sus trabajos a tiempo. <!-- feedback: Incorrecto. Es una oración directa y clara. -->",
-          "is_correct": false
+          "text": "Que los lencas ya no existen y por eso solo quedan \"susurros\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora de los susurros indica que la cultura sigue viva y presente bajo la superficie."
         },
         {
           "letter": "D",
-          "text": "Me gusta mucho leer libros de historia. <!-- feedback: Incorrecto. Estructura gramatical clara. -->",
-          "is_correct": false
+          "text": "Que es necesario dejar de hablar español para ser hondureño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor analiza una realidad mixta, no propone la eliminación de una parte."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación de vicios del lenguaje que afectan la precisión comunicativa.\n\n---",
+      "explanation": "Análisis de metáforas complejas en textos que abordan la identidad y el mestizaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v13",
+      "statement": "En Honduras, es común escuchar frases como \"¿Qué ondas, compa?\" o usar la palabra \"macanudo\". ¿A qué nivel de la lengua pertenecen estas expresiones?",
+      "context": "Variedades del español: El español de Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje culto-académico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas palabras no se usan en tesis doctorales o discursos oficiales formales."
+        },
+        {
+          "letter": "B",
+          "text": "Registro coloquial y popular",
+          "is_correct": true,
+          "feedback": "Correcto. Son hondureñismos típicos de la comunicación oral informal y cotidiana."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje técnico-jurídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No pertenecen al ámbito de las leyes o la justicia."
+        },
+        {
+          "letter": "D",
+          "text": "Arcaísmos del siglo de oro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son expresiones modernas y actuales de la evolución del idioma en la región."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de los niveles de habla y las variantes dialectales locales del español.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v14",
+      "statement": "En su poema \"Los Pobres\", Roberto Sosa dice: \"Los pobres son muchos / y por eso / es imposible olvidarlos\". ¿Qué recurso poético utiliza el autor para dar fuerza a su denuncia social?",
+      "context": "Crítica a la poesía de Roberto Sosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de una sencillez desnuda y directa que golpea la conciencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Sosa abandona el adorno innecesario para que la realidad social hable por sí misma de forma contundente."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de palabras en latín para que suene más importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía de Sosa es famosa por su claridad y cercanía con el lenguaje común."
+        },
+        {
+          "letter": "C",
+          "text": "Una rima muy complicada que hace que el poema parezca una canción infantil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza rima clásica ni busca un tono infantil, sino serio y profundo."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción de seres mitológicos que ayudan a los pobres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su poesía es realista y humana, no fantástica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación del estilo de la \"Poesía Social\" en Honduras y sus mecanismos de comunicación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v15",
+      "statement": "\"Los estudiantes hondureños, quienes se esfuerzan cada día, son la esperanza del país\". ¿Qué tipo de oración subordinada se encuentra entre comas?",
+      "context": "Sintaxis: Oraciones subordinadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adjetiva especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especificativas no van entre comas y sirven para seleccionar un subgrupo."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva explicativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Va entre comas y añade una cualidad o información adicional sobre todo el grupo de estudiantes mencionado."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada sustantiva de objeto directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Funciona como un adjetivo del sujeto, no como el objeto del verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adverbial de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica cuándo ocurre la acción del verbo principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la función y puntuación de las proposiciones subordinadas de relativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v16",
+      "statement": "Si en un editorial se lee: \"La justicia en Honduras camina con pasos de tortuga cuando se trata de los poderosos, pero corre como liebre ante el descalzo\", ¿qué técnica retórica está empleando para persuadir?",
+      "context": "Análisis de la intención en textos críticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de datos estadísticos precisos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay números ni cifras, solo comparaciones animales."
+        },
+        {
+          "letter": "B",
+          "text": "El contraste mediante metáforas animales para denunciar la desigualdad.",
+          "is_correct": true,
+          "feedback": "Correcto. La liebre y la tortuga sirven para ilustrar de forma visual y emocional la injusticia."
+        },
+        {
+          "letter": "C",
+          "text": "El lenguaje técnico legal para demostrar conocimiento del derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es literario y figurado, alejado del tecnicismo jurídico."
+        },
+        {
+          "letter": "D",
+          "text": "La cita de autoridades internacionales como la ONU.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor habla desde su propia voz utilizando recursos estilísticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación del uso de recursos estilísticos en la argumentación periodística para generar empatía o rechazo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "HN-ESP-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "HN-ESP-11-P1-lectura-001-v17",
+      "statement": "Helen Umaña es la crítica literaria más importante de Honduras. Su trabajo de rescate y análisis ha permitido dar orden a la historia de nuestras letras. ¿Por qué es fundamental su obra para la literatura nacional?",
+      "context": "Helen Umaña y la crítica literaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ella escribió los libros más vendidos en las librerías de los aeropuertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su labor es académica y de investigación, no necesariamente comercial masiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sistematizó el estudio de los autores hondureños y rescató voces olvidadas, especialmente de mujeres.",
+          "is_correct": true,
+          "feedback": "Correcto. Su obra es una cartografía esencial para entender quiénes somos a través de lo que escribimos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ella inventó nuevas reglas de ortografía solo para Honduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ella sigue la norma académica pero la aplica al análisis crítico nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fue la primera mujer en ser presidenta de Honduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión de roles; su liderazgo es intelectual y literario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valoración del papel de la crítica y la investigación en la construcción del canon literario nacional.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -620,33 +688,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v18",
-      "statement": "Identifique la oración que contiene una subordinada adjetiva explicativa.",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v18",
+      "statement": "Quieres escribir un ensayo sobre la influencia de la mitología maya en la literatura hondureña contemporánea. ¿Cuál de estas es una tesis bien planteada?",
+      "context": "Formulación de hipótesis para un ensayo.",
       "options": [
         {
           "letter": "A",
-          "text": "Los alumnos que estudiaron aprobaron el examen. <!-- feedback: Incorrecto. Es una adjetiva especificativa (solo los que estudiaron). -->",
-          "is_correct": false
+          "text": "Los mayas vivieron en Copán y hacían estelas muy bonitas hace mucho tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato histórico, no una tesis que requiera argumentación literaria."
         },
         {
           "letter": "B",
-          "text": "Los alumnos, que estudiaron mucho, aprobaron el examen. <!-- feedback: Correcto. Va entre comas y añade una nota explicativa para TODOS los alumnos. -->",
-          "is_correct": true
+          "text": "La narrativa hondureña actual utiliza los mitos mayas como una estrategia estética para reconstruir la identidad nacional frente a la globalización.",
+          "is_correct": true,
+          "feedback": "Correcto. Plantea una relación causal y un propósito que puede ser defendido con ejemplos literarios."
         },
         {
           "letter": "C",
-          "text": "Quiero que vengas pronto. <!-- feedback: Incorrecto. Es una subordinada sustantiva. -->",
-          "is_correct": false
+          "text": "Muchos escritores de hoy han visitado las Ruinas de Copán con sus familias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una anécdota biográfica irrelevante para un análisis literario profundo."
         },
         {
           "letter": "D",
-          "text": "Si estudias, aprobarás. <!-- feedback: Incorrecto. Es una subordinada adverbial condicional. -->",
-          "is_correct": false
+          "text": "El Popol Vuh es un libro muy importante para todos los países de Centroamérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una generalización demasiado amplia que no se enfoca en la \"literatura hondureña contemporánea\"."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nDiferenciación entre tipos de oraciones subordinadas y su impacto en el significado.\n\n---",
+      "explanation": "Capacidad de formular tesis académicas sólidas, delimitadas y argumentables.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -656,33 +728,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v19",
-      "statement": "¿Cuál de las siguientes oraciones es gramaticalmente CORRECTA?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v19",
+      "statement": "Un análisis sociológico afirma: \"Honduras exporta su talento humano como si fuera materia prima, perdiendo en cada migrante un potencial de transformación que no se recupera con las remesas\". ¿Qué juicio de valor subyace en esta afirmación?",
+      "context": "Análisis de discursos sobre la \"Fuga de Cerebros\".",
       "options": [
         {
           "letter": "A",
-          "text": "Pienso de que deberíamos irnos ya. <!-- feedback: Incorrecto. Es dequeísmo; el verbo pensar no rige la preposición \"de\". -->",
-          "is_correct": false
+          "text": "Que las remesas son lo más importante para que el país progrese.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que las remesas \"no recuperan\" lo que se pierde."
         },
         {
           "letter": "B",
-          "text": "Me alegro de que estés aquí. <!-- feedback: Correcto. El verbo alegrarse rige la preposición \"de\" (alegrarse DE algo). -->",
-          "is_correct": true
+          "text": "Que el valor del conocimiento y la capacidad humana es superior al beneficio económico inmediato del dinero enviado desde fuera.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor critica el modelo migratorio resaltando la pérdida de capital intelectual para el futuro del país."
         },
         {
           "letter": "C",
-          "text": "Estoy seguro que vendrán. <!-- feedback: Incorrecto. Es queísmo; falta la preposición \"de\" que rige el adjetivo \"seguro\". -->",
-          "is_correct": false
+          "text": "Que los migrantes no saben hacer nada útil en el extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, los llama \"talento humano\" y \"potencial de transformación\"."
         },
         {
           "letter": "D",
-          "text": "Opinan de que el examen fue fácil. <!-- feedback: Incorrecto. Dequeísmo; opinar no rige \"de\". -->",
-          "is_correct": false
+          "text": "Que el gobierno debe cobrar impuestos a los migrantes por irse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase es una reflexión sobre el desarrollo y la pérdida de futuro, no una propuesta fiscal."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nEvaluación del uso correcto de preposiciones en subordinadas sustantivas.\n\n---",
+      "explanation": "Evaluación de las implicaciones éticas e ideológicas en textos argumentativos complejos sobre problemas sociales.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -692,33 +768,37 @@
       "cefr_level": null
     },
     {
-      "id": "HN-ESP-11-P1-gramatica-001-v20",
-      "statement": "¿Qué recurso de cohesión se ha utilizado para evitar la redundancia en: \"La selección de Honduras jugó bien; la bicolor demostró gran dominio\"?",
-      "context": "",
+      "id": "HN-ESP-11-P1-lectura-001-v20",
+      "statement": "Tienes el siguiente enunciado coloquial: \"Fijate que el profe nos dejó un pijazal de tareas y ya no aguantamos\". ¿Cuál de las siguientes opciones es una reescritura adecuada para un correo formal dirigido a la dirección del colegio?",
+      "context": "Producción de textos en registros diversos.",
       "options": [
         {
           "letter": "A",
-          "text": "Elipsis. <!-- feedback: Incorrecto. No se omitió ningún elemento necesario. -->",
-          "is_correct": false
+          "text": "Hola, el maestro nos puso muchísima tarea y estamos bien cansados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo informal (\"Hola\", \"bien cansados\") y poco preciso para el ámbito académico."
         },
         {
           "letter": "B",
-          "text": "Sustitución por sinónimo (o perífrasis denominativa). <!-- feedback: Correcto. Se usó \"la bicolor\" para referirse a \"la selección\" evitando repetir el nombre. -->",
-          "is_correct": true
+          "text": "Estimado Director, el profesor exagera con los deberes y ocupamos que le diga algo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es un poco acusatorio y el uso de \"ocupamos\" es muy coloquial para un registro escrito formal."
         },
         {
           "letter": "C",
-          "text": "Repetición léxica. <!-- feedback: Incorrecto. Precisamente se evitó la repetición. -->",
-          "is_correct": false
+          "text": "Distinguidas autoridades, nos dirigimos a usted para manifestar nuestra preocupación por la excesiva carga académica asignada recientemente, la cual dificulta nuestro rendimiento óptimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza un léxico preciso, fórmulas de cortesía y una estructura gramatical compleja y adecuada al contexto institucional."
         },
         {
           "letter": "D",
-          "text": "Uso de conectores lógicos. <!-- feedback: Incorrecto. La relación es de yuxtaposición, no mediada por un nexo fuerte. -->",
-          "is_correct": false
+          "text": "Buenas, queremos decirle que ya no podemos con tanta tarea que nos dejan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Registro demasiado simple y con fórmulas de inicio inapropiadas para un documento oficial."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nAnálisis de mecanismos de cohesión textual para la mejora del estilo y la fluidez.",
+      "correct_answer": "C",
+      "explanation": "Dominio de la adecuación lingüística: capacidad de transformar mensajes según la situación comunicativa y los destinatarios.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

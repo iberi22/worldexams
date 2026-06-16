@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "espanol",
+    "country": "pa",
+    "pack_id": "pa-week-1-grade-11-subject-espanol",
+    "generated_at": "2026-06-16T00:17:33.425Z"
+  },
+  "questions": [
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v1",
+      "statement": "En un texto sobre la reversión del Canal de Panamá el 31 de diciembre de 1999, se menciona que el evento marcó la \"plena soberanía\" del país. ¿Qué término es un sinónimo contextual adecuado para \"soberanía\" en este fragmento?",
+      "context": "Historia de la Zona del Canal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dependencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el antónimo de lo que se describe; la soberanía implica el fin de la dependencia externa."
+        },
+        {
+          "letter": "B",
+          "text": "Autonomía",
+          "is_correct": true,
+          "feedback": "Correcto. Se refiere a la capacidad del Estado panameño para gobernarse por sí mismo y controlar su territorio sin intervención extranjera."
+        },
+        {
+          "letter": "C",
+          "text": "Colonización",
+          "is_correct": false,
+          "feedback": "Incorrecto. El evento precisamente marcó el fin de la administración colonial de la zona."
+        },
+        {
+          "letter": "D",
+          "text": "Alianza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hubo tratados, el concepto central es el poder de decisión propio del país, no la unión con otros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de significados contextuales y sinónimos en textos históricos locales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v2",
+      "statement": "\"El sol de la tarde caía sobre el Casco Antiguo como una manta de oro pesado\". ¿Qué figura literaria predomina en esta frase descriptiva?",
+      "context": "Literatura panameña contemporánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metonimia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una sustitución de un término por otro con el que guarde relación de causa o procedencia."
+        },
+        {
+          "letter": "B",
+          "text": "Símil",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza la partícula \"como\" para establecer una comparación directa entre la luz del sol y una manta de oro."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbaton",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de la oración es lógico y no presenta una alteración sintáctica para fines estéticos."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se le atribuyen cualidades humanas a objetos inanimados en esta frase específica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de recursos retóricos básicos en la descripción literaria de entornos locales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v3",
+      "statement": "Un autor afirma: \"La deforestación en Darién no es solo un problema ecológico, es una herida en el corazón de nuestra identidad nacional\". ¿Cuál es la intención principal del autor al usar esta expresión?",
+      "context": "Artículos de opinión sobre el medio ambiente en Panamá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre el número de hectáreas perdidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es emocional y subjetivo, no se centra en datos técnicos u objetivos."
+        },
+        {
+          "letter": "B",
+          "text": "Conmover al lector y generar un sentido de responsabilidad patriótica.",
+          "is_correct": true,
+          "feedback": "Correcto. Al vincular el daño ambiental con la \"identidad nacional\", busca una reacción emocional y ética en el receptor."
+        },
+        {
+          "letter": "C",
+          "text": "Describir la flora y fauna de la región del Darién.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una descripción científica o detallada de la biodiversidad en la frase."
+        },
+        {
+          "letter": "D",
+          "text": "Criticar las políticas de transporte en la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema central es la deforestación en una provincia específica, no el transporte urbano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la intención comunicativa y el uso del lenguaje connotativo en textos argumentativos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v4",
+      "statement": "¿Cuál de los siguientes conectores es el más adecuado para completar la oración y establecer una relación de contraste?\n\"Panamá es un centro financiero global; __________, persisten desafíos importantes en la distribución de la riqueza\".",
+      "context": "Uso de conectores en la redacción académica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este conector introduce una consecuencia, lo cual no encaja con la idea de un desafío pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "Además",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para añadir información del mismo tipo, no para señalar una contradicción o limitación."
+        },
+        {
+          "letter": "C",
+          "text": "No obstante",
+          "is_correct": true,
+          "feedback": "Correcto. Es un conector adversativo que introduce una idea opuesta o una limitación a lo afirmado anteriormente."
+        },
+        {
+          "letter": "D",
+          "text": "En primer lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utiliza para ordenar una enumeración, no para establecer contrastes lógicos entre ideas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso correcto de marcadores textuales para garantizar la coherencia y cohesión en la expresión escrita.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v5",
+      "statement": "En una crónica sobre el Carnaval de Las Tablas, el autor dedica varios párrafos a describir los vestidos de las reinas antes de narrar el \"topón\". ¿Qué función cumple esta descripción detallada dentro de la estructura de la crónica?",
+      "context": "Crónica periodística sobre el Carnaval de Las Tablas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentar por qué una tuna es mejor que la otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción es descriptiva, no presenta una tesis con argumentos lógicos de apoyo."
+        },
+        {
+          "letter": "B",
+          "text": "Crear una atmósfera y dar contexto cultural al lector.",
+          "is_correct": true,
+          "feedback": "Correcto. Las descripciones en la crónica sirven para que el lector visualice el evento y entienda su magnitud estética."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir las noticias más importantes de la semana en Panamá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica se centra en un evento específico, no es un sumario de noticias generales."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar el presupuesto invertido por el Ministerio de Cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en la apariencia y el sentimiento, no en datos contables o administrativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de la secuencia descriptiva dentro de los géneros narrativos y periodísticos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v6",
+      "statement": "Un informe científico sobre el Parque Nacional Coiba utiliza abundantes tecnicismos y una estructura de Introducción, Metodología, Resultados y Discusión. ¿A qué tipología textual pertenece?",
+      "context": "Textos científicos sobre la biodiversidad en Coiba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto literario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de función estética predominante y de subjetividad creativa."
+        },
+        {
+          "letter": "B",
+          "text": "Texto publicitario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su fin no es vender un producto o servicio, sino comunicar hallazgos de investigación."
+        },
+        {
+          "letter": "C",
+          "text": "Texto expositivo-científico",
+          "is_correct": true,
+          "feedback": "Correcto. Su objetivo es transmitir información objetiva y especializada siguiendo una estructura rigurosa."
+        },
+        {
+          "letter": "D",
+          "text": "Texto jurídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece leyes, normas o sentencias, sino hechos derivados de la observación biológica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocimiento de las características de los textos especializados y académicos por su lenguaje y estructura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v7",
+      "statement": "¿Cuál de las siguientes palabras relacionadas con la geografía de Panamá está correctamente acentuada?",
+      "context": "Ortografía y acentuación en contextos locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chiriqui",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una palabra aguda terminada en vocal, por lo tanto debe llevar tilde en la última \"i\" (Chiriquí)."
+        },
+        {
+          "letter": "B",
+          "text": "Volcán",
+          "is_correct": true,
+          "feedback": "Correcto. Palabra aguda terminada en \"n\", lleva tilde en la última sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "Penonome",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aguda terminada en vocal, requiere tilde en la última \"e\" (Penonomé)."
+        },
+        {
+          "letter": "D",
+          "text": "Darien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser aguda terminada en \"n\", debe llevar tilde en la \"e\" (Darién)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de las reglas de acentuación de la RAE en topónimos nacionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v8",
+      "statement": "Un editorial afirma: \"Es imperativo que el sistema educativo panameño abandone la memorización y abrace la innovación\". ¿Qué postura adopta el periódico frente al estado actual de la educación?",
+      "context": "Editorial de un periódico sobre la educación en Panamá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De satisfacción y optimismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de \"imperativo\" y \"abandone\" indica una necesidad de cambio urgente por insatisfacción."
+        },
+        {
+          "letter": "B",
+          "text": "Crítica y reformista.",
+          "is_correct": true,
+          "feedback": "Correcto. Señala una falla (la memorización) y propone una solución (la innovación) con un tono de urgencia."
+        },
+        {
+          "letter": "C",
+          "text": "Indiferente y neutral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un editorial, por definición, toma una posición clara sobre el tema que trata."
+        },
+        {
+          "letter": "D",
+          "text": "Nostálgica por el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Busca ir hacia la \"innovación\", no volver a métodos antiguos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación del tono y la postura ideológica en textos periodísticos de opinión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v9",
+      "statement": "En una obra de teatro ambientada en un barrio popular de la ciudad de Panamá, un personaje dice: \"¡Ayala vida, buco tiempo sin verte!\". ¿Qué nivel de la lengua se está empleando?",
+      "context": "Diálogos en el teatro panameño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nivel culto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Utiliza modismos y expresiones informales lejos de la norma académica estricta."
+        },
+        {
+          "letter": "B",
+          "text": "Nivel coloquial o popular",
+          "is_correct": true,
+          "feedback": "Correcto. Incluye panameñismos (\"ayala vida\", \"buco\") típicos de la comunicación oral cotidiana en el país."
+        },
+        {
+          "letter": "C",
+          "text": "Nivel técnico-científico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza terminología especializada de ninguna disciplina científica."
+        },
+        {
+          "letter": "D",
+          "text": "Nivel literario arcaico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son expresiones modernas y actuales, no formas antiguas de la lengua castellana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de las variedades diafásicas y diastráticas de la lengua (niveles de registro).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v10",
+      "statement": "En la oración \"Ayer llegaron los barcos neopanamax al Puerto de Balboa\", ¿cuál es el sujeto?",
+      "context": "Sintaxis: Sujeto y Predicado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un adverbio que funciona como complemento circunstancial de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Al Puerto de Balboa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento circunstancial de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Los barcos neopanamax",
+          "is_correct": true,
+          "feedback": "Correcto. Es el sintagma nominal que concuerda en número y persona con el verbo \"llegaron\"."
+        },
+        {
+          "letter": "D",
+          "text": "Llegaron",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el núcleo del predicado (el verbo)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de los elementos básicos de la oración simple mediante la prueba de concordancia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v11",
+      "statement": "Rogelio Sinán es una figura clave del vanguardismo en Panamá. En su obra \"La isla mágica\", ¿qué elemento es característico de su estilo que rompe con el realismo tradicional?",
+      "context": "Obra de Rogelio Sinán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción detallada y objetiva de las costumbres rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es propio del costumbrismo, del cual Sinán se aleja en sus obras más experimentales."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de elementos oníricos (sueños) y una estructura no lineal.",
+          "is_correct": true,
+          "feedback": "Correcto. Sinán introduce la fantasía y la experimentación técnica propias de la vanguardia."
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo de rimas consonantes en sus poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vanguardismo suele preferir el verso libre y la ruptura de formas métricas rígidas."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia total de personajes panameños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra está profundamente enraizada en la identidad y geografía panameña, aunque sea desde una estética moderna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de las corrientes literarias del siglo XX en Panamá y sus innovaciones estéticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v12",
+      "statement": "Un candidato afirma: \"Si no apoyan mi plan de transporte, el país caerá en el caos total y la economía se detendrá para siempre\". ¿Qué tipo de falacia o recurso persuasivo está utilizando?",
+      "context": "Falacias en el discurso político.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelación al miedo (Ad baculum)",
+          "is_correct": true,
+          "feedback": "Correcto. Busca la adhesión del votante a través de la amenaza de una catástrofe futura si no se hace lo que él propone."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita a un experto o institución, sino que lanza una advertencia catastrófica propia."
+        },
+        {
+          "letter": "C",
+          "text": "Ataque personal (Ad hominem)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No insulta ni desacredita al oponente directamente, sino que se centra en las consecuencias negativas del plan."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia de ambigüedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje es bastante directo en su intención, no juega con dobles sentidos de las palabras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de sesgos y falacias argumentativas en textos persuasivos y discursos públicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v13",
+      "statement": "En el famoso poema \"Patria\" de Ricardo Miró, el autor dice: \"¡Oh patria tan pequeña que cabes toda entera / debajo de la sombra de nuestro pabellón!\". ¿Qué sentimiento intenta transmitir el poeta en estos versos?",
+      "context": "Poesía patriótica de Ricardo Miró.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vergüenza por el pequeño tamaño del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es de orgullo y amor, no de desprecio por la dimensión territorial."
+        },
+        {
+          "letter": "B",
+          "text": "Una profunda identidad y unidad bajo los símbolos patrios.",
+          "is_correct": true,
+          "feedback": "Correcto. La \"sombra del pabellón\" (la bandera) simboliza la protección y el sentido de pertenencia de todos los panameños."
+        },
+        {
+          "letter": "C",
+          "text": "Crítica a la falta de espacio para construir en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un poema lírico-emocional, no una queja urbanística."
+        },
+        {
+          "letter": "D",
+          "text": "Deseo de expandir las fronteras hacia otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se celebra lo que se tiene, no se incita a la conquista o expansión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de símbolos nacionales en la literatura fundacional y modernista de Panamá.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v14",
+      "statement": "Un ensayista sostiene que \"Panamá no es solo un puente de tránsito, es un crisol donde las culturas se funden pero mantienen su sabor original\". ¿Cuál es la idea central de esta metáfora sobre la sociedad panameña?",
+      "context": "Análisis de un ensayo sobre la identidad panameña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los panameños deben pensar y actuar de la misma forma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora del \"sabor original\" sugiere que la diversidad se mantiene dentro de la unión."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cocina es la única forma de expresión cultural en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa la comida como metáfora de la cultura en general, no se limita al ámbito culinario."
+        },
+        {
+          "letter": "C",
+          "text": "Que la identidad nacional se construye a partir de la diversidad y la convivencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Defiende un modelo de multiculturalidad donde la mezcla genera algo nuevo sin destruir las raíces de cada grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Que los extranjeros no pueden integrarse en la cultura local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la idea de \"crisol\" implica la integración de diversos elementos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de metáforas complejas en textos ensayísticos que abordan temas sociológicos y culturales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v15",
+      "statement": "\"Los estudiantes panameños, quienes terminaron sus exámenes ayer, celebrarán su graduación en el Centro de Convenciones Atlapa\". ¿Qué tipo de oración subordinada se encuentra entre comas?",
+      "context": "Análisis de oraciones compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adjetiva sustantivada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ha perdido su función de calificar a un sustantivo precedente."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva explicativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Va entre comas y añade una información adicional sobre todos los estudiantes mencionados, no restringe el grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adjetiva especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No iría entre comas y serviría para seleccionar solo a una parte de los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adverbial de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque menciona \"ayer\", la función de la proposición completa es calificar al sustantivo \"estudiantes\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciación entre proposiciones subordinadas adjetivas explicativas y especificativas por su puntuación y sentido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v16",
+      "statement": "Un crítico dice sobre los cuentos de Justo Arroyo: \"Su manejo del tiempo es una filigrana que atrapa al lector en un laberinto de espejos\". ¿Qué intenta decir el crítico sobre el estilo del autor?",
+      "context": "Crítica literaria sobre cuentos de Justo Arroyo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sus historias son aburridas y repetitivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Filigrana\" sugiere un trabajo delicado y valioso, no algo negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Que utiliza un lenguaje muy simple y directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora del \"laberinto de espejos\" sugiere complejidad y múltiples perspectivas."
+        },
+        {
+          "letter": "C",
+          "text": "Que su técnica narrativa es compleja, detallista y juega con diferentes realidades.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Filigrana\" implica detalle y \"laberinto de espejos\" sugiere una estructura sofisticada y juegos de perspectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Que el autor se dedica a fabricar espejos en la vida real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal errónea de una metáfora literaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Interpretación de lenguaje figurado en el ámbito de la crítica literaria y el análisis estilístico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v17",
+      "statement": "Un poema moderno de una joven autora panameña comienza con el verso: \"Patria, te busco y ya no te hallo bajo la sombra de nuestro pabellón\". ¿Cómo se relaciona este verso con la obra de Ricardo Miró y qué sugiere sobre la visión de la autora?",
+      "context": "Intertextualidad en la poesía panameña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un plagio directo que busca robar el éxito de Miró.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una referencia consciente (intertextualidad) para dialogar con la tradición, no para robarla."
+        },
+        {
+          "letter": "B",
+          "text": "Confirma que nada ha cambiado en Panamá desde principios del siglo XX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al decir que \"ya no te hallo\", sugiere un cambio profundo en la percepción o la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es una intertextualidad que cuestiona la visión idealizada de la patria frente a los problemas actuales.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza el símbolo de Miró para expresar una pérdida o una crisis de identidad contemporánea."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la autora ha perdido su bandera en una manifestación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretación literal absurda de un recurso literario cargado de simbolismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión del concepto de intertextualidad y su uso para la crítica social o estética en la literatura contemporánea.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v18",
+      "statement": "Si tuvieras que escribir un ensayo sobre la influencia del Canal de Panamá en la literatura nacional, ¿cuál de las siguientes sería una tesis sólida y bien delimitada?",
+      "context": "Propuesta de tesis para un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Canal de Panamá es una obra de ingeniería muy importante inaugurada en 1914.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un dato histórico objetivo, no una tesis que requiera argumentación o defensa."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia del Canal ha funcionado como un símbolo de división y lucha por la identidad en la narrativa panameña del siglo XX.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una afirmación que establece una relación específica entre un hecho social y una producción artística, permitiendo el desarrollo de argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "A mucha gente en Panamá le gusta leer libros que mencionen los barcos que pasan por el Canal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una generalización sobre gustos personales, difícil de sustentar académicamente y poco profunda."
+        },
+        {
+          "letter": "D",
+          "text": "Justo Arosemena escribió mucho sobre la identidad antes de que se construyera el Canal de forma definitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es cierto, no aborda el tema de la \"influencia del Canal\" solicitado en la consigna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Capacidad de formular tesis académicas coherentes, debatibles y fundamentadas para la producción de textos argumentativos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v19",
+      "statement": "Un economista sostiene: \"Panamá debe elegir entre ser un paraíso para el capital global o un refugio para su propia gente\". ¿Qué implicación ética y social subyace en esta dicotomía?",
+      "context": "Análisis de discursos sobre la globalización en Panamá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es imposible que los bancos y la gente vivan en el mismo país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una imposibilidad física, sino un planteamiento sobre prioridades políticas y económicas."
+        },
+        {
+          "letter": "B",
+          "text": "Que existe una tensión entre los intereses económicos internacionales y el bienestar de la población local.",
+          "is_correct": true,
+          "feedback": "Correcto. Sugiere que priorizar uno puede ir en detrimento del otro, obligando a una decisión ética sobre el modelo de país."
+        },
+        {
+          "letter": "C",
+          "text": "Que Panamá necesita construir más edificios para que quepan todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase habla de conceptos de \"refugio\" y \"paraíso\" de forma metafórica, no de capacidad inmobiliaria."
+        },
+        {
+          "letter": "D",
+          "text": "Que el dinero es lo único que importa para la felicidad de un país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la frase cuestiona si el enfoque en el capital global es lo mejor para \"su propia gente\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de las implicaciones ideológicas y éticas en textos argumentativos complejos sobre la realidad nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-ESP-11-P1-lectura-critica-001-v20",
+      "statement": "Tienes el siguiente enunciado informal: \"La gente no está feliz con cómo se maneja el billete de la Caja de Seguro Social\". ¿Cuál de las siguientes opciones representa una reescritura en un registro formal y académico adecuado para un informe oficial?",
+      "context": "Reescritura de textos para diferentes audiencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay buena vibra con el manejo de la plata en el Seguro Social ahora mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el tono coloquial (\"buena vibra\", \"plata\") inadecuado para un informe oficial."
+        },
+        {
+          "letter": "B",
+          "text": "Los panameños andan bravos porque se están robando los fondos del Seguro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa lenguaje cargado de juicios de valor informales (\"andan bravos\") y hace una acusación directa sin el tono objetivo requerido."
+        },
+        {
+          "letter": "C",
+          "text": "Existe un marcado descontento social respecto a la gestión financiera de los recursos de la Caja de Seguro Social.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza vocabulario preciso (\"descontento social\", \"gestión financiera\"), mantiene la objetividad y usa una estructura gramatical formal."
+        },
+        {
+          "letter": "D",
+          "text": "El pueblo dice que el dinero de la CSS se está perdiendo y nadie hace nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque comunica la idea, el uso de \"se está perdiendo\" y \"nadie hace nada\" es vago y poco profesional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dominio de los registros lingüísticos y capacidad de adecuación textual según el contexto y la audiencia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-ESP-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}
