@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v1",
       "statement": "¿Cuál fue el idioma predominante en el que se escribieron los textos cultos y religiosos durante gran parte de la Edad Media en Europa?",
-      "context": "",
+      "context": "El periodo medieval abarcó aproximadamente diez siglos, desde la caída del Imperio Romano hasta el descubrimiento de América.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina a la visión del mundo que sitúa a Dios como el centro de todo el universo y explica todos los fenómenos a través de la religión?",
-      "context": "",
+      "context": "La sociedad medieval estaba rígidamente estratificada, y la religión católica permeaba todos los aspectos de la vida cotidiana y el pensamiento.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v3",
       "statement": "¿Qué nombre recibían los artistas medievales que recorrían pueblos y castillos recitando poemas y cantares de gesta para entretener al público?",
-      "context": "",
+      "context": "En las plazas de los pueblos medievales, artistas ambulantes entretenían al pueblo con relatos, música y acrobacias.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v4",
       "statement": "¿Cuál era la función primordial de la literatura producida por los clérigos (mester de clerecía) en comparación con la de los juglares?",
-      "context": "",
+      "context": "Los monasterios fueron los principales centros de conservación de la cultura escrita durante la alta Edad Media.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v5",
       "statement": "Si un autor medieval escribe una serie de cuentos donde un consejero ayuda a un joven noble dándole ejemplos morales, ¿a qué corriente literaria pertenece más probablemente?",
-      "context": "",
+      "context": "\"El Conde Lucanor\" de Don Juan Manuel es una de las obras más importantes de la prosa didáctica del siglo XIV en España.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v6",
       "statement": "¿Qué característica de los cantares de gesta sugiere que estaban diseñados para ser recitados ante un público y no para ser leídos individualmente?",
-      "context": "",
+      "context": "Los cantares de gesta solían ser anónimos y se transmitían oralmente, lo que permitía variaciones en el relato según el juglar que los recitara.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v7",
       "statement": "Considerando el origen de las jarchas, ¿qué se puede inferir sobre la cultura en la Península Ibérica durante la Edad Media?",
-      "context": "",
+      "context": "La lírica primitiva peninsular cuenta con las \"jarchas\", breves composiciones en mozárabe que aparecían al final de poemas árabes o hebreos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v8",
       "statement": "¿Qué elemento de \"La Celestina\" marca un alejamiento de la moralidad medieval rígida y un acercamiento al pensamiento renacentista?",
-      "context": "",
+      "context": "En el siglo XV, la literatura comienza a mostrar un cambio hacia el humanismo, con obras como \"La Celestina\" que exploran pasiones humanas de forma más realista.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v9",
       "statement": "¿Qué efecto buscaba el autor al presentar a la Virgen María de forma cercana y maternal en sus relatos?",
-      "context": "",
+      "context": "Los \"Milagros de Nuestra Señora\" de Gonzalo de Berceo presentan a la Virgen María interviniendo en la vida de pecadores devotos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.52,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el mensaje socio-político implícito en el tema medieval de la \"omnipotencia de la muerte\"?",
-      "context": "",
+      "context": "Las danzas de la muerte eran textos y representaciones donde la Muerte llamaba a personas de todos los estratos sociales a bailar con ella.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v11",
       "statement": "Desde una perspectiva crítica actual, ¿cómo se podría interpretar la relación entre el sistema feudal y la estructura del \"amor cortés\" en la literatura medieval?",
-      "context": "",
+      "context": "El amor cortés fue un código de conducta literario donde el poeta se declaraba vasallo de una dama inalcanzable, a menudo casada.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la función pedagógica de la ambigüedad en el \"Libro de Buen Amor\", donde se advierte contra el amor \"loco\" (terrenal) pero se describe detalladamente?",
-      "context": "",
+      "context": "Durante el siglo XIV, autores como el Arcipreste de Hita en el \"Libro de Buen Amor\" mezclan lo sagrado con lo profano de una manera ambigua.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.42,
       "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -522,6 +558,9 @@
       "difficulty": "1",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.92,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -562,6 +601,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -602,6 +644,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.87,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -642,6 +687,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.84,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -682,6 +730,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -722,6 +773,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -762,6 +816,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.77,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -802,6 +859,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.74,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -842,6 +902,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.72,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -882,6 +945,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -922,6 +988,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.67,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -962,6 +1031,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-8-2026-W01-mitos-leyendas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

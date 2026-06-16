@@ -10,7 +10,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v1",
       "statement": "¿A qué conjunto numérico pertenece el número $\\sqrt{2}$, que representa la relación entre la diagonal y el lado de un diseño cuadrado tradicional?",
-      "context": "",
+      "context": "En un taller de artesanías en Antigua Guatemala, los artesanos clasifican diferentes tipos de medidas según su precisión y naturaleza.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v2",
       "statement": "Si el comerciante tiene una deuda de GTQ 150.00 y una ganancia de GTQ 200.00, ¿cuál es la representación correcta de su saldo total en el conjunto de los números enteros?",
-      "context": "",
+      "context": "Un comerciante del mercado de Chichicastenango registra sus ganancias diarias (números positivos) y sus deudas (números negativos).",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la propiedad de los números reales que indica que para cualquier par de números $a$ y $b$, se cumple que $a + b = b + a$?",
-      "context": "",
+      "context": "En la construcción de estructuras escolares en Quetzaltenango, se utilizan diferentes escalas de medida.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la densidad de los números racionales en la recta numérica?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Guatemala está analizando la recta numérica para representar las distancias entre diferentes municipios.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v5",
       "statement": "Si un lote de café pesa $4.5$ quintales y otro pesa $3 \\frac{3}{4}$ quintales, ¿cuál es el peso total del envío expresado en forma decimal?",
-      "context": "",
+      "context": "Una exportadora de café en Huehuetenango necesita calcular el peso total de varios lotes expresados en diferentes unidades.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v6",
       "statement": "El valor de $\\pi \\approx 3.14159...$ se utiliza para calcular el perímetro de un círculo en el diseño. ¿Cuál es la clasificación más precisa de este número?",
-      "context": "",
+      "context": "En el diseño de un huipil, una tejedora utiliza patrones geométricos que requieren el cálculo de áreas circulares.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v7",
       "statement": "El agricultor tiene un terreno de $1,200$ metros cuadrados. Si dedica $\\frac{2}{5}$ al maíz y el resto al frijol, ¿cuántos metros cuadrados quedan para el frijol?",
-      "context": "",
+      "context": "Un agricultor en Petén divide su terreno para diferentes tipos de cultivos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el inverso multiplicativo (recíproco) del número real $0.25$?",
-      "context": "",
+      "context": "Un banco en Ciudad de Guatemala ofrece una tasa de interés sobre los ahorros de sus clientes.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v9",
       "statement": "Si la temperatura inicial es de $-5^\\circ$C y sube $12^\\circ$C, para luego bajar $8^\\circ$C, ¿cuál es la temperatura final?",
-      "context": "",
+      "context": "En un laboratorio escolar se mide la temperatura en grados Celsius, permitiendo valores positivos y negativos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v10",
       "statement": "Si el diámetro de la plaza es de $10$ metros y se utiliza la aproximación $\\pi \\approx 3.14$, ¿cuál es la longitud aproximada de la circunferencia?",
-      "context": "",
+      "context": "Un arquitecto diseña una plaza circular y necesita estimar el material para el borde.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v11",
       "statement": "¿Cuál de las siguientes afirmaciones sobre el resultado de la operación $\\sqrt{3} \\times \\sqrt{12}$ es verdadera?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza la precisión de las calculadoras al operar con raíces cuadradas.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v12",
       "statement": "Si un camión consume $12.5$ galones en $300$ kilómetros, ¿cuál es la razón de consumo expresada como una fracción simplificada en términos de galones por kilómetro?",
-      "context": "",
+      "context": "Una empresa de transporte en Escuintla calcula el consumo de combustible de sus camiones.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v13",
       "statement": "Al comparar los números $x = 0.6$ y $y = 2/3$, ¿cuál es la relación de orden correcta?",
-      "context": "",
+      "context": "Un programador en Guatemala está definiendo los tipos de datos para una aplicación financiera.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es el valor simplificado de la expresión $(2^3 \\times 2^{-1})^{1/2}$?",
-      "context": "",
+      "context": "Un científico estudia la ley de gravitación y se encuentra con expresiones que involucran potencias y raíces.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v15",
       "statement": "Si los catetos de un triángulo miden $5$ m y $12$ m, ¿cuál es la longitud de la hipotenusa?",
-      "context": "",
+      "context": "Un topógrafo mide la distancia entre dos puntos en un terreno inclinado usando el teorema de Pitágoras.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v16",
       "statement": "¿En qué conjunto numérico la operación de división (excepto por cero) NO cumple siempre con la propiedad de cierre?",
-      "context": "",
+      "context": "En una clase de matemáticas, se discute la clasificación de los números según sus propiedades de cierre.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v17",
       "statement": "¿Cuál de las siguientes proposiciones es falsa respecto a los números reales?",
-      "context": "",
+      "context": "Un estudiante investiga la validez de diferentes enunciados sobre los números reales para una olimpiada de matemáticas.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v18",
       "statement": "Dada la expresión $A = \\sqrt{(1-\\sqrt{2})^2}$, ¿cuál es el valor exacto de $A$ simplificado?",
-      "context": "",
+      "context": "En un curso de lógica matemática, se analiza la estructura de los sistemas numéricos.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v19",
       "statement": "Si la distancia a una estrella es de $4.2 \\times 10^{13}$ km y la luz viaja a $3 \\times 10^5$ km/s, ¿cuántos segundos tarda la luz en llegar a la Tierra? (Expresa el resultado en notación científica).",
-      "context": "",
+      "context": "Un astrónomo en el observatorio de la Ciudad de Guatemala maneja distancias astronómicas en notación científica.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el resultado de racionalizar el denominador de la expresión $\\frac{2}{\\sqrt{5} - 1}$?",
-      "context": "",
+      "context": "Un matemático guatemalteco está revisando la demostración de la densidad de los números reales.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

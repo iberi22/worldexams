@@ -270,6 +270,34 @@
   // Reporting State
   let showReportModal = $state(false);
 
+  // ── QA Metadata Overlay ─────────────────────────────────────────────
+  // Toggle with Alt+Q. Non-intrusive: invisible to students, useful for QA.
+  let qaOverlayVisible = $state(false);
+
+  // Log question metadata to console on every question change (dev + prod)
+  $effect(() => {
+    const q = question as any;
+    if (!q) return;
+    const meta = {
+      id: q.id,
+      bundle_id: q.bundle_id,
+      difficulty: q.difficulty,
+      bloom: q.bloom,
+      icfes_type: q.icfes_type,
+      expected_success: q.expected_success,
+      context_len: q.context?.length ?? 0,
+      has_feedback: Array.isArray(q.options) && q.options.some((o: any) => o.feedback?.length > 0),
+      protocol_version: q.protocol_version,
+      cefr_level: q.cefr_level,
+      periodo: q.periodo,
+    };
+    console.groupCollapsed(`%c[QA] Q${currentIdx + 1} — ${q.id ?? 'no-id'}`, 'color:#10b981;font-weight:bold');
+    console.table(meta);
+    if (meta.context_len === 0) console.warn('[QA] ⚠️ context vacío — split panel no activará');
+    if (!meta.has_feedback) console.warn('[QA] ⚠️ sin feedback en opciones — protocolo desactualizado');
+    console.groupEnd();
+  });
+
   onMount(() => {
     loadProgress();
 
@@ -281,8 +309,19 @@
       }
     }
 
+
     if (examStartTime === 0) examStartTime = Date.now();
     questionStartTime = Date.now();
+
+    // QA overlay keyboard shortcut: Alt+Q (invisible to students, useful for content QA)
+    const handleQAKey = (e: KeyboardEvent) => {
+      if (e.altKey && e.key.toLowerCase() === 'q') {
+        e.preventDefault();
+        qaOverlayVisible = !qaOverlayVisible;
+      }
+    };
+    window.addEventListener('keydown', handleQAKey);
+    (window as any).__qaKeyHandler = handleQAKey;
 
     if (roomCode) {
       roomSyncChannel = supabase
@@ -388,6 +427,8 @@
     clearInterval(timer);
     if (roomSyncChannel) supabase.removeChannel(roomSyncChannel);
     if (focusTracker) focusTracker.destroy();
+    const qaHandler = (window as any).__qaKeyHandler;
+    if (qaHandler) window.removeEventListener('keydown', qaHandler);
   });
 
   function formatTime(seconds: number) {
@@ -702,6 +743,76 @@
       userContext="ExamView"
       questionData={question}
     />
+  {/if}
+
+  <!-- ── QA Metadata Overlay (Alt+Q to toggle) ─────────────────────────
+       Invisible to students. Used for content quality control.
+       Shows question metadata: id, bundle, bloom, ICFES, difficulty, etc. -->
+  {#if qaOverlayVisible}
+    {@const q = question as any}
+    <div
+      transition:fly={{ y: 20, duration: 200 }}
+      class="fixed bottom-20 left-4 z-[9999] max-w-sm w-full pointer-events-none"
+      role="status"
+      aria-label="QA metadata overlay"
+    >
+      <div class="bg-gray-950/95 border border-emerald-500/40 rounded-xl p-4 shadow-2xl backdrop-blur-sm font-mono text-xs">
+        <div class="flex items-center gap-2 mb-3 border-b border-white/10 pb-2">
+          <span class="text-emerald-400 font-bold text-sm">🔬 QA Inspector</span>
+          <span class="text-white/30 text-xs ml-auto">Alt+Q para cerrar</span>
+        </div>
+        <div class="space-y-1.5 text-white/80">
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">ID</span>
+            <span class="text-emerald-300 break-all">{q?.id ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">bundle_id</span>
+            <span class="text-blue-300 break-all">{q?.bundle_id ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">protocol_v</span>
+            <span class="{q?.protocol_version >= '5' ? 'text-emerald-400' : 'text-yellow-400'}">{q?.protocol_version ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">difficulty</span>
+            <span class="text-white">{q?.difficulty ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">bloom</span>
+            <span class="text-purple-300">{q?.bloom ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">icfes_type</span>
+            <span class="text-cyan-300">{q?.icfes_type ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">exp_success</span>
+            <span class="text-white">{q?.expected_success ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">cefr_level</span>
+            <span class="text-orange-300">{q?.cefr_level ?? '—'}</span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">context</span>
+            <span class="{(q?.context?.length ?? 0) > 0 ? 'text-emerald-400' : 'text-red-400'}">
+              {(q?.context?.length ?? 0) > 0 ? `✓ ${q.context.length} chars` : '✗ vacío (sin split-panel)'}
+            </span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">feedback</span>
+            <span class="{(q?.options ?? []).some((o: any) => o.feedback?.length > 0) ? 'text-emerald-400' : 'text-red-400'}">
+              {(q?.options ?? []).some((o: any) => o.feedback?.length > 0) ? '✓ con feedback' : '✗ sin feedback (v<5.2)'}
+            </span>
+          </div>
+          <div class="flex gap-2">
+            <span class="text-white/40 w-28 shrink-0">Q index</span>
+            <span class="text-white">{currentIdx + 1} / {activeQuestions.length}</span>
+          </div>
+        </div>
+      </div>
+    </div>
   {/if}
 
 </div>
