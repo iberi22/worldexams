@@ -8,6 +8,606 @@
   },
   "questions": [
     {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes estructuras está presente en todas las células?",
+      "context": "En el laboratorio del Colegio La Presentación de Bucaramanga, los estudiantes observan al microscopio una muestra de células de cebolla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Membrana celular.",
+          "is_correct": true,
+          "feedback": "Correcto. Todas las células tienen membrana celular, que controla el paso de sustancias."
+        },
+        {
+          "letter": "B",
+          "text": "Pared celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo las células vegetales, hongos y bacterias tienen pared celular."
+        },
+        {
+          "letter": "C",
+          "text": "Cloroplastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo las células vegetales tienen cloroplastos para realizar la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Núcleo definido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células procariotas no tienen núcleo definido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La membrana celular es universal en todos los tipos de células (procariotas y eucariotas, animales y vegetales). Es la estructura que delimita la célula.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v2",
+      "statement": "¿Qué tipo de reproducción celular está ocurriendo?",
+      "context": "En el colegio San José de Cúcuta, se observa al microscopio una célula que se está dividiendo. Se ven dos células hijas idénticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meiosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis produce cuatro células hijas con la mitad de material genético."
+        },
+        {
+          "letter": "B",
+          "text": "Mitosis.",
+          "is_correct": true,
+          "feedback": "Correcto. La mitosis produce dos células hijas genéticamente idénticas a la célula madre."
+        },
+        {
+          "letter": "C",
+          "text": "Fisión binaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fisión binaria es típica de procariotas (bacterias)."
+        },
+        {
+          "letter": "D",
+          "text": "Gemación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gemación produce una célula hija más pequeña a partir de la célula madre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mitosis es el proceso de división celular en células eucariotas que produce dos células hijas idénticas. Es fundamental para el crecimiento y reparación de tejidos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v3",
+      "statement": "¿Cuál de los siguientes es un tejido vegetal?",
+      "context": "En la clase de ciencias de la I.E. Jorge Isaacs de Cali, los estudiantes identifican diferentes tejidos en láminas preparadas de animales y plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido muscular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tejido muscular es animal."
+        },
+        {
+          "letter": "B",
+          "text": "Tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tejido nervioso es exclusivo de animales."
+        },
+        {
+          "letter": "C",
+          "text": "Tejido epidérmico.",
+          "is_correct": true,
+          "feedback": "Correcto. El tejido epidérmico es un tejido protector en plantas que recubre hojas, tallos y raíces."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido óseo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tejido óseo forma los huesos de los animales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los tejidos vegetales incluyen tejidos protectores (epidérmico), conductores (xilema, floema), fundamentales (parénquima) y de sostén (colénquima, esclerénquima).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v4",
+      "statement": "¿Qué ley de Newton explica que la mesa se detenga al dejar de aplicarle fuerza?",
+      "context": "Un estudiante del Colegio Simón Bolívar en Valledupar observa que al empujar una mesa, esta se mueve, pero al dejar de empujarla, se detiene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera ley: Ley de la inercia.",
+          "is_correct": false,
+          "feedback": "Correcto también, pero la razón directa es la existencia de fuerzas que se oponen al movimiento, como el rozamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Segunda ley: $F = m \\times a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda ley relaciona fuerza, masa y aceleración, pero no explica directamente por qué se detiene."
+        },
+        {
+          "letter": "C",
+          "text": "Primera ley: Ley de la inercia, que establece que un objeto en movimiento tiende a seguir moviéndose a menos que una fuerza externa actúe sobre él. La mesa se detiene por la fuerza de rozamiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La mesa se detiene porque el rozamiento es una fuerza externa que se opone al movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Tercera ley: Ley de acción y reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera ley explica que a cada acción le corresponde una reacción igual y opuesta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La primera ley de Newton (inercia) dice que los objetos tienden a mantener su estado de movimiento a menos que una fuerza externa actúe sobre ellos. El rozamiento es esa fuerza que frena la mesa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v5",
+      "statement": "¿Cuál es la aceleración del carrito según la segunda ley de Newton?",
+      "context": "En el laboratorio de la I.E. Técnica de Duitama, los estudiantes aplican una fuerza de 20 N a un carrito de 4 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 20 × 4, pero la fórmula es a = F/m."
+        },
+        {
+          "letter": "B",
+          "text": "24 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en vez de dividir."
+        },
+        {
+          "letter": "C",
+          "text": "5 m/s²",
+          "is_correct": true,
+          "feedback": "Correcto. $a = F/m = 20/4 = 5$ m/s²."
+        },
+        {
+          "letter": "D",
+          "text": "0.2 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 4/20 en lugar de 20/4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La segunda ley de Newton establece que $F = m \\times a$, por lo tanto $a = F/m$. La aceleración es directamente proporcional a la fuerza e inversamente proporcional a la masa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v6",
+      "statement": "¿Qué función cumple esta capa cerosa en la hoja?",
+      "context": "En la huerta escolar de la I.E. San Bartolomé de Neiva, una hoja de la planta de frijol tiene una capa cerosa en su superficie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar la fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis ocurre en los cloroplastos del interior de la hoja."
+        },
+        {
+          "letter": "B",
+          "text": "Absorber agua del ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La capa cerosa repele el agua, no la absorbe."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar la pérdida excesiva de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. La cutícula cerosa impermeabiliza la hoja y reduce la transpiración."
+        },
+        {
+          "letter": "D",
+          "text": "Capturar nutrientes del suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La absorción de nutrientes ocurre en las raíces."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cutícula es una capa cerosa que recubre la epidermis de las hojas y tallos jóvenes. Su función principal es reducir la pérdida de agua por transpiración.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v7",
+      "statement": "Si ambos carros reciben la misma fuerza del motor al inicio, ¿cuál tendrá mayor aceleración?",
+      "context": "En el parque de diversiones de Salitre Mágico en Bogotá, dos niños de diferente masa se suben a sus respectivos carros de una montaña rusa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carro con el niño de mayor masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor masa, menor aceleración para la misma fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "El carro con el niño de menor masa.",
+          "is_correct": true,
+          "feedback": "Correcto. $a = F/m$: a menor masa, mayor aceleración para la misma fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tendrán la misma aceleración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración depende inversamente de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usando la segunda ley de Newton, se puede determinar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segunda ley de Newton muestra que la aceleración es inversamente proporcional a la masa cuando la fuerza es constante. Menos masa = más aceleración.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v8",
+      "statement": "¿Cuál es la principal diferencia estructural entre ambas células?",
+      "context": "En el laboratorio del Colegio de la Universidad Pontificia Bolivariana de Medellín, se comparan células de una hoja de elodea y células de la mucosa bucal humana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula animal tiene membrana y la vegetal no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas tienen membrana celular."
+        },
+        {
+          "letter": "B",
+          "text": "La célula vegetal tiene pared celular y cloroplastos, mientras que la animal no.",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular da rigidez y los cloroplastos permiten la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La célula animal es más grande que la vegetal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente las células vegetales son más grandes."
+        },
+        {
+          "letter": "D",
+          "text": "La célula vegetal tiene núcleo y la animal no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son eucariotas y tienen núcleo definido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las células vegetales se diferencian de las animales por tener pared celular de celulosa, cloroplastos y una vacuola central grande. Las células animales tienen centriolos, que las vegetales no poseen.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v9",
+      "statement": "¿Qué ley de Newton describe esta situación?",
+      "context": "En el gimnasio del colegio, un estudiante aplica una fuerza de 100 N a una pesa y el compañero le dice que, según Newton, la pesa ejerce una fuerza de 100 N de vuelta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera ley (Inercia).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inercia se refiere al estado de movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Segunda ley ($F = m \\times a$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda ley relaciona fuerza, masa y aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "Tercera ley (Acción y Reacción).",
+          "is_correct": true,
+          "feedback": "Correcto. La tercera ley establece que a toda acción le corresponde una reacción igual en magnitud y opuesta en dirección."
+        },
+        {
+          "letter": "D",
+          "text": "Ley de la gravitación universal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ley describe la atracción entre masas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tercera ley de Newton: cuando un cuerpo ejerce una fuerza sobre otro, el segundo ejerce una fuerza igual y opuesta sobre el primero. Las fuerzas siempre se presentan en pares.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v10",
+      "statement": "¿Por qué es importante la mitosis para los organismos pluricelulares como los seres humanos?",
+      "context": "En la feria de la ciencia del Colegio INEM de Pereira, un grupo presenta un experimento sobre la mitosis. Muestran que en la piel humana las células se dividen constantemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para producir gametos (óvulos y espermatozoides).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gametos se producen por meiosis, no por mitosis."
+        },
+        {
+          "letter": "B",
+          "text": "Para el crecimiento, reparación de tejidos y reemplazo de células muertas.",
+          "is_correct": true,
+          "feedback": "Correcto. La mitosis permite el crecimiento y la regeneración de tejidos en organismos pluricelulares."
+        },
+        {
+          "letter": "C",
+          "text": "Para aumentar la variabilidad genética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis produce células idénticas, no hay variabilidad genética."
+        },
+        {
+          "letter": "D",
+          "text": "Para reducir el número de cromosomas a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción cromosómica ocurre en la meiosis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mitosis es esencial para la vida de los organismos pluricelulares porque permite el crecimiento (más células), la reparación de heridas y el reemplazo de células que envejecen o se dañan.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v11",
+      "statement": "¿Qué fuerza actúa sobre la pelota durante todo su recorrido (subida y bajada)?",
+      "context": "En el Colegio Champagnat de Bogotá, un estudiante lanza una pelota hacia arriba. La pelota sube, se detiene un instante y luego baja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza del lanzamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza del lanzamiento solo actúa mientras la mano toca la pelota."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrífuga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay movimiento circular."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de la gravedad.",
+          "is_correct": true,
+          "feedback": "Correcto. La gravedad actúa constantemente hacia abajo durante todo el recorrido."
+        },
+        {
+          "letter": "D",
+          "text": "No actúa ninguna fuerza una vez que la pelota sale de la mano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad siempre está presente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fuerza de gravedad actúa constantemente sobre la pelota, atrayéndola hacia el centro de la Tierra. En la subida, la gravedad frena la pelota; en la bajada, la acelera.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v12",
+      "statement": "¿Qué tipo de tejido vegetal está observando el biólogo y cuál es su función?",
+      "context": "Un biólogo del Jardín Botánico de Medellín está estudiando los tejidos de una planta de café. Encuentra células que forman tubos largos y huecos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido epidérmico; protección contra plagas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El epidérmico es protector pero no forma tubos largos."
+        },
+        {
+          "letter": "B",
+          "text": "Tejido muscular; permitir el movimiento de la planta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no tienen tejido muscular."
+        },
+        {
+          "letter": "C",
+          "text": "Tejido vascular (xilema o floema); transporte de agua, sales minerales y nutrientes.",
+          "is_correct": true,
+          "feedback": "Correcto. El xilema transporta agua y sales, el floema transporta nutrientes orgánicos."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido óseo; dar soporte estructural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no tienen tejido óseo. El soporte lo dan otros tejidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los tejidos vasculares de las plantas son el xilema (transporta agua y minerales desde la raíz) y el floema (transporta nutrientes orgánicos desde las hojas). Forman estructuras tubulares.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v13",
+      "statement": "¿En qué etapa de la vida la mitosis ocurre a mayor velocidad y por qué?",
+      "context": "En la clase de ciencias de la I.E. Normal de Sincelejo, se debate si la reproducción celular por mitosis en la piel humana es más rápida en niños o en adultos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la vejez, porque las células necesitan repararse más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la vejez, la división celular se vuelve más lenta."
+        },
+        {
+          "letter": "B",
+          "text": "En la infancia, porque el organismo está en pleno crecimiento y desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la infancia y adolescencia, la mitosis es más activa para permitir el crecimiento del organismo."
+        },
+        {
+          "letter": "C",
+          "text": "Es igual en todas las edades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de división celular varía a lo largo de la vida."
+        },
+        {
+          "letter": "D",
+          "text": "En la adultez, por el desgaste diario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la adultez la mitosis ocurre principalmente para mantenimiento y reparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tasa de mitosis varía según la etapa de vida. En la infancia es más rápida porque el cuerpo necesita crecer. En la adultez, la mitosis se enfoca en reparación y reemplazo celular.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v14",
+      "statement": "Si la masa del carrito es de 5 kg, ¿cuál será su aceleración neta?",
+      "context": "Dos estudiantes de la I.E. Luis López de Mesa de Villa del Rosario realizan una práctica. Uno empuja un carrito con fuerza de 10 N, el otro lo empuja con fuerza de 15 N en la misma dirección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcula la fuerza neta primero."
+        },
+        {
+          "letter": "B",
+          "text": "3 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza neta es 10 + 15 = 25 N."
+        },
+        {
+          "letter": "C",
+          "text": "5 m/s²",
+          "is_correct": true,
+          "feedback": "Correcto. Fuerza neta = 10 + 15 = 25 N. $a = F/m = 25/5 = 5$ m/s²."
+        },
+        {
+          "letter": "D",
+          "text": "1 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma las fuerzas correctamente primero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando varias fuerzas actúan en la misma dirección, la fuerza neta es la suma de todas. Luego se aplica la segunda ley de Newton: $a = F_{neta}/m$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-7-P1-comprehensive-001-MASTERY-v15",
+      "statement": "Si una planta de tomate se cultiva en un ambiente con baja humedad, ¿qué cambio se esperaría en sus tejidos?",
+      "context": "Un equipo de biólogos de la Universidad del Valle en Cali está investigando cómo los tejidos vegetales responden a diferentes condiciones ambientales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor desarrollo del tejido muscular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no tienen tejido muscular."
+        },
+        {
+          "letter": "B",
+          "text": "Menor desarrollo del tejido vascular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con baja humedad, la planta necesita más transporte."
+        },
+        {
+          "letter": "C",
+          "text": "Mayor desarrollo de la cutícula (tejido epidérmico) para reducir la pérdida de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. En ambientes secos, las plantas desarrollan una cutícula más gruesa para impermeabilizarse."
+        },
+        {
+          "letter": "D",
+          "text": "Mayor cantidad de cloroplastos en la raíz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cloroplastos están principalmente en las hojas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas se adaptan a su ambiente. En condiciones de baja humedad (estrés hídrico), desarrollan una cutícula más gruesa, menor cantidad de estomas y otras adaptaciones para conservar agua.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
       "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v1",
       "statement": "¿Cuál es la función principal del sistema nervioso?",
       "context": "En la clase de ciencias del Colegio Agustín Nieto Caballero de Bogotá, la profesora María explica los sistemas del cuerpo humano.",
