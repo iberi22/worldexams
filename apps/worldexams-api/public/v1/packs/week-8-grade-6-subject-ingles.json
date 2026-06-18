@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v1",
+      "statement": "\"Carlos has a book. It is ___ book.\"",
+      "context": "In Bogotá, students learn the possessive 's.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carlos's",
+          "is_correct": true,
+          "feedback": "Correcto. \"Carlos's book\" = el libro de Carlos."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos book",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el apóstrofe."
+        },
+        {
+          "letter": "C",
+          "text": "Carlos'",
+          "is_correct": false,
+          "feedback": "Posible en algunos estilos, pero \"Carlos's\" es más común y claro."
+        },
+        {
+          "letter": "D",
+          "text": "book Carlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El posesivo 's se usa así: nombre + 's + cosa poseída. \"Carlos's book\" = el libro de Carlos. Para nombres que terminan en s, ambas formas son aceptables.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v2",
+      "statement": "\"Your aunt's daughter is your ___.\"",
+      "context": "In Medellín, students identify family words.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sister",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tu hermana es hija de tus padres."
+        },
+        {
+          "letter": "B",
+          "text": "niece",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrina es hija de tu hermano."
+        },
+        {
+          "letter": "C",
+          "text": "cousin",
+          "is_correct": true,
+          "feedback": "Correcto. La hija de tu tía es tu prima."
+        },
+        {
+          "letter": "D",
+          "text": "grandmother",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería la abuela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Aunt's daughter\" = cousin (prima). \"Uncle's son\" = cousin (primo). Los hijos de los tíos son los primos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v3",
+      "statement": "\"The dog's name\" means ___.",
+      "context": "In Cali, students talk about pets.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El perro se llama",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el significado exacto."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del perro",
+          "is_correct": true,
+          "feedback": "Correcto. \"The dog's name\" = el nombre del perro."
+        },
+        {
+          "letter": "C",
+          "text": "El perro del nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido."
+        },
+        {
+          "letter": "D",
+          "text": "Los perros se llaman",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Dog\" es singular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"X's Y\" = \"Y de X\". The dog's name = el nombre del perro. María's house = la casa de María.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v4",
+      "statement": "\"My mother's sister is my ___. And her husband is my ___.\"",
+      "context": "In Barranquilla, students practice family relationships.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aunt / uncle",
+          "is_correct": true,
+          "feedback": "Correcto. La hermana de mi mamá es mi tía, su esposo es mi tío."
+        },
+        {
+          "letter": "B",
+          "text": "cousin / uncle",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hermana de mi mamá no es mi prima."
+        },
+        {
+          "letter": "C",
+          "text": "aunt / cousin",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esposo de mi tía es mi tío, no mi primo."
+        },
+        {
+          "letter": "D",
+          "text": "grandmother / grandfather",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hermana no es mi abuela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mother's sister = aunt, aunt's husband = uncle. In Colombia it's common to call them \"tía\" and \"tío\" even if they're not blood related.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v5",
+      "statement": "\"My parents' house is big.\" This means ___.",
+      "context": "In Bucaramanga, students use possessive with plural family.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La casa de mis padres es grande",
+          "is_correct": true,
+          "feedback": "Correcto. \"Parents'\" = de los padres (plural)."
+        },
+        {
+          "letter": "B",
+          "text": "La casa de mi papá es grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Parents\" es plural."
+        },
+        {
+          "letter": "C",
+          "text": "La casa de mis papás son grandes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La casa (sujeto) es singular."
+        },
+        {
+          "letter": "D",
+          "text": "Mis padres son grandes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No describe la casa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con plurales que terminan en s, el posesivo se forma agregando solo apóstrofe: parents' house. Con singular: parent's house.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v6",
+      "statement": "\"My ___ name is Laura. She is 8 years old.\"",
+      "context": "In Cartagena, students write about siblings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sister's",
+          "is_correct": true,
+          "feedback": "Correcto. \"My sister's name\" = el nombre de mi hermana."
+        },
+        {
+          "letter": "B",
+          "text": "sister",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin 's no indica posesión."
+        },
+        {
+          "letter": "C",
+          "text": "sisters'",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sisters'\" implicaría que tengo varias hermanas."
+        },
+        {
+          "letter": "D",
+          "text": "sisters",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plural sin posesivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Singular: sister's. Plural: sisters'. \"My sister's name\" (una hermana). \"My sisters' names\" (varias hermanas).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v7",
+      "statement": "\"Those are my cousins. ___ names are Tomás and Sofía.\"",
+      "context": "In Pereira, students use possessive adjectives correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "His",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos primos."
+        },
+        {
+          "letter": "B",
+          "text": "Her",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos."
+        },
+        {
+          "letter": "C",
+          "text": "Their",
+          "is_correct": true,
+          "feedback": "Correcto. \"Their names\" = sus nombres (de ellos)."
+        },
+        {
+          "letter": "D",
+          "text": "Its",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Its\" es singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"My cousins\" = they → their. \"Their names\" (sus nombres). Their house (su casa). Their school (su colegio).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v8",
+      "statement": "\"___ book is this? Is it yours?\"",
+      "context": "In Manizales, students ask about possession.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Who",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Who\" pregunta por persona."
+        },
+        {
+          "letter": "B",
+          "text": "What",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"What\" pregunta por cosa."
+        },
+        {
+          "letter": "C",
+          "text": "Whose",
+          "is_correct": true,
+          "feedback": "Correcto. \"Whose\" pregunta por el dueño."
+        },
+        {
+          "letter": "D",
+          "text": "Which",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Which\" pregunta por opciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Whose\" = ¿de quién? \"Whose book is this?\" = ¿De quién es este libro? Se responde: \"It's María's\" o \"It's mine.\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v9",
+      "statement": "\"Which sentence is CORRECT?\"",
+      "context": "In Cúcuta, students correct errors in sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My brother name is Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"My brother's name.\""
+        },
+        {
+          "letter": "B",
+          "text": "The teachers car is blue.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"The teacher's car.\""
+        },
+        {
+          "letter": "C",
+          "text": "My grandmother's house is beautiful.",
+          "is_correct": true,
+          "feedback": "Correcto. Posesivo bien usado."
+        },
+        {
+          "letter": "D",
+          "text": "The students books are new.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"The students' books.\""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El apóstrofe es esencial para indicar posesión. Sin él, las oraciones cambian de significado o son incorrectas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-v10",
+      "statement": "\"Luis is Ana's father. Ana is Carlos's mother. Carlos is Luis's ___.\"",
+      "context": "In Ibagué, students interpret a family tree.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "son",
+          "is_correct": false,
+          "feedback": "Incorrecto. Luis es el padre de Ana, y Ana es la madre de Carlos. Luis es el abuelo."
+        },
+        {
+          "letter": "B",
+          "text": "father",
+          "is_correct": false,
+          "feedback": "Incorrecto. Luis es el abuelo de Carlos, no el padre."
+        },
+        {
+          "letter": "C",
+          "text": "grandson",
+          "is_correct": true,
+          "feedback": "Correcto. Luis es el abuelo de Carlos, entonces Carlos es el nieto de Luis."
+        },
+        {
+          "letter": "D",
+          "text": "nephew",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es sobrino."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver relaciones familiares: sigue la cadena. Luis → Ana (hija). Ana → Carlos (hijo). Por lo tanto Luis → Carlos (abuelo → nieto).\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W08-family-possessives-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-v1",
       "statement": "What is the structure of present perfect?",
       "context": "At Colegio INEM de Bogotá, students review present perfect.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -442,6 +882,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W08-present-perfect-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

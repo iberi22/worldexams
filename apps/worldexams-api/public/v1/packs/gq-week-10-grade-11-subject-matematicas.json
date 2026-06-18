@@ -10,7 +10,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v1",
       "statement": "¿Cual es el nombre de la curva que representa graficamente a una funcion cuadratica?",
-      "context": "",
+      "context": "Un estudiante en Malabo estudia la forma polinomica de las funciones de segundo grado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v2",
       "statement": "Si el coeficiente $a$ de la funcion $f(x) = ax^2 + bx + c$ es positivo ($a > 0$), ¿hacia donde se abren las ramas de la parabola?",
-      "context": "",
+      "context": "Un profesor en Bata explica como la orientacion de la parabola depende del coeficiente principal $a$.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v3",
       "statement": "¿Como se denomina al punto maximo o minimo de una parabola?",
-      "context": "",
+      "context": "Un estudiante en Ebebiyin busca el punto mas bajo de una trayectoria representada por $f(x) = x^2 - 4x + 5$.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v4",
       "statement": "¿En que punto corta al eje Y la grafica de la funcion $f(x) = x^2 + 7$?",
-      "context": "",
+      "context": "Un arquitecto en Mongomo utiliza la funcion $f(x) = x^2 + 7$ para diseñar la base de una estructura.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.78,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v5",
       "statement": "¿Cual es la formula para encontrar la coordenada $x$ del vertice (o eje de simetria)?",
-      "context": "",
+      "context": "Un tecnico en Malabo calcula la posicion del eje de simetria de una antena parabolica dada por $f(x) = x^2 - 6x + 8$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.72,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v6",
       "statement": "¿Cuales son las coordenadas del vertice $(h, k)$ de esta parabola?",
-      "context": "",
+      "context": "Un estudiante en Annobon grafica la funcion $f(x) = (x - 3)^2 + 2$, que esta en forma canonica.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v7",
       "statement": "¿En que tiempo $t$ alcanza el proyectil su altura maxima?",
-      "context": "",
+      "context": "Un proyectil en Guinea Ecuatorial sigue la funcion de altura $h(t) = -t^2 + 4t$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.68,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v8",
       "statement": "¿Cuales son las raices (puntos de corte con el eje X) de esta funcion?",
-      "context": "",
+      "context": "Un analista en Bata estudia la parabola $f(x) = 2(x-1)(x-5)$ expresada en forma factorizada.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v9",
       "statement": "¿Que se puede concluir sobre las raices de $f(x) = x^2 + 2x + 5$ tras calcular su discriminante?",
-      "context": "",
+      "context": "Un estudiante en Evinayong calcula el discriminante de $f(x) = x^2 + 2x + 5$ para saber si corta al eje X.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.62,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v10",
       "statement": "¿Cual es la ecuacion del eje de simetria de la parabola $f(x) = x^2 - 10x + 2$?",
-      "context": "",
+      "context": "Un profesor en Mongomo explica que todas las parabolas tienen un eje de simetria.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.64,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v11",
       "statement": "¿Cuales son los puntos de corte con el eje X de esta funcion?",
-      "context": "",
+      "context": "Un ingeniero en Ciudad de la Paz analiza la funcion $f(x) = x^2 - 4x + 3$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v12",
       "statement": "¿Como se ha desplazado la grafica de $f(x)$ para obtener $g(x)$?",
-      "context": "",
+      "context": "Un estudiante en Evinayong observa que la parabola $f(x) = x^2$ se transforma en $g(x) = (x + 2)^2 - 5$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.58,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v13",
       "statement": "¿Cual de las siguientes funciones podria representar esta parabola?",
-      "context": "",
+      "context": "En la UNGE se estudia una parabola que no corta al eje X. Se sabe que su vertice esta en $(2, 3)$ y se abre hacia arriba.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v14",
       "statement": "¿Que ocurre con el objeto en el tiempo $t = 5$?",
-      "context": "",
+      "context": "Un fisico en Guinea Ecuatorial analiza la velocidad de un objeto que se frena: $v(t) = t^2 - 10t + 25$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.52,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v15",
       "statement": "¿Cual es la diferencia principal entre las graficas de $f$ y $g$?",
-      "context": "",
+      "context": "Se compara la funcion $f(x) = x^2$ con $g(x) = 3x^2$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.48,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v16",
       "statement": "¿Cual es el valor maximo de esta funcion?",
-      "context": "",
+      "context": "En un taller en Luba se analiza la funcion $f(x) = -x^2 + 6x - 9$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.46,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v17",
       "statement": "¿Cual es el valor maximo que alcanza la funcion $f(x) = -2x^2 + 8x - 6$?",
-      "context": "",
+      "context": "Un estudiante avanzado analiza la funcion $f(x) = -2x^2 + 8x - 6$ para encontrar su valor maximo.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v18",
       "statement": "¿Cual es la ecuacion de la parabola con vertice $(2, 4)$ que pasa por el punto $(0, 0)$?",
-      "context": "",
+      "context": "Se plantea encontrar la ecuacion de una parabola que pasa por el origen y tiene su vertice en $(2, 4)$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.38,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v19",
       "statement": "¿Cual es el area maxima que puede cercar el granjero?",
-      "context": "",
+      "context": "Un granjero en Bata quiere cercar un area rectangular contra una pared recta, usando $40$ metros de valla para los otros tres lados.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v20",
       "statement": "¿Que ocurre con la grafica si el coeficiente $a$ cambia de positivo a negativo mientras $b$ y $c$ se mantienen constantes?",
-      "context": "",
+      "context": "Se analiza el efecto de variar el signo del coeficiente principal $a$ en la funcion $f(x) = ax^2 + bx + c$.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.32,
       "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

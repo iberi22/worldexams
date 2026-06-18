@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la fórmula fundamental para calcular el Interés Simple ($I$)?",
-      "context": "",
+      "context": "Un estudiante de preparatoria en Puebla ahorra parte de su beca y quiere entender cómo se calculan los rendimientos básicos.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.9,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v2",
       "statement": "En el contexto de las matemáticas financieras, ¿qué representa la variable $C$ (Capital)?",
-      "context": "",
+      "context": "Una familia en Veracruz solicita un microcrédito y revisa los términos del contrato.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v3",
       "statement": "¿Cómo se define el Monto ($M$) en un esquema de interés simple?",
-      "context": "",
+      "context": "Un asesor financiero en la CDMX explica la diferencia entre el interés ganado y el dinero total acumulado.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v4",
       "statement": "Para utilizar la tasa de interés ($i$) en la fórmula de interés simple, si el banco ofrece un 12% anual, ¿qué valor decimal debe emplearse?",
-      "context": "",
+      "context": "Un joven planea abrir una cuenta de ahorro y compara diferentes tasas de interés.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v5",
       "statement": "Si se invierten $10,000 pesos a una tasa de interés simple del 5% anual durante 2 años, ¿cuánto dinero se ganará por concepto de intereses?",
-      "context": "",
+      "context": "Un comerciante en Guadalajara invierte $10,000 pesos en un pagaré bancario a tasa simple.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v6",
       "statement": "Calcule el interés simple de un préstamo de $5,000 pesos con una tasa del 24% anual a un plazo de 6 meses.",
-      "context": "",
+      "context": "Una persona en Monterrey pide un préstamo de $5,000 pesos para pagar en 6 meses con interés simple.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v7",
       "statement": "Determine el Monto ($M$) de una inversión de $8,000 pesos al 10% anual simple durante 3 años.",
-      "context": "",
+      "context": "Un pequeño empresario en Querétaro desea saber el valor total de su deuda al finalizar un crédito.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v8",
       "statement": "Si una cuenta paga una tasa de interés simple del 1% mensual, ¿cuál es la ganancia por $20,000 pesos después de un trimestre?",
-      "context": "",
+      "context": "Se analiza el rendimiento de una cuenta que paga intereses mensualmente.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v9",
       "statement": "Si el capital se duplica en una inversión de interés simple en 10 años, ¿cuál es la tasa de interés anual aplicada?",
-      "context": "",
+      "context": "Un ahorrador compara dos instrumentos financieros con diferentes plazos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v10",
       "statement": "Un préstamo de $15,000 pesos generó un monto total de $18,600 pesos en 2 años. Determine la tasa de interés simple anual.",
-      "context": "",
+      "context": "Una persona liquida una deuda y quiere saber cuánto pagó de intereses reales.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v11",
       "statement": "¿Cuánto tiempo (en meses) debe invertirse un capital de $12,000 pesos al 1.5% mensual simple para obtener un interés de $2,700 pesos?",
-      "context": "",
+      "context": "Un inversionista en la Ciudad de México evalúa el tiempo necesario para alcanzar una meta financiera.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v12",
       "statement": "Calcule el interés simple ordinario (año de 360 días) de un capital de $45,000 pesos al 8% anual durante 40 días.",
-      "context": "",
+      "context": "Se analiza el costo de oportunidad de una inversión con días exactos.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v13",
       "statement": "¿Qué capital inicial se requiere para obtener un monto de $25,000 pesos tras 4 años a una tasa de interés simple del 6% anual?",
-      "context": "",
+      "context": "Un estudiante de administración compara el interés ganado en dos cuentas diferentes.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v14",
       "statement": "Una factura de $30,000 pesos tiene un recargo del 0.1% diario por retraso. Si se paga con 20 días de retraso, ¿cuál es el monto total a liquidar?",
-      "context": "",
+      "context": "Un contador en una empresa de transporte calcula el interés moratorio de una factura vencida.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la tasa de interés simple bimestral equivalente a una tasa del 18% anual?",
-      "context": "",
+      "context": "Se estudia el efecto de cambiar la periodicidad de la tasa en el cálculo final.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v16",
       "statement": "Se invierten $50,000 pesos a una tasa del 4% cuatrimestral simple. ¿Qué monto se tendrá después de 2 años?",
-      "context": "",
+      "context": "Un analista financiero en el IPN evalúa una inversión que rinde intereses cada cuatrimestre.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el capital que, invertido al 5% trimestral simple, produce un interés de $3,000 pesos en el mismo tiempo que un capital de $10,000 pesos produce $2,000 pesos al 4% semestral simple?",
-      "context": "",
+      "context": "Un experto en finanzas de la UNAM analiza una situación de interés simple con capital variable en el tiempo (reversión de monto).",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v18",
       "statement": "Un capital de $100,000 pesos se divide en dos partes. La primera se invierte al 10% anual y la segunda al 12% anual, ambas a interés simple. Si el interés total anual es de $10,800 pesos, ¿cuánto se invirtió al 12%?",
-      "context": "",
+      "context": "Un inversionista decide repartir su capital en dos instrumentos con diferentes tasas para diversificar.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v19",
       "statement": "Si una inversión rinde el 15% de interés simple anual, pero la inflación fue del 6% ese mismo año, ¿cuál fue el aumento real aproximado del poder adquisitivo del capital inicial?",
-      "context": "",
+      "context": "Un analista compara el interés simple con la inflación para determinar el rendimiento real.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle-v20",
       "statement": "¿A qué tasa de interés simple anual debe prestarse un capital para que en 20 años el interés sea igual al triple del capital inicial?",
-      "context": "",
+      "context": "Un problema de optimización financiera donde se busca el equilibrio entre dos préstamos.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.15,
       "bundle_id": "MX-MAT-11-2026-W24-matematicas-financieras-interes-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v1",
       "statement": "¿Qué es lo primero que debes hacer antes de empezar a escribir un cuento?",
-      "context": "",
+      "context": "Un taller de escritura creativa en un colegio de Montería.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v2",
       "statement": "¿Cuál es la función del título en un cuento corto?",
-      "context": "",
+      "context": "Eligiendo un título llamativo en un colegio de Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v3",
       "statement": "¿Cuál de estas frases es la más común para iniciar la narración en un cuento infantil?",
-      "context": "",
+      "context": "Usando conectores temporales para iniciar un cuento sobre el Amazonas.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v4",
       "statement": "¿Qué elemento no puede faltar en el **nudo** de tu cuento para que sea emocionante?",
-      "context": "",
+      "context": "El problema central en un cuento sobre un partido de fútbol en Cali.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v5",
       "statement": "Si tu protagonista es una hormiga muy trabajadora, ¿qué adjetivos usarías para describirla mejor?",
-      "context": "",
+      "context": "Describiendo al personaje principal en un cuento sobre una hormiga en Santander.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v6",
       "statement": "¿Cuál de estos finales es el más adecuado para un cuento infantil con desenlace feliz?",
-      "context": "",
+      "context": "Eligiendo el mejor final para un cuento sobre un niño perdido en un centro comercial de Medellín.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v7",
       "statement": "¿Cómo puedes mostrar lo que dicen tus personajes en el cuento?",
-      "context": "",
+      "context": "Usando diálogos en un cuento sobre dos pájaros en el Chocó.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v8",
       "statement": "¿Qué debes revisar después de terminar de escribir el borrador de tu cuento?",
-      "context": "",
+      "context": "Revisando la ortografía de un cuento escrito en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v9",
       "statement": "¿Qué hace que un cuento corto sea \"original\" y creativo?",
-      "context": "",
+      "context": "Evaluando la originalidad en un cuento sobre un deporte inventado en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v10",
       "statement": "¿Cuál sería un buen título para esta historia?",
-      "context": "",
+      "context": "Tienes una idea sobre un gato que quiere ser chef en una pastelería de Pasto.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

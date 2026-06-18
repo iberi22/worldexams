@@ -10,7 +10,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v1",
       "statement": "¿Qué representa gráficamente la solución de un sistema de dos ecuaciones lineales con dos incógnitas?",
-      "context": "",
+      "context": "Un estudiante en un bachillerato en David repasa los conceptos básicos de los sistemas de ecuaciones lineales 2x2.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.9,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el nombre del método que consiste en despejar una incógnita en una ecuación y sustituir su expresión en la otra?",
-      "context": "",
+      "context": "En una clase de matemáticas en la Ciudad de Panamá, se explican los diferentes métodos algebraicos de resolución.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v3",
       "statement": "Si las rectas que representan un sistema de ecuaciones son paralelas y distintas, ¿cuántas soluciones posee el sistema?",
-      "context": "",
+      "context": "Un analista en Colón observa el comportamiento de dos rutas de transporte que no poseen puntos comunes en el mapa.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v4",
       "statement": "¿Es el par (x=2, y=3) una solución para el sistema: x + y = 5 y 2x - y = 1?",
-      "context": "",
+      "context": "Un comerciante en Santiago desea verificar si un par de valores satisface su registro diario de ventas.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v5",
       "statement": "En el sistema: 3x + y = 7 y 2x - 3y = 1, ¿por qué número conviene multiplicar la primera ecuación para eliminar la variable y?",
-      "context": "",
+      "context": "Un estudiante en Penonomé está resolviendo un sistema por reducción y debe elegir un multiplicador adecuado.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v6",
       "statement": "Resuelve por sustitución: y = 2x y x + y = 15. ¿Cuál es el valor de la incógnita x?",
-      "context": "",
+      "context": "Un artesano vende sombreros y carteras en Los Santos. Utiliza un sistema para determinar sus ventas individuales.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v7",
       "statement": "Halla la solución del sistema mediante reducción: x + y = 10 y x - y = 4.",
-      "context": "",
+      "context": "Un técnico en refrigeración en Chitré necesita encontrar el equilibrio entre dos flujos representados linealmente.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v8",
       "statement": "Encuentra los valores de x e y en el sistema: 2x + y = 8 y x + y = 5.",
-      "context": "",
+      "context": "Un agricultor en Boquete plantea un sistema para calcular la cantidad de sacos de café de diferentes variedades.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v9",
       "statement": "Resuelve por igualación: x = 3y - 1 y x = y + 5. ¿Cuál es el par de valores?",
-      "context": "",
+      "context": "Un analista logístico en el Canal de Panamá calcula el tránsito de buques usando el método de igualación.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v10",
       "statement": "Resuelve el sistema: 3x + 2y = 12 y 5x - 2y = 4.",
-      "context": "",
+      "context": "Un estudiante en Aguadulce resuelve un problema de mezclas químicas usando un sistema de dos variables.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v11",
       "statement": "Resuelve el sistema: x/2 + y = 4 y x - y = 2.",
-      "context": "",
+      "context": "Un economista en Panamá analiza el mercado y plantea un sistema que involucra una fracción simple.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v12",
       "statement": "¿Qué tipo de sistema representan las ecuaciones 2x - y = 5 y -4x + 2y = -10?",
-      "context": "",
+      "context": "Un arquitecto en la Ciudad del Saber evalúa la consistencia de dos planos lineales paralelos.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v13",
       "statement": "Halla la solución del sistema: x + y = 100 y 0.2x + 0.5y = 35.",
-      "context": "",
+      "context": "Un farmacéutico en Panamá mezcla dos soluciones para obtener una concentración usando un sistema decimal.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es el valor del determinante principal del sistema: 4x + 3y = 11 y 2x - 5y = -1?",
-      "context": "",
+      "context": "Un ingeniero de tránsito cerca del Puente de las Américas utiliza determinantes para flujos vehiculares.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v15",
       "statement": "En el sistema x + y + z = 6, y = 2 y z = 3, ¿cuál es el valor de x?",
-      "context": "",
+      "context": "En un problema de olimpiada matemática se plantea un sistema con tres incógnitas mediante sustitución simple.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v16",
       "statement": "Halla el valor de x en el sistema: 3x - 4y = 13 y 2x + 3y = -14.",
-      "context": "",
+      "context": "Un arqueólogo en Panamá Viejo modela hallazgos usando un sistema 2x2 con coeficientes variados.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.45,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v17",
       "statement": "¿Para qué valor de k el sistema kx + 2y = 10 y 3x + y = 5 posee infinitas soluciones?",
-      "context": "",
+      "context": "Un científico ambiental analiza el equilibrio de gases mediante condiciones paramétricas en un sistema.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v18",
       "statement": "En un sistema 3x3, si x + y = 5, y + z = 7 y x + z = 8, ¿cuál es el valor de la suma total x + y + z?",
-      "context": "",
+      "context": "Un experto en finanzas resuelve un sistema 3x3 para determinar inversiones en diferentes fondos bancarios.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v19",
       "statement": "Halla la solución x para el sistema 3x3: x+y+z=6, x-y+z=2 y 2x+y-z=1.",
-      "context": "",
+      "context": "Reto de alta complejidad sobre la intersección de tres planos en el espacio para ingeniería.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.3,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v20",
       "statement": "Determina el valor de x en el sistema: 2/x + 3/y = 2 y 4/x - 9/y = -1.",
-      "context": "",
+      "context": "Un criptógrafo analiza la seguridad basada en un sistema que requiere un cambio de variable racional.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.25,
       "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

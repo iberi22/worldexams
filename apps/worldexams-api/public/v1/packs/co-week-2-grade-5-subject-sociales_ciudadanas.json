@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.202Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v1",
+      "statement": "¿Qué es un mapa?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una fotografía de la Tierra tomada desde el espacio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una fotografía espacial no es un mapa, aunque muestra la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Una representación gráfica y a escala de la superficie terrestre o de una parte de ella",
+          "is_correct": true,
+          "feedback": "Correcto. Un mapa es una representación simplificada de la Tierra con símbolos y escala."
+        },
+        {
+          "letter": "C",
+          "text": "Un dibujo artístico de un lugar imaginario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mapas representan lugares reales de manera técnica."
+        },
+        {
+          "letter": "D",
+          "text": "Un libro de geografía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un libro puede contener mapas pero no es un mapa en sí mismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un mapa es una representación gráfica y a escala de la superficie terrestre o de una parte de ella. Los mapas utilizan símbolos, colores y leyendas para mostrar información geográfica como ríos, montañas, ciudades y carreteras.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes elementos es esencial en un mapa?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una fotografía del lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mapas no necesitan fotografías."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del autor del mapa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no es esencial para leer el mapa."
+        },
+        {
+          "letter": "C",
+          "text": "La rosa de los vientos o los puntos cardinales",
+          "is_correct": true,
+          "feedback": "Correcto. Todo mapa debe indicar la orientación para ubicar el norte y demás direcciones."
+        },
+        {
+          "letter": "D",
+          "text": "La fecha exacta de creación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha puede ser útil pero no es esencial para la lectura del mapa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo mapa debe tener elementos básicos como: título, rosa de los vientos (orientación), escala, leyenda de símbolos y las coordenadas. La rosa de los vientos indica los puntos cardinales y permite orientarse correctamente.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v3",
+      "statement": "¿Qué es un plano?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una representación a escala de un espacio pequeño como una casa, un barrio o un salón de clases",
+          "is_correct": true,
+          "feedback": "Correcto. Los planos representan espacios reducidos con gran detalle."
+        },
+        {
+          "letter": "B",
+          "text": "Un mapa de todo el mundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mapa del mundo es un mapamundi, no un plano."
+        },
+        {
+          "letter": "C",
+          "text": "Una fotografía aérea de una ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una fotografía aérea no es un plano, aunque puede usarse para crear uno."
+        },
+        {
+          "letter": "D",
+          "text": "Un dibujo sin escala de un lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los planos siempre tienen escala y medidas precisas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un plano es una representación gráfica a escala de un espacio pequeño, como un edificio, una casa, un barrio o un salón de clases. Los planos muestran con detalle la distribución de los espacios y las distancias entre los objetos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v4",
+      "statement": "Si en un mapa de Colombia la escala es 1:5.000.000, esto significa que:",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 centímetro en el mapa equivale a 5 kilómetros en la realidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5.000.000 cm = 50 km, no 5 km."
+        },
+        {
+          "letter": "B",
+          "text": "1 centímetro en el mapa equivale a 50 kilómetros en la realidad",
+          "is_correct": true,
+          "feedback": "Correcto. 5.000.000 centímetros equivalen a 50 kilómetros."
+        },
+        {
+          "letter": "C",
+          "text": "El mapa es 5 millones de veces más grande que la realidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mapa es 5 millones de veces más pequeño, no más grande."
+        },
+        {
+          "letter": "D",
+          "text": "5 centímetros en el mapa equivalen a 1 kilómetro en la realidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala indica la relación entre medida del mapa y realidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala 1:5.000.000 significa que 1 centímetro en el mapa representa 5.000.000 de centímetros en la realidad. Como 1 km = 100.000 cm, entonces 5.000.000 cm = 50 km. La escala permite calcular distancias reales entre lugares representados en el mapa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v5",
+      "statement": "Las líneas imaginarias que van de polo a polo, como el meridiano de Greenwich, se llaman:",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paralelos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paralelos son líneas horizontales que cruzan el planeta."
+        },
+        {
+          "letter": "B",
+          "text": "Trópicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los trópicos son paralelos específicos (Cáncer y Capricornio)."
+        },
+        {
+          "letter": "C",
+          "text": "Meridianos",
+          "is_correct": true,
+          "feedback": "Correcto. Los meridianos son líneas imaginarias que van del Polo Norte al Polo Sur."
+        },
+        {
+          "letter": "D",
+          "text": "Ecuador",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ecuador es un paralelo, el principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los meridianos son líneas imaginarias que van de polo a polo. El meridiano de Greenwich es el principal (0°) y divide la Tierra en hemisferio occidental y hemisferio oriental. Colombia está al occidente del meridiano de Greenwich.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v6",
+      "statement": "La línea del Ecuador es un paralelo que divide la Tierra en:",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Este y Oeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hemisferios este y oeste los divide el meridiano de Greenwich."
+        },
+        {
+          "letter": "B",
+          "text": "Norte y Sur",
+          "is_correct": true,
+          "feedback": "Correcto. La línea del Ecuador divide la Tierra en hemisferio norte y hemisferio sur."
+        },
+        {
+          "letter": "C",
+          "text": "Continental y oceánico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no corresponde a la división por el Ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "Cálido y frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque influye en el clima, la división geográfica es norte-sur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La línea del Ecuador es el paralelo 0° que divide la Tierra en dos hemisferios: hemisferio norte o boreal y hemisferio sur o austral. Colombia está atravesada por la línea del Ecuador en su extremo sur, cerca de la frontera con Ecuador.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v7",
+      "statement": "En un plano del colegio, la biblioteca está marcada con un símbolo de un libro. ¿Dónde debe buscar un estudiante para entender qué significa ese símbolo?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la rosa de los vientos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rosa de los vientos indica orientación, no el significado de los símbolos."
+        },
+        {
+          "letter": "B",
+          "text": "En la escala del mapa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala indica la relación de distancia, no el significado de los símbolos."
+        },
+        {
+          "letter": "C",
+          "text": "En la leyenda o convenciones",
+          "is_correct": true,
+          "feedback": "Correcto. La leyenda explica el significado de los símbolos, colores y líneas usados en el mapa o plano."
+        },
+        {
+          "letter": "D",
+          "text": "En el título del mapa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título indica el tema del mapa, no el significado de los símbolos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La leyenda o convenciones de un mapa explica el significado de todos los símbolos, colores y líneas utilizados. Es una herramienta fundamental para interpretar correctamente la información que el mapa nos quiere transmitir.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v8",
+      "statement": "Un profesor le pide a sus estudiantes ubicar Bogotá en un mapa de Colombia usando coordenadas. Las coordenadas aproximadas de Bogotá son 4° N y 74° O. ¿Qué significa esta información?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá está a 4 grados del Ecuador y 74 grados de Greenwich al este",
+          "is_correct": false,
+          "feedback": "Incorrecto. 74° O significa oeste, no este."
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá está a 4 grados al norte del Ecuador y a 74 grados al oeste de Greenwich",
+          "is_correct": true,
+          "feedback": "Correcto. Las coordenadas indican latitud norte y longitud oeste."
+        },
+        {
+          "letter": "C",
+          "text": "Bogotá está a 4 grados al sur del Ecuador y 74 grados al este de Greenwich",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá está en el hemisferio norte y al occidente de Greenwich."
+        },
+        {
+          "letter": "D",
+          "text": "Bogotá está a 4 grados al oeste del Ecuador y 74 grados al norte de Greenwich",
+          "is_correct": false,
+          "feedback": "Incorrecto. La latitud se mide desde el Ecuador (norte-sur) y la longitud desde Greenwich (este-oeste)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las coordenadas geográficas se expresan en latitud (distancia desde el Ecuador hacia el norte o sur) y longitud (distancia desde el meridiano de Greenwich hacia el este u oeste). Bogotá está a 4° de latitud norte y 74° de longitud oeste.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v9",
+      "statement": "En un plano de la ciudad, la distancia entre la plaza principal y el hospital es de 8 centímetros. Si la escala del plano es 1:10.000, ¿cuál es la distancia real?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 cm × 10.000 = 80.000 cm = 800 m, no 80 m."
+        },
+        {
+          "letter": "B",
+          "text": "8 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 80.000 cm = 0,8 km, no 8 km."
+        },
+        {
+          "letter": "C",
+          "text": "800 metros",
+          "is_correct": true,
+          "feedback": "Correcto. 8 cm × 10.000 = 80.000 cm = 800 metros."
+        },
+        {
+          "letter": "D",
+          "text": "80 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Serían 800 metros, una distancia mucho menor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular la distancia real usando la escala, se multiplica la distancia en el mapa por el denominador de la escala: 8 cm × 10.000 = 80.000 cm. Como 1 metro = 100 cm, entonces 80.000 cm ÷ 100 = 800 metros. Esto significa que la plaza y el hospital están separados por 800 metros en la realidad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v10",
+      "statement": "Dos estudiantes comparan dos mapas de Colombia. Uno es un mapa político (escala pequeña, 1:10.000.000) y el otro es un plano de Bogotá (escala grande, 1:25.000). ¿Cuál afirmación es correcta?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mapa de Colombia muestra más detalles que el plano de Bogotá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las escalas pequeñas muestran menos detalles, no más."
+        },
+        {
+          "letter": "B",
+          "text": "El plano de Bogotá muestra la ciudad con más detalle que el mapa de Colombia",
+          "is_correct": true,
+          "feedback": "Correcto. Las escalas grandes (denominador pequeño) muestran más detalle de áreas más reducidas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos mapas muestran la misma cantidad de detalle",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de detalle depende de la escala."
+        },
+        {
+          "letter": "D",
+          "text": "El mapa de Colombia muestra las calles de Bogotá en detalle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mapa nacional a escala 1:10.000.000 no puede mostrar calles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entre más grande es la escala (denominador más pequeño), más detalle se muestra. El plano de Bogotá (1:25.000) tiene una escala más grande que el mapa de Colombia (1:10.000.000), por lo que permite ver calles, parques y edificios con mayor detalle. Los mapas nacionales solo muestran ciudades, carreteras principales y accidentes geográficos grandes.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W02-mapas-planos-001-MASTERY",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

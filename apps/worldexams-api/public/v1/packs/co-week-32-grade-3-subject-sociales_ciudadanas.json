@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.159Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v1",
+      "statement": "Cual es el ave nacional de Colombia?",
+      "context": "I.E. San Bartolome, Bogota. Fauna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El condor de los Andes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) La guacamaya.",
+          "is_correct": false,
+          "feedback": "No es el ave nacional."
+        },
+        {
+          "letter": "C",
+          "text": "C) El colibri.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) El gallo.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El condor de los Andes es el ave nacional de Colombia, simbolo de libertad en el escudo nacional.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v2",
+      "statement": "Cual es la flor nacional de Colombia?",
+      "context": "I.E. Los Andes, Pasto. Flora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La orquidea (Cattleya trianae).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) La rosa.",
+          "is_correct": false,
+          "feedback": "No es la flor nacional."
+        },
+        {
+          "letter": "C",
+          "text": "C) El girasol.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) El clavel.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La orquidea Cattleya trianae es la flor nacional de Colombia, con colores de la bandera.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v3",
+      "statement": "Que arbol es el arbol nacional de Colombia?",
+      "context": "I.E. INEM, Medellin. Palma de cera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palma de cera del Quindio.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) El eucalipto.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "C) El pino.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) El roble.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palma de cera del Quindio es el arbol nacional de Colombia. Puede alcanzar hasta 60 metros de altura.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v4",
+      "statement": "Por que Colombia es considerada un pais mega diverso?",
+      "context": "I.E. Fe y Alegria, Cali. Biodiversidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene una enorme cantidad de especies de plantas y animales en todo su territorio.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque es grande.",
+          "is_correct": false,
+          "feedback": "No solo por tamanio."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque tiene petroleo.",
+          "is_correct": false,
+          "feedback": "Es por biodiversidad."
+        },
+        {
+          "letter": "D",
+          "text": "D) Porque tiene muchos rios.",
+          "is_correct": false,
+          "feedback": "Es por especies."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia es el segundo pais mas biodiverso del mundo, con miles de especies de fauna y flora.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v5",
+      "statement": "En el zoologico, los ninos ven jaguares, osos hormigueros y delfines. Son animales de:",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fauna representativa de Colombia, que habita en diferentes regiones.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Otro pais.",
+          "is_correct": false,
+          "feedback": "Son colombianos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo la Amazonia.",
+          "is_correct": false,
+          "feedback": "De varias regiones."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo los llanos.",
+          "is_correct": false,
+          "feedback": "De varias regiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El jaguar, el oso hormiguero y el delfin rosado son especies representativas de Colombia.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v6",
+      "statement": "En el Amazonas colombiano, que tipo de animales encontramos?",
+      "context": "I.E. Simon Bolivar, Leticia. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delfines rosados, jaguares, monos, anacondas y guacamayas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo peces.",
+          "is_correct": false,
+          "feedback": "Hay muchos mas."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo aves.",
+          "is_correct": false,
+          "feedback": "Hay mamiferos y reptiles."
+        },
+        {
+          "letter": "D",
+          "text": "D) Pingueinos.",
+          "is_correct": false,
+          "feedback": "No hay en Amazonas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Amazonia colombiana alberga una gran diversidad de fauna.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v7",
+      "statement": "Por que debemos cuidar la fauna y flora de Colombia?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son patrimonio natural del pais y muchas especies estan en peligro de extincion.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No es necesario.",
+          "is_correct": false,
+          "feedback": "Si es necesario."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo las flores necesitan cuidado.",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Los animales no necesitan proteccion.",
+          "is_correct": false,
+          "feedback": "Si necesitan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biodiversidad colombiana es un tesoro que debemos proteger para las futuras generaciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-v8",
+      "statement": "Que pasaria si desapareciera el condor de los Andes?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perderiamos un simbolo nacional y se afectaria el equilibrio ecologico de las altas montanas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No pasaria nada.",
+          "is_correct": false,
+          "feedback": "Si afectaria."
+        },
+        {
+          "letter": "C",
+          "text": "C) Otro ave lo reemplazaria.",
+          "is_correct": false,
+          "feedback": "No es igual."
+        },
+        {
+          "letter": "D",
+          "text": "D) Seria mejor.",
+          "is_correct": false,
+          "feedback": "No, es una perdida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada especie cumple una funcion en el ecosistema. Proteger la biodiversidad es proteger la vida.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W32-fauna-y-flora-representativa-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

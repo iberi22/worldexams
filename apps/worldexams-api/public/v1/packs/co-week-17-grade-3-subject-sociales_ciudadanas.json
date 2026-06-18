@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.152Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v1",
+      "statement": "Cual es un derecho fundamental de los ninos?",
+      "context": "I.E. Simon Bolivar, Sincelejo. Repaso derechos nino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a alimentacion, salud y educacion.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derecho a trabajar.",
+          "is_correct": false,
+          "feedback": "No es derecho."
+        },
+        {
+          "letter": "C",
+          "text": "C) Derecho a votar.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Derecho a decidir leyes.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos fundamentales de los ninos incluyen alimentacion, salud y educacion segun el Codigo de Infancia.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v2",
+      "statement": "Que derecho garantiza el registro civil?",
+      "context": "I.E. San Jose, Pasto. Repaso identidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la identidad del nino.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derecho a recreacion.",
+          "is_correct": false,
+          "feedback": "Es identidad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Derecho a salud.",
+          "is_correct": false,
+          "feedback": "Es identidad."
+        },
+        {
+          "letter": "D",
+          "text": "D) Derecho a proteccion.",
+          "is_correct": false,
+          "feedback": "Es identidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El registro civil da identidad legal al nino.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v3",
+      "statement": "Por que son importantes las normas en el aula?",
+      "context": "I.E. Inem, Valledupar. Repaso normas aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crean ambiente ordenado para aprender.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Para controlar estudiantes.",
+          "is_correct": false,
+          "feedback": "Es para bien comun."
+        },
+        {
+          "letter": "C",
+          "text": "C) Para prohibir diversion.",
+          "is_correct": false,
+          "feedback": "Organizan."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo para castigar.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las normas de aula permiten un ambiente de aprendizaje.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v4",
+      "statement": "Por que debemos cuidar los parques?",
+      "context": "I.E. Fe y Alegria, Medellin. Repaso comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son espacios de todos y debemos mantenerlos limpios.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque la policia obliga.",
+          "is_correct": false,
+          "feedback": "Es responsabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo los adultos deben.",
+          "is_correct": false,
+          "feedback": "Todos."
+        },
+        {
+          "letter": "D",
+          "text": "D) No es necesario.",
+          "is_correct": false,
+          "feedback": "Si."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los parques son bienes comunes que todos debemos cuidar.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v5",
+      "statement": "Un nino no tiene registro civil. Que derecho se vulnera?",
+      "context": "I.E. Gabriel Garcia, Bogota. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la identidad, no existe legalmente.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derecho a recreacion.",
+          "is_correct": false,
+          "feedback": "Es identidad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Derecho a educacion.",
+          "is_correct": false,
+          "feedback": "Es identidad."
+        },
+        {
+          "letter": "D",
+          "text": "D) Todos.",
+          "is_correct": false,
+          "feedback": "Sin identidad muchos derechos se afectan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sin identidad, los ninos no pueden acceder a servicios.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v6",
+      "statement": "En el salon, un nino se burla de otro. Que norma se viola?",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma de respeto mutuo en el aula.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Norma de puntualidad.",
+          "is_correct": false,
+          "feedback": "Es respeto."
+        },
+        {
+          "letter": "C",
+          "text": "C) Norma de uniforme.",
+          "is_correct": false,
+          "feedback": "Es respeto."
+        },
+        {
+          "letter": "D",
+          "text": "D) Norma de tareas.",
+          "is_correct": false,
+          "feedback": "Es respeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Burlarse viola el derecho al respeto de los companeros.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v7",
+      "statement": "Relacion entre derechos y deberes.",
+      "context": "I.E. Los Libertadores, Cali. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cada derecho le corresponde un deber. Ej: derecho a educacion implica deber de estudiar.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derechos son mas importantes.",
+          "is_correct": false,
+          "feedback": "Van juntos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Deberes no importan.",
+          "is_correct": false,
+          "feedback": "Si importan."
+        },
+        {
+          "letter": "D",
+          "text": "D) No hay relacion.",
+          "is_correct": false,
+          "feedback": "Si la hay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Derechos y deberes son complementarios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-v8",
+      "statement": "\"Solo tengo derechos, no deberes.\" Es correcto?",
+      "context": "I.E. San Felipe, Cali. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, todos tenemos derechos y deberes por igual.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Si, los deberes son para adultos.",
+          "is_correct": false,
+          "feedback": "Todos tienen deberes."
+        },
+        {
+          "letter": "C",
+          "text": "C) Si, porque soy nino.",
+          "is_correct": false,
+          "feedback": "Ninos tambien tienen deberes."
+        },
+        {
+          "letter": "D",
+          "text": "D) Los deberes son opcionales.",
+          "is_correct": false,
+          "feedback": "Son obligatorios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todos, incluso los ninos, tienen derechos y deberes.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W17-repaso-p3-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

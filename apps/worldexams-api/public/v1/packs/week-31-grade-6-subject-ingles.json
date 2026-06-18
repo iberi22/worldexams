@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v1",
+      "statement": "\"Nadar\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "swim",
+          "is_correct": true,
+          "feedback": "Correcto. Swim = nadar."
+        },
+        {
+          "letter": "B",
+          "text": "run",
+          "is_correct": false,
+          "feedback": "Incorrecto. Run = correr."
+        },
+        {
+          "letter": "C",
+          "text": "dance",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dance = bailar."
+        },
+        {
+          "letter": "D",
+          "text": "sing",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sing = cantar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Free time activities: swim (nadar), run (correr), dance (bailar), sing (cantar), read (leer), draw (dibujar).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v2",
+      "statement": "\"I like to play ___.\" (fútbol)",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "soccer",
+          "is_correct": true,
+          "feedback": "Correcto. Soccer = fútbol."
+        },
+        {
+          "letter": "B",
+          "text": "basketball",
+          "is_correct": false,
+          "feedback": "Incorrecto. Basketball = baloncesto."
+        },
+        {
+          "letter": "C",
+          "text": "volleyball",
+          "is_correct": false,
+          "feedback": "Incorrecto. Volleyball = voleibol."
+        },
+        {
+          "letter": "D",
+          "text": "tennis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tennis = tenis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sports: soccer/football (fútbol), basketball (baloncesto), volleyball (voleibol), tennis (tenis), cycling (ciclismo).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v3",
+      "statement": "\"Can you swim?\" \"Yes, I ___.\"",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correcto. Yes, I can."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrecto. Can pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Short answer with can: Yes, I can. / No, I can't. Can = poder/saber hacer.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v4",
+      "statement": "\"She ___ play the guitar.\" (sabe)",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correcto. She can play."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can + verb: I can swim, she can dance, they can sing. Can always uses the base verb.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v5",
+      "statement": "\"I can't ___ a bicycle.\"",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ride",
+          "is_correct": true,
+          "feedback": "Correcto. Ride a bike = montar bicicleta."
+        },
+        {
+          "letter": "B",
+          "text": "riding",
+          "is_correct": false,
+          "feedback": "Incorrecto. After can't, use base verb."
+        },
+        {
+          "letter": "C",
+          "text": "rode",
+          "is_correct": false,
+          "feedback": "Incorrecto. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "rides",
+          "is_correct": false,
+          "feedback": "Incorrecto. Third person."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can't + base verb: I can't ride, she can't swim, they can't dance.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v6",
+      "statement": "\"___ you play chess?\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can",
+          "is_correct": true,
+          "feedback": "Correcto. Can you play?"
+        },
+        {
+          "letter": "B",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Posible pero can pregunta por habilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can you...? = ¿Puedes/Sabes...? \"Can you play chess?\" = ¿Sabes jugar ajedrez?\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v7",
+      "statement": "\"In my free time, I like ___ books.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reading",
+          "is_correct": true,
+          "feedback": "Correcto. Like + verb-ing."
+        },
+        {
+          "letter": "B",
+          "text": "read",
+          "is_correct": false,
+          "feedback": "Incorrecto. Like + read no es correcto."
+        },
+        {
+          "letter": "C",
+          "text": "reads",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "to read",
+          "is_correct": false,
+          "feedback": "También correcto (like to read) pero -ing es más común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Like + -ing: I like reading, I like swimming. Also: like + to + verb: I like to read.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v8",
+      "statement": "\"He can ___ very fast.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "run",
+          "is_correct": true,
+          "feedback": "Correcto. Can + base verb."
+        },
+        {
+          "letter": "B",
+          "text": "runs",
+          "is_correct": false,
+          "feedback": "Incorrecto. No -s after can."
+        },
+        {
+          "letter": "C",
+          "text": "running",
+          "is_correct": false,
+          "feedback": "Incorrecto. No -ing after can."
+        },
+        {
+          "letter": "D",
+          "text": "ran",
+          "is_correct": false,
+          "feedback": "Incorrecto. No past after can."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "After can, always use base verb: I can run, he can run, they can run.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v9",
+      "statement": "\"I can swim but I can't play soccer.\" What can't he do?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Play soccer",
+          "is_correct": true,
+          "feedback": "Correcto. Can't play soccer."
+        },
+        {
+          "letter": "B",
+          "text": "Swim",
+          "is_correct": false,
+          "feedback": "Incorrecto. He can swim."
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can = sí sabe/puede. Can't = no sabe/puede. Identify what he can't do.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-v10",
+      "statement": "\"You need a ball to play ___.\"",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "soccer",
+          "is_correct": true,
+          "feedback": "Correcto. Soccer needs a ball."
+        },
+        {
+          "letter": "B",
+          "text": "swimming",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ball needed."
+        },
+        {
+          "letter": "C",
+          "text": "reading",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reading needs a book."
+        },
+        {
+          "letter": "D",
+          "text": "singing",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ball needed."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sports equipment: soccer → ball, swimming → pool, reading → book, singing → voice.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W31-free-time-activities-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-v1",
       "statement": "Which question word asks about TIME?",
       "context": "At Liceo de la Sabana de Barranquilla, teacher reviews question words.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W31-question-formation-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

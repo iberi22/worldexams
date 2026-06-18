@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v1",
       "statement": "¿Qué elemento fundamental comparten la literatura afrocolombiana y la literatura indígena en su origen y desarrollo?",
-      "context": "",
+      "context": "Al finalizar el año escolar, los estudiantes de grado séptimo en una escuela de Tunja hacen un repaso de la diversidad literaria de Colombia, incluyendo la literatura afro e indígena.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v2",
       "statement": "¿Cuál de estos textos se caracteriza por ser una estrofa de cuatro versos de arte menor que suele ser cantada o improvisada en las fiestas populares?",
-      "context": "",
+      "context": "Durante el examen final, se pide clasificar diferentes tipos de textos: una crónica de Indias, una copla popular y un refrán.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v3",
       "statement": "¿Qué concepto literario se ilustra mejor en esta comparación de dos versiones sobre el mismo hecho?",
-      "context": "",
+      "context": "Un texto dice: \"Mientras el cronista español escribía sobre el 'descubrimiento' de un nuevo mundo, en la maloca, el abuelo indígena narraba la llegada de los hombres de metal como una herida en el cuerpo de la tierra\".",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v4",
       "statement": "¿Cuál es la función pedagógica implícita en este tipo de coplas de la tradición oral?",
-      "context": "",
+      "context": "En una copla se lee: \"El que quiera ser mi amigo / ha de tener tres condiciones: / que no sea mentiroso, / ni use falsas intenciones\".",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v5",
       "statement": "¿Cuál de las siguientes actividades integraría mejor los temas de literatura afro, indígena y tradición oral vistos en el año?",
-      "context": "",
+      "context": "Imagina que debes organizar un evento escolar para celebrar el \"Día de la Diversidad Cultural\" en tu colegio en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v6",
       "statement": "Si aplicamos este refrán al análisis de las crónicas de Indias escritas por los conquistadores para impresionar al Rey, ¿qué conclusión crítica podríamos sacar?",
-      "context": "",
+      "context": "Un refrán dice: \"No es oro todo lo que reluce\".",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v7",
       "statement": "¿Cuál es el significado metafórico de la frase \"mi pluma no tiene tinta, tiene sangre\"?",
-      "context": "",
+      "context": "Analiza esta frase de un poema afrocolombiano contemporáneo: \"Mi pluma no tiene tinta, tiene sangre de mis abuelos que bogaron por el río\".",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v8",
       "statement": "¿Cómo se relaciona este refrán con la función de las leyendas de espantos (como la Llorona o el Mohán) en las comunidades rurales?",
-      "context": "",
+      "context": "Un refrán muy conocido en Colombia es: \"Cada cual es dueño de su miedo\".",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v9",
       "statement": "¿Cuál es la respuesta más acertada desde una perspectiva de identidad y riqueza cultural nacional?",
-      "context": "",
+      "context": "Un crítico literario afirma: \"La literatura colombiana del siglo XXI ya no necesita mirar a los indígenas ni a los afros, porque ahora somos ciudadanos del mundo digital\".",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v10",
       "statement": "¿Cuál de las siguientes conclusiones refleja una evaluación profunda y ética del proceso de aprendizaje?",
-      "context": "",
+      "context": "Al terminar el año, se te pide evaluar cuál ha sido el aporte más importante del estudio de la literatura y la tradición oral para tu formación como ciudadano colombiano.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes expresiones corresponde a la forma básica de una función exponencial?",
-      "context": "",
+      "context": "Martina identifica la estructura de una función exponencial en su colegio de Santiago.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.85,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v2",
       "statement": "¿En qué punto intersecta al eje Y la función $f(x) = a^x$ (con $a > 0$)?",
-      "context": "",
+      "context": "Un estudiante analiza el intercepto con el eje Y de una función exponencial.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.8,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v3",
       "statement": "Dada la función $f(x) = 3^x$, ¿cuál es el valor de $f(4)$?",
-      "context": "",
+      "context": "Se requiere calcular el valor de una función exponencial para una preimagen dada.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.75,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v4",
       "statement": "¿Bajo qué condición la función $f(x) = a^x$ es decreciente en todo su dominio?",
-      "context": "",
+      "context": "Camila analiza el crecimiento o decrecimiento de la función exponencial.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.7,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v5",
       "statement": "Si $f(x) = 2^x$, ¿cuál es el valor de $f(-3)$?",
-      "context": "",
+      "context": "Valentina evalúa una función exponencial con exponente negativo en Valparaíso.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la asíntota horizontal de la función $f(x) = 5^x$?",
-      "context": "",
+      "context": "Se analiza el comportamiento asintótico de la función.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Representación",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v7",
       "statement": "Si inicialmente hay 100 bacterias, ¿cuál es la función $N(t)$ que representa la cantidad de bacterias después de $t$ bloques de 20 minutos?",
-      "context": "",
+      "context": "Benjamín observa el crecimiento de una población de bacterias que se duplica cada 20 minutos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v8",
       "statement": "Si el computador costó \\$800.000, ¿cuál es su valor después de $t$ años?",
-      "context": "",
+      "context": "Valentina analiza la depreciación de un computador que pierde el 20% de su valor cada año.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.55,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v9",
       "statement": "Si hoy hay $64 \\text{ gramos}$, ¿cuántos gramos quedarán después de 30 años?",
-      "context": "",
+      "context": "En un laboratorio en Concepción, una sustancia radioactiva se reduce a la mitad cada 10 años.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el recorrido de la función $f(x) = 3^x + 4$?",
-      "context": "",
+      "context": "Se analiza el dominio y recorrido de una función exponencial desplazada.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.5,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v11",
       "statement": "¿Cuál será el monto total después de 2 años?",
-      "context": "",
+      "context": "Un capital de \\$1.000.000 se invierte a un interés compuesto anual del 10%.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.45,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la solución de la ecuación $2^{x+5} = 32$?",
-      "context": "",
+      "context": "Un estudiante en Temuco resuelve una ecuación exponencial igualando bases.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v13",
       "statement": "¿Para qué valor de $x$ entero y mayor que 3 se cumple que $f(x) > g(x)$?",
-      "context": "",
+      "context": "Se comparan los valores de dos funciones: $f(x) = 2^x$ y $g(x) = x^2$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v14",
       "statement": "¿Cómo se obtiene la gráfica de $g(x) = (1/2)^x$ a partir de $f(x) = 2^x$?",
-      "context": "",
+      "context": "Un grupo de estudio discute sobre las reflexiones de la función exponencial.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.3,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la función?",
-      "context": "",
+      "context": "Se pide identificar la función exponencial que pasa por los puntos $(0, 1)$ y $(2, 25)$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Representación",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la tasa de interés anual aplicada a esta inversión?",
-      "context": "",
+      "context": "Una inversión crece según la función $M(t) = 500.000 \\cdot (1,05)^t$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelación",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v17",
       "statement": "Resuelva la ecuación $9^x = 27^{x-1}$.",
-      "context": "",
+      "context": "Se analiza una ecuación exponencial donde las bases no son potencias evidentes una de la otra.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.25,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el valor de $x$?",
-      "context": "",
+      "context": "Se pide hallar el valor de $x$ para el cual $2^x = \\frac{1}{\\sqrt{2}}$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.2,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v19",
       "statement": "Si $x$ es un número positivo muy pequeño (cercano a 0), ¿cuál es el comportamiento de $f(x) = 1000^x$?",
-      "context": "",
+      "context": "Se analiza el comportamiento de la función $f(x) = a^x$ cuando $a$ es muy grande.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.15,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la función inversa de $f(x) = e^x$?",
-      "context": "",
+      "context": "Un profesor en Puerto Montt pregunta sobre la relación entre la función exponencial y su inversa.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.1,
       "bundle_id": "CL-MAT-11-2026-W10-funcion-exponencial-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

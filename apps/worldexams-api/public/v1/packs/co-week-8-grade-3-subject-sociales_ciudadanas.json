@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.148Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v1",
+      "statement": "?Cual es una caracteristica del campo colombiano?",
+      "context": "I.E. San Bartolome, Bogota. Profesora muestra fotos del campo y la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay muchas plantas, animales y cultivos; las casas estan mas separadas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Edificios muy altos, avenidas y muchas tiendas.",
+          "is_correct": false,
+          "feedback": "Caracteristica de ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Semafotos, buses y trancones.",
+          "is_correct": false,
+          "feedback": "Caracteristicas de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "D) Centros comerciales y cines.",
+          "is_correct": false,
+          "feedback": "Descripcion de la ciudad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El campo colombiano tiene grandes extensiones de tierra para agricultura y ganaderia, viviendas dispersas, abundante vegetacion y animales.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v2",
+      "statement": "?Que encontramos principalmente en las ciudades colombianas?",
+      "context": "I.E. La Candelaria, Medellin. Estudiantes hablan de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calles pavimentadas, edificios, hospitales, colegios y centros comerciales.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Fincas, cultivos de cafe y potreros.",
+          "is_correct": false,
+          "feedback": "Caracteristicas del campo."
+        },
+        {
+          "letter": "C",
+          "text": "C) Rios navegables y selvas.",
+          "is_correct": false,
+          "feedback": "De regiones naturales."
+        },
+        {
+          "letter": "D",
+          "text": "D) Sembrados de papa y animales.",
+          "is_correct": false,
+          "feedback": "Actividades del campo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las ciudades tienen alta concentracion de personas, edificios, calles pavimentadas y servicios como hospitales y colegios.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v3",
+      "statement": "?Por que es importante el campo para la ciudad?",
+      "context": "I.E. Sagrado Corazon, Cali. Actividades del campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque produce los alimentos (frutas, verduras, leche, carne) que se consumen en la ciudad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque tiene mas centros comerciales.",
+          "is_correct": false,
+          "feedback": "Los centros comerciales estan en ciudades."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque tiene mas hospitales.",
+          "is_correct": false,
+          "feedback": "Los hospitales estan en ciudades."
+        },
+        {
+          "letter": "D",
+          "text": "D) Porque tiene mejor internet.",
+          "is_correct": false,
+          "feedback": "La conectividad es mejor en ciudades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El campo produce los alimentos que consumimos. Los campesinos cultivan y crian animales que se transportan a las ciudades.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v4",
+      "statement": "?Como son las casas en el campo?",
+      "context": "I.E. Antonio Jose de Sucre, Bucaramanga. Comparan viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mas amplias, con patio, huerta o jardin grande, rodeadas de naturaleza.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Apartamentos en edificios altos.",
+          "is_correct": false,
+          "feedback": "Caracteristica de ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Todas iguales y pegadas.",
+          "is_correct": false,
+          "feedback": "En el campo son diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "D) De vidrio y concreto.",
+          "is_correct": false,
+          "feedback": "Describe construcciones urbanas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las casas campestres son amplias con terrenos para huertas y animales. Se construyen con bahareque, ladrillo o madera.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v5",
+      "statement": "Carlos vive en una vereda, ordeña vacas y recoge huevos. ?Donde vive?",
+      "context": "I.E. Simon Bolivar, Ibague. Identifican lugares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el campo, porque ordeñar y cuidar animales son actividades rurales.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) En la ciudad.",
+          "is_correct": false,
+          "feedback": "Ordeñar no es actividad urbana."
+        },
+        {
+          "letter": "C",
+          "text": "C) En un centro comercial.",
+          "is_correct": false,
+          "feedback": "Alli no hay vacas."
+        },
+        {
+          "letter": "D",
+          "text": "D) En un edificio.",
+          "is_correct": false,
+          "feedback": "No es exclusivo de ciudad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Carlos vive en zona rural. Ordeñar y recoger huevos son actividades tipicas campesinas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v6",
+      "statement": "Las frutas del campo llegan a la ciudad principalmente en:",
+      "context": "I.E. Jose Maria Cordova, Rionegro. Transporte de alimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caminnes y vehiculos de carga desde las fincas hasta los mercados.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Aviones que recogen frutas de arboles.",
+          "is_correct": false,
+          "feedback": "La mayoria usa transporte terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "C) Tuberias subterraneas.",
+          "is_correct": false,
+          "feedback": "No existen."
+        },
+        {
+          "letter": "D",
+          "text": "D) Personas caminando cargando frutas.",
+          "is_correct": false,
+          "feedback": "El transporte principal es vehicular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alimentos viajan en caminnes desde veredas hasta centrales de abastos y mercados.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v7",
+      "statement": "?Cual afirmacion es correcta sobre campo y ciudad?",
+      "context": "I.E. Manuelita Saenz, Neiva. Campo vs ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos tienen ventajas: en el campo hay naturaleza; en la ciudad, mas servicios.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) La ciudad es mejor porque no hay animales.",
+          "is_correct": false,
+          "feedback": "En ciudades tambien hay animales."
+        },
+        {
+          "letter": "C",
+          "text": "C) El campo es mejor por los centros comerciales.",
+          "is_correct": false,
+          "feedback": "Son mas comunes en ciudades."
+        },
+        {
+          "letter": "D",
+          "text": "D) El campo es mejor porque no se trabaja.",
+          "is_correct": false,
+          "feedback": "En el campo se trabaja duro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ambos espacios son importantes. El campo ofrece naturaleza y alimentos; la ciudad, servicios educativos y de salud.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-v8",
+      "statement": "\"Los ninos de la ciudad deberian visitar el campo\". ?Por que es buena propuesta?",
+      "context": "I.E. Tecnica, Duitama. Debate campo-ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque valora el trabajo campesino, conoce el origen de alimentos y entiende la importancia del campo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque en el campo hay menos tareas.",
+          "is_correct": false,
+          "feedback": "No se trata de tareas."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque los ninos del campo necesitan visitas.",
+          "is_correct": false,
+          "feedback": "El objetivo es aprender."
+        },
+        {
+          "letter": "D",
+          "text": "D) Porque en la ciudad ya no hay alimentos.",
+          "is_correct": false,
+          "feedback": "Si hay, pero vienen del campo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Visitar el campo permite valorar el trabajo campesino y entender que los alimentos son resultado del trabajo rural.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "COL-SOC-CIU-3-2026-W08-el-campo-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

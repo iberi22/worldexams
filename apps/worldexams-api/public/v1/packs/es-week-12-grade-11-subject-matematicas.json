@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v1",
       "statement": "¿Qué condición debe cumplirse para que exista el límite de una función $f(x)$ en un punto $x = a$?",
-      "context": "",
+      "context": "Un estudiante en un instituto de Murcia repasa las definiciones básicas de límites para preparar el examen del segundo trimestre.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina una discontinuidad en la que los límites laterales en el punto $a$ existen y son finitos, pero diferentes?",
-      "context": "",
+      "context": "En una clase de 1º de Bachillerato en Madrid, se clasifican las discontinuidades de las funciones.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el comportamiento de $\\lim_{x \\to 0^+} \\frac{1}{x}$?",
-      "context": "",
+      "context": "Un estudiante analiza la función $f(x) = 1/x$ cerca del origen.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v4",
       "statement": "Si una función $f(x)$ es continua en el punto $x = a$, ¿cuál de las siguientes igualdades debe ser cierta obligatoriamente?",
-      "context": "",
+      "context": "Se estudia la continuidad de una función que modela el coste de un envío postal según el peso.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.78,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v5",
       "statement": "Calcula el valor de $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$.",
-      "context": "",
+      "context": "Un estudiante de Ciencias en Barcelona debe resolver un límite que presenta una indeterminación del tipo $0/0$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la eficiencia límite de la máquina cuando el tiempo $t$ tiende a infinito?",
-      "context": "",
+      "context": "Un ingeniero en Zaragoza analiza el comportamiento a largo plazo de una máquina cuya eficiencia sigue la función $E(t) = \\frac{3t + 5}{t + 2}$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v7",
       "statement": "¿Qué valor debe tener $k$ para que la función sea continua en $x = 3$?",
-      "context": "",
+      "context": "En una prueba de EBAU, se pide determinar un parámetro para que una función sea continua. Sea $f(x) = \\begin{cases} x + k & x \\leq 3 \\\\ 2x - 1 & x > 3 \\end{cases}$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v8",
       "statement": "Si $\\lim_{x \\to 1^-} f(x) = +\\infty$ y $\\lim_{x \\to 1^+} f(x) = -\\infty$, ¿qué podemos afirmar sobre la continuidad de $f(x)$ en $x=1$?",
-      "context": "",
+      "context": "Un estudiante observa la gráfica de una función que tiene una asíntota vertical en $x = 1$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v9",
       "statement": "Resuelve la indeterminación multiplicando por el conjugado.",
-      "context": "",
+      "context": "Se plantea calcular el límite $\\lim_{x \\to 0} \\frac{\\sqrt{x+1} - 1}{x}$.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el valor de $\\lim_{x \\to 0^-} \\frac{|x|}{x}$?",
-      "context": "",
+      "context": "Un profesor en Sevilla explica el concepto de límite lateral en funciones con valor absoluto.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.62,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v11",
       "statement": "Aunque al sustituir directamente se obtiene $0/0$, ¿cuál es el valor de $\\lim_{x \\to 0} \\frac{\\text{sen}(x)}{x}$?",
-      "context": "",
+      "context": "Un matemático estudia la función $f(x) = \\frac{\\text{sen}(x)}{x}$ cerca del origen, un límite fundamental en el cálculo.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v12",
       "statement": "¿En qué punto presenta esta función una discontinuidad evitable?",
-      "context": "",
+      "context": "Se analiza una función racional $f(x) = \\frac{x^2 - 1}{x^2 - 3x + 2}$ para encontrar sus asíntotas.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el valor de $\\lim_{x \\to \\infty} \\left(1 + \\frac{2}{x}\\right)^x$?",
-      "context": "",
+      "context": "Un estudiante en Asturias estudia el comportamiento de límites con potencias del tipo $1^\\infty$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v14",
       "statement": "Si se desea que la rampa alcance una altura máxima de 5 metros cuando $x$ es muy grande, ¿qué valor debe tener el parámetro $a$?",
-      "context": "",
+      "context": "Un arquitecto en Valencia diseña una rampa cuyo perfil está definido por $f(x) = \\frac{ax^2}{x^2 + 1}$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la pendiente ($m$) de la asíntota oblicua de esta función?",
-      "context": "",
+      "context": "Se plantea la existencia de asíntotas oblicuas en una función $f(x) = \\frac{x^2 + x}{x - 1}$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v16",
       "statement": "Si $f(x)$ es continua en $[0, 2]$, $f(0) = -3$ y $f(2) = 5$, ¿qué asegura el Teorema de Bolzano?",
-      "context": "",
+      "context": "Se estudia el Teorema de Bolzano para localizar raíces de funciones continuas.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el valor de este límite aplicando las propiedades de los logaritmos y el orden de infinitos?",
-      "context": "",
+      "context": "Un estudiante se enfrenta a un límite complejo que involucra logaritmos: $\\lim_{x \\to \\infty} \\frac{\\ln(x^2 + 1)}{\\ln(x^3 + 5)}$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v18",
       "statement": "¿Qué se observa al calcular los límites laterales en $x = 0$?",
-      "context": "",
+      "context": "Un investigador analiza la continuidad de la función $f(x) = \\frac{1}{1 + e^{1/x}}$ en el punto $x = 0$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v19",
       "statement": "¿Cómo debe definirse el valor de $s(\\sqrt{a})$ para que la función sea continua?",
-      "context": "",
+      "context": "Un programador optimiza un motor gráfico y necesita saber si la función de suavizado $s(x) = \\frac{x^2 - a}{x - \\sqrt{a}}$ es continua en $x = \\sqrt{a}$ (siendo $a > 0$).",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v20",
       "statement": "¿Qué garantiza el Teorema de Weierstrass para una función continua en el intervalo cerrado $[a, b]$?",
-      "context": "",
+      "context": "Un estudiante reflexiona sobre el Teorema de Weierstrass en funciones continuas en intervalos cerrados.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la fórmula para calcular la suma de los ángulos internos de un polígono convexo de $n$ lados?",
-      "context": "",
+      "context": "Un estudiante de preparatoria en la Ciudad de México está revisando las propiedades básicas de los polígonos regulares para un proyecto de diseño gráfico.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina al cuadrilátero que tiene exactamente un par de lados paralelos?",
-      "context": "",
+      "context": "En un taller de carpintería en Guadalajara, se necesita identificar las características de un cuadrilátero específico para fabricar una mesa.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v3",
       "statement": "Si el diámetro de un círculo se duplica, ¿qué sucede con su circunferencia?",
-      "context": "",
+      "context": "Un arquitecto en Monterrey está diseñando una ventana circular y necesita calcular la relación entre su perímetro y su diámetro.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v4",
       "statement": "En un triángulo equilátero, ¿cuál es la medida de cada uno de sus ángulos exteriores?",
-      "context": "",
+      "context": "Un topógrafo está midiendo un terreno en Puebla que tiene forma de triángulo equilátero.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v5",
       "statement": "Si cada lado del hexágono mide 4 metros y su apotema es de aproximadamente 3.46 metros, ¿cuál es el área del jardín?",
-      "context": "",
+      "context": "Se desea colocar pasto sintético en un jardín central de una escuela en Querétaro que tiene forma de hexágono regular.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v6",
       "statement": "El trapecio tiene bases de 10 cm y 18 cm, y una altura de 6 cm. ¿Cuál es su área?",
-      "context": "",
+      "context": "Un diseñador industrial en el Estado de México está calculando el área de una pieza metálica en forma de trapecio isósceles.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v7",
       "statement": "Si el diámetro de la glorieta es de 12 metros, ¿cuál es su área aproximada? (Considera $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Se está construyendo una glorieta circular en una nueva sección de Cancún. El ingeniero necesita conocer el área que será pavimentada.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v8",
       "statement": "Si las diagonales del rombo miden 16 cm y 12 cm, ¿cuál es el área de la superficie delimitada por el marco?",
-      "context": "",
+      "context": "Un artesano en Oaxaca está decorando un marco de madera que tiene forma de rombo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la medida de cada ángulo interno de un hexágono regular?",
-      "context": "",
+      "context": "Un estudiante observa un panal de abejas y nota que las celdas son hexágonos regulares perfectos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v10",
       "statement": "Calcula el área de un sector circular cuyo radio mide 10 cm y cuyo ángulo central es de $60^{\\circ}$. (Considera $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "En una clase de dibujo técnico en Veracruz, se pide hallar el área de un sector circular.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v11",
       "statement": "El rectángulo central mide 80 m de largo y 40 m de ancho. Si los semicírculos tienen un diámetro igual al ancho del rectángulo (40 m), ¿cuál es el área total de la pista? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Se desea construir una pista de atletismo que consiste en un rectángulo con dos semicírculos en los extremos.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el área de la región del círculo que queda fuera del cuadrado? (Considera $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Un diseñador gráfico en Mérida está trabajando con un cuadrado inscrito en un círculo de radio 5 cm.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la altura de dicho triángulo equilátero si su base pasa por un punto que está a una distancia igual al radio desde el vértice superior (es decir, el centro del círculo)?",
-      "context": "",
+      "context": "Se analiza el diseño de un vitral que consiste en un triángulo equilátero inscrito en una circunferencia de radio 4 cm.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v14",
       "statement": "Si para formar el octágono se cortan los cuatro rincones del cuadrado (triángulos rectángulos isósceles), ¿cuál es el perímetro del octágono resultante si el lado del octágono mide aproximadamente 4.14 cm?",
-      "context": "",
+      "context": "Un joyero en Taxco está diseñando un dije que tiene la forma de un octágono regular inscrito en un cuadrado de lado 10 cm.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el área que ocupa la vereda?",
-      "context": "",
+      "context": "Se tiene un terreno rectangular en Sonora cuyas dimensiones son 50 m por 30 m. Se construye una vereda de 2 m de ancho alrededor del terreno (por dentro).",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v16",
       "statement": "Tres círculos de radio 10 cm son tangentes entre sí dos a dos. ¿Cuál es el área del triángulo que se forma al unir sus centros?",
-      "context": "",
+      "context": "Un artista en San Miguel de Allende está creando un patrón con círculos tangentes.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la expresión general para el área de un hexágono regular en términos únicamente de la longitud de su lado $L$?",
-      "context": "",
+      "context": "Un ingeniero civil evalúa la resistencia de una viga cuya sección transversal es un hexágono regular de lado $L$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v18",
       "statement": "¿Qué sucede con el área de un polígono regular de $n$ lados, inscrito en un círculo de radio fijo $R$, a medida que el número de lados $n$ tiende al infinito?",
-      "context": "",
+      "context": "Un matemático en la UNAM está analizando propiedades de polígonos regulares y su relación con el círculo.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es el área de la región donde se traslapan los cuatro semicírculos (el \"pétalo\" central formado)?",
-      "context": "",
+      "context": "Se presenta un desafío geométrico: un cuadrado de lado $a$ tiene inscritos cuatro semicírculos cuyos diámetros son los lados del cuadrado.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v20",
       "statement": "Si la distancia entre los centros de los dos círculos es igual al radio $R$, ¿cuál es el área de la región común (intersección)?",
-      "context": "",
+      "context": "Un astrónomo calcula la visibilidad de un eclipse utilizando el área de intersección de dos círculos iguales de radio $R$.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.15,
       "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",

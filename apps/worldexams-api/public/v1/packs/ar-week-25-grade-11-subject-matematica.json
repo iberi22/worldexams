@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la moda del conjunto de notas?",
-      "context": "",
+      "context": "Un grupo de estudiantes de La Plata comparó las notas obtenidas en el último examen de Matemáticas: 4, 7, 7, 8, 9.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.92,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la mediana de estas temperaturas?",
-      "context": "",
+      "context": "Se registran las temperaturas máximas durante una semana en Mendoza: 28, 30, 31, 32, 35, 38, 40 (en °C).",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.9,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la medida de tendencia central que se ve más afectada (distorsionada) por el sueldo de $1.200.000?",
-      "context": "",
+      "context": "En una PyME de Córdoba, los sueldos de 5 empleados son: $400.000, $450.000, $450.000, $500.000 y $1.200.000 (pesos argentinos).",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v4",
       "statement": "¿Qué medida de dispersión indica la diferencia entre el precio más caro y el más barato?",
-      "context": "",
+      "context": "Se analizan los precios de un kilo de pan en 10 panaderías de un barrio.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.88,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el promedio de puntos por partido?",
-      "context": "",
+      "context": "Un jugador de básquet de la Liga Nacional anotó los siguientes puntos en 4 partidos: 10, 20, 15, 25.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.82,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v6",
       "statement": "¿Qué interpretación es correcta respecto a ese valor?",
-      "context": "",
+      "context": "En un estudio sobre el tiempo de uso del celular (en horas) en adolescentes de Rosario, se determinó que el Cuartil 1 (Q1) es 3 horas.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.78,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes afirmaciones es correcta?",
-      "context": "",
+      "context": "Se comparan las estaturas de dos grupos de personas. Ambos grupos tienen un promedio de 1,70 m, pero el Grupo A tiene una desviación estándar de 0,05 m y el Grupo B de 0,15 m.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.75,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se denomina al intervalo [80, 90)?",
-      "context": "",
+      "context": "Una tabla de frecuencias agrupadas sobre la edad de 100 personas en un geriátrico de Mar del Plata muestra que el intervalo [80, 90) tiene la mayor frecuencia absoluta.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.74,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la desviación estándar de este conjunto?",
-      "context": "",
+      "context": "Un conjunto de datos tiene un promedio de 50 y una varianza de 16.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.8,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v10",
       "statement": "¿Cuántos alumnos tienen 12 o más inasistencias?",
-      "context": "",
+      "context": "En un curso de 40 alumnos de Salta, el percentil 90 (P90) de las inasistencias es 12.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.72,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v11",
       "statement": "¿Qué sucede con el promedio de la nueva muestra de 11 datos?",
-      "context": "",
+      "context": "Se calculó la media de una muestra de 10 datos resultando en 25. Si se agrega un nuevo dato con valor 25...",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el valor de la mediana según la fórmula: Me = Li + ai * [(n/2 - Fi-1) / fi]?",
-      "context": "",
+      "context": "Para un conjunto de datos agrupados:\n- Li = 50 (límite inferior de la clase mediana)\n- n/2 = 50\n- Fi-1 = 40 (frecuencia acumulada anterior)\n- fi = 20 (frecuencia absoluta de la clase mediana)\n- ai = 10 (amplitud)",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.65,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v13",
       "statement": "¿Qué indica esta característica sobre la distribución de los tiempos?",
-      "context": "",
+      "context": "El diagrama de caja (Boxplot) de los tiempos de carrera de un grupo de atletas en el CENARD muestra que el bigote superior es mucho más largo que el inferior.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.6,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v14",
       "statement": "¿Cuál será la nueva varianza expresada en kg²?",
-      "context": "",
+      "context": "En una fábrica de piezas en Tucumán, el peso promedio es de 500 g con una varianza de 100 g². Se decide cambiar la unidad a kilogramos (dividir por 1000).",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.58,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v15",
       "statement": "¿En qué ciudad hay mayor dispersión relativa de precios?",
-      "context": "",
+      "context": "Se calcula el Coeficiente de Variación (CV = Desviación / Media) para los precios de la nafta en dos ciudades.\n- Ciudad 1: Media = $800, Desv = $40.\n- Ciudad 2: Media = $1000, Desv = $45.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.62,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v16",
       "statement": "¿Qué representa este valor de 20?",
-      "context": "",
+      "context": "En un conjunto de 100 datos, el Rango Intercuartílico (RI = Q3 - Q1) es 20.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.64,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v17",
       "statement": "¿Qué se puede afirmar con seguridad sobre los datos de esta muestra?",
-      "context": "",
+      "context": "Una muestra de 5 datos tiene media 10 y varianza 0.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.55,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v18",
       "statement": "¿Qué valores tendrán la mediana y la moda?",
-      "context": "",
+      "context": "Se sabe que en una distribución simétrica y unimodal, la media es 150.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.5,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la nueva media y la nueva desviación estándar de Y?",
-      "context": "",
+      "context": "Un conjunto de datos X tiene media 40 y desviación estándar 5. Se crea un nuevo conjunto Y tal que cada dato yi = 2 * xi + 10.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v20",
       "statement": "Si sos un inversor conservador que busca estabilidad, ¿cuál fondo elegirías y por qué?",
-      "context": "",
+      "context": "Se analiza el rendimiento de dos fondos de inversión en la Bolsa de Comercio de Buenos Aires durante 12 meses.\n- Fondo A: Media Rendimiento = 4%, RI = 1%.\n- Fondo B: Media Rendimiento = 4%, RI = 5%.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.42,
       "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",

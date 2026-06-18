@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes definiciones describe mejor qué es la **tesis** en un texto argumentativo?",
-      "context": "",
+      "context": "Un texto argumentativo tiene como objetivo principal convencer o persuadir al lector sobre un punto de vista determinado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la función principal de los **argumentos** en un ensayo?",
-      "context": "",
+      "context": "Los argumentos son las razones, datos o pruebas que se utilizan para sustentar la tesis.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v3",
       "statement": "Lee el siguiente fragmento: \"El uso excesivo de plásticos está destruyendo nuestros océanos y afectando a miles de especies marinas. Es urgente que el gobierno colombiano implemente leyes más estrictas para prohibir los plásticos de un solo uso\".\n\n¿Cuál es la tesis de este fragmento?",
-      "context": "",
+      "context": "Identificar la tesis en un texto breve es una habilidad clave para la comprensión crítica.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes frases representa un **argumento de autoridad** para defender la importancia de las vacunas?",
-      "context": "",
+      "context": "Un argumento de autoridad se basa en el prestigio de una persona o institución experta en el tema.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v5",
       "statement": "¿En qué parte de un ensayo argumentativo se suele presentar la **tesis** por primera vez?",
-      "context": "",
+      "context": "Los textos argumentativos suelen tener una estructura clara: introducción, desarrollo y conclusión.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v6",
       "statement": "¿Cuál de las siguientes afirmaciones es una **opinión** que podría funcionar como base para una tesis?",
-      "context": "",
+      "context": "Diferenciar entre un hecho (objetivo) y una opinión (subjetiva) es vital para analizar argumentos.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v7",
       "statement": "Si la tesis es \"La música colombiana es diversa y reconocida mundialmente\", ¿qué argumento de **ejemplificación** sería más efectivo?",
-      "context": "",
+      "context": "Los argumentos de ejemplificación utilizan casos concretos para ilustrar y validar una idea general.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v8",
       "statement": "Identifica la falla lógica en este razonamiento:\nTesis: \"Debemos comer más frutas\".\nArgumento: \"Porque las frutas son de colores muy bonitos y alegran la decoración de la mesa\".\n\n¿Por qué este argumento es débil para defender la tesis?",
-      "context": "",
+      "context": "La relación entre tesis y argumentos debe ser lógica y coherente.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v9",
       "statement": "En un debate sobre el uniforme escolar, un estudiante dice: \"Sé que muchos piensan que el uniforme limita la libertad de expresión (punto de vista contrario), pero en realidad ayuda a reducir las diferencias económicas entre compañeros\".\n\n¿Qué técnica argumentativa está usando el estudiante?",
-      "context": "",
+      "context": "Los contraargumentos son ideas que se oponen a la tesis y que el autor debe mencionar para luego refutarlas.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes tesis es la mejor formulada para un ensayo académico de nivel secundaria?",
-      "context": "",
+      "context": "Evaluar la solidez de una tesis implica considerar si es debatible, clara y sustentable.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

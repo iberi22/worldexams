@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -402,6 +420,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -442,7 +462,429 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W10-present-perfect-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v1",
+      "statement": "What time is it when the clock says 3:00?",
+      "context": "In Bogotá, students learn to tell time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It's three o'clock",
+          "is_correct": true,
+          "feedback": "Correcto. 3:00 = three o'clock."
+        },
+        {
+          "letter": "B",
+          "text": "It's three thirty",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3:30 = three thirty."
+        },
+        {
+          "letter": "C",
+          "text": "It's three fifteen",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3:15 = three fifteen."
+        },
+        {
+          "letter": "D",
+          "text": "It's three forty-five",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3:45 = three forty-five."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O'clock se usa para las horas en punto. 3:00 = three o'clock.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v2",
+      "statement": "What is \"half past eight\" in numbers?",
+      "context": "In Medellín, students learn half hours.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8:30",
+          "is_correct": true,
+          "feedback": "Correcto. Half past eight = 8:30."
+        },
+        {
+          "letter": "B",
+          "text": "8:15",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8:15 = quarter past eight."
+        },
+        {
+          "letter": "C",
+          "text": "8:45",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8:45 = quarter to nine."
+        },
+        {
+          "letter": "D",
+          "text": "8:00",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8:00 = eight o'clock."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Half past eight\" = 8:30. Half = media hora. En español sería \"las ocho y media\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v3",
+      "statement": "\"Quarter to ten\" means ___.",
+      "context": "In Cali, students learn quarter hours.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10:15",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10:15 = quarter past ten."
+        },
+        {
+          "letter": "B",
+          "text": "10:30",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10:30 = half past ten."
+        },
+        {
+          "letter": "C",
+          "text": "9:45",
+          "is_correct": true,
+          "feedback": "Correcto. Quarter to ten = 9:45 (15 minutos para las 10)."
+        },
+        {
+          "letter": "D",
+          "text": "10:00",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10:00 = ten o'clock."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Quarter to ten\" = faltan 15 minutos para las 10 = 9:45. \"Quarter past ten\" = 10:15.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v4",
+      "statement": "\"12:45\" in words is ___.",
+      "context": "In Barranquilla, students match times.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "quarter past twelve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería 12:15."
+        },
+        {
+          "letter": "B",
+          "text": "quarter to one",
+          "is_correct": true,
+          "feedback": "Correcto. 12:45 = quarter to one (15 para la 1)."
+        },
+        {
+          "letter": "C",
+          "text": "half past twelve",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12:30 = half past twelve."
+        },
+        {
+          "letter": "D",
+          "text": "twelve forty-five",
+          "is_correct": false,
+          "feedback": "Correcto en estilo digital, pero la pregunta pide en palabras la expresión clásica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "12:45 se puede decir \"twelve forty-five\" (digital) o \"quarter to one\" (reloj analógico).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v5",
+      "statement": "We say \"Good evening\" at ___.",
+      "context": "In Bucaramanga, students talk about AM and PM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8:00 AM",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 AM es morning."
+        },
+        {
+          "letter": "B",
+          "text": "2:00 PM",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 PM es afternoon."
+        },
+        {
+          "letter": "C",
+          "text": "7:00 PM",
+          "is_correct": true,
+          "feedback": "Correcto. 7 PM es evening (después de las 6 PM)."
+        },
+        {
+          "letter": "D",
+          "text": "12:00 PM",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 PM es noon/midday."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Good evening se usa después de las 6 PM. AM = antes del mediodía. PM = después del mediodía.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v6",
+      "statement": "\"I wake up ___ 6:00 AM.\"",
+      "context": "In Cartagena, a student describes their daily schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correcto. \"At\" + hora específica."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"In\" se usa con meses, años, partes del día (in the morning)."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"On\" se usa con días."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"By\" = antes de / para cuando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos \"at\" para horas específicas: at 6 AM, at 3:30 PM. \"In\" para partes del día: in the morning.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v7",
+      "statement": "\"___ is it?\" \"It's 4:15.\"",
+      "context": "In Pereira, students practice asking the time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How time",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "What time",
+          "is_correct": true,
+          "feedback": "Correcto. \"What time is it?\" = ¿Qué hora es?"
+        },
+        {
+          "letter": "C",
+          "text": "When time",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"When\" pregunta por cuándo ocurre algo."
+        },
+        {
+          "letter": "D",
+          "text": "Which hour",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la expresión estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"What time is it?\" y \"What's the time?\" son las formas correctas de preguntar la hora.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v8",
+      "statement": "\"School starts ___ 7:30 AM.\"",
+      "context": "In Manizales, students schedule activities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"On\" es para días."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correcto. \"At\" para hora exacta."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"In\" para meses o partes del día."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene sentido aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Preposiciones de tiempo: at (hora), on (día), in (mes/año/parte del día). \"At 7:30 AM.\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v9",
+      "statement": "\"English class is from 10:00 to 11:30.\" How long is it?",
+      "context": "In Cúcuta, students read a timetable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 hour",
+          "is_correct": false,
+          "feedback": "Incorrecto. De 10 a 11:30 es más de 1 hora."
+        },
+        {
+          "letter": "B",
+          "text": "1 hour and 30 minutes",
+          "is_correct": true,
+          "feedback": "Correcto. De 10:00 a 11:30 = 1 hora y media."
+        },
+        {
+          "letter": "C",
+          "text": "2 hours",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería de 10 a 12."
+        },
+        {
+          "letter": "D",
+          "text": "2 hours and 30 minutes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demasiado tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular duración: resta la hora de inicio de la hora final. 11:30 - 10:00 = 1:30 (1 hora 30 min).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W10-telling-time-v10",
+      "statement": "\"Lunch is at 12:30 PM. Math class is at 1:20 PM.\" Lunch is ___ Math.",
+      "context": "In Ibagué, students interpret a schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "before",
+          "is_correct": true,
+          "feedback": "Correcto. 12:30 PM es antes de 1:20 PM."
+        },
+        {
+          "letter": "B",
+          "text": "after",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12:30 no es después de 1:20."
+        },
+        {
+          "letter": "C",
+          "text": "at the same time as",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son horarios diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "later than",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12:30 es más temprano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Before = antes, after = después. 12:30 PM (lunch) es before (antes de) 1:20 PM (Math).\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W10-telling-time-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
       "cefr_level": null

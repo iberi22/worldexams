@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-31-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.146Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v1",
+      "statement": "¿Cómo se llama el órgano del cuerpo humano encargado de captar la luz para que podamos ver?",
+      "context": "En la clase de anatomía, Mariana usa un espejo para observar sus propios ojos de cerca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oído externo",
+          "is_correct": false,
+          "feedback": "El oído capta vibraciones sonoras, no rayos de luz; su función es la audición."
+        },
+        {
+          "letter": "B",
+          "text": "El globo ocular u ojo",
+          "is_correct": true,
+          "feedback": "El ojo es el órgano especializado del sentido de la vista que recibe los estímulos lumínicos del entorno."
+        },
+        {
+          "letter": "C",
+          "text": "La nariz",
+          "is_correct": false,
+          "feedback": "La nariz capta sustancias químicas gaseosas para el sentido del olfato, no energía lumínica."
+        },
+        {
+          "letter": "D",
+          "text": "La lengua",
+          "is_correct": false,
+          "feedback": "La lengua detecta sabores mediante papilas gustativas, una función química y no lumínica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ojo funciona como una cámara fotográfica biológica. Recibe los rayos de luz que rebotan en los objetos y los convierte en señales eléctricas que viajan al cerebro para formar las imágenes que vemos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v2",
+      "statement": "¿Cómo se llama el agujero negro en el centro del ojo por donde entra la luz?",
+      "context": "Juan nota que el centro negro de su ojo se hace muy pequeñito cuando sale al patio con mucho sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El iris de color",
+          "is_correct": false,
+          "feedback": "El iris es la parte coloreada que rodea al agujero; su función es controlar el tamaño de la entrada."
+        },
+        {
+          "letter": "B",
+          "text": "La pupila",
+          "is_correct": true,
+          "feedback": "La pupila es la abertura circular que se dilata o contrae para regular la cantidad de luz que entra al ojo."
+        },
+        {
+          "letter": "C",
+          "text": "La ceja superior",
+          "is_correct": false,
+          "feedback": "Las cejas son vellos que protegen al ojo del sudor, pero no son la puerta de entrada de la luz."
+        },
+        {
+          "letter": "D",
+          "text": "El párpado",
+          "is_correct": false,
+          "feedback": "El párpado es el escudo que cierra el ojo; la luz entra por la pupila cuando el párpado está abierto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pupila es un regulador de luz automático. Si hay mucha luz, se cierra para que no nos encandilemos; si hay poca luz, se abre mucho para tratar de atrapar la mayor claridad posible.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v3",
+      "statement": "¿Qué le sucede a nuestras pupilas cuando entramos a un lugar con muy poca luz?",
+      "context": "Al entrar a un cine oscuro, al principio no vemos nada, pero después de un minuto empezamos a distinguir las sillas y a la gente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cierran por completo",
+          "is_correct": false,
+          "feedback": "Si se cerraran, entraría menos luz y veríamos todavía menos en la oscuridad del cine."
+        },
+        {
+          "letter": "B",
+          "text": "Se abren (dilatan) para dejar entrar más luz",
+          "is_correct": true,
+          "feedback": "Al abrirse, el ojo intenta captar hasta el último rayo de luz disponible para poder identificar las formas."
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelven de color verde",
+          "is_correct": false,
+          "feedback": "El color del iris no cambia por la luz; lo que cambia es el diámetro de la abertura central (pupila)."
+        },
+        {
+          "letter": "D",
+          "text": "Se llenan de agua bendita",
+          "is_correct": false,
+          "feedback": "El ojo se mantiene húmedo con lágrimas, pero esto no tiene relación con la adaptación a la oscuridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una respuesta de la función de relación de nuestro cuerpo. El ojo se adapta constantemente a los cambios de brillo del ambiente para asegurar que siempre tengamos la mejor visión posible.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v4",
+      "statement": "¿Cuál es la función principal del cristalino en el proceso de la visión?",
+      "context": "El cristalino es una parte del ojo que funciona como una lente transparente y elástica detrás de la pupila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pintar las imágenes de colores",
+          "is_correct": false,
+          "feedback": "Los colores se detectan en la retina, no en la lente frontal que es el cristalino."
+        },
+        {
+          "letter": "B",
+          "text": "Enfocar la luz para que la imagen sea clara",
+          "is_correct": true,
+          "feedback": "El cristalino cambia su forma para que podamos ver nítidos tanto los objetos lejanos como los cercanos."
+        },
+        {
+          "letter": "C",
+          "text": "Limpiar el ojo con lágrimas",
+          "is_correct": false,
+          "feedback": "La limpieza la hacen las glándulas lagrimales y los párpados al parpadear."
+        },
+        {
+          "letter": "D",
+          "text": "Proteger al ojo de los golpes",
+          "is_correct": false,
+          "feedback": "La protección física la dan el cráneo y los párpados; el cristalino es para la óptica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cristalino es como el lente de aumento de una cámara. Gracias a unos músculos pequeños, puede abombarse o estirarse para que la luz caiga exactamente donde debe, permitiéndonos leer o ver un paisaje sin que se vea borroso.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v5",
+      "statement": "¿Cómo se llama la parte del ojo que tiene color y que rodea a la pupila?",
+      "context": "Mariana tiene los ojos de color café oscuro y su mejor amigo los tiene de color azul claro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La retina",
+          "is_correct": false,
+          "feedback": "La retina está al fondo del ojo y es donde se proyectan las imágenes; no es la parte visible de color."
+        },
+        {
+          "letter": "B",
+          "text": "El iris",
+          "is_correct": true,
+          "feedback": "El iris es el músculo circular coloreado que le da el color característico a los ojos de cada persona."
+        },
+        {
+          "letter": "C",
+          "text": "El nervio óptico",
+          "is_correct": false,
+          "feedback": "El nervio óptico es el cable que lleva la información al cerebro y está escondido detrás del ojo."
+        },
+        {
+          "letter": "D",
+          "text": "La córnea",
+          "is_correct": false,
+          "feedback": "La córnea es la capa transparente que cubre todo el frente del ojo, como el vidrio de un reloj."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El iris no es solo para verse bien; es un músculo que controla a la pupila. Su color depende de la cantidad de melanina (pigmento) que tengamos, al igual que sucede con nuestra piel.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v6",
+      "statement": "¿Qué elemento indispensable falta para la visión cuando tenemos los párpados cerrados?",
+      "context": "Si cerramos los ojos, el mundo \"desaparece\" para nosotros, aunque todo siga en su lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aire de la habitación",
+          "is_correct": false,
+          "feedback": "El aire sigue estando ahí y podemos respirar; la visión no depende de la presencia de aire."
+        },
+        {
+          "letter": "B",
+          "text": "El paso de la luz hacia el interior del ojo",
+          "is_correct": true,
+          "feedback": "Los párpados son materiales opacos que bloquean la luz; sin luz entrando, no hay visión."
+        },
+        {
+          "letter": "C",
+          "text": "La comida en el estómago",
+          "is_correct": false,
+          "feedback": "La nutrición es otra función vital, pero no es la causa inmediata de no ver con los ojos cerrados."
+        },
+        {
+          "letter": "D",
+          "text": "El sonido de la calle",
+          "is_correct": false,
+          "feedback": "Podemos escuchar perfectamente con los ojos cerrados; la luz es la que se bloquea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La visión es el resultado de procesar luz. Si bloqueamos la luz (cerrando los ojos o apagando la lámpara), el cerebro deja de recibir información visual. Esto demuestra que la luz es el \"combustible\" del sentido de la vista.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v7",
+      "statement": "¿A dónde viaja la información desde la retina para que sepamos qué estamos viendo?",
+      "context": "El fondo del ojo se llama retina. Allí es donde la luz se convierte en impulsos eléctricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia los pies",
+          "is_correct": false,
+          "feedback": "La información de los sentidos debe ser procesada en el centro de control del cuerpo, no en las extremidades."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el cerebro por medio del nervio óptico",
+          "is_correct": true,
+          "feedback": "El cerebro es el encargado de interpretar las señales y decirnos: \"eso es una manzana\" o \"es tu mamá\"."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el estómago para digerirse",
+          "is_correct": false,
+          "feedback": "La información visual no se come; se procesa en el sistema nervioso para tomar decisiones."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia el Sol para recargarse",
+          "is_correct": false,
+          "feedback": "El proceso es interno de nuestro cuerpo; el Sol solo provee la luz inicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ver es un trabajo en equipo entre el ojo y el cerebro. El ojo captura la luz y el cerebro \"entiende\" la imagen. Si el nervio óptico se daña, aunque el ojo esté perfecto, la persona no podrá ver porque la información no llega al cerebro.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v8",
+      "statement": "¿Cuál es el mejor consejo para que Juan cuide su salud visual mientras estudia?",
+      "context": "Juan lee un libro con muy poca luz y después de un rato le duelen los ojos y la cabeza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que lea con los ojos cerrados",
+          "is_correct": false,
+          "feedback": "Es imposible leer si no dejamos que la luz entre a los ojos para ver las letras."
+        },
+        {
+          "letter": "B",
+          "text": "Que busque un lugar con buena iluminación natural o artificial",
+          "is_correct": true,
+          "feedback": "Leer con buena luz evita que los músculos del ojo se esfuercen demasiado y se cansen."
+        },
+        {
+          "letter": "C",
+          "text": "Que use gafas de sol para leer",
+          "is_correct": false,
+          "feedback": "Las gafas de sol oscurecen más la visión, empeorando el problema de falta de claridad."
+        },
+        {
+          "letter": "D",
+          "text": "Que lea muy rápido para terminar pronto",
+          "is_correct": false,
+          "feedback": "La velocidad no quita el esfuerzo visual; la solución es mejorar las condiciones de luz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La higiene visual es importante. Debemos evitar leer en la oscuridad y también no mirar pantallas (celular, TV) por demasiado tiempo seguido. Nuestros ojos necesitan descansar y trabajar con la luz adecuada.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v9",
+      "statement": "¿Para qué le sirve al gato que la luz rebote dentro de su propio ojo?",
+      "context": "Los gatos ven mucho mejor que los humanos en la oscuridad de la noche. Tienen una capa brillante al fondo del ojo que refleja la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para lanzar rayos láser por los ojos",
+          "is_correct": false,
+          "feedback": "Esto es pura fantasía; ningún animal puede emitir luz destructiva por sus ojos."
+        },
+        {
+          "letter": "B",
+          "text": "Para aprovechar dos veces la poca luz que hay",
+          "is_correct": true,
+          "feedback": "La luz entra, pasa por la retina, rebota al fondo y vuelve a pasar, dándole más información al cerebro del gato."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los ratones se asusten",
+          "is_correct": false,
+          "feedback": "El brillo de los ojos es una consecuencia física de su adaptación para cazar, no un arma de miedo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gato no tiene pupilas",
+          "is_correct": false,
+          "feedback": "Los gatos sí tienen pupilas (en forma de línea vertical) que se abren muchísimo de noche."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los depredadores nocturnos tienen adaptaciones especiales. Al reflejar la luz dentro del ojo, sus células captan mucho más detalle en la penumbra, lo que les permite ser excelentes cazadores cuando nosotros no vemos nada.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v10",
+      "statement": "¿Es la \"imaginación\" lo mismo que el proceso biológico de la visión?",
+      "context": "Una persona dice: \"Yo no necesito luz para ver, porque yo me imagino las cosas perfectamente con los ojos cerrados\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque las dos ocurren en la cabeza",
+          "is_correct": false,
+          "feedback": "Aunque ambas usan el cerebro, sus orígenes y funciones biológicas son diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "No, la visión requiere luz real y la imaginación son recuerdos",
+          "is_correct": true,
+          "feedback": "La visión es percibir la realidad externa hoy; imaginar es usar información guardada del pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, si la imaginación es muy fuerte",
+          "is_correct": false,
+          "feedback": "Por más que imagines, no podrás detectar un obstáculo real en el camino sin usar luz y ojos."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque imaginar gasta más agua",
+          "is_correct": false,
+          "feedback": "La imaginación es un proceso mental que no tiene relación directa con el consumo de agua del cuerpo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciencia distingue entre percibir e imaginar. La percepción visual es una función de relación con el entorno actual que depende 100% de la energía física de la luz. La imaginación es un proceso creativo interno.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

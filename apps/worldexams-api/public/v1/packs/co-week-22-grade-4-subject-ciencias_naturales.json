@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-22-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.156Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v1",
+      "statement": "Ecosistema colombiano de alta montaÃ±a:",
+      "context": "En la clase de Ciencias Naturales del Centro Educativo Rural en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selva",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "PÃ¡ramo",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Manglar",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Desierto",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v2",
+      "statement": "Las plantas son llamadas:",
+      "context": "En la clase de Ciencias Naturales del Colegio San JosÃ© en Cali, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Productores",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedores",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "HerbÃ­voros",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v3",
+      "statement": "El manglar protege la costa de:",
+      "context": "En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Barranquilla, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terremotos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "ErosiÃ³n por olas",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Incendios",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Lluvia Ã¡cida",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v4",
+      "statement": "En mutualismo, ambos organismos:",
+      "context": "En la clase de Ciencias Naturales del Instituto TÃ©cnico en Girardot, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se perjudican",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Se benefician",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "No se afectan",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Compiten",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v5",
+      "statement": "Los descomponedores reciclan:",
+      "context": "En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Duitama, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Materia orgÃ¡nica",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Aire",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Luz",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v6",
+      "statement": "Ejemplo de cadena alimenticia correcta:",
+      "context": "En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Girardot, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasto â†’ ratÃ³n â†’ serpiente",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Serpiente â†’ ratÃ³n â†’ pasto",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "RatÃ³n â†’ pasto â†’ serpiente",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Pasto â†’ serpiente â†’ ratÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v7",
+      "statement": "Los frailejones son plantas del:",
+      "context": "En la clase de Ciencias Naturales del Colegio La Salle en Sincelejo, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desierto",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "PÃ¡ramo",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Selva",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Manglar",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v8",
+      "statement": "El bosque seco pierde hojas en:",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en Riohacha, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temporada de lluvias",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Temporada seca",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Invierno",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Primavera",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v9",
+      "statement": "Â¿Por quÃ© el pÃ¡ramo es vital para las ciudades colombianas?",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en CÃºcuta, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce electricidad",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Provee y regula el agua que consumen",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Tiene minerales",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Es turÃ­stico",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-v10",
+      "statement": "Â¿QuÃ© pasa si eliminas un eslabÃ³n de la cadena alimenticia?",
+      "context": "En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en CÃºcuta, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Se desequilibra todo el ecosistema",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Los demÃ¡s mejoran",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Solo afecta a ese eslabÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W22-repaso-p4-g4-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

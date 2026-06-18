@@ -10,7 +10,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el factor común de la expresión algebraica $12x^3 - 8x^2 + 4x$?",
-      "context": "",
+      "context": "Un estudiante en un bachillerato en David repasa el concepto de factor común para simplificar una expresión de costos.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.9,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la forma factorizada de $x^2 - 100$?",
-      "context": "",
+      "context": "En una clase de matemáticas en Santiago, se explica cómo reconocer una diferencia de cuadrados.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v3",
       "statement": "Factoriza por agrupación la expresión $ax + ay + bx + by$.",
-      "context": "",
+      "context": "Un carpintero en Chitré utiliza la factorización por agrupación para dividir el diseño de un mueble modular.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v4",
       "statement": "Factoriza el trinomio $x^2 + 6x + 9$.",
-      "context": "",
+      "context": "Un estudiante en Penonomé reconoce un trinomio cuadrado perfecto en el cálculo de un área.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v5",
       "statement": "Factoriza la expresión $x^2 + 5x + 6$.",
-      "context": "",
+      "context": "En una escuela de Aguadulce, se enseña a factorizar buscando números que cumplan condiciones de suma y producto.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la factorización correcta de la expresión $x^3 - 8$?",
-      "context": "",
+      "context": "Un ingeniero hidráulico en el Canal factoriza una diferencia de cubos para una ecuación de flujo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v7",
       "statement": "Factoriza el trinomio $2x^2 + 7x + 3$.",
-      "context": "",
+      "context": "Un arquitecto en Ciudad de Panamá utiliza factorización para determinar dimensiones estructurales.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v8",
       "statement": "Factoriza totalmente la expresión $25a^2 - 40ab + 16b^2$.",
-      "context": "",
+      "context": "Un programador panameño simplifica una expresión racional factorizando un trinomio en el denominador.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v9",
       "statement": "Factoriza la expresión $27 + y^3$.",
-      "context": "",
+      "context": "Un estudiante de ingeniería en la UTP simplifica una fracción factorizando una suma de cubos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la factorización completa de la expresión $3x^4 - 48$?",
-      "context": "",
+      "context": "Un analista en Ciudad de Panamá factoriza un polinomio de cuarto grado extrayendo factores comunes.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v11",
       "statement": "Factoriza por agrupación la siguiente expresión: $x^2 + xy + xz + xy + y^2 + yz$.",
-      "context": "",
+      "context": "Un geómetra en Chiriquí descompone un polinomio de seis términos por agrupación.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v12",
       "statement": "Factoriza la expresión algebraica: $(x + 1)^2 - 4$.",
-      "context": "",
+      "context": "En una competencia de matemáticas, se pide factorizar una diferencia de cuadrados binómicos.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la forma factorizada del trinomio $6x^2 - 7x - 3$?",
-      "context": "",
+      "context": "Un ingeniero de software optimiza una rutina de factorización de trinomios complejos.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la factorización de $x^4 + x^2 + 1$? (Identidad de Argand).",
-      "context": "",
+      "context": "Un experto en criptografía utiliza la factorización de potencias pares para un algoritmo.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v15",
       "statement": "Factoriza totalmente el polinomio $x^3 - x^2 - 4x + 4$.",
-      "context": "",
+      "context": "Un analista de riesgos en Ciudad de Panamá descompone un polinomio para hallar puntos de equilibrio.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v16",
       "statement": "Factoriza el polinomio $x^3 + 3x^2 - 4$ sabiendo que $x=1$ es una raíz del mismo.",
-      "context": "",
+      "context": "Un estudiante utiliza la regla de Ruffini para factorizar un polinomio con una raíz conocida.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v17",
       "statement": "Factoriza la expresión algebraica $x^5 + 32$.",
-      "context": "",
+      "context": "Un investigador utiliza la identidad de suma de potencias impares para un modelo avanzado.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v18",
       "statement": "Factoriza totalmente la expresión: $a^2 + 2ab + b^2 - c^2$.",
-      "context": "",
+      "context": "Se requiere factorizar una expresión que combina diferencia de cuadrados y trinomios.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la factorización total de la expresión $x^6 - y^6$?",
-      "context": "",
+      "context": "Se plantea un reto sobre la factorización total de una diferencia de potencias sextas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.3,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v20",
       "statement": "Factoriza la expresión $4x^4 + 1$ siguiendo la identidad de Sophie Germain.",
-      "context": "",
+      "context": "Aplicación de la identidad de Sophie Germain para factorizar una suma de potencias cuartas.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.25,
       "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

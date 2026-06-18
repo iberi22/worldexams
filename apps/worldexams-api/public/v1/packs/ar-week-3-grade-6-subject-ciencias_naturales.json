@@ -10,7 +10,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se define a todo aquello que tiene masa y ocupa un lugar en el espacio (volumen), como la leche, la cuchara o el aire dentro de un globo?",
-      "context": "",
+      "context": "En la cocina de una casa en San Luis, Facundo está preparando la merienda y observa distintos materiales a su alrededor.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Materia",
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v2",
       "statement": "¿Qué propiedad intensiva de la materia relaciona la cantidad de masa contenida en un volumen determinado?",
-      "context": "",
+      "context": "Lucía tiene dos pelotas del mismo tamaño: una de telgopor y otra de acero. Nota que la de acero es mucho más \"pesada\" a pesar de ocupar el mismo espacio.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Materia",
+      "expected_success": 0.8,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v3",
       "statement": "¿Cómo clasificarías científicamente a esta mezcla donde no podés distinguir sus componentes a simple vista?",
-      "context": "",
+      "context": "Estás preparando un café con leche y le agregás una cucharada de azúcar. Revolvés bien hasta que el azúcar \"desaparece\" a la vista.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Materia",
+      "expected_success": 0.75,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v4",
       "statement": "¿Qué método físico de separación sería el más eficiente para sacar los clips de hierro de la mezcla sin mojarse las manos?",
-      "context": "",
+      "context": "En un laboratorio en La Plata, un grupo de alumnos tiene un frasco con agua, arena y clips de hierro. Necesitan separar los clips rápidamente.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Materia",
+      "expected_success": 0.7,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v5",
       "statement": "¿Qué tipo de mezcla es la ensalada de frutas de Martín y qué método podrías usar para separar los trozos de manzana de los de naranja?",
-      "context": "",
+      "context": "Martín quiere preparar una ensalada de frutas con trozos de manzana, naranja y banana. Mezcla todo en un bol.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Materia",
+      "expected_success": 0.65,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v6",
       "statement": "¿Qué diferencia fundamental hay entre la evaporación del charco y la fusión del hielo en términos de cambios de estado?",
-      "context": "",
+      "context": "Unos alumnos en Neuquén observan cómo el agua de un charco desaparece después de un día de sol, mientras que el hielo de un glaciar se derrite lentamente.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Materia",
+      "expected_success": 0.6,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v7",
       "statement": "¿Qué dos características del aceite explican por qué no se mezcla con el agua y por qué flota sobre ella?",
-      "context": "",
+      "context": "Al mezclar aceite y agua en un vaso, notás que por más que revuelvas, el aceite siempre termina flotando arriba del agua.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Materia",
+      "expected_success": 0.55,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se llaman las propiedades que permiten a los metales ser estirados en hilos y aplastados en láminas, respectivamente?",
-      "context": "",
+      "context": "Valentina está estudiando las propiedades de los metales en su escuela de Córdoba. Nota que puede convertir un alambre de cobre en láminas finas o en hilos delgados.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Materia",
+      "expected_success": 0.5,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v9",
       "statement": "¿Por qué el proceso de \"filtración\" por sí solo no es suficiente para que el agua del río sea potable (segura para beber)?",
-      "context": "",
+      "context": "En una planta potabilizadora de agua en Buenos Aires, el agua del río viene con mucha arcilla y lodo. Los ingenieros deben decidir cómo limpiarla para el consumo.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Materia",
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes combinaciones de propiedades físicas y químicas sería la ideal para este nuevo material ecológico?",
-      "context": "",
+      "context": "Un grupo de investigadores argentinos está diseñando un nuevo material para envases de comida que se degrade rápido y no contamine.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Materia",
+      "expected_success": 0.4,
       "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

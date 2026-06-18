@@ -10,7 +10,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v1",
       "statement": "¿Qué intervalo representa correctamente a todos los números reales mayores o iguales a 5 y menores que 12?",
-      "context": "",
+      "context": "Diego está estudiando la simbología de las desigualdades en su liceo de Santiago.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.85,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v2",
       "statement": "¿Qué sucede con el sentido de una desigualdad si se multiplican ambos lados por un número negativo?",
-      "context": "",
+      "context": "Un estudiante analiza las propiedades de orden en los números reales.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.8,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v3",
       "statement": "Resuelva la inecuación: $x + 7 > 15$",
-      "context": "",
+      "context": "Se busca resolver una inecuación lineal simple en el conjunto de los reales.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.75,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v4",
       "statement": "Si la solución de una inecuación es $x \\leq -2$, ¿cómo se representa gráficamente?",
-      "context": "",
+      "context": "Javiera analiza la representación gráfica de una solución en la recta numérica.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.7,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v5",
       "statement": "Resuelva la inecuación: $-2x \\leq 10$",
-      "context": "",
+      "context": "Valentina resuelve una inecuación donde debe multiplicar por un negativo.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v6",
       "statement": "Nicolás tiene \\$30.000 para gastar en entradas de cine que cuestan \\$4.500 cada una. ¿Qué inecuación permite calcular la cantidad máxima $x$ de entradas que puede comprar?",
-      "context": "",
+      "context": "Se plantea una situación de presupuesto mensual.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Representación",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v7",
       "statement": "Si el conductor pesa $80 \\text{ kg}$ y lleva cajas de $25 \\text{ kg}$ cada una, ¿cuál es el número máximo de cajas que puede transportar sin exceder la capacidad?",
-      "context": "",
+      "context": "Un furgón escolar en Concepción tiene una capacidad máxima de carga de $500 \\text{ kg}$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v8",
       "statement": "El plan A cobra \\$5.000 fijo más \\$50 por minuto. El plan B cobra \\$2.000 fijo más \\$80 por minuto. ¿A partir de cuántos minutos el plan A es más económico que el plan B?",
-      "context": "",
+      "context": "Se comparan dos planes de telefonía móvil.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.55,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v9",
       "statement": "Si Matías obtuvo un 3,8 y un 4,2 en sus dos primeras notas, ¿qué nota mínima debe obtener en la tercera evaluación para aprobar (escala de 1,0 a 7,0)?",
-      "context": "",
+      "context": "En una prueba de selección, se aprueba con una nota promedio mayor o igual a 4,5.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el conjunto solución de la inecuación $x + 5 < x + 2$?",
-      "context": "",
+      "context": "Se analiza el conjunto solución de una inecuación vacía.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.5,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v11",
       "statement": "¿Cuáles son los posibles valores para el largo $L$ del rectángulo?",
-      "context": "",
+      "context": "Un rectángulo tiene un ancho de $8 \\text{ cm}$ y su perímetro debe ser menor a $50 \\text{ cm}$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.45,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v12",
       "statement": "Resuelva: $3(2x - 4) \\leq 4x + 8$",
-      "context": "",
+      "context": "Un estudiante en Temuco resuelve una inecuación lineal con paréntesis y distribución.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el conjunto solución del sistema: $x > 2$ y $x \\leq 5$?",
-      "context": "",
+      "context": "Se analiza el sistema de inecuaciones simultáneas.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v14",
       "statement": "Para la inecuación $\\frac{5}{x} > 0$, ¿qué valores de $x$ son soluciones?",
-      "context": "",
+      "context": "Un grupo de estudio discute sobre la validez de soluciones en una inecuación fraccionaria simple.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.3,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v15",
       "statement": "¿A qué intervalo equivale la unión de $(-\\infty, 4)$ y $[2, 10]$?",
-      "context": "",
+      "context": "Se pide identificar el intervalo que corresponde a la unión de dos conjuntos.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Representación",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v16",
       "statement": "¿Cómo se expresa esta restricción de temperatura mediante inecuaciones?",
-      "context": "",
+      "context": "Un científico mide la temperatura $T$ de un experimento en Talca. Se sabe que $T$ nunca baja de $-5^\\circ\\text{C}$ y nunca sube de $15^\\circ\\text{C}$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelación",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la solución de $|x - 3| < 4$?",
-      "context": "",
+      "context": "Se analiza el efecto del valor absoluto en una inecuación.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.25,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el conjunto solución de $x^2 - 4 < 0$?",
-      "context": "",
+      "context": "Se requiere resolver una inecuación cuadrática que involucra factorización.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.2,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v19",
       "statement": "¿Para qué valores de $x$ se cumple que $\\frac{x-2}{x+3} \\geq 0$?",
-      "context": "",
+      "context": "Se pide resolver una inecuación racional con variable en el denominador.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.15,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle-v20",
       "statement": "¿Cuántos números enteros satisfacen simultáneamente $2x - 3 < 10$ y $x + 4 > 8$?",
-      "context": "",
+      "context": "Un profesor en Puerto Montt pregunta sobre las soluciones enteras de una inecuación.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.1,
       "bundle_id": "CL-MAT-11-2026-W07-inecuaciones-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

@@ -79,6 +79,19 @@
       }
     });
 
+    // Handle code blocks (```code```) BEFORE other markdown to avoid conflict
+    result = result.replace(/```([\s\S]*?)```/g, (match, code) => {
+      // Escape HTML in code block
+      const escaped = code.trim().replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      return `<pre class="bg-gray-900 rounded-xl p-4 overflow-x-auto text-sm font-mono text-emerald-300 border border-white/10 my-4"><code>${escaped}</code></pre>`;
+    });
+
+    // Handle inline code (`code`)
+    result = result.replace(/`([^`\n]+)`/g, (match, code) => {
+      const escaped = code.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      return `<code class="bg-gray-800 rounded px-1.5 py-0.5 text-sm font-mono text-emerald-300">${escaped}</code>`;
+    });
+
     // Handle markdown bold (**text**)
     result = result.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
 
@@ -113,6 +126,7 @@
     result = result.replace(/(<\/blockquote>)\s*<br>/g, '$1');
     result = result.replace(/(<hr[^>]*>)\s*<br>/g, '$1');
     result = result.replace(/(<\/div>)\s*<br>/g, '$1');
+    result = result.replace(/(<\/pre>)\s*<br>/g, '$1');
 
     // Final trim to ensure no trailing BRs were created or left
     if (result.endsWith('<br>')) {

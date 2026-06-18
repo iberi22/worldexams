@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v1",
+      "statement": "\"Leche\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "milk",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "water",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agua = water."
+        },
+        {
+          "letter": "C",
+          "text": "juice",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugo = juice."
+        },
+        {
+          "letter": "D",
+          "text": "soda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gaseosa = soda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Milk (leche), water (agua), juice (jugo), soda (gaseosa), coffee (café), tea (té).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v2",
+      "statement": "\"Verduras\" in English is ___.",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "vegetables",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "fruits",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frutas = fruits."
+        },
+        {
+          "letter": "C",
+          "text": "grains",
+          "is_correct": false,
+          "feedback": "Incorrecto. Granos = grains."
+        },
+        {
+          "letter": "D",
+          "text": "meat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carne = meat."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vegetables: carrot (zanahoria), tomato (tomate), onion (cebolla), lettuce (lechuga), beans (frijoles).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v3",
+      "statement": "\"Water\" is an ___ noun.",
+      "context": "In Cali, count/uncount nouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "uncountable",
+          "is_correct": true,
+          "feedback": "Correcto. Water no se puede contar."
+        },
+        {
+          "letter": "B",
+          "text": "countable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Countable = contable."
+        },
+        {
+          "letter": "C",
+          "text": "plural",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "singular",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uncountable nouns (incontables): water, milk, rice, bread, sugar, salt. No tienen plural.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v4",
+      "statement": "\"Apple\" is a ___ noun.",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "countable",
+          "is_correct": true,
+          "feedback": "Correcto. Puedes decir one apple, two apples."
+        },
+        {
+          "letter": "B",
+          "text": "uncountable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Apple se puede contar."
+        },
+        {
+          "letter": "C",
+          "text": "collective",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "abstract",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Countable nouns: one apple, two apples, three books, four pencils.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v5",
+      "statement": "\"I have ___ oranges.\" (positive)",
+      "context": "In Bucaramanga, some/any.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some",
+          "is_correct": true,
+          "feedback": "Correcto. Some en oraciones afirmativas."
+        },
+        {
+          "letter": "B",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrecto. Any en negativas y preguntas."
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrecto. A es singular."
+        },
+        {
+          "letter": "D",
+          "text": "no",
+          "is_correct": false,
+          "feedback": "Incorrecto. No = ninguna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Some en afirmativas: \"I have some apples.\" Any en negativas: \"I don't have any apples.\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v6",
+      "statement": "\"Do you have ___ water?\"",
+      "context": "In Cartagena, questions with any.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "any",
+          "is_correct": true,
+          "feedback": "Correcto. Any en preguntas."
+        },
+        {
+          "letter": "B",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Posible en ofrecimientos pero any es más común."
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Water es incontable."
+        },
+        {
+          "letter": "D",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrecto. Many para contables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Any en preguntas: \"Do you have any water?\" Some en ofrecimientos: \"Would you like some water?\"\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v7",
+      "statement": "\"How ___ apples do you need?\"",
+      "context": "In Pereira, quantifiers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "many",
+          "is_correct": true,
+          "feedback": "Correcto. Many para contables."
+        },
+        {
+          "letter": "B",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Incorrecto. Much para incontables."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "How many + countable noun. How much + uncountable noun. \"How many apples?\" \"How much water?\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v8",
+      "statement": "\"There isn't ___ bread.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "any",
+          "is_correct": true,
+          "feedback": "Correcto. Any en negativas."
+        },
+        {
+          "letter": "B",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrecto. Some en afirmativas."
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bread es incontable."
+        },
+        {
+          "letter": "D",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bread es incontable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "There isn't any bread = no hay pan. There is some bread = hay pan.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v9",
+      "statement": "Which sentence is CORRECT?",
+      "context": "In Cúcuta, fix errors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I need some milks.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Milk es incontable."
+        },
+        {
+          "letter": "B",
+          "text": "I need some milk.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "I need a milk.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Milk no lleva 'a'."
+        },
+        {
+          "letter": "D",
+          "text": "I need many milk.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Many para contables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uncountable nouns: no plural. Some milk, not some milks. Much milk, not many milk.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v10",
+      "statement": "\"Shopping list: milk, apples, rice, oranges.\" Which is UNCOUNTABLE?",
+      "context": "In Ibagué, shopping list.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Milk",
+          "is_correct": true,
+          "feedback": "Correcto. Milk = incontable."
+        },
+        {
+          "letter": "B",
+          "text": "Apples",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contable."
+        },
+        {
+          "letter": "C",
+          "text": "Oranges",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contable."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "is_correct": false,
+          "feedback": "Incorrecto. Milk es incontable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Common uncountable foods: milk, rice, bread, sugar, salt, coffee, tea, water, juice.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null

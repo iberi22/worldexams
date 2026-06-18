@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el nombre genérico que reciben los poemas épicos medievales que narran las hazañas de héroes legendarios?",
-      "context": "",
+      "context": "La épica medieval es un género literario en verso que narra las hazañas de héroes que representan los valores de una nación o comunidad.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el valor fundamental que el Cid intenta recuperar a lo largo de todo el cantar tras ser desterrado por el rey Alfonso VI?",
-      "context": "",
+      "context": "El Cantar de Mio Cid es la obra cumbre de la épica castellana y narra las aventuras de Rodrigo Díaz de Vivar.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v3",
       "statement": "¿Qué característica define mejor la relación de un héroe épico como Roldán o el Cid con su señor feudal o rey?",
-      "context": "",
+      "context": "Los héroes épicos medievales no solo eran guerreros valientes, sino modelos de conducta para la sociedad de su tiempo.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se manifiesta el realismo en el Cantar de Mio Cid en comparación con otras epopeyas europeas?",
-      "context": "",
+      "context": "A diferencia de la épica francesa, que tiene muchos elementos fantásticos, la épica castellana se caracteriza por su realismo y verosimilitud.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v5",
       "statement": "Si en un texto épico leemos constantemente frases como \"El que en buena hora ciñó espada\", ¿cuál es la función técnica de este recurso literario?",
-      "context": "",
+      "context": "Los cantares de gesta solían utilizar fórmulas fijas para referirse a los héroes, como \"El de la barba vellida\" para el Cid.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v6",
       "statement": "¿Qué simboliza la muerte de Roldán al negarse a tocar el olifante (cuerno) para pedir ayuda hasta que es demasiado tarde?",
-      "context": "",
+      "context": "La \"Chanson de Roland\" narra la derrota de la retaguardia de Carlomagno en Roncesvalles y la muerte heroica del caballero Roldán.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.67,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la razón principal por la que la épica medieval suele exagerar las fuerzas de los enemigos o la magnitud de las batallas?",
-      "context": "",
+      "context": "Los cantares de gesta mezclan hechos históricos reales con elementos legendarios creados por la tradición popular.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v8",
       "statement": "¿Qué nos indica el hecho de que el Cid pida justicia al Rey mediante un juicio en las cortes en lugar de matar directamente a los Infantes de Carrión?",
-      "context": "",
+      "context": "El episodio de la \"Afrenta de Corpes\" en el Cid narra cómo los Infantes de Carrión maltratan a las hijas del héroe para vengarse de él.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v9",
       "statement": "Considerando el final trágico de Sigfrido, ¿qué diferencia se observa en la visión del mundo entre la épica nórdica/germánica y la castellana?",
-      "context": "",
+      "context": "En la épica germánica como el \"Cantar de los Nibelungos\", el destino y la venganza juegan un papel mucho más trágico y sombrío que en la épica española.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.52,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v10",
       "statement": "¿De qué manera el Cantar de Mio Cid pudo haber servido como herramienta de cohesión social durante la Reconquista en España?",
-      "context": "",
+      "context": "Algunos historiadores sugieren que los cantares de gesta eran una forma de propaganda política para incentivar la guerra contra los enemigos del reino.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v11",
       "statement": "¿Cómo desafía o refuerza la figura de Krimilda los estereotipos de género de la literatura medieval épica?",
-      "context": "",
+      "context": "El héroe épico suele ser una figura masculina. Sin embargo, en el \"Cantar de los Nibelungos\", el personaje de Krimilda desencadena la tragedia final por venganza.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el efecto estético y psicológico de usar el presente histórico en los cantares de gesta cuando el juglar recitaba ante su público?",
-      "context": "",
+      "context": "El lenguaje de la épica utiliza el \"presente histórico\" para narrar hechos del pasado como si estuvieran ocurriendo en el momento.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.38,
       "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -522,6 +558,9 @@
       "difficulty": "1",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.92,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -562,6 +601,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -602,6 +644,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.87,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -642,6 +687,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.84,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -682,6 +730,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -722,6 +773,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -762,6 +816,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.77,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -802,6 +859,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.74,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -842,6 +902,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.72,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -882,6 +945,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -922,6 +988,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.67,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -962,6 +1031,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

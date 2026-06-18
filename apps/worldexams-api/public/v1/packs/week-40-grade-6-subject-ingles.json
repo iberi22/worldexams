@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v1",
+      "statement": "\"How are you?\" \"I'm fine, ___.\"",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thank you",
+          "is_correct": true,
+          "feedback": "Correcto. Thank you = gracias."
+        },
+        {
+          "letter": "B",
+          "text": "please",
+          "is_correct": false,
+          "feedback": "Incorrecto. Please = por favor."
+        },
+        {
+          "letter": "C",
+          "text": "sorry",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sorry = lo siento."
+        },
+        {
+          "letter": "D",
+          "text": "goodbye",
+          "is_correct": false,
+          "feedback": "Incorrecto. Goodbye = adiós."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Common responses: 'I'm fine, thank you' or 'I'm fine, thanks'. Thank you = gracias.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v2",
+      "statement": "\"What's the weather like?\" \"It's ___.\" (soleado)",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sunny",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cloudy = nublado."
+        },
+        {
+          "letter": "C",
+          "text": "rainy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rainy = lluvioso."
+        },
+        {
+          "letter": "D",
+          "text": "windy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Windy = ventoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'What's the weather like?' = ¿Cómo está el clima? Reply: 'It's sunny/cloudy/rainy/windy/cold/hot.'\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v3",
+      "statement": "\"Turn ___ at the corner.\" (derecha)",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "right",
+          "is_correct": true,
+          "feedback": "Correcto. Turn right = gire a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "left",
+          "is_correct": false,
+          "feedback": "Incorrecto. Left = izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "back",
+          "is_correct": false,
+          "feedback": "Incorrecto. Back = atrás."
+        },
+        {
+          "letter": "D",
+          "text": "around",
+          "is_correct": false,
+          "feedback": "Incorrecto. Around = alrededor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Turn right = girar a la derecha. Turn left = girar a la izquierda.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v4",
+      "statement": "\"We ___ going to the park tomorrow.\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correcto. We are = nosotros estamos."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. Is con he/she/it."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrecto. Am con I."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present continuous for future: I am, you are, he/she/it is, we are, they are + going to.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v5",
+      "statement": "\"There is ___ milk in the fridge.\" (un poco de)",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some",
+          "is_correct": true,
+          "feedback": "Correcto. Some = un poco de."
+        },
+        {
+          "letter": "B",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrecto. Any en negativas/preguntas."
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Milk incontable."
+        },
+        {
+          "letter": "D",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrecto. Many para contables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Some en afirmativas: 'There is some milk.' (Hay un poco de leche.). Any en negativas: 'There isn't any milk.'\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v6",
+      "statement": "\"She is wearing a ___.\" (sombrero)",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hat",
+          "is_correct": true,
+          "feedback": "Correcto. Hat = sombrero."
+        },
+        {
+          "letter": "B",
+          "text": "coat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coat = abrigo."
+        },
+        {
+          "letter": "C",
+          "text": "dress",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dress = vestido."
+        },
+        {
+          "letter": "D",
+          "text": "scarf",
+          "is_correct": false,
+          "feedback": "Incorrecto. Scarf = bufanda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Clothes: hat (sombrero/gorra), coat (abrigo), dress (vestido), scarf (bufanda), gloves (guantes).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v7",
+      "statement": "\"Does she like pizza?\" \"Yes, she ___.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "Correcto. Yes, she does."
+        },
+        {
+          "letter": "B",
+          "text": "likes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Short answer."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Short answers with do/does: Yes, I do. / No, I don't. Yes, she does. / No, she doesn't.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v8",
+      "statement": "\"I have two ___ and one cat.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dogs",
+          "is_correct": true,
+          "feedback": "Correcto. Two dogs = plural."
+        },
+        {
+          "letter": "B",
+          "text": "dog",
+          "is_correct": false,
+          "feedback": "Incorrecto. Two + plural."
+        },
+        {
+          "letter": "C",
+          "text": "doges",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dog → dogs."
+        },
+        {
+          "letter": "D",
+          "text": "doggies",
+          "is_correct": false,
+          "feedback": "Incorrecto. Diminutivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Plural: dog → dogs. Regular plural adds -s or -es. Two dogs, three cats, four birds.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v9",
+      "statement": "\"You need a ticket to travel by ___.\"",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "plane or long-distance bus",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "bicycle",
+          "is_correct": false,
+          "feedback": "Incorrecto. No necesita tiquete."
+        },
+        {
+          "letter": "C",
+          "text": "walking",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "your own car",
+          "is_correct": false,
+          "feedback": "Incorrecto. No necesita tiquete."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "You need a ticket for public transport: plane (avión), bus (autobús), train (tren). Not for your own car or bicycle.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W40-final-review-001-MASTERY-v10",
+      "statement": "\"What did you learn in English class this year?\" Best summary:",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greetings, family, numbers, time, food, clothes, animals, house, weather, directions, transport.",
+          "is_correct": true,
+          "feedback": "Correcto. Full summary."
+        },
+        {
+          "letter": "B",
+          "text": "Only colors and numbers.",
+          "is_correct": false,
+          "feedback": "Incorrecto. More topics."
+        },
+        {
+          "letter": "C",
+          "text": "Only grammar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Many topics."
+        },
+        {
+          "letter": "D",
+          "text": "Only vocabulary.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mix of skills."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Year summary: greetings, classroom objects, family, possessives, numbers, time, daily routines, food, likes/dislikes, clothes, animals, house, weather, seasons, free time, directions, places, transport.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-v1",
       "statement": "Which question word asks about TIME?",
       "context": "At Colegio Champagnat de Ibagué, teacher reviews question words.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W40-question-formation-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",

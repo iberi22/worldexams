@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el valor de la integral indefinida de una constante $k$? $\\int k \\, dx$.",
-      "context": "",
+      "context": "Un estudiante de la Prepa Nacional repasa el concepto de antiderivada como la operación inversa de la derivación.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.9,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v2",
       "statement": "Aplique la regla de la potencia para integrar la función $f(x) = x$. $\\int x \\, dx$.",
-      "context": "",
+      "context": "Se requiere calcular el área bajo una recta que pasa por el origen.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v3",
       "statement": "Determine la integral indefinida de $f(x) = x^2$.",
-      "context": "",
+      "context": "Un estudiante de ingeniería en Querétaro integra una función cuadrática básica.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el resultado de $\\int [f(x) + g(x)] \\, dx$?",
-      "context": "",
+      "context": "Un profesor en el IPN explica la propiedad de linealidad de la integral indefinida.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v5",
       "statement": "Calcule la integral: $\\int (3x^2 - 4x + 5) \\, dx$.",
-      "context": "",
+      "context": "Se desea encontrar la función de posición de un objeto en caída libre en la Ciudad de México dada su función de velocidad.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v6",
       "statement": "Determine el valor de $\\int \\frac{1}{x^2} \\, dx$.",
-      "context": "",
+      "context": "Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v7",
       "statement": "Calcule la integral especial: $\\int \\frac{1}{x} \\, dx$ para $x > 0$.",
-      "context": "",
+      "context": "Un físico en Monterrey estudia la energía potencial asociada a una fuerza que varía inversamente con la distancia.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v8",
       "statement": "Determine $\\int e^x \\, dx$.",
-      "context": "",
+      "context": "Se requiere encontrar la función original de un crecimiento poblacional cuya tasa es exponencial.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v9",
       "statement": "Calcule $\\int \\sin(x) \\, dx$.",
-      "context": "",
+      "context": "Un ingeniero hidráulico integra una función senoidal para determinar el flujo de agua en un ciclo periódico.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v10",
       "statement": "Determine la integral de $\\int \\cos(x) \\, dx$.",
-      "context": "",
+      "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza que sigue una función coseno.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v11",
       "statement": "Determine el resultado de $\\int e^{2x} \\, dx$.",
-      "context": "",
+      "context": "Un analista de datos en Guadalajara integra una función que requiere un ajuste de constante para aplicar la regla de la cadena inversa.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v12",
       "statement": "Calcule la integral indefinida de $f(x) = \\sqrt{x}$.",
-      "context": "",
+      "context": "Un geólogo calcula el área de una sección transversal de un terreno modelado por una raíz cuadrada.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v13",
       "statement": "Evalúe $\\int \\frac{3}{x^4} \\, dx$.",
-      "context": "",
+      "context": "Un técnico industrial utiliza la integración para hallar la velocidad a partir de una aceleración que depende de una potencia negativa.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v14",
       "statement": "Determine la integral de $\\int (2x + 1)^3 \\, dx$.",
-      "context": "",
+      "context": "Un estudiante de economía en el Estado de México integra una función de costo marginal para obtener el costo total.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v15",
       "statement": "Calcule $\\int \\cos(4x) \\, dx$.",
-      "context": "",
+      "context": "Un ingeniero civil en Puebla calcula la deflexión de una viga usando integrales de funciones trigonométricas con argumentos compuestos.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v16",
       "statement": "Identifique el resultado de la integral: $\\int \\frac{1}{1 + x^2} \\, dx$.",
-      "context": "",
+      "context": "Se requiere resolver una integral que resulta en una función trigonométrica inversa, común en problemas de física de partículas.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v17",
       "statement": "Calcule $\\int x e^{x^2} \\, dx$.",
-      "context": "",
+      "context": "Un estudiante de física avanzada en el Cinvestav resuelve una integral mediante el método de sustitución (cambio de variable).",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v18",
       "statement": "Determine $\\int \\ln(x) \\, dx$ mediante el método de integración por partes.",
-      "context": "",
+      "context": "Un matemático aplica la integración para hallar el área entre una función logarítmica y el eje de las abscisas.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v19",
       "statement": "Calcule $\\int \\sin^2(x) \\cos(x) \\, dx$.",
-      "context": "",
+      "context": "Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor de $\\int \\frac{x}{x^2 + 1} \\, dx$?",
-      "context": "",
+      "context": "Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",

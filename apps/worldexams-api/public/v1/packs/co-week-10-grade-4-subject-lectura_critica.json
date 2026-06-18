@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.593Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v1",
+      "statement": "*\"María se resfrió porque jugó bajo la lluvia.\"* ¿Causa?",
+      "context": "Repaso inferir causa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugar bajo la lluvia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Comer helado.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dormir poco.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Leer mucho.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repaso causa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v2",
+      "statement": "*\"Sol derritió hielo, se formó charco.\"* ¿Consecuencia?",
+      "context": "Repaso consecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Más hielo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Charco de agua.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Llovió.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Frío.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso consecuencia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v3",
+      "statement": "*\"Perro ladra. Gato maúa.\"* ¿Diferencia?",
+      "context": "Repaso contrastar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos mascotas.",
+          "is_correct": false,
+          "feedback": "Semejanza."
+        },
+        {
+          "letter": "B",
+          "text": "Ladra vs maúa.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos 4 patas.",
+          "is_correct": false,
+          "feedback": "Semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos animales.",
+          "is_correct": false,
+          "feedback": "Semejanza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso contrastar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v4",
+      "statement": "*\"No había lápices en el salón.\"* ¿Problema?",
+      "context": "Repaso problema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muchos lápices.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No hay lápices.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Muchas sillas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Pupitres nuevos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso problema.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v5",
+      "statement": "*\"Profe consiguió lápices para todos.\"* ¿Solución?",
+      "context": "Repaso solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar lápices.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Cancelar clase.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Enviar a casa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No escribir.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repaso solución.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v6",
+      "statement": "*\"Árbol no creció porque no le llegaba sol.\"* ¿Causa?",
+      "context": "Repaso causa-efecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No le llegaba sol.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "No creció.",
+          "is_correct": false,
+          "feedback": "Efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Árbol pequeño.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Llovía mucho.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repaso causa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v7",
+      "statement": "*\"Tortuga lenta. Conejo rápido.\"* ¿Tipo?",
+      "context": "Repaso tipo comparación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semejanza.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Contraste.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Igualdad.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Identidad.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso tipo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v8",
+      "statement": "*\"Estudiantes tienen sed en clase.\"* ¿Mejor solución?",
+      "context": "Repaso evaluar solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tomar agua.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Poner dispensador de agua.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Cancelar clase.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Enviarlos a casa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso evaluar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v9",
+      "statement": "*\"No estudió, por lo tanto reprobó.\"* ¿Relación?",
+      "context": "Repaso relación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparación.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Causa-consecuencia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Problema-solución.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Secuencia.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso tipo relación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v10",
+      "statement": "*\"La biblioteca no tiene libros nuevos.\"* ¿Qué falta?",
+      "context": "Repaso estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir biblioteca.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Proponer solución.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Poner fotos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repaso estructura.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

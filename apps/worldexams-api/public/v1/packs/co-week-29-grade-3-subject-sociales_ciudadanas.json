@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.157Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v1",
+      "statement": "Cuales son medios de comunicacion masiva?",
+      "context": "I.E. San Felipe, Bogota. Repaso medios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio, television, internet y periodico.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Telefono fijo.",
+          "is_correct": false,
+          "feedback": "Es interpersonal."
+        },
+        {
+          "letter": "C",
+          "text": "C) Carta.",
+          "is_correct": false,
+          "feedback": "Es personal."
+        },
+        {
+          "letter": "D",
+          "text": "D) Carro.",
+          "is_correct": false,
+          "feedback": "Es transporte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios masivos llegan a muchas personas simultaneamente.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v2",
+      "statement": "Que es una noticia?",
+      "context": "I.E. La Candelaria, Medellin. Repaso noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informacion sobre un hecho actual de interes para la comunidad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Un cuento inventado.",
+          "is_correct": false,
+          "feedback": "Es un hecho real."
+        },
+        {
+          "letter": "C",
+          "text": "C) Una receta de cocina.",
+          "is_correct": false,
+          "feedback": "No es noticia."
+        },
+        {
+          "letter": "D",
+          "text": "D) Un anuncio publicitario.",
+          "is_correct": false,
+          "feedback": "No es noticia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia informa sobre hechos reales y actuales.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v3",
+      "statement": "Que necesita una carta para ser enviada?",
+      "context": "I.E. INEM, Cali. Repaso carta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre, estampilla y direccion del destinatario.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo el mensaje.",
+          "is_correct": false,
+          "feedback": "Necesita sobre y estampilla."
+        },
+        {
+          "letter": "C",
+          "text": "C) Foto del remitente.",
+          "is_correct": false,
+          "feedback": "No es necesario."
+        },
+        {
+          "letter": "D",
+          "text": "D) Aprobacion del gobierno.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda carta requiere sobre con estampilla y direccion para ser enviada.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v4",
+      "statement": "Que informacion debe tener una noticia?",
+      "context": "I.E. Fe y Alegria, Barranquilla. Repaso preguntas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que paso, cuando, donde, quienes participaron y por que fue importante.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo la opinion del periodista.",
+          "is_correct": false,
+          "feedback": "Debe tener datos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo fotos.",
+          "is_correct": false,
+          "feedback": "Debe tener texto informativo."
+        },
+        {
+          "letter": "D",
+          "text": "D) Nada, solo el titulo.",
+          "is_correct": false,
+          "feedback": "Debe tener mas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las preguntas basicas de la noticia son: que, cuando, donde, quien, como y por que.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v5",
+      "statement": "Como se puede saber que paso en la ciudad hoy?",
+      "context": "I.E. Tecnico, Pasto. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leyendo el periodico, viendo noticias en TV o escuchando la radio.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo preguntando a vecinos.",
+          "is_correct": false,
+          "feedback": "Tambien medios."
+        },
+        {
+          "letter": "C",
+          "text": "C) No hay forma.",
+          "is_correct": false,
+          "feedback": "Si hay."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo por internet.",
+          "is_correct": false,
+          "feedback": "Tambien otros medios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios de comunicacion informan sobre los hechos del dia.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v6",
+      "statement": "Si quieres enviar un saludo a tu abuela en otra ciudad sin internet, que usas?",
+      "context": "I.E. Simon Bolivar, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carta tradicional por correo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Un mensaje de texto.",
+          "is_correct": false,
+          "feedback": "Sin internet no funciona."
+        },
+        {
+          "letter": "C",
+          "text": "C) Un email.",
+          "is_correct": false,
+          "feedback": "Sin internet no."
+        },
+        {
+          "letter": "D",
+          "text": "D) Una llamada.",
+          "is_correct": false,
+          "feedback": "Si hay problemas de conexion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La carta tradicional no necesita internet y llega a traves del servicio postal.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v7",
+      "statement": "Relacion entre radio y periodico.",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La radio se escucha, el periodico se lee. Ambos informan noticias.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Son iguales.",
+          "is_correct": false,
+          "feedback": "Diferentes formatos."
+        },
+        {
+          "letter": "C",
+          "text": "C) La radio no informa.",
+          "is_correct": false,
+          "feedback": "Si informa."
+        },
+        {
+          "letter": "D",
+          "text": "D) El periodico no es confiable.",
+          "is_correct": false,
+          "feedback": "Si es confiable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada medio tiene su formato: auditivo (radio) o escrito (periodico).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-v8",
+      "statement": "Que hemos aprendido sobre comunicacion?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que hay muchos medios para comunicarnos y cada uno tiene sus ventajas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo sirve el internet.",
+          "is_correct": false,
+          "feedback": "Muchos medios."
+        },
+        {
+          "letter": "C",
+          "text": "C) Los medios no son utiles.",
+          "is_correct": false,
+          "feedback": "Si son utiles."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo la carta sirve.",
+          "is_correct": false,
+          "feedback": "Varios medios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variedad de medios permite elegir el mas adecuado segun la situacion.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W29-repaso-p5-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

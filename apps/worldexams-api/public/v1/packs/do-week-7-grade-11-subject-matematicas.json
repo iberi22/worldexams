@@ -10,7 +10,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v1",
       "statement": "¿En qué consiste el proceso de \"factorización\" en álgebra?",
-      "context": "",
+      "context": "Un estudiante en Santo Domingo aprende que factorizar es el proceso inverso a multiplicar.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.9,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el primer método a intentar al empezar a factorizar?",
-      "context": "",
+      "context": "En un liceo de Santiago se explica el método más básico de todos.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.85,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el factor común máximo en $5x^2 + 10x$?",
-      "context": "",
+      "context": "Un estudiante analiza la expresión $5x^2 + 10x$.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la forma factorizada de $x^2 - y^2$?",
-      "context": "",
+      "context": "Identificación de una \"Diferencia de Cuadrados\" en práctica escolar.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v5",
       "statement": "¿Qué condición cumple el término central en un TCP?",
-      "context": "",
+      "context": "Reconocimiento de un Trinomio Cuadrado Perfecto (TCP).",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v6",
       "statement": "¿Factorización de $x^2 + 6x + 9$?",
-      "context": "",
+      "context": "Estudiante en La Romana factoriza $x^2 + 6x + 9$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.7,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v7",
       "statement": "¿Resultado de factorizar $x^2 - 5x + 6$?",
-      "context": "",
+      "context": "Factorización de $x^2 - 5x + 6$ en Puerto Plata.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.7,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v8",
       "statement": "Factoriza $ax + ay + bx + by$.",
-      "context": "",
+      "context": "Factor común por agrupación en Higüey.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.65,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v9",
       "statement": "¿Lados del terreno?",
-      "context": "",
+      "context": "Terreno rectangular con área $x^2 - 16$ en Baní.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.65,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la factorización?",
-      "context": "",
+      "context": "Factorización de $2x^2 + 5x + 2$ en San Francisco.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.6,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v11",
       "statement": "Fórmula para $a^3 + b^3$.",
-      "context": "",
+      "context": "Suma de Cubos en Moca.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.55,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v12",
       "statement": "¿Factorización total?",
-      "context": "",
+      "context": "Factorización completa de $3x^2 - 12$ en Barahona.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.55,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v13",
       "statement": "¿Cuál NO es factorizable en R?",
-      "context": "",
+      "context": "Factorizabilidad en Reales en Santo Domingo.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v14",
       "statement": "Simplifica la fracción.",
-      "context": "",
+      "context": "Simplificación de $(x^2 - 5x + 6) / (x - 3)$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.45,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v15",
       "statement": "¿Forma factorizada de $x^4 + 4$?",
-      "context": "",
+      "context": "Factorización de $x^4 + 4$ (Identidad de Argand).",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.45,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v16",
       "statement": "Si $P(1) = 0$, ¿cuál es factor?",
-      "context": "",
+      "context": "Teorema del Factor: $P(1) = 0$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v17",
       "statement": "¿Factorización en C?",
-      "context": "",
+      "context": "Factorización en Complejos de $x^2 + 9$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.35,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v18",
       "statement": "Halla todos los factores reales.",
-      "context": "",
+      "context": "Factorización total de $x^4 - 81$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución",
+      "expected_success": 0.35,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v19",
       "statement": "¿Cuántos factores lineales tiene un polinomio de grado n?",
-      "context": "",
+      "context": "Teorema Fundamental del Álgebra.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.3,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la factorización?",
-      "context": "",
+      "context": "Factorización de $2^{2x} - 1$.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución",
+      "expected_success": 0.3,
       "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

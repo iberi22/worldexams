@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la fórmula fundamental para calcular el Monto ($M$) en el Interés Compuesto?",
-      "context": "",
+      "context": "Un estudiante de la UNAM compara el crecimiento del dinero en diferentes esquemas bancarios.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v2",
       "statement": "En el interés compuesto, ¿qué significa el término \"capitalización\"?",
-      "context": "",
+      "context": "Un joven en Guadalajara abre su primera cuenta de inversión y lee sobre la \"capitalización\".",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v3",
       "statement": "Si una tasa de interés anual se capitaliza mensualmente, ¿cuántos periodos de capitalización ($n$) hay en un año?",
-      "context": "",
+      "context": "Un asesor financiero explica cómo influye la frecuencia de capitalización en el resultado final.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v4",
       "statement": "¿Qué tipo de progresión o crecimiento sigue el capital bajo un esquema de interés compuesto?",
-      "context": "",
+      "context": "Un inversionista analiza el efecto visual de una gráfica de crecimiento de capital.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v5",
       "statement": "Calcule el monto total después de 2 años de una inversión de $5,000 pesos con una tasa del 10% anual capitalizable anualmente.",
-      "context": "",
+      "context": "Una persona en la CDMX invierte $5,000 pesos en un fondo que rinde interés compuesto.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v6",
       "statement": "Si se invierten $10,000 pesos a una tasa del 12% anual capitalizable trimestralmente, ¿qué tasa de interés por periodo ($i$) se debe usar en la fórmula para un trimestre?",
-      "context": "",
+      "context": "Se estudia el rendimiento de un ahorro a corto plazo con capitalización trimestral.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v7",
       "statement": "Determine el interés ganado (no el monto) de un capital de $20,000 pesos invertido al 8% anual compuesto anualmente durante 2 años.",
-      "context": "",
+      "context": "Un microempresario en Monterrey analiza el costo de un préstamo compuesto.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el monto de una inversión de $1,000 pesos al 24% anual capitalizable mensualmente al cabo de 3 meses?",
-      "context": "",
+      "context": "Un plan de ahorro universitario en Puebla utiliza capitalización mensual.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v9",
       "statement": "En una inversión a 1 año con capitalización anual, ¿cómo es el monto de interés compuesto comparado con el interés simple?",
-      "context": "",
+      "context": "Se compara el interés compuesto con el simple para ver cuándo la diferencia se vuelve significativa.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v10",
       "statement": "Si un capital de $15,000 pesos se invierte al 6% anual compuesto anualmente por 3 años, ¿cuál es el factor por el que se debe multiplicar el capital para hallar el monto?",
-      "context": "",
+      "context": "Un inversionista quiere saber el valor futuro de su dinero considerando una tasa anual del 6%.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v11",
       "statement": "¿Qué capital inicial se debe invertir hoy al 10% anual compuesto anualmente para tener $12,100 pesos dentro de 2 años?",
-      "context": "",
+      "context": "Un estudiante de finanzas en el IPN calcula el valor presente necesario para una meta futura.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v12",
       "statement": "Si una tasa nominal es del 12% anual capitalizable mensualmente, ¿cuál es la tasa efectiva anual aproximada?",
-      "context": "",
+      "context": "Se analiza el concepto de Tasa Efectiva frente a la Tasa Nominal.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la expresión logarítmica para encontrar el tiempo ($n$) necesario para que un capital se convierta en un monto $M$ a una tasa $i$?",
-      "context": "",
+      "context": "Un inversionista evalúa el tiempo necesario para triplicar su dinero con una tasa fija.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v14",
       "statement": "Determine el monto de $40,000 pesos al 10% anual capitalizable semestralmente durante 1.5 años.",
-      "context": "",
+      "context": "Un experto en finanzas de la Bolsa Mexicana de Valores analiza la capitalización semestral.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v15",
       "statement": "Si el Banco A ofrece 12% anual capitalizable anualmente y el Banco B ofrece 12% anual capitalizable mensualmente, ¿cuál es mejor para el ahorrador?",
-      "context": "",
+      "context": "Un ahorrador en Guadalajara compara dos bancos con diferentes frecuencias de capitalización.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v16",
       "statement": "Una maquinaria de $100,000 pesos se deprecia un 20% anual (interés compuesto negativo). ¿Cuál será su valor después de 2 años?",
-      "context": "",
+      "context": "Un estudiante de administración analiza la depreciación de un equipo, que funciona como un interés compuesto negativo.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la fórmula para el Monto ($M$) en una capitalización continua?",
-      "context": "",
+      "context": "Un investigador del Cinvestav estudia la capitalización continua, el límite cuando los periodos tienden a infinito.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v18",
       "statement": "Aproximadamente, ¿cuántos años tarda un capital en duplicarse si se invierte al 6% anual compuesto anualmente? (Use la Regla del 72).",
-      "context": "",
+      "context": "Un analista financiero utiliza la \"Regla del 72\" para estimar rápidamente el tiempo de duplicación.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v19",
       "statement": "¿A qué tasa de interés anual compuesto anualmente se debe invertir un capital para que se duplique en exactamente 5 años?",
-      "context": "",
+      "context": "Un problema complejo que requiere encontrar la tasa de interés desconocida.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v20",
       "statement": "Un capital de $10,000 pesos se invierte por 2 años. El primer año rinde 10% anual y el segundo año rinde 20% anual (ambos compuestos anualmente). ¿Cuál es el rendimiento total acumulado en porcentaje?",
-      "context": "",
+      "context": "Se analiza el efecto de una tasa variable en el tiempo dentro de un esquema compuesto.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1",
       "statement": "En el polinomio $P(x) = 5x^3 - 2x^2 + x - 7$, ¿cuál es el coeficiente principal?",
-      "context": "",
+      "context": "Un estudiante de 1º de Bachillerato en un instituto de Madrid identifica los componentes de un polinomio.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el grado del polinomio resultante de multiplicar un polinomio de grado 2 por otro de grado 3?",
-      "context": "",
+      "context": "Se analiza el grado de una expresión algebraica compleja en una clase en Barcelona.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el desarrollo correcto de la expresión $(2x + 3)^2$?",
-      "context": "",
+      "context": "Un estudiante aplica las identidades notables para simplificar un cálculo de áreas en Valencia.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4",
       "statement": "Si un polinomio $P(x)$ tiene una raíz en $x = 3$, ¿cuál de los siguientes es un factor de dicho polinomio según el Teorema del Factor?",
-      "context": "",
+      "context": "Un examen en Sevilla pregunta por las raíces de un polinomio sencillo.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5",
       "statement": "Al dividir $x^3 - 2x^2 + 4$ entre $x - 1$ usando Ruffini, ¿cuál es el resto de la división?",
-      "context": "",
+      "context": "Un estudiante en Málaga divide un polinomio entre un binomio usando la Regla de Ruffini.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6",
       "statement": "Simplifica la expresión: $\\frac{x^2 - 9}{x^2 - 6x + 9}$.",
-      "context": "",
+      "context": "Se requiere simplificar una fracción algebraica en un ejercicio de refuerzo en Zaragoza.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes condiciones define a una fracción algebraica como \"propia\"?",
-      "context": "",
+      "context": "Un estudiante analiza la estructura de una fracción algebraica propia.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8",
       "statement": "Realiza la suma: $\\frac{1}{x} + \\frac{2}{x+1}$.",
-      "context": "",
+      "context": "Un ingeniero calcula la resistencia estructural usando la suma de dos fracciones algebraicas simples.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la descomposición en factores del polinomio $P(x) = x^3 - x$?",
-      "context": "",
+      "context": "Se busca factorizar un polinomio de tercer grado en un examen de evaluación en Bilbao.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el valor numérico de $\\frac{x^2 - 1}{x + 1}$ para $x = 99$?",
-      "context": "",
+      "context": "Un estudiante en San Sebastián calcula el valor numérico de una expresión racional.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11",
       "statement": "Según el Teorema Fundamental del Álgebra, ¿cuántas raíces (reales o complejas) tiene exactamente un polinomio de grado 4?",
-      "context": "",
+      "context": "Un estudiante de 1º de Bachillerato en Valencia investiga el número máximo de raíces reales de un polinomio.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12",
       "statement": "Si $x^2 + kx + 9$ es un cuadrado perfecto, ¿qué valor debe tomar el coeficiente $k$ (considerando $k > 0$)?",
-      "context": "",
+      "context": "Se plantea la resolución de una identidad polinómica para hallar un coeficiente desconocido.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el resultado de dividir $x^2 - 1/4$ entre $x - 1/2$?",
-      "context": "",
+      "context": "Un estudiante en Santander estudia la división de polinomios con coeficientes fraccionarios.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14",
       "statement": "Simplifica la expresión: $\\frac{2x^2 - 4x}{x^2 - 4}$.",
-      "context": "",
+      "context": "Un arquitecto en Málaga simplifica una expresión para el cálculo de un arco parabólico.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15",
       "statement": "Si al dividir $P(x)$ entre $x - 2$ el resto es 5, ¿cuál es el valor de $P(2)$?",
-      "context": "",
+      "context": "Se analiza el comportamiento de los restos en divisiones polinómicas.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16",
       "statement": "Calcula el producto: $\\frac{x^2}{x-1} \\cdot \\frac{x^2-1}{x^3}$.",
-      "context": "",
+      "context": "Un estudiante multiplica dos fracciones algebraicas en un problema de física cinemática.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el polinomio de menor grado cuyas raíces son $x = 0, x = 1$ y $x = -1$?",
-      "context": "",
+      "context": "Un programador en una startup de tecnología en Madrid necesita descomponer un polinomio en factores primos para un algoritmo de seguridad.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18",
       "statement": "Halla $k$ para que el polinomio $P(x) = x^3 - kx^2 + 4$ sea divisible por $x - 2$.",
-      "context": "",
+      "context": "Se evalúa la divisibilidad de un polinomio que depende de un parámetro desconocido $k$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la forma de la descomposición en fracciones simples de $\\frac{1}{x^2 - x}$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza la descomposición en fracciones simples de una expresión racional.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20",
       "statement": "¿Cómo se puede hallar la suma de todos los coeficientes de un polinomio $P(x)$ sin necesidad de desarrollarlo completamente?",
-      "context": "",
+      "context": "Un reto sobre la suma de coeficientes de un polinomio complejo.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

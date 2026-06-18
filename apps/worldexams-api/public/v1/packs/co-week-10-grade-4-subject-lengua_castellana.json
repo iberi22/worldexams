@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v1",
       "statement": "¿Qué objeto usan los niños como portería según el texto?",
-      "context": "",
+      "context": "Basado en el texto sobre el juego en la calle.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v2",
       "statement": "¿Cuál es el tema principal que plantea el autor?",
-      "context": "",
+      "context": "Basado en el texto sobre el juego en la calle.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v3",
       "statement": "¿Qué intención tiene el autor al preguntar: \"¿Es la calle un lugar seguro para jugar hoy en día?\"?",
-      "context": "",
+      "context": "Basado en el texto sobre el juego en la calle.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v4",
       "statement": "El texto menciona a dos tipos de adultos con opiniones diferentes. ¿Cuál es el conflicto entre ellos?",
-      "context": "",
+      "context": "Analizando los diferentes puntos de vista en el texto.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v5",
       "statement": "¿Cuál es la opinión del autor respecto a la solución del problema?",
-      "context": "",
+      "context": "Evaluando la posición del autor.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v6",
       "statement": "¿Por qué el autor usa la expresión \"la alegría de los niños\" en lugar de decir simplemente \"el ruido de los niños\"?",
-      "context": "",
+      "context": "El uso del lenguaje en el texto.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v7",
       "statement": "Si en tu barrio pasara lo mismo que en el texto, ¿cuál sería la acción más coherente con la idea del autor?",
-      "context": "",
+      "context": "Relacionando el texto con la realidad del estudiante.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v8",
       "statement": "¿A qué tipo de público crees que va dirigido principalmente este texto?",
-      "context": "",
+      "context": "Evaluando la efectividad del texto.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v9",
       "statement": "Cuando el autor dice que algunos adultos \"se quejan por el ruido\", ¿qué nos está diciendo sobre la forma de pensar de esas personas?",
-      "context": "",
+      "context": "Identificando prejuicios o estereotipos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v10",
       "statement": "¿Crees que el autor logra convencer al lector de que los niños necesitan mejores espacios? ¿Por qué?",
-      "context": "",
+      "context": "Valoración global del texto.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.146Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v1",
+      "statement": "Durante el primer período de Sociales aprendimos sobre tres espacios importantes para nuestra vida. ¿Cuáles son?",
+      "context": "La profesora de la I.E. San Bartolomé de Bogotá pide a los estudiantes recordar los temas vistos en el primer período.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La playa, la montaña y el desierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son paisajes, no los espacios sociales estudiados en el período."
+        },
+        {
+          "letter": "B",
+          "text": "El colegio, la familia y el barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos tres espacios son los temas principales del primer período: mi colegio, mi familia y mi barrio."
+        },
+        {
+          "letter": "C",
+          "text": "El país, el continente y el planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son espacios geográficos más grandes que los estudiados en este período."
+        },
+        {
+          "letter": "D",
+          "text": "La iglesia, el hospital y la alcaldía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se mencionaron, son instituciones que forman parte del barrio, no los temas principales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la capacidad de recordar los temas principales del período. El colegio, la familia y el barrio son los tres entornos sociales más cercanos al niño, donde desarrolla su identidad, aprende normas y construye relaciones sociales.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v2",
+      "statement": "¿Cómo se relacionan el colegio, la familia y el barrio en la vida de un niño colombiano?",
+      "context": "En la I.E. La Enseñanza de Medellín, el profesor pregunta cómo se relacionan el colegio, la familia y el barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen ninguna relación, son espacios separados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos espacios están conectados en la vida del niño."
+        },
+        {
+          "letter": "B",
+          "text": "Son espacios donde el niño aprende, convive y se desarrolla; lo que aprende en uno lo aplica en los otros.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos tres espacios están interconectados y contribuyen al desarrollo integral del niño."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el colegio es importante, la familia y el barrio no enseñan nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La familia y el barrio también son espacios de aprendizaje y socialización."
+        },
+        {
+          "letter": "D",
+          "text": "El barrio reemplaza al colegio y a la familia en la educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada espacio cumple una función diferente y complementaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El colegio, la familia y el barrio son los tres entornos fundamentales de socialización del niño. En la familia aprende valores y hábitos básicos; en el colegio adquiere conocimientos formales y normas de convivencia; en el barrio pone en práctica lo aprendido e interactúa con la comunidad.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v3",
+      "statement": "¿En cuáles de estos espacios existen normas de convivencia?",
+      "context": "En la I.E. Simón Bolívar de Cartagena, la profesora repasa las normas que existen en diferentes espacios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas existen en todos los espacios de convivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Solo en la casa y el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También en el barrio hay normas."
+        },
+        {
+          "letter": "C",
+          "text": "En el colegio, en la casa y en el barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. Todos los espacios de convivencia tienen normas que regulan el comportamiento y las relaciones."
+        },
+        {
+          "letter": "D",
+          "text": "En ningún lado, las normas solo existen en los libros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas son acuerdos de convivencia que existen en la vida real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las normas de convivencia existen en todos los espacios donde las personas interactúan. En la casa están las normas familiares, en el colegio el manual de convivencia, y en el barrio las normas de buena vecindad y el Código Nacional de Policía y Convivencia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v4",
+      "statement": "María ayuda en su casa ordenando sus juguetes, en el colegio respeta a sus compañeros y en el barrio saluda a sus vecinos. ¿Qué valores está demostrando María?",
+      "context": "En la I.E. Técnica de Duitama, los estudiantes resuelven un caso práctico sobre convivencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pereza y desinterés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. María está demostrando todo lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Responsabilidad, respeto y cortesía.",
+          "is_correct": true,
+          "feedback": "Correcto. María demuestra responsabilidad en casa, respeto en el colegio y cortesía en el barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Indisciplina y rebeldía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. María está siendo disciplinada y respetuosa."
+        },
+        {
+          "letter": "D",
+          "text": "Timidez y miedo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acciones de María demuestran seguridad y buenos hábitos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta evalúa la aplicación de los valores aprendidos en los tres entornos: familiar, escolar y comunitario. La responsabilidad se manifiesta cumpliendo deberes en casa; el respeto, en la interacción con compañeros; y la cortesía, en el saludo y trato con vecinos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v5",
+      "statement": "En el colegio elegimos al personero estudiantil, en el barrio la Junta de Acción Comunal elige a sus representantes, y en la familia todos participan en las decisiones. ¿Qué tienen en común estas tres situaciones?",
+      "context": "En la I.E. San Luis Gonzaga de Manizales, los estudiantes practican lo aprendido sobre participación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en todas se elige a una persona para que mande sola.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estos espacios se eligen representantes, pero no para que \"manden solos\"."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo los adultos pueden participar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el colegio los niños también participan eligiendo al personero."
+        },
+        {
+          "letter": "C",
+          "text": "Que en los tres espacios las personas pueden participar, opinar y elegir representantes.",
+          "is_correct": true,
+          "feedback": "Correcto. La participación democrática se practica en la familia, el colegio y el barrio."
+        },
+        {
+          "letter": "D",
+          "text": "Que no son importantes para la vida en comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación en estos espacios es fundamental para la convivencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La participación democrática se practica en diferentes niveles. En la familia se toman decisiones en conjunto; en el colegio se elige al personero estudiantil; en el barrio, la Junta de Acción Comunal elige a su directiva. Todas son formas de participación ciudadana que preparan para la democracia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v6",
+      "statement": "¿En qué se parecen y en qué se diferencian las normas del colegio, de la casa y del barrio?",
+      "context": "El profesor de la I.E. San José de Cúcuta pide a los estudiantes comparar los tres espacios estudiados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales en los tres lugares porque todas las normas son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque tienen propósitos similares, las normas son diferentes en cada espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Se diferencian en que las del colegio son más importantes que las de la casa y el barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas son importantes en su contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Se parecen en que todas buscan una buena convivencia, pero se diferencian en que cada espacio tiene sus propias reglas según las necesidades de quienes conviven allí.",
+          "is_correct": true,
+          "feedback": "Correcto. Las normas comparten el propósito de la convivencia, pero se adaptan a cada entorno."
+        },
+        {
+          "letter": "D",
+          "text": "Son diferentes porque en el barrio no hay normas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el barrio también hay normas de convivencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las normas en la casa, el colegio y el barrio comparten el objetivo de facilitar la convivencia, pero se adaptan al contexto específico. Las normas familiares son más personales; las del colegio están en el manual de convivencia; y las del barrio se basan en la ley y los acuerdos vecinales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v7",
+      "statement": "Un niño aprende en la escuela a reciclar y separar los residuos. ¿Cómo puede aplicar este aprendizaje en su casa y en su barrio?",
+      "context": "En la I.E. Alberto Santos de Tumaco, los estudiantes analizan cómo se complementan los tres espacios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No puede aplicarlo porque en la casa y el barrio no se recicla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo aprendido en la escuela se puede aplicar en todos los espacios."
+        },
+        {
+          "letter": "B",
+          "text": "Puede separar los residuos en su casa y enseñar a sus vecinos a hacerlo, mejorando así el barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. El aprendizaje escolar se aplica en la vida cotidiana y puede transformar el entorno."
+        },
+        {
+          "letter": "C",
+          "text": "Debe esperar a ser adulto para aplicar lo aprendido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños pueden aplicar lo aprendido desde ya en su vida diaria."
+        },
+        {
+          "letter": "D",
+          "text": "Solo debe reciclar en el colegio, no en la casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje debe practicarse en todos los espacios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta evalúa la capacidad de conectar los aprendizajes entre los diferentes entornos. La educación no se limita al aula; los conocimientos adquiridos en el colegio deben aplicarse en la vida familiar y comunitaria. El reciclaje es un ejemplo de cómo un aprendizaje escolar tiene impacto en el hogar y el barrio.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v8",
+      "statement": "Después de estudiar el colegio, la familia y el barrio, un estudiante dice: \"Mi papá me dijo que lo más importante es estudiar mucho para tener un buen trabajo y ganar dinero, que el barrio no importa\". ¿Qué opinas sobre esta afirmación?",
+      "context": "En la I.E. Integrado de San Gil, los estudiantes hacen una reflexión final sobre el primer período.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El papá tiene razón: solo importa estudiar para conseguir dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dinero es importante pero no es lo único; la convivencia y la comunidad también son valiosas."
+        },
+        {
+          "letter": "B",
+          "text": "El papá tiene razón porque el barrio solo es un lugar para dormir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El barrio es un espacio de relaciones sociales, no solo un lugar para dormir."
+        },
+        {
+          "letter": "C",
+          "text": "El estudiante debería explicarle a su papá que el barrio también es importante porque allí se construyen amistades, se aprende a convivir con otros y se forma comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El barrio es un espacio fundamental para la socialización y el desarrollo comunitario."
+        },
+        {
+          "letter": "D",
+          "text": "El estudiante debe hacer caso a su papá sin discutir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños pueden expresar sus opiniones con respeto y compartir lo que aprenden."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa la capacidad de formar un juicio propio sobre la importancia de los diferentes espacios sociales. Aunque la educación y el trabajo son importantes, el barrio cumple una función social esencial como espacio de convivencia, solidaridad y construcción de comunidad. Todos los espacios estudiados contribuyen al desarrollo integral de la persona.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

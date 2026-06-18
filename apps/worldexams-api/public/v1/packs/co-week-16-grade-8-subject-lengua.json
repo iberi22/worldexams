@@ -42,6 +42,9 @@
       "difficulty": "1",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.92,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -122,6 +128,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.87,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -162,6 +171,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.84,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -202,6 +214,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -242,6 +257,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.77,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -322,6 +343,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.74,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -362,6 +386,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.72,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -402,6 +429,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -442,6 +472,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.67,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -482,6 +515,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-8-2026-W16-barroco-americano-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v1",
       "statement": "¿Quién es el poeta nicaragüense considerado el máximo exponente y \"padre\" del Modernismo con la publicación de su obra \"Azul...\" en 1888?",
-      "context": "",
+      "context": "El Modernismo es el primer movimiento literario nacido en América Latina que influyó profundamente en España a finales del siglo XIX.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el símbolo animal por excelencia del Modernismo, que representa la elegancia, la pureza y la aristocracia del arte?",
-      "context": "",
+      "context": "El Modernismo busca la belleza absoluta, alejándose de la realidad cotidiana y vulgar mediante el uso de mundos exóticos y elegantes.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de verso de 14 sílabas, que había caído en desuso desde la Edad Media, fue rescatado y perfeccionado por los poetas modernistas?",
-      "context": "",
+      "context": "Los poetas modernistas estaban obsesionados con la musicalidad del verso y renovaron por completo la métrica castellana.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v4",
       "statement": "¿Qué objetivo perseguía el poeta modernista al describir princesas orientales, jardines franceses y palacios de mármol?",
-      "context": "",
+      "context": "El Modernismo se caracteriza por el \"exotismo\", que consiste en ambientar las obras en lugares lejanos o tiempos remotos.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v5",
       "statement": "Si en un poema modernista leemos frases como \"el sonido azul de la trompeta\" o \"un perfume amargo\", ¿qué recurso se está utilizando?",
-      "context": "",
+      "context": "La sinestesia es una figura retórica muy común en el Modernismo que consiste en mezclar sensaciones de sentidos distintos.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v6",
       "statement": "¿Qué innovación rítmica introdujo Silva en su \"Nocturno III\" para expresar el dolor y el misterio de la muerte y el recuerdo?",
-      "context": "",
+      "context": "José Asunción Silva es el gran representante del Modernismo en Colombia, conocido por su famoso \"Nocturno III\".",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v7",
       "statement": "En el poema \"A Roosevelt\", Rubén Darío critica al presidente de Estados Unidos. ¿Qué valores defiende Darío frente al poder material del norte?",
-      "context": "",
+      "context": "El Modernismo también tuvo una etapa de compromiso político y defensa de la identidad hispana frente al imperialismo anglosajón.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.62,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v8",
       "statement": "¿Qué consecuencia tuvo para la figura del escritor esta defensa de la autonomía absoluta del arte frente a la utilidad social?",
-      "context": "",
+      "context": "El Modernismo se vincula con el concepto de \"el arte por el arte\", defendiendo que la belleza es la única función de la literatura.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -810,7 +870,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v9",
       "statement": "Si en una estrofa modernista predominan los colores blanco, marfil, plata y oro, ¿qué atmósfera está intentando crear el autor?",
-      "context": "",
+      "context": "El cromatismo (uso del color) es fundamental en la estética modernista.",
       "options": [
         {
           "letter": "A",
@@ -842,6 +902,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -850,7 +913,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v10",
       "statement": "¿Cuál fue la diferencia principal entre el Modernismo hispanoamericano (Darío) y la adaptación que hicieron autores españoles como Antonio Machado?",
-      "context": "",
+      "context": "El Modernismo influyó en España a través de la Generación del 98, aunque estos autores buscaron una sobriedad mayor.",
       "options": [
         {
           "letter": "A",
@@ -882,6 +945,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.52,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -890,7 +956,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v11",
       "statement": "¿De qué manera el Modernismo logró ser un movimiento original a pesar de tener tantas influencias de la literatura francesa?",
-      "context": "",
+      "context": "Algunos críticos contemporáneos del Modernismo lo acusaron de ser un \"arte de imitación\" de lo francés.",
       "options": [
         {
           "letter": "A",
@@ -922,6 +988,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -930,7 +999,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v12",
       "statement": "¿Cuál fue el legado más importante que dejó el Modernismo a la literatura hispanoamericana del siglo XX?",
-      "context": "",
+      "context": "El Modernismo terminó alrededor de la Primera Guerra Mundial, dando paso a las Vanguardias.",
       "options": [
         {
           "letter": "A",
@@ -962,6 +1031,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.38,
       "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",

@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-14-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.594Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v1",
+      "statement": "*\"Érase una vez, en el Valle del Cauca, un niño llamado Andrés que soñaba con volar.\"* ¿Qué parte?",
+      "context": "Inicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Inicio.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Nudo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Moraleja.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inicio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v2",
+      "statement": "*\"Y al final, Andrés construyó un planeador y voló.\"* ¿Qué parte?",
+      "context": "Desenlace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nudo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Presentación.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Desenlace.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v3",
+      "statement": "*\"Andrés quería volar pero no tenía alas y se burlaban.\"* ¿Parte?",
+      "context": "Nudo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nudo.",
+          "is_correct": true,
+          "feedback": "Correcto. Conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Desenlace.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Título.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nudo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v4",
+      "statement": "*\"1. Había un pez. 2. Quería volar. 3. Saltó y se sintió libre.\"* ¿Orden?",
+      "context": "Orden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Final, inicio, nudo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Inicio, nudo, desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Nudo, inicio, final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Desenlace, nudo, inicio.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Orden estructural.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v5",
+      "statement": "*\"Érase una vez...\"* ¿Para qué sirve?",
+      "context": "Función inicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrar cuento.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Presentar conflicto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Empezar narración.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Dar moraleja.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Función.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v6",
+      "statement": "*\"Inicio: niña encuentra llave misteriosa.\"* ¿Qué pasa después?",
+      "context": "Predecir nudo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Niña investiga la llave.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Se va a dormir.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Llave se pierde.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No hace nada.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Predecir nudo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v7",
+      "statement": "*\"Nudo: lobo sopla casa de paja.\"* ¿Desenlace?",
+      "context": "Crear desenlace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lobo se va.",
+          "is_correct": false,
+          "feedback": "No resuelve."
+        },
+        {
+          "letter": "B",
+          "text": "Casa cae, cerdito corre a casa de ladrillos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Lobo se duerme.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Casa no se cae.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desenlace.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v8",
+      "statement": "*\"Texto: un día salió el sol y todos fueron felices.\"* ¿Qué falta?",
+      "context": "Estructura incompleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio y nudo.",
+          "is_correct": true,
+          "feedback": "Solo hay desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Solo inicio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo nudo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar estructura.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v9",
+      "statement": "*\"Cuento sin nudo.\"* ¿Qué pasa?",
+      "context": "Sin nudo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más corto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No hay conflicto, es aburrido.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Mejor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Más personajes.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Importancia del conflicto.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-v10",
+      "statement": "*\"¿Qué debe tener un cuento?\"*",
+      "context": "Elementos necesarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo inicio y final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Inicio, nudo y desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Solo personajes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo descripciones.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Estructura completa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W14-textos-narrativos-estructura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

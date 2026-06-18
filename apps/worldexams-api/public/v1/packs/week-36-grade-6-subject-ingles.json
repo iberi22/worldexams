@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v1",
+      "statement": "\"Estación de policía\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "police station",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "fire station",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fire station = estación de bomberos."
+        },
+        {
+          "letter": "C",
+          "text": "bus station",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bus station = terminal."
+        },
+        {
+          "letter": "D",
+          "text": "train station",
+          "is_correct": false,
+          "feedback": "Incorrecto. Train station = estación de tren."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Police station = estación de policía. Fire station = estación de bomberos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v2",
+      "statement": "\"Turn right\" means ___.",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Girar a la derecha",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Girar a la izquierda",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Seguir derecho",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Dar la vuelta",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Turn right = girar a la derecha. Turn left = girar a la izquierda.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v3",
+      "statement": "\"The bank is next ___ the post office.\"",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to",
+          "is_correct": true,
+          "feedback": "Correcto. Next to = al lado de."
+        },
+        {
+          "letter": "B",
+          "text": "from",
+          "is_correct": false,
+          "feedback": "Incorrecto. Next from no."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "of",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Next to = al lado de. Near = cerca de. Opposite = enfrente de. Between = entre.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v4",
+      "statement": "\"___ do I get to the museum?\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How",
+          "is_correct": true,
+          "feedback": "Correcto. How = cómo."
+        },
+        {
+          "letter": "B",
+          "text": "What",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Where",
+          "is_correct": false,
+          "feedback": "Incorrecto. Where = dónde."
+        },
+        {
+          "letter": "D",
+          "text": "When",
+          "is_correct": false,
+          "feedback": "Incorrecto. When = cuándo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"How do I get to...?\" = ¿Cómo llego a...? How = cómo (método/forma).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v5",
+      "statement": "\"I go to school ___ bus every day.\"",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by",
+          "is_correct": true,
+          "feedback": "Correcto. By bus."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrecto. On the bus pero by bus."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "By + transport: by bus, by car, by bike, by plane. Exception: on foot.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v6",
+      "statement": "\"There ___ two bus stops near my house.\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correcto. Two stops = plural."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "There are + plural. \"There are two bus stops near my house.\" = Hay dos paradas de bus cerca de mi casa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v7",
+      "statement": "\"The pharmacy is ___ the corner of Carrera 5 and Calle 10.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correcto. On the corner = en la esquina."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Posible, on es más común."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "On the corner = en la esquina. Carreras run north-south, Calles run east-west in Colombian cities.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v8",
+      "statement": "\"You need to ___ the bus at the next stop.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "take",
+          "is_correct": true,
+          "feedback": "Correcto. Take the bus = tomar el bus."
+        },
+        {
+          "letter": "B",
+          "text": "ride",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ride = montar (bici)."
+        },
+        {
+          "letter": "C",
+          "text": "drive",
+          "is_correct": false,
+          "feedback": "Incorrecto. Drive = conducir (carro)."
+        },
+        {
+          "letter": "D",
+          "text": "get off",
+          "is_correct": false,
+          "feedback": "Incorrecto. Get off = bajarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Take the bus = tomar el bus (subir). Get off the bus = bajarse del bus. Get on = subir.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v9",
+      "statement": "\"Go straight for two blocks. Turn left at the church. The school is on your right.\" What landmark do you turn at?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The church",
+          "is_correct": true,
+          "feedback": "Correcto. Turn left at the church."
+        },
+        {
+          "letter": "B",
+          "text": "The school",
+          "is_correct": false,
+          "feedback": "Incorrecto. School is destination."
+        },
+        {
+          "letter": "C",
+          "text": "Two blocks",
+          "is_correct": false,
+          "feedback": "Incorrecto. That's distance."
+        },
+        {
+          "letter": "D",
+          "text": "The right",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Follow directions: identify the landmark (church) where you turn left.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-v10",
+      "statement": "\"It's faster to take the metro than the bus.\" The metro is ___ the bus.",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "faster than",
+          "is_correct": true,
+          "feedback": "Correcto. Faster = más rápido."
+        },
+        {
+          "letter": "B",
+          "text": "slower than",
+          "is_correct": false,
+          "feedback": "Incorrecto. Metro es faster."
+        },
+        {
+          "letter": "C",
+          "text": "as fast as",
+          "is_correct": false,
+          "feedback": "Incorrecto. Metro is faster."
+        },
+        {
+          "letter": "D",
+          "text": "more slow than",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gramática incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparative: faster than (más rápido que), slower than (más lento que). Metro de Medellín is faster than the bus.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W36-town-transport-review-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
       "cefr_level": null

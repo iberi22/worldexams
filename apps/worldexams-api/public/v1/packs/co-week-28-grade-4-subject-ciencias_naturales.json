@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.159Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v1",
+      "statement": "La energÃ­a cinÃ©tica es la energÃ­a del:",
+      "context": "En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reposo",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Calor",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Sonido",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v2",
+      "statement": "La energÃ­a potencial es energÃ­a:",
+      "context": "En la clase de Ciencias Naturales del Colegio AgustÃ­niano en CÃºcuta, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del movimiento",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Almacenada",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Del viento",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Del sol",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v3",
+      "statement": "La energÃ­a elÃ©ctrica se transforma en luz en:",
+      "context": "En la clase de Ciencias Naturales del Colegio Franciscano en Yopal, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un motor",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Un bombillo",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Una baterÃ­a",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Un panel solar",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v4",
+      "statement": "La energÃ­a solar proviene de:",
+      "context": "En la clase de Ciencias Naturales del Instituto TÃ©cnico en MedellÃ­n, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "El Sol",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "El agua",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "El carbono",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v5",
+      "statement": "La energÃ­a eÃ³lica se obtiene del:",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en Cali, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Viento",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Sol",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "PetrÃ³leo",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v6",
+      "statement": "Un carro en movimiento tiene energÃ­a:",
+      "context": "En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en IbaguÃ©, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potencial",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "CinÃ©tica",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "QuÃ­mica",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v7",
+      "statement": "Una fruta madura tiene energÃ­a:",
+      "context": "En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Barranquilla, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CinÃ©tica",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "QuÃ­mica",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "ElÃ©ctrica",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "TÃ©rmica",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v8",
+      "statement": "La gasolina tiene energÃ­a:",
+      "context": "En la clase de Ciencias Naturales del Colegio Franciscano en Leticia, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CinÃ©tica",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "QuÃ­mica",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Solar",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v9",
+      "statement": "Â¿Por quÃ© la energÃ­a no se crea ni se destruye?",
+      "context": "En la clase de Ciencias Naturales del Colegio La Salle en Yopal, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SÃ­ se crea",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Ley de conservaciÃ³n de la energÃ­a",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "No es ley",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se destruye",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v10",
+      "statement": "Â¿Por quÃ© los paneles solares son importantes?",
+      "context": "En la clase de Ciencias Naturales del Colegio Nacional en ChÃ­a, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usan energÃ­a no renovable",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Transforman energÃ­a solar en elÃ©ctrica, limpia y renovable",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Son baratos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "No funcionan",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

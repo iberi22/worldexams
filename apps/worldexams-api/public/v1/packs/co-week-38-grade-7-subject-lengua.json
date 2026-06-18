@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v1",
       "statement": "¿Cuál es la característica principal de la tradición oral que garantiza que el conocimiento se mantenga vivo a pesar de no estar escrito en libros?",
-      "context": "",
+      "context": "En una reunión familiar en una vereda de Boyacá, los adultos mayores cuentan historias, dicen refranes y cantan coplas que aprendieron de sus propios abuelos.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v2",
       "statement": "¿Cómo se denominan estas expresiones de la tradición oral llanera que han sido reconocidas por la UNESCO como Patrimonio Inmaterial de la Humanidad?",
-      "context": "",
+      "context": "En la región del Llano colombiano, los vaqueros utilizan el canto para arrear el ganado y para contar sus hazañas al final del día alrededor de un fogón.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v3",
       "statement": "¿Cuál es la función histórica de la tradición oral en las comunidades que fueron oprimidas o que no tenían acceso a la escritura oficial?",
-      "context": "",
+      "context": "Un estudiante de grado séptimo en San Basilio de Palenque escucha un relato sobre cómo sus antepasados llegaron a ser libres y cómo construyeron su pueblo.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v4",
       "statement": "¿Qué enseñanza o valor sobre la vida se infiere de este refrán de la tradición oral?",
-      "context": "",
+      "context": "Un refrán popular en Colombia dice: \"A falta de pan, buenas son acemitas (un tipo de pan más sencillo)\".",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v5",
       "statement": "¿Cuál de las siguientes actividades sería la más coherente con el espíritu de la tradición oral para tu proyecto?",
-      "context": "",
+      "context": "Imagina que quieres realizar un proyecto para rescatar la tradición oral de los pescadores del Caribe colombiano.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v6",
       "statement": "Si un coplero dice: \"De mi tierra me he venido / con el alma en la maleta / buscando nuevos caminos / como busca el ave su meta\", ¿qué sentimiento está expresando principalmente?",
-      "context": "",
+      "context": "En el departamento de Nariño, es común el uso de la \"copla\" (estrofa de cuatro versos) para expresar sentimientos o burlas de manera improvisada en las fiestas.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v7",
       "statement": "Desde una perspectiva cultural, ¿qué proceso está ocurriendo en esta comunidad con respecto a la tradición oral?",
-      "context": "",
+      "context": "Analiza esta situación: En un resguardo indígena, los niños ya no quieren escuchar las historias del chamán porque prefieren ver dibujos animados en el celular que trajo un comerciante.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v8",
       "statement": "¿Cuál es la actitud más adecuada que debe tomar un estudiante de grado séptimo frente a estos elementos de la tradición oral al estudiarlos hoy?",
-      "context": "",
+      "context": "Muchas historias de la tradición oral contienen prejuicios de género o raciales de la época en que surgieron (por ejemplo, cuentos donde el lobo es el \"malo\" por ser animal de la selva o donde las mujeres son siempre rescatadas).",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v9",
       "statement": "¿Qué significa que la tradición oral tenga la capacidad de \"narrar el presente\"?",
-      "context": "",
+      "context": "Un antropólogo dice: \"La tradición oral no es solo el pasado, es la capacidad de una comunidad de narrar su presente y soñar su futuro con sus propias palabras\".",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v10",
       "statement": "¿Cuál es la principal diferencia entre la tradición oral campesina/indígena y la cuentería urbana profesional que se presenta en teatros o universidades?",
-      "context": "",
+      "context": "Evalúa el impacto de la declaración de la \"Narración Oral\" como arte escénico profesional en las ciudades (cuenteros urbanos).",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",

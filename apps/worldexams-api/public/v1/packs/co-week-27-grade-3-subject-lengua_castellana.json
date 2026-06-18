@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v1",
       "statement": "¿Cuál es la principal función de la coma en una lista de palabras?",
-      "context": "",
+      "context": "Un niño hace una lista de sus colores favoritos en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v2",
       "statement": "¿Cuál de estas frases usa correctamente las comas para una lista?",
-      "context": "",
+      "context": "Los ingredientes para hacer una ensalada de frutas en Cali.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v3",
       "statement": "Cuando te diriges a alguien por su nombre, debes usar una coma (coma vocativa). ¿Cuál es el ejemplo correcto?",
-      "context": "",
+      "context": "Llamando a un amigo en un mensaje escrito en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v4",
       "statement": "¿Qué tipo de pausa representa la coma en comparación con el punto?",
-      "context": "",
+      "context": "Pausas cortas en una oración sobre el colegio en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v5",
       "statement": "\"Las ciudades más grandes de Colombia son Bogotá__ Medellín__ Cali y Barranquilla\". ¿Qué signo falta en los espacios?",
-      "context": "",
+      "context": "Enumerando ciudades de Colombia en un libro de geografía.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v6",
       "statement": "¿Cuál frase está MAL escrita porque le faltan las comas?",
-      "context": "",
+      "context": "Corrigiendo un texto de un compañero sobre sus útiles escolares.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v7",
       "statement": "A veces usamos comas para dar una explicación extra sobre alguien. Ejemplo: **\"Toby, el perro de mi tío, es muy juguetón\"**. ¿Para qué sirven esas comas?",
-      "context": "",
+      "context": "El uso de la coma para aclaraciones en un cuento en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v8",
       "statement": "¿Cuál de estas oraciones indica que se debe comer a un niño? (¡Es un error de coma!)",
-      "context": "",
+      "context": "Cómo cambia el sentido de una frase según la coma.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v9",
       "statement": "\"Cartagena__ 20 de mayo de 2026\". ¿Qué signo se usa siempre después del nombre de la ciudad en la fecha de una carta?",
-      "context": "",
+      "context": "Revisando el uso de la coma en una carta en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v10",
       "statement": "¿Cuál es la forma mejor escrita de tu oración si viste leones, tigres, monos y osos?",
-      "context": "",
+      "context": "Quieres contar qué animales viste en el Zoológico de Santa Cruz.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",

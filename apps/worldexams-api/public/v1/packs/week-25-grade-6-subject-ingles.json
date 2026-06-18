@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v1",
+      "statement": "\"Alas\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wings",
+          "is_correct": true,
+          "feedback": "Correcto. Wings = alas."
+        },
+        {
+          "letter": "B",
+          "text": "legs",
+          "is_correct": false,
+          "feedback": "Incorrecto. Legs = patas."
+        },
+        {
+          "letter": "C",
+          "text": "ears",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ears = orejas."
+        },
+        {
+          "letter": "D",
+          "text": "tail",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tail = cola."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Animal body parts: wings (alas), legs (patas), tail (cola), beak (pico), claws (garras), fur (pelaje).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v2",
+      "statement": "\"A snake has no ___.\"",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "legs",
+          "is_correct": true,
+          "feedback": "Correcto. Snakes have no legs."
+        },
+        {
+          "letter": "B",
+          "text": "head",
+          "is_correct": false,
+          "feedback": "Incorrecto. Snakes have head."
+        },
+        {
+          "letter": "C",
+          "text": "mouth",
+          "is_correct": false,
+          "feedback": "Incorrecto. Snakes have mouth."
+        },
+        {
+          "letter": "D",
+          "text": "eyes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Snakes have eyes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Snakes = serpientes. They have no legs (no tienen patas). They have scales (escamas).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v3",
+      "statement": "\"A bird ___ fly.\" (ability)",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correcto. A bird can fly."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can + ability: 'A bird can fly.' (un pájaro puede volar.). 'A fish can swim.'\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v4",
+      "statement": "\"A cat ___ climb trees.\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correcto. Cats can climb."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cats CAN climb."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Animal abilities: cats can climb (trepar), dogs can't climb well. 'Can' + base verb for abilities.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v5",
+      "statement": "\"___ a horse run fast?\"",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can",
+          "is_correct": true,
+          "feedback": "Correcto. Can a horse run?"
+        },
+        {
+          "letter": "B",
+          "text": "Does",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ability with can."
+        },
+        {
+          "letter": "C",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Questions with can: Can + subject + verb? 'Can a horse run fast?' = ¿Puede un caballo correr rápido?\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v6",
+      "statement": "\"A fish can ___.\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "swim",
+          "is_correct": true,
+          "feedback": "Correcto. Fish swim."
+        },
+        {
+          "letter": "B",
+          "text": "fly",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fish don't fly."
+        },
+        {
+          "letter": "C",
+          "text": "climb",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fish don't climb."
+        },
+        {
+          "letter": "D",
+          "text": "run",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fish don't run."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Animal abilities: fish → swim, birds → fly, monkeys → climb, horses → run, snakes → slither.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v7",
+      "statement": "\"My dog ___ run very fast.\" (can/can't)",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correcto. My dog can run fast."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrecto. Many dogs run fast."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can + base verb: 'My dog can run very fast.' (Mi perro puede correr muy rápido.)\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v8",
+      "statement": "\"Describe: A penguin has got wings but it ___ fly.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't",
+          "is_correct": true,
+          "feedback": "Correcto. Penguins can't fly."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrecto. Penguins no vuelan."
+        },
+        {
+          "letter": "C",
+          "text": "isn't",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Penguins = pingüinos. They have wings (alas) but can't fly (no pueden volar). They can swim.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v9",
+      "statement": "\"A parrot can talk. A fish can swim. A dog can't fly.\" Which animal CAN talk?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A parrot",
+          "is_correct": true,
+          "feedback": "Correcto. Parrot can talk."
+        },
+        {
+          "letter": "B",
+          "text": "A fish",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fish swims."
+        },
+        {
+          "letter": "C",
+          "text": "A dog",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dog can't fly, but can bark."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading: identify animal abilities. Parrot = talk. Fish = swim. Dog = can't fly.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v10",
+      "statement": "\"Which animal has got the longest neck?\"",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giraffe",
+          "is_correct": true,
+          "feedback": "Correcto. Giraffe = jirafa."
+        },
+        {
+          "letter": "B",
+          "text": "Elephant",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elephant has trunk."
+        },
+        {
+          "letter": "C",
+          "text": "Zebra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zebra has medium neck."
+        },
+        {
+          "letter": "D",
+          "text": "Bear",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bear has short neck."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Giraffe (jirafa) has the longest neck of all animals. They can eat leaves from tall trees.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v1",
       "statement": "What is the structure of passive voice?",
       "context": "At Colegio Simón Bolívar de Cartagena, teacher introduces passive.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el resultado de elevar al cuadrado el binomio $(x + 5)$ siguiendo la regla del cuadrado de la suma?",
-      "context": "",
+      "context": "Un estudiante en la provincia de Veraguas repasa las reglas rápidas para multiplicar binomios especiales.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.9,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se conoce el producto notable representado por la expresión $(a + b)(a - b)$?",
-      "context": "",
+      "context": "En un taller de diseño gráfico en la Ciudad de Panamá, se utiliza una fórmula para el cambio de área.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el término central en el desarrollo del producto notable $(a - b)^2$?",
-      "context": "",
+      "context": "Un carpintero en Chitré utiliza una regla para calcular el cuadrado de una diferencia de longitudes.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v4",
       "statement": "Desarrolla el binomio al cuadrado: $(2y - 3)^2$.",
-      "context": "",
+      "context": "Un estudiante de arquitectura en la UTP utiliza el desarrollo de binomios en una maqueta.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el resultado de simplificar $(3x + 2)(3x - 2)$?",
-      "context": "",
+      "context": "Un carpintero en Chitré calcula la diferencia entre dos áreas cuadradas para un diseño.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el resultado de $(x + 8)(x + 2)$?",
-      "context": "",
+      "context": "En una escuela de Penonomé, se enseña a multiplicar binomios con término común para terrenos.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el resultado de simplificar $(2a + 5b)(2a - 5b)$?",
-      "context": "",
+      "context": "Un ingeniero civil en Penonomé calcula el área de una sección de tubería usando productos notables.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v8",
       "statement": "Desarrolla la expresión $(x + 1)^3$.",
-      "context": "",
+      "context": "Un diseñador industrial en Herrera utiliza el cubo de un binomio para un prototipo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v9",
       "statement": "Desarrolla la expresión $(x - 4)^2$ e identifica el término independiente resultante.",
-      "context": "",
+      "context": "Un programador en la Ciudad del Saber desarrolla una función de física con productos notables.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v10",
       "statement": "Simplifica el producto $(2a + 5)(2a - 5)$ y luego súmale $25$. ¿Cuál es el valor final?",
-      "context": "",
+      "context": "Un estudiante de secundaria en Herrera aplica identidades para áreas rectangulares.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v11",
       "statement": "Si el lado de un cuadrado es $(5x + 1)$, ¿cuál es la expresión correcta para su área?",
-      "context": "",
+      "context": "Un topógrafo calcula el área de una parcela cuadrada con lado binomial.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el desarrollo correcto de la expresión $(x - 2)^3$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Aguadulce resuelve un ejercicio de cubo de diferencia.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v13",
       "statement": "Simplifica la expresión: $(x + 3)(x - 3) - (x + 2)(x - 2)$.",
-      "context": "",
+      "context": "Un ingeniero en el Canal de Panamá simplifica una expresión usando identidades.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v14",
       "statement": "Simplifica la expresión: $(x + y)^2 + (x - y)^2$.",
-      "context": "",
+      "context": "Un topógrafo en Chiriquí utiliza identidades de Legendre para simplificar cálculos.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el valor simplificado de la expresión $\\frac{(a+b)^2 - (a-b)^2}{ab}$ para $a, b \\neq 0$?",
-      "context": "",
+      "context": "Un analista de datos en la Ciudad de Panamá verifica una identidad estadística.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v16",
       "statement": "Desarrolla la expresión $(a + b + 1)^2$.",
-      "context": "",
+      "context": "Un diseñador en Herrera utiliza el cuadrado de un trinomio para una pieza metálica.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el resultado de multiplicar $(x + 3)(x^2 - 3x + 9)$?",
-      "context": "",
+      "context": "Un científico de materiales en Panamá analiza una aleación usando sumas de cubos.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v18",
       "statement": "Si $a + b = 5$ y $ab = 6$, ¿cuál es el valor de $a^2 + b^2$ sin hallar los valores de $a$ y $b$?",
-      "context": "",
+      "context": "Un matemático en la UP utiliza identidades condicionales para un problema teórico.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v19",
       "statement": "Simplifica el producto $(x^2 + x + 1)(x^2 - x + 1)$.",
-      "context": "",
+      "context": "En un concurso nacional, se pide simplificar una expresión con trinomios especiales.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle-v20",
       "statement": "Simplifica la expresión: $(x + 1)^3 - (x - 1)^3 - 6x^2$.",
-      "context": "",
+      "context": "Se plantea un reto final que combina cubos de binomios y simplificación extrema.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.25,
       "bundle_id": "PA-MAT-11-2026-W04-productos-notables-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

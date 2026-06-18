@@ -10,7 +10,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la característica principal que define a una sucesión geométrica?",
-      "context": "",
+      "context": "Un estudiante en la Universidad Nacional Autónoma de Nicaragua (UNAN) estudia el crecimiento de poblaciones celulares.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la fórmula del término enésimo ($a_n$) de una sucesión geométrica con primer término $a_1$ y razón común $r$?",
-      "context": "",
+      "context": "Un laboratorio en Managua analiza la duplicación de bacterias en un cultivo.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.82,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v3",
       "statement": "Si la razón común ($r$) de una sucesión geométrica está entre 0 y 1 ($0 < r < 1$), ¿cómo se comportan los términos de la sucesión (asumiendo $a_1 > 0$)?",
-      "context": "",
+      "context": "Un plan de inversión en un banco nicaragüense que ofrece interés compuesto.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v4",
       "statement": "Dada la sucesión geométrica: 3, 6, 12, 24, ..., ¿cuál es el valor de la razón común ($r$)?",
-      "context": "",
+      "context": "Una progresión de valores en una escala logarítmica.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.78,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v5",
       "statement": "Si el primer término de una sucesión geométrica es 5 y la razón es 3, ¿cuál es el valor del cuarto término ($a_4$)?",
-      "context": "",
+      "context": "Un rumor que se extiende en una red social en Nicaragua, triplicando su alcance cada hora.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v6",
       "statement": "Si el valor inicial de una máquina es C$ 10,000 y cada año vale el 80% del año anterior, ¿cuál es el término general que representa su valor en el año $n$?",
-      "context": "",
+      "context": "El valor de un equipo agrícola en Chinandega que se deprecia un 20% anual.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.72,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v7",
       "statement": "Una pelota rebota hasta las 3/4 partes de la altura desde la que se suelta. Si se suelta desde 16 metros, ¿qué altura alcanza en el tercer rebote?",
-      "context": "",
+      "context": "Un experimento de física en un colegio de Granada sobre el rebote de una pelota.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.68,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v8",
       "statement": "En una sucesión geométrica, el segundo término es 10 y el quinto término es 80. ¿Cuál es el valor de la razón común?",
-      "context": "",
+      "context": "El ahorro acumulado en una cooperativa de Estelí.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v9",
       "statement": "Si una sucesión geométrica tiene razón $r = -1$, ¿cómo se comportan sus términos partiendo de $a_1 = 5$?",
-      "context": "",
+      "context": "Un cambio de signo en los términos de una progresión.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.62,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v10",
       "statement": "¿Cuántos términos tiene la sucesión geométrica 2, 4, 8, ..., 128?",
-      "context": "",
+      "context": "Identificación del número de términos en una sucesión finita.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la fórmula para calcular la suma de los primeros $n$ términos ($S_n$) de una sucesión geométrica con razón $r \\neq 1$?",
-      "context": "",
+      "context": "Un sistema de ahorro donde se deposita el doble del día anterior.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.58,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v12",
       "statement": "¿Cuánto dinero se habrá acumulado en total después de 6 meses si el primer depósito fue de C$ 100 y cada mes se depositó el doble del anterior?",
-      "context": "",
+      "context": "Un fondo de emergencia que comienza con C$ 100 y se duplica cada mes durante un semestre.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v13",
       "statement": "Un artículo que cuesta C$ 1,000 recibe tres descuentos sucesivos del 10% cada uno. ¿Cuál es el precio final del artículo?",
-      "context": "",
+      "context": "Un descuento sucesivo en una tienda de ropa en Managua.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.52,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la suma infinita de la serie geométrica $100 + 50 + 25 + 12.5 + \\dots$?",
-      "context": "",
+      "context": "La suma de una serie de donaciones que disminuyen a la mitad cada año.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v15",
       "statement": "Si se interpolan dos medios geométricos entre 2 y 54, ¿cuáles son los términos que faltan para completar la sucesión?",
-      "context": "",
+      "context": "Un problema de interpolación de medios geométricos entre dos valores de presión atmosférica.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.48,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v16",
       "statement": "En una sucesión geométrica de términos positivos $a, b, c$, ¿cuál es la relación correcta que debe cumplirse?",
-      "context": "",
+      "context": "Identificación de la naturaleza de una sucesión a partir de una propiedad algebraica.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v17",
       "statement": "Si en el primer cuadro de un tablero se coloca 1 grano de café, en el segundo 2, en el tercero 4, y así sucesivamente, ¿cuál es la expresión para la suma total de granos en los primeros $n$ cuadros?",
-      "context": "",
+      "context": "El problema del tablero de ajedrez y los granos de trigo (versión nicaragüense con granos de café).",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v18",
       "statement": "Calcula la suma de la serie infinita: $\\frac{2}{3} + \\frac{2}{9} + \\frac{2}{27} + \\dots$",
-      "context": "",
+      "context": "Un análisis de convergencia de una serie geométrica con razón fraccionaria compleja.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.38,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v19",
       "statement": "Si los números $x, x+3, x+9$ forman una sucesión geométrica en ese orden, ¿cuál es el valor de $x$?",
-      "context": "",
+      "context": "Un reto de lógica sobre la relación entre sucesiones aritméticas y geométricas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el producto de los primeros 3 términos de una sucesión geométrica donde $a_2 = 5$?",
-      "context": "",
+      "context": "Determinación del producto de los primeros términos de una sucesión geométrica.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.32,
       "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

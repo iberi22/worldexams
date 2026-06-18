@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v1",
+      "statement": "\"Gire a la izquierda\" = ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn left",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Turn right",
+          "is_correct": false,
+          "feedback": "Incorrecto. Right = derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Go straight",
+          "is_correct": false,
+          "feedback": "Incorrecto. Straight = derecho."
+        },
+        {
+          "letter": "D",
+          "text": "Stop",
+          "is_correct": false,
+          "feedback": "Incorrecto. Stop = pare."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Directions: turn left (girar a la izquierda), turn right (girar a la derecha), go straight (seguir derecho).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v2",
+      "statement": "\"Go straight ahead\" means ___.",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguir derecho",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Girar a la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Girar a la izquierda",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Detenerse",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Go straight (ahead) = seguir derecho / todo recto.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v3",
+      "statement": "\"The bank is ___ the corner.\"",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correcto. On the corner = en la esquina."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto. In the corner = dentro."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Also possible. At the corner."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "Incorrecto. By = cerca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "On the corner = en la esquina. At the corner = también posible.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v4",
+      "statement": "\"Go ___ the street until you see the church.\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "along",
+          "is_correct": true,
+          "feedback": "Correcto. Go along = ir a lo largo."
+        },
+        {
+          "letter": "B",
+          "text": "across",
+          "is_correct": false,
+          "feedback": "Incorrecto. Across = al otro lado."
+        },
+        {
+          "letter": "C",
+          "text": "through",
+          "is_correct": false,
+          "feedback": "Incorrecto. Through = a través."
+        },
+        {
+          "letter": "D",
+          "text": "over",
+          "is_correct": false,
+          "feedback": "Incorrecto. Over = sobre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Along = a lo largo de. Across = al otro lado de. Through = a través de.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v5",
+      "statement": "\"The supermarket is ___ the hospital.\" (frente a)",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "opposite",
+          "is_correct": true,
+          "feedback": "Correcto. Opposite = enfrente de."
+        },
+        {
+          "letter": "B",
+          "text": "next to",
+          "is_correct": false,
+          "feedback": "Incorrecto. Next to = al lado de."
+        },
+        {
+          "letter": "C",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "Incorrecto. Between = entre."
+        },
+        {
+          "letter": "D",
+          "text": "behind",
+          "is_correct": false,
+          "feedback": "Incorrecto. Behind = detrás de."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Opposite = enfrente de/enfrente. Next to = al lado de. Between = entre dos cosas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v6",
+      "statement": "\"Excuse me, how do I get ___ the museum?\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to",
+          "is_correct": true,
+          "feedback": "Correcto. Get to = llegar a."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrecto. Get at no."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto. Get in = entrar."
+        },
+        {
+          "letter": "D",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrecto. Get on = subir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"How do I get to...?\" = ¿Cómo llego a...? Get to = llegar a un lugar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v7",
+      "statement": "\"Turn left ___ the traffic lights.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correcto. At + landmark."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "At = en un punto específico. \"Turn left at the traffic lights\" = Gire a la izquierda en el semáforo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v8",
+      "statement": "\"The park is ___ your left.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correcto. On your left = a tu izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "On your left = a tu izquierda. On your right = a tu derecha.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v9",
+      "statement": "\"Go straight, turn right at the corner. The bank is on your left.\" Where is the bank?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the left after turning right",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "On the right",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Straight ahead",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Behind the corner",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Follow the directions: straight, turn right → bank on your left. Practice following directions sequentially.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W34-directions-001-MASTERY-v10",
+      "statement": "\"It's two blocks from here.\" A block is ___.",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the distance between streets",
+          "is_correct": true,
+          "feedback": "Correcto. Block = cuadra."
+        },
+        {
+          "letter": "B",
+          "text": "a building",
+          "is_correct": false,
+          "feedback": "Incorrecto. Building = edificio."
+        },
+        {
+          "letter": "C",
+          "text": "a park",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "a corner",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Block = cuadra (the street segment between two intersections). \"Two blocks\" = dos cuadras.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W34-directions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-v1",
       "statement": "Which question word asks about TIME?",
       "context": "At Colegio Simón Bolívar de Bogotá, teacher reviews question words.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W34-question-formation-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",

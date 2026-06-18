@@ -10,7 +10,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denomina a una igualdad algebraica que solo es verdadera para ciertos valores específicos de las variables involucradas?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Guatemala está aprendiendo los conceptos fundamentales para resolver igualdades matemáticas.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la propiedad que permite sumar o restar la misma cantidad en ambos miembros de una ecuación sin alterar su solución?",
-      "context": "",
+      "context": "Para mantener el equilibrio en una balanza que representa una ecuación lineal, se aplican ciertas reglas.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v3",
       "statement": "Si el artesano vende cada pulsera a GTQ $15.00$ y quiere obtener GTQ $450.00$, ¿cuál es la ecuación lineal que modela esta situación donde $x$ es la cantidad de pulseras?",
-      "context": "",
+      "context": "Un artesano en Antigua Guatemala vende pulseras a un precio fijo. Sus ingresos totales dependen de la cantidad de pulseras vendidas.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se clasifica un sistema de ecuaciones lineales que no tiene ninguna solución (sus gráficas son rectas paralelas)?",
-      "context": "",
+      "context": "Un estudiante revisa la clasificación de los sistemas de ecuaciones lineales según el número de soluciones.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v5",
       "statement": "Resuelve la siguiente ecuación para hallar el valor de $x$: $3x + 12 = 45$.",
-      "context": "",
+      "context": "Un pequeño empresario en Mixco calcula sus costos fijos y variables.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v6",
       "statement": "El doble de un número más 5 es igual a 21. ¿De qué número se trata?",
-      "context": "",
+      "context": "En una tienda de deportes en Quetzaltenango, se venden balones de fútbol y básquetbol.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la medida del ancho del terreno?",
-      "context": "",
+      "context": "Un agricultor en Escuintla necesita cercar un terreno rectangular. El largo es el triple del ancho y el perímetro es de $160$ metros.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v8",
       "statement": "¿En qué consiste el primer paso del método de sustitución?",
-      "context": "",
+      "context": "Al resolver sistemas de ecuaciones, el método de sustitución es uno de los más utilizados por los estudiantes.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v9",
       "statement": "Dado el sistema:\n$x + y = 10$\n$x - y = 2$\n¿Cuál es el valor de $x$?",
-      "context": "",
+      "context": "Un estudiante resuelve un sistema de ecuaciones para encontrar el punto de equilibrio en un modelo económico simple.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v10",
       "statement": "Tres cafés y dos panes dulces cuestan GTQ $48.00$. Si un café cuesta GTQ $10.00$, ¿cuánto cuesta cada pan dulce?",
-      "context": "",
+      "context": "En una cafetería de la Ciudad de Guatemala, se venden combos de desayuno.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v11",
       "statement": "Resuelve el sistema de ecuaciones por el método de igualación:\n$y = 2x + 1$\n$y = -x + 4$\n¿Cuál es el valor de la coordenada $x$ del punto de intersección?",
-      "context": "",
+      "context": "Un ingeniero civil en Guatemala diseña una rampa y necesita hallar el punto de intersección de dos vigas de soporte.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v12",
       "statement": "Resuelve la ecuación: $\\frac{x}{2} + \\frac{x}{3} = 5$.",
-      "context": "",
+      "context": "Un estudiante de bachillerato analiza ecuaciones con coeficientes fraccionarios para representar proporciones en mezclas químicas.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el sistema de ecuaciones que representa este problema?",
-      "context": "",
+      "context": "Un comerciante de telas en Sololá tiene dos tipos de algodón. Mezcla $x$ libras de algodón tipo A (GTQ $10.00$/lb) con $y$ libras de tipo B (GTQ $15.00$/lb) para obtener $50$ libras de mezcla que cuestan GTQ $650.00$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v14",
       "statement": "En el sistema:\n$2x + 3y = 8$\n$x - y = -1$\n¿Cuál es el valor del determinante principal ($\\Delta$)?",
-      "context": "",
+      "context": "Un analista de datos utiliza la regla de Cramer para resolver sistemas pequeños de manera mecánica.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v15",
       "statement": "¿Cuál de los siguientes sistemas es dependiente (Compatible Indeterminado), es decir, tiene infinitas soluciones?",
-      "context": "",
+      "context": "Un estudiante investiga por qué algunos sistemas no tienen solución o tienen soluciones infinitas.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v16",
       "statement": "La suma de dos números es $30$ y su diferencia es $10$. ¿Cuáles son los números?",
-      "context": "",
+      "context": "Un grupo de estudiantes de Huehuetenango participa en un rally matemático resolviendo acertijos numéricos.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el precio de equilibrio ($P$) donde la cantidad demandada es igual a la cantidad ofrecida?",
-      "context": "",
+      "context": "Un economista en el Banco de Guatemala analiza el equilibrio de mercado donde la demanda $Q_d = 100 - 2P$ y la oferta $Q_s = 20 + 3P$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v18",
       "statement": "Resuelve el sistema:\n$0.5x + 0.2y = 1.3$\n$0.3x - 0.4y = 0.0$\n¿Cuál es la solución para el par $(x, y)$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería utiliza el método de reducción para resolver un sistema con coeficientes decimales.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v19",
       "statement": "¿Bajo qué condición el sistema $kx + 2y = 5$; $2x + y = 4$ tiene una solución única?",
-      "context": "",
+      "context": "En un laboratorio en la Universidad de San Carlos, se analizan las soluciones de sistemas mediante el rango de matrices.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v20",
       "statement": "La edad de un padre es el triple de la de su hijo. Hace 10 años, la edad del padre era el quíntuple de la de su hijo. ¿Cuántos años tiene el hijo actualmente?",
-      "context": "",
+      "context": "Un estudiante resuelve un problema de edades que involucra un sistema de ecuaciones.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.35,
       "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

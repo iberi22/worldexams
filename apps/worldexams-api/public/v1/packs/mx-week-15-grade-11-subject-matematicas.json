@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v1",
       "statement": "En un triángulo rectángulo, ¿cómo se define la razón trigonométrica \"Seno\" de un ángulo agudo $\\theta$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Guadalajara está introduciéndose al estudio de la trigonometría plana.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la función trigonométrica recíproca del Coseno?",
-      "context": "",
+      "context": "Un topógrafo en Monterrey necesita recordar las funciones recíprocas para realizar cálculos de distancias.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor del coseno del ángulo opuesto al cateto de 3 unidades?",
-      "context": "",
+      "context": "Un estudiante en la Ciudad de México observa un triángulo rectángulo con catetos de 3 y 4 unidades.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el valor exacto de la tangente de $45^{\\circ}$?",
-      "context": "",
+      "context": "Un arquitecto en Puebla utiliza ángulos notables para el diseño de una rampa.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v5",
       "statement": "Si el ángulo de elevación es de $30^{\\circ}$ y el ingeniero se encuentra a 20 metros de la base, ¿cuál es la altura aproximada de la torre? (Considera $\\tan(30^{\\circ}) \\approx 0.577$)",
-      "context": "",
+      "context": "Un ingeniero en el Estado de México mide el ángulo de elevación hacia la punta de una torre.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v6",
       "statement": "El faro tiene 40 metros de altura. Si el ángulo de depresión desde la cima del faro hacia el barco es de $20^{\\circ}$, ¿a qué distancia se encuentra el barco de la base del faro? (Considera $\\tan(20^{\\circ}) \\approx 0.364$)",
-      "context": "",
+      "context": "Un navegante en Veracruz observa un faro desde su barco.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor del seno de $60^{\\circ}$?",
-      "context": "",
+      "context": "Un diseñador de juegos en Querétaro calcula la trayectoria de un proyectil que se lanza con un ángulo de $60^{\\circ}$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v8",
       "statement": "Si el $\\operatorname{sen} \\theta = 0.6$ y $\\theta$ está en el primer cuadrante, ¿cuál es el valor del $\\cos \\theta$?",
-      "context": "",
+      "context": "Se analiza el comportamiento de las funciones trigonométricas en el círculo unitario.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v9",
       "statement": "La cercha es un triángulo rectángulo donde uno de los ángulos agudos mide $37^{\\circ}$ y la hipotenusa mide 10 metros. ¿Cuánto mide el cateto adyacente a dicho ángulo? (Considera $\\cos(37^{\\circ}) \\approx 0.8$)",
-      "context": "",
+      "context": "Un carpintero en Oaxaca está fabricando una cercha triangular para un techo.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v10",
       "statement": "¿A cuál de las siguientes expresiones es equivalente el $\\operatorname{sen}(25^{\\circ})$?",
-      "context": "",
+      "context": "Un estudiante estudia la relación entre las funciones trigonométricas y sus complementos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v11",
       "statement": "Si el $\\cos \\theta = 5/13$ y $\\theta$ es un ángulo agudo, ¿cuál es el valor de la $\\csc \\theta$?",
-      "context": "",
+      "context": "Un ingeniero civil analiza las fuerzas en un cable que sostiene un puente colgante en Chiapas.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v12",
       "statement": "Simplifica la expresión: $(\\operatorname{sen} \\theta)(\\csc \\theta) + (\\cos \\theta)(\\sec \\theta)$",
-      "context": "",
+      "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza constante.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v13",
       "statement": "La carretera sube 150 metros verticalmente por cada 1,000 metros de recorrido horizontal. ¿Cuál es el valor de la tangente del ángulo de inclinación?",
-      "context": "",
+      "context": "Se desea encontrar el ángulo de inclinación de una carretera en la Sierra Madre.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v14",
       "statement": "En un círculo de radio 10 cm, se traza una cuerda que subtiende un ángulo central de $60^{\\circ}$. ¿Cuál es la longitud de la cuerda?",
-      "context": "",
+      "context": "Un arquitecto diseña una ventana en forma de sector circular y necesita calcular la longitud de una cuerda.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v15",
       "statement": "¿Cuál de las siguientes es una identidad trigonométrica válida derivada de $\\operatorname{sen}^2 \\theta + \\cos^2 \\theta = 1$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería en San Luis Potosí analiza la identidad pitagórica dividida por el coseno al cuadrado.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v16",
       "statement": "Desde un punto $C$, se mide $AC = 100\\text{ m}$ y $BC = 100\\text{ m}$. Si el ángulo en $C$ es de $90^{\\circ}$, ¿cuál es la distancia $AB$?",
-      "context": "",
+      "context": "Un topógrafo mide la distancia entre dos puntos $A$ y $B$ separados por un obstáculo.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v17",
       "statement": "¿Para qué valores de $\\theta$ (en grados, para $0 \\le \\theta < 360$) la función $\\tan \\theta$ no está definida?",
-      "context": "",
+      "context": "Un matemático de la UNAM analiza la función tangente y sus asíntotas.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el valor exacto del $\\cos(150^{\\circ})$?",
-      "context": "",
+      "context": "Se plantea un problema de reducción al primer cuadrante para ángulos mayores a 90 grados.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v19",
       "statement": "Simplifica la expresión: $\\frac{1}{1 + \\operatorname{sen} \\theta} + \\frac{1}{1 - \\operatorname{sen} \\theta}$",
-      "context": "",
+      "context": "Un estudiante avanzado simplifica expresiones trigonométricas complejas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v20",
       "statement": "En un triángulo $\\triangle ABC$, se conocen los lados $a = 8\\text{ cm}$, $b = 10\\text{ cm}$ y el ángulo comprendido $C = 30^{\\circ}$. ¿Cuál es el área del triángulo?",
-      "context": "",
+      "context": "Se analiza el área de un triángulo cualquiera utilizando trigonometría.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.15,
       "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",

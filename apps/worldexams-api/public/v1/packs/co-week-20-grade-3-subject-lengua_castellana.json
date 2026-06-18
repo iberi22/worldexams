@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v1",
       "statement": "¿Qué mensaje le está enviando la mamá al niño solo con su sonrisa?",
-      "context": "",
+      "context": "Un niño ve a su mamá sonriendo desde lejos en un parque de Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v2",
       "statement": "En un semáforo, ¿qué significa la luz roja para los conductores?",
-      "context": "",
+      "context": "Un semáforo en una avenida principal de Medellín.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v3",
       "statement": "¿Qué tipo de lenguaje está usando el árbitro para comunicarse con el jugador?",
-      "context": "",
+      "context": "Un árbitro de fútbol en un partido en Barranquilla levanta una tarjeta amarilla.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v4",
       "statement": "Si el mimo se pone la mano en la mejilla y cierra los ojos, ¿qué nos está queriendo decir sin hablar?",
-      "context": "",
+      "context": "Un mimo haciendo una representación en una plaza de Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v5",
       "statement": "Ves un letrero con un dibujo de dos niños con maletas caminando. ¿Qué mensaje transmite esta imagen?",
-      "context": "",
+      "context": "Las señales de tránsito cerca de un colegio en Cali.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v6",
       "statement": "Escuchas una sirena muy fuerte de un vehículo que se acerca. ¿Qué comunicación no verbal estás recibiendo?",
-      "context": "",
+      "context": "Los sonidos en un hospital de Tunja.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v7",
       "statement": "Si un amigo te envía un emoji de una carita con corazones en los ojos 😍, ¿qué te está comunicando?",
-      "context": "",
+      "context": "El uso de emoticonos (emojis) en un mensaje de celular.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v8",
       "statement": "Ves a una persona vestida con un delantal blanco y un estetoscopio en el cuello. ¿Qué te comunica su vestimenta?",
-      "context": "",
+      "context": "El lenguaje de los uniformes en Bucaramanga.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v9",
       "statement": "Si alguien se aleja mucho mientras le hablas, ¿qué mensaje no verbal te está dando probablemente?",
-      "context": "",
+      "context": "La importancia de la distancia entre las personas al hablar.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v10",
       "statement": "Tu papá te dice \"Sí, claro, puedes ir\", pero está frunciendo el ceño y tiene los brazos cruzados. ¿A qué deberías prestarle más atención para saber la verdad?",
-      "context": "",
+      "context": "Un mensaje mixto: palabras y gestos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

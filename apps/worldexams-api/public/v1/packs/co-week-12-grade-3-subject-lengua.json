@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-lengua",
+    "generated_at": "2026-06-18T22:23:58.767Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v1",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio La Salle en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v2",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio INEM en Barichara",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v3",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio Nacional en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v4",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio Nacional en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v5",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio San Bartolomé en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v6",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio La Presentación en Barichara",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v7",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio Nacional en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-v8",
+      "statement": "¿En qué tiempo está 'comeré'?",
+      "context": "En la clase de Lengua del Colegio Nacional en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro",
+          "is_correct": true,
+          "feedback": "Correcto! Futuro simple."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": "Pasado sería 'comí'."
+        },
+        {
+          "letter": "C",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "Presente sería 'como'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional",
+          "is_correct": false,
+          "feedback": "Condicional sería 'comería'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Comeré' es la conjugación en futuro simple del verbo comer.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-3-2026-W12-verbos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

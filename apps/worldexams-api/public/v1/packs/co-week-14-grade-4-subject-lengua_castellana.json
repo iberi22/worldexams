@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v1",
       "statement": "¿Qué es el lenguaje figurado en un poema?",
-      "context": "",
+      "context": "Un niño en Bogotá lee un poema sobre el cielo estrellado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v2",
       "statement": "¿Cómo se llama la figura literaria que identifica un objeto con otro por su parecido, sin usar la palabra \"como\"?\n(Ejemplo: **\"Las perlas de tu boca\"** para referirse a los dientes).",
-      "context": "",
+      "context": "Identificando figuras literarias en un colegio de Medellín.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v3",
       "statement": "¿Cuál de estas frases es una **comparación** (símil)?",
-      "context": "",
+      "context": "Diferenciando metáfora de comparación en un poema sobre el sol en Cali.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v4",
       "statement": "En el verso **\"El oro negro de nuestras montañas\"**, ¿a qué se refiere el poeta?",
-      "context": "",
+      "context": "Analizando el significado de una metáfora sobre el café de Colombia.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v5",
       "statement": "¿Cómo transformarías la frase literal **\"Tus ojos son azules\"** en una metáfora poética?",
-      "context": "",
+      "context": "Transformando lenguaje literal en lenguaje poético en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v6",
       "statement": "\"El río Magdalena canta historias antiguas mientras corre hacia el mar\". ¿Qué figura literaria se usa aquí?",
-      "context": "",
+      "context": "Analizando la personificación en un poema sobre el río Magdalena.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v7",
       "statement": "Completa el verso con la metáfora más bella:\n\"Las nubes son ______________ que viajan por el cielo azul\".",
-      "context": "",
+      "context": "Completando un poema con metáforas sobre la naturaleza en Boyacá.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v8",
       "statement": "¿Por qué el autor prefiere decir **\"El mar es un espejo de plata\"** en lugar de \"El mar brilla mucho\"?",
-      "context": "",
+      "context": "Identificando el propósito del autor al usar metáforas en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v9",
       "statement": "En \"La Pobre Viejecita\", se dice que ella no tenía qué comer sino carnes, frutas y dulces. ¿Es esto una metáfora o una **ironía** (decir lo contrario de lo que se piensa)?",
-      "context": "",
+      "context": "Evaluando el uso de metáforas en un poema de Rafael Pombo.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v10",
       "statement": "¿Cuál de estas opciones usa una metáfora original y tierna?",
-      "context": "",
+      "context": "Quieres escribirle un verso a tu mamá en su día en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",

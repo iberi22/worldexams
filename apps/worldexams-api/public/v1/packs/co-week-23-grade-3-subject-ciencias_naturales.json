@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.140Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v1",
+      "statement": "¿Qué le sucede a la temperatura del aire a medida que subimos una montaña muy alta?",
+      "context": "Colombia es un país con tres cordilleras de montañas muy altas que atraviesan todo el territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aire se vuelve más caliente",
+          "is_correct": false,
+          "feedback": "Al contrario, el aire caliente se queda en las partes bajas; en las altas hace más frío."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura baja y hace más frío",
+          "is_correct": true,
+          "feedback": "Por cada mil metros que subimos, la temperatura del aire disminuye aproximadamente 6 grados centígrados."
+        },
+        {
+          "letter": "C",
+          "text": "El aire se vuelve de color azul",
+          "is_correct": false,
+          "feedback": "El aire es invisible en todas las alturas; el color del cielo es un efecto de la luz, no de la temperatura local."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura no cambia nunca",
+          "is_correct": false,
+          "feedback": "La altura es el factor que más influye en el clima de las regiones montañosas de Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este fenómeno ocurre porque a mayor altura hay menos atmósfera encima de nosotros para atrapar el calor del sol. Por eso, mientras en la costa hace calor (piso cálido), en la cima de la montaña puede haber nieve (piso glacial).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v2",
+      "statement": "¿En qué piso térmico se encuentra Juan según los cultivos de café de su región?",
+      "context": "Juan vive en una ciudad donde se cultiva mucho café y plátano, y el clima es templado (ni muy frío ni muy caliente).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Piso Cálido",
+          "is_correct": false,
+          "feedback": "El piso cálido es ideal para el coco y el cacao, pero el café prefiere temperaturas más frescas de montaña."
+        },
+        {
+          "letter": "B",
+          "text": "Piso Templado",
+          "is_correct": true,
+          "feedback": "El piso templado se encuentra entre los 1.000 y 2.000 metros de altura, el clima perfecto para el café colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "Piso Páramo",
+          "is_correct": false,
+          "feedback": "En el páramo hace demasiado frío para el café; allí crecen frailejones y musgos."
+        },
+        {
+          "letter": "D",
+          "text": "Piso Glacial",
+          "is_correct": false,
+          "feedback": "Es la zona de nieve perpetua donde ninguna planta de cultivo puede sobrevivir por el frío extremo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pisos térmicos nos dicen qué podemos sembrar. Colombia es famosa por su café porque tenemos muchas montañas en el piso templado con la humedad y temperatura ideales para este grano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v3",
+      "statement": "¿Qué cambio en su ropa debería preparar Mariana a medida que va subiendo por la montaña?",
+      "context": "Mariana viaja de Santa Marta (al nivel del mar) hacia la Sierra Nevada (una montaña muy alta frente al mar).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debería usar ropa cada vez más ligera",
+          "is_correct": false,
+          "feedback": "Si usa ropa ligera, sentirá mucho frío a medida que gane altura en la montaña."
+        },
+        {
+          "letter": "B",
+          "text": "Debería ponerse ropa más abrigada y gruesa",
+          "is_correct": true,
+          "feedback": "A medida que sube, entra en pisos térmicos más fríos y necesita proteger su calor corporal."
+        },
+        {
+          "letter": "C",
+          "text": "No necesita cambiar de ropa",
+          "is_correct": false,
+          "feedback": "Ignorar el cambio de temperatura podría causarle problemas de salud por el frío de la altura."
+        },
+        {
+          "letter": "D",
+          "text": "Debería usar un traje de buceo",
+          "is_correct": false,
+          "feedback": "El traje de buceo es para entrar al agua; en la montaña se necesita protección contra el aire frío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Sierra Nevada de Santa Marta es única porque tiene todos los pisos térmicos muy cerca. Mariana pasará del calor del Caribe al frío del páramo en un solo viaje, demostrando cómo la altura domina el clima.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v4",
+      "statement": "¿Cuál es la planta más representativa de los páramos colombianos que ayuda a capturar el agua de las nubes?",
+      "context": "En el Piso Páramo (más de 3.000 metros), el aire es muy frío, hay mucha niebla y el viento sopla con fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palmera de coco",
+          "is_correct": false,
+          "feedback": "Las palmeras son del piso cálido; no resistirían las heladas y el viento fuerte del páramo."
+        },
+        {
+          "letter": "B",
+          "text": "El frailejón",
+          "is_correct": true,
+          "feedback": "El frailejón tiene hojas peludas para protegerse del frío y capturar la humedad de la niebla."
+        },
+        {
+          "letter": "C",
+          "text": "El árbol de naranja",
+          "is_correct": false,
+          "feedback": "Los cítricos necesitan el calor de los pisos bajos o medios para que sus frutos maduren."
+        },
+        {
+          "letter": "D",
+          "text": "El cactus del desierto",
+          "is_correct": false,
+          "feedback": "Aunque el páramo es seco en aire, tiene mucha humedad en forma de niebla, diferente al desierto caliente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los frailejones son los \"reyes del páramo\". Son una adaptación asombrosa a la altura. Crecen muy lento (un centímetro por año) y son los encargados de llenar de agua nuestros ríos desde lo más alto.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v5",
+      "statement": "¿Cuál de estos alimentos viene del Piso Frío (donde está Bogotá o Tunja)?",
+      "context": "Tienes una canasta con: Coco, Papa, Café y Manzana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El coco",
+          "is_correct": false,
+          "feedback": "El coco viene del piso cálido, cerca de las playas y selvas bajas calurosas."
+        },
+        {
+          "letter": "B",
+          "text": "La papa",
+          "is_correct": true,
+          "feedback": "La papa es el cultivo principal de las tierras frías de Colombia, donde la temperatura es baja pero no llega a congelar."
+        },
+        {
+          "letter": "C",
+          "text": "El café",
+          "is_correct": false,
+          "feedback": "Como vimos, el café es típico del piso templado, que es un poco más cálido que el piso de la papa."
+        },
+        {
+          "letter": "D",
+          "text": "El cacao",
+          "is_correct": false,
+          "feedback": "El cacao, al igual que el coco, necesita el calor intenso de las zonas bajas del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La variedad de nuestra comida se debe a los pisos térmicos. En un solo almuerzo colombiano podemos tener papa (frío), arroz (cálido) y plátano (templado/cálido), uniendo todos los climas en un plato.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v6",
+      "statement": "¿Por qué no es común encontrar iguanas viviendo naturalmente en la cima de un nevado?",
+      "context": "Los animales también se reparten por los pisos térmicos. Un cóndor vuela en las cumbres, mientras que una iguana prefiere las piedras calientes de la costa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no les gusta el color blanco de la nieve",
+          "is_correct": false,
+          "feedback": "Los animales actúan por necesidades biológicas de supervivencia, no por preferencias estéticas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son animales de sangre fría y morirían congeladas",
+          "is_correct": true,
+          "feedback": "Las iguanas necesitan el calor del sol para que su cuerpo funcione; el frío extremo las mataría rápido."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cóndor no las deja subir",
+          "is_correct": false,
+          "feedback": "Aunque el cóndor sea un depredador, la barrera principal es el clima y la falta de energía térmica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en la cima no hay internet",
+          "is_correct": false,
+          "feedback": "Los animales no tienen necesidades tecnológicas; sus límites son el alimento, el agua y la temperatura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los reptiles dependen del calor ambiental. Por eso abundan en los pisos cálidos y templados. Los animales de los pisos altos, como los osos de anteojos o los cóndores, tienen pelajes o plumas densas para resistir el frío.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v7",
+      "statement": "¿Qué significa que Colombia no tenga \"estaciones\" pero sí tenga todos los climas?",
+      "context": "Un científico dice: \"Colombia no tiene estaciones como otros países, pero tiene todos los climas del mundo en sus montañas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siempre es Navidad en las montañas",
+          "is_correct": false,
+          "feedback": "Las estaciones climáticas son cambios de temperatura por meses; la Navidad es una fecha del calendario."
+        },
+        {
+          "letter": "B",
+          "text": "Que el clima no cambia por meses, sino por la altura a la que estés",
+          "is_correct": true,
+          "feedback": "En Colombia, si quieres frío, solo tienes que subir la montaña, sin importar si es enero o agosto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el sol de Colombia es diferente al de otros países",
+          "is_correct": false,
+          "feedback": "El sol es el mismo; la diferencia es nuestra posición cerca del ecuador y nuestras montañas."
+        },
+        {
+          "letter": "D",
+          "text": "Que en Colombia nunca llueve",
+          "is_correct": false,
+          "feedback": "Al contrario, Colombia es uno de los países más lluviosos del mundo debido a su ubicación tropical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al estar cerca de la línea del ecuador, recibimos luz solar pareja todo el año. Por eso no tenemos invierno o verano marcados. Nuestros \"climas\" están quietos en la montaña: el frío siempre está arriba y el calor siempre abajo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v8",
+      "statement": "¿Qué equipo es indispensable para sobrevivir en este piso térmico tan extremo?",
+      "context": "Tienes que planear una expedición al Piso Glacial (más de 4.000 metros de altura).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pantaloneta, sandalias y bloqueador solar",
+          "is_correct": false,
+          "feedback": "Este equipo es para el piso cálido; en el glacial morirías de frío en pocos minutos."
+        },
+        {
+          "letter": "B",
+          "text": "Chaqueta térmica, guantes, botas y gafas para nieve",
+          "is_correct": true,
+          "feedback": "La protección contra el frío extremo y el reflejo del sol en el hielo es vital para la vida."
+        },
+        {
+          "letter": "C",
+          "text": "Solo un paraguas para la lluvia",
+          "is_correct": false,
+          "feedback": "En el piso glacial la precipitación suele ser nieve, y el frío es un peligro mayor que la humedad."
+        },
+        {
+          "letter": "D",
+          "text": "Un ventilador de baterías",
+          "is_correct": false,
+          "feedback": "El aire allí ya es extremadamente frío; un ventilador solo aceleraría la pérdida de calor corporal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El piso glacial es el más hostil para la vida humana. No hay vegetación y el oxígeno es muy escaso. Solo personas muy preparadas y bien equipadas pueden visitar estas cumbres nevadas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v9",
+      "statement": "¿Qué está pasando con los pisos térmicos debido al aumento de temperatura de la Tierra?",
+      "context": "El calentamiento global está haciendo que la línea de nieve de los volcanes colombianos suba cada vez más hacia la cima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se están volviendo más fríos",
+          "is_correct": false,
+          "feedback": "Al contrario, el nombre \"calentamiento\" indica que la temperatura promedio está subiendo."
+        },
+        {
+          "letter": "B",
+          "text": "El calor está subiendo la montaña y \"empujando\" hacia arriba a los climas fríos",
+          "is_correct": true,
+          "feedback": "Los animales y plantas de clima frío se están quedando sin espacio al subir el calor desde abajo."
+        },
+        {
+          "letter": "C",
+          "text": "Las montañas se están volviendo más bajas físicamente",
+          "is_correct": false,
+          "feedback": "El tamaño de la roca no cambia; lo que cambia es la temperatura del aire que la rodea."
+        },
+        {
+          "letter": "D",
+          "text": "Nada, los pisos térmicos son imposibles de cambiar",
+          "is_correct": false,
+          "feedback": "Los pisos térmicos dependen de la temperatura; si el planeta se calienta, los límites de los pisos se alteran."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema grave para los frailejones y los animales de páramo. Como el calor sube, ellos intentan subir más alto para encontrar su frío, pero llega un momento en que la montaña se acaba y no tienen a dónde más ir.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v10",
+      "statement": "¿Es esta frase posible gracias a la geografía de Colombia?",
+      "context": "Un comercial dice: \"Ven a Colombia, el único lugar donde puedes desayunar en el frío, almorzar en el calor y volver al frío para dormir en un solo día\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, el cuerpo humano explotaría por los cambios",
+          "is_correct": false,
+          "feedback": "Los humanos nos adaptamos bien a los cambios de presión y temperatura si se hacen con cuidado."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, viajando entre ciudades a diferentes alturas en las montañas",
+          "is_correct": true,
+          "feedback": "Por ejemplo, puedes salir de Bogotá (frío), bajar a Melgar (calor) y volver en pocas horas de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el sol sale tres veces al día en Colombia",
+          "is_correct": false,
+          "feedback": "El ciclo del sol es el mismo de 24 horas; lo que cambia es nuestra posición en la montaña."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque en Colombia siempre hace el mismo clima",
+          "is_correct": false,
+          "feedback": "Falso; Colombia es uno de los países con mayor diversidad climática gracias a sus tres cordilleras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La frase es una forma creativa de describir nuestra riqueza geográfica. Los pisos térmicos nos permiten tener una variedad increíble de paisajes, comidas y experiencias en distancias muy cortas, algo que pocos países en el mundo tienen.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v1",
+      "statement": "¿Cómo se llama el proceso natural por el cual el viento desgasta las rocas a lo largo del tiempo?",
+      "context": "En el desierto de la Tatacoa, vemos que muchas rocas tienen formas curvas y huecos que parecen tallados a mano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis mineral",
+          "is_correct": false,
+          "feedback": "La fotosíntesis es un proceso biológico de las plantas, no un desgaste físico de los minerales."
+        },
+        {
+          "letter": "B",
+          "text": "Infiltración rocosa",
+          "is_correct": false,
+          "feedback": "La infiltración es el paso del agua a través del suelo, no el desgaste exterior de las piedras."
+        },
+        {
+          "letter": "C",
+          "text": "Erosión eólica",
+          "is_correct": true,
+          "feedback": "La erosión eólica es el desgaste o transporte de suelo y roca causado por la fuerza del viento."
+        },
+        {
+          "letter": "D",
+          "text": "Condensación sólida",
+          "is_correct": false,
+          "feedback": "La condensación es el cambio de gas a líquido, un fenómeno climático pero no de desgaste físico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El viento es como un artista lento. Arrastra partículas de arena que golpean las rocas millones de veces. Con los siglos, ese choque constante va \"lijando\" la piedra, creando paisajes increíbles que llamamos relieves eólicos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v2",
+      "statement": "¿Qué proceso biológico está ayudando el viento a realizar en este bosque de pinos?",
+      "context": "Al caminar por un campo de pinos, Mariana nota una nube de polvo amarillo que sale de las ramas cuando sopla una brisa fuerte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polinización",
+          "is_correct": true,
+          "feedback": "El viento transporta el polen de un árbol a otro para que puedan nacer nuevas semillas."
+        },
+        {
+          "letter": "B",
+          "text": "Respiración foliar",
+          "is_correct": false,
+          "feedback": "La respiración la hace la planta por sí misma a través de sus poros; el viento no es el encargado de este proceso interno."
+        },
+        {
+          "letter": "C",
+          "text": "Digestión vegetal",
+          "is_correct": false,
+          "feedback": "Las plantas fabrican su comida con el sol; el viento solo ayuda en la reproducción o dispersión."
+        },
+        {
+          "letter": "D",
+          "text": "Solidificación de hojas",
+          "is_correct": false,
+          "feedback": "El viento no convierte las hojas en sólidos duros; las hojas son tejidos vivos flexibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El viento es un mensajero de la vida. Muchas plantas no tienen flores coloridas para atraer insectos, por eso lanzan su polen al aire para que el viento lo lleve a donde se necesita. Esto permite que el bosque siga creciendo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v3",
+      "statement": "¿Qué nombre reciben estas acumulaciones de arena formadas por el viento?",
+      "context": "En las playas de Puerto Colombia, vemos grandes montañas de arena que el viento mueve y cambia de forma cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Montañas de sal",
+          "is_correct": false,
+          "feedback": "Las montañas de arena son minerales de roca triturada, no acumulaciones de sal marina."
+        },
+        {
+          "letter": "B",
+          "text": "Dunas",
+          "is_correct": true,
+          "feedback": "Las dunas son colinas de arena que el viento construye al soplar en una dirección constante."
+        },
+        {
+          "letter": "C",
+          "text": "Islas de aire",
+          "is_correct": false,
+          "feedback": "Las islas están rodeadas de agua; las dunas son estructuras terrestres formadas por arena."
+        },
+        {
+          "letter": "D",
+          "text": "Nubes de suelo",
+          "is_correct": false,
+          "feedback": "Aunque el viento puede levantar polvo (nubes de suelo), las dunas son acumulaciones sólidas en la superficie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las dunas son paisajes dinámicos. El viento quita arena de un lado y la deposita en el otro, haciendo que la duna parezca que camina. Son muy comunes en desiertos y zonas costeras donde el viento es constante.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v4",
+      "statement": "¿Por qué el viento fuerte hace que un incendio se extienda más rápido por el bosque?",
+      "context": "Los incendios forestales son más peligrosos y difíciles de apagar cuando hay vientos fuertes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el viento apaga el fuego con aire frío",
+          "is_correct": false,
+          "feedback": "Una brisa muy suave puede apagar un fósforo, pero un viento fuerte en un incendio grande hace lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Porque aporta más oxígeno y mueve las chispas",
+          "is_correct": true,
+          "feedback": "El viento alimenta el fuego con oxígeno fresco y vuela las brasas encendidas hacia árboles lejanos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el viento atrae la lluvia negra",
+          "is_correct": false,
+          "feedback": "El viento no atrae la lluvia por el incendio; su efecto inmediato es sobre la llama y el calor."
+        },
+        {
+          "letter": "D",
+          "text": "Porque a los árboles les gusta quemarse con viento",
+          "is_correct": false,
+          "feedback": "Los seres vivos tienen instintos de supervivencia; el incendio es un desastre que destruye la vida vegetal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El viento es el mejor aliado del fuego en el bosque. Funciona como un ventilador gigante que aviva las llamas y las transporta a gran velocidad, convirtiendo un fuego pequeño en una tragedia ambiental en pocos minutos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v5",
+      "statement": "¿A cuál de las dos semillas le sirve más el viento para poder viajar lejos?",
+      "context": "Tienes una semilla de \"diente de león\" con sus pelitos blancos y una semilla de mango que es grande y pesada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la semilla de mango",
+          "is_correct": false,
+          "feedback": "El mango es demasiado pesado para que el viento lo mueva; el mango depende de los animales que lo comen."
+        },
+        {
+          "letter": "B",
+          "text": "A la semilla de diente de león",
+          "is_correct": true,
+          "feedback": "Su estructura es liviana y tiene forma de paracaídas, diseñada exactamente para que el viento la transporte."
+        },
+        {
+          "letter": "C",
+          "text": "A ninguna de las dos",
+          "is_correct": false,
+          "feedback": "Muchas plantas dependen totalmente del viento para que sus hijos encuentren un lugar donde crecer."
+        },
+        {
+          "letter": "D",
+          "text": "A las dos por igual",
+          "is_correct": false,
+          "feedback": "La forma y el peso determinan qué semillas son transportadas por el aire y cuáles no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama adaptación. Las semillas ligeras usan el viento como un medio de transporte gratuito. Es un ejemplo de cómo las fuerzas de la naturaleza (el viento) interactúan con la forma de los seres vivos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v6",
+      "statement": "¿Qué efecto negativo tuvo el viento sobre el suelo fértil en esta situación?",
+      "context": "Después de un huracán o un fuerte vendaval, los suelos de los campos quedan sin la capa superior de tierra negra y se ven más claros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento pintó la tierra",
+          "is_correct": false,
+          "feedback": "El viento no tiene pigmentos; el cambio de color se debe a la pérdida de materiales."
+        },
+        {
+          "letter": "B",
+          "text": "El viento arrastró el humus y los nutrientes",
+          "is_correct": true,
+          "feedback": "Al soplar muy fuerte sobre suelo seco, el viento se lleva la parte más rica en comida para las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "El viento convirtió la tierra en agua",
+          "is_correct": false,
+          "feedback": "Los estados de la materia no cambian de sólido a líquido por el simple movimiento del aire."
+        },
+        {
+          "letter": "D",
+          "text": "No hubo ningún efecto",
+          "is_correct": false,
+          "feedback": "Al contrario, el viento fuerte es una de las principales causas de pérdida de fertilidad de los suelos desprotegidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto es erosión del suelo. La capa negra (humus) es liviana y el viento se la lleva fácil si no hay árboles o pasto que la protejan. Por eso las barreras de árboles son tan importantes para los campesinos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v7",
+      "statement": "¿Qué transformación de energía ocurre en esos molinos de viento?",
+      "context": "En la costa de La Guajira, la gente usa molinos para sacar agua de los pozos profundos usando solo la fuerza del viento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía solar a energía eléctrica",
+          "is_correct": false,
+          "feedback": "Los molinos de viento no usan luz solar, usan el movimiento de las masas de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento del viento a trabajo mecánico",
+          "is_correct": true,
+          "feedback": "La fuerza del viento hace girar las aspas, y ese giro mueve una bomba que saca el agua del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Energía de agua a energía de aire",
+          "is_correct": false,
+          "feedback": "Es al revés: el aire es la fuente de energía que se usa para mover el recurso agua."
+        },
+        {
+          "letter": "D",
+          "text": "Calor a electricidad",
+          "is_correct": false,
+          "feedback": "Aunque el sol causa el viento, el molino aprovecha el movimiento físico, no la temperatura directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El viento es una herramienta de trabajo. Antes de que existieran los motores eléctricos, los humanos ya usábamos el viento para moler granos y bombear agua, demostrando que es un recurso inagotable y útil.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v8",
+      "statement": "¿Cuál es el efecto del viento sobre el proceso de evaporación del agua en la ropa?",
+      "context": "Mariana observa que su ropa se seca mucho más rápido cuando hace viento que cuando el aire está totalmente quieto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento calienta el agua",
+          "is_correct": false,
+          "feedback": "El viento suele refrescar; su efecto en el secado no es por aumento de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "El viento fabrica más agua",
+          "is_correct": false,
+          "feedback": "El viento ayuda a que el agua se vaya, no a que aparezca más agua líquida."
+        },
+        {
+          "letter": "C",
+          "text": "El viento se lleva el vapor de agua y deja espacio para más",
+          "is_correct": true,
+          "feedback": "Al mover el aire húmedo lejos de la ropa, permite que el agua líquida siga saliendo rápidamente hacia el aire seco."
+        },
+        {
+          "letter": "D",
+          "text": "El viento congela la ropa",
+          "is_correct": false,
+          "feedback": "El viento solo congela si la temperatura ambiente es bajo cero; su función común es favorecer el secado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El viento ayuda a la evaporación. Es lo mismo que pasa cuando soplamos una sopa caliente: movemos el vapor para que más calor pueda escapar del líquido, enfriándolo o secándolo según sea el caso.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v9",
+      "statement": "¿Qué ingrediente del clima alimenta la fuerza destructiva de un huracán antes de llegar a la tierra?",
+      "context": "Los huracanes son vientos circulares gigantes que nacen sobre los océanos calientes y pueden destruir ciudades costeras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El frío de las montañas",
+          "is_correct": false,
+          "feedback": "Las montañas suelen frenar a los huracanes al quitarles su fuente de energía y romper su circulación."
+        },
+        {
+          "letter": "B",
+          "text": "La arena de los desiertos",
+          "is_correct": false,
+          "feedback": "El polvo puede viajar en el viento, pero no es la fuente de energía de una tormenta marina."
+        },
+        {
+          "letter": "C",
+          "text": "El calor y la humedad del agua del mar",
+          "is_correct": true,
+          "feedback": "El vapor de agua que sube del mar caliente es el \"combustible\" que le da energía a la tormenta para crecer."
+        },
+        {
+          "letter": "D",
+          "text": "La luz de las estrellas",
+          "is_correct": false,
+          "feedback": "Las estrellas están demasiado lejos para influir en la energía térmica de los océanos terrestres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los huracanes son máquinas térmicas. Toman el calor del mar y lo convierten en viento. Por eso son más fuertes en verano y sobre aguas cálidas, demostrando el inmenso poder que tiene el ciclo del agua y el aire.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v10",
+      "statement": "¿Por qué sembrar una fila de árboles (barrera viva) es mejor que poner paredes de plástico?",
+      "context": "Un constructor dice: \"Para evitar que el viento se lleve la tierra de mi cultivo, voy a quitar todos los árboles y poner paredes de plástico\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el plástico es más caro",
+          "is_correct": false,
+          "feedback": "El costo económico no es la razón científica de su efectividad ambiental y biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los árboles frenan el viento y además dan vida",
+          "is_correct": true,
+          "feedback": "Los árboles filtran el aire, mantienen la humedad y protegen el suelo mejor que un material inerte."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el plástico atrae al viento",
+          "is_correct": false,
+          "feedback": "Ningún material atrae el viento por sí mismo; el movimiento del aire es atmosférico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los árboles son de color verde",
+          "is_correct": false,
+          "feedback": "La efectividad contra la erosión depende de la estructura de las ramas y raíces, no del color visual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las barreras vivas son la mejor tecnología natural. Las raíces de los árboles amarran el suelo mientras que sus copas rompen la fuerza del viento sin detenerlo bruscamente, protegiendo los cultivos de forma equilibrada y saludable.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

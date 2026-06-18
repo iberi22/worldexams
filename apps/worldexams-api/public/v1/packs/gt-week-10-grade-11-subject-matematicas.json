@@ -10,7 +10,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la medida de tendencia central que representa el valor que más veces se repite en un conjunto de datos?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Ciudad de Guatemala recopila datos sobre las calificaciones de sus compañeros para un proyecto de clase.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se obtiene la media aritmética (promedio) de un conjunto de $n$ datos numéricos?",
-      "context": "",
+      "context": "Se revisan los conceptos fundamentales antes de realizar un censo escolar.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v3",
       "statement": "Si un conjunto de datos ordenados tiene un número par de elementos, ¿cómo se calcula la mediana?",
-      "context": "",
+      "context": "Un analista de salud en Guatemala observa las edades de los pacientes que asisten a una jornada de vacunación.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes medidas es la más afectada por la presencia de valores extremadamente altos o bajos (valores atípicos)?",
-      "context": "",
+      "context": "Un estudiante compara diferentes conjuntos de datos para entender la sensibilidad de las medidas de tendencia central.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la moda de las ventas diarias de esta semana?",
-      "context": "",
+      "context": "En una tienda de artesanías en Antigua Guatemala, se registran las ventas diarias de la última semana: GTQ $200$, $150$, $200$, $300$, $250$, $400$ y $250$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la media aritmética de las calificaciones?",
-      "context": "",
+      "context": "Un profesor califica un examen corto de $10$ puntos aplicado a $5$ estudiantes: $7, 9, 10, 6, 8$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la mediana de las estaturas de este grupo?",
-      "context": "",
+      "context": "Un grupo de amigos en Quetzaltenango mide su estatura en centímetros: $160, 172, 165, 158, 170$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v8",
       "statement": "Si el salario del gerente sube al doble, ¿qué sucede con la mediana de los salarios de la empresa?",
-      "context": "",
+      "context": "Un economista analiza los salarios en una empresa pequeña en Escuintla. Nota que el gerente gana mucho más que los operarios.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la mediana del peso de los recién nacidos?",
-      "context": "",
+      "context": "En un hospital de Huehuetenango, se registra el peso de $6$ recién nacidos en libras: $6, 7, 8, 7, 9, 10$.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v10",
       "statement": "¿En qué tipo de datos es la moda la ÚNICA medida de tendencia central que se puede calcular?",
-      "context": "",
+      "context": "Un estudiante utiliza una tabla de frecuencias para organizar los resultados de una encuesta sobre el color favorito.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v11",
       "statement": "Si las tareas valen $30\\%$ y el examen vale $70\\%$, y un alumno tiene $100$ en tareas y $60$ en el examen, ¿cuál es su nota final?",
-      "context": "",
+      "context": "Un profesor en Guatemala utiliza la media ponderada para calcular la nota final de sus alumnos.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v12",
       "statement": "En una encuesta, 10 personas tienen 1 hijo, 20 personas tienen 2 hijos y 10 personas tienen 3 hijos. ¿Cuál es el promedio de hijos por persona?",
-      "context": "",
+      "context": "Se analiza una tabla de frecuencias para hallar la media de datos agrupados por categorías.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v13",
       "statement": "Si las primeras cuatro encuestas dieron $80, 90, 85$ y $80$, ¿cuánto debe dar la quinta encuesta para que el promedio exacto sea $85$?",
-      "context": "",
+      "context": "Un investigador de mercado en Ciudad de Guatemala quiere que el promedio de satisfacción de su producto sea de $85$ puntos.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la relación típica entre las medidas de tendencia central en una distribución con sesgo positivo (hacia la derecha)?",
-      "context": "",
+      "context": "Un analista de datos observa un histograma con un sesgo hacia la derecha (valores muy altos aislados).",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v15",
       "statement": "En una tabla de frecuencias con intervalos, ¿qué valor se utiliza para representar a cada intervalo en el cálculo de la media?",
-      "context": "",
+      "context": "Se analizan los tiempos de respuesta de un servicio al cliente expresados en intervalos.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v16",
       "statement": "Si el promedio de edad de 3 hermanos es $12$ años y dos de ellos tienen $10$ y $15$ años, ¿cuál es la edad del tercer hermano?",
-      "context": "",
+      "context": "Un estudiante de Villa Nueva analiza la desviación de los datos respecto a la media aritmética.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v17",
       "statement": "Si se añade un valor extremadamente alto a un conjunto de datos, ¿qué medida de tendencia central garantiza representar mejor al \"individuo típico\" de la muestra original?",
-      "context": "",
+      "context": "Un analista de la SAT en Guatemala revisa las declaraciones de impuestos y nota que un contribuyente declaró un valor inusualmente alto.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v18",
       "statement": "La sección A tiene $20$ alumnos con promedio de $80$. La sección B tiene $30$ alumnos con promedio de $90$. ¿Cuál es el promedio general de las dos secciones?",
-      "context": "",
+      "context": "Un estudiante avanzado utiliza la media de medias para combinar resultados de diferentes secciones escolares.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v19",
       "statement": "A partir de estos datos, ¿qué se puede concluir sobre la forma de la distribución de ingresos?",
-      "context": "",
+      "context": "Un investigador social en Guatemala analiza la distribución de ingresos. Observa que la mediana es de GTQ $4,000$ y la media es de GTQ $6,500$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v20",
       "statement": "Si a todos los datos de una muestra se les suma una constante $k = 5$ y luego el resultado se multiplica por $2$, ¿cómo cambia la media aritmética original ($\\bar{x}$)?",
-      "context": "",
+      "context": "Se plantea un reto sobre la alteración de un conjunto de datos y su efecto en las medidas centrales.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.35,
       "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

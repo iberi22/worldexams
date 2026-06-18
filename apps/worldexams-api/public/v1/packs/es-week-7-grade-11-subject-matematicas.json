@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de los siguientes símbolos representa la relación \"menor o igual que\"?",
-      "context": "",
+      "context": "Un estudiante en un instituto de Madrid repasa los símbolos de desigualdad para comparar conjuntos de números.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la interpretación geométrica del valor absoluto de un número $|a|$?",
-      "context": "",
+      "context": "Se explica la definición de valor absoluto en una clase de álgebra en Barcelona.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v3",
       "statement": "Resuelve la inecuación: $2x - 4 < 6$.",
-      "context": "",
+      "context": "Un estudiante en Valencia resuelve una inecuación lineal sencilla.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v4",
       "statement": "¿Qué intervalo representa al conjunto de números reales $x$ tales que $-2 \\leq x < 3$?",
-      "context": "",
+      "context": "Un examen en Sevilla pregunta por la representación de intervalos.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.78,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v5",
       "statement": "Resuelve la inecuación: $-3x + 1 \\geq 7$.",
-      "context": "",
+      "context": "Un estudiante en Bilbao resuelve una inecuación lineal con un coeficiente negativo.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v6",
       "statement": "Halla los valores de $x$ que cumplen: $|x| < 4$.",
-      "context": "",
+      "context": "Un técnico en Zaragoza mide la tolerancia de una pieza mecánica usando valor absoluto.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el conjunto solución de $x^2 - 4 \\leq 0$?",
-      "context": "",
+      "context": "Un estudiante en San Sebastián resuelve una inecuación de segundo grado.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la solución del sistema $\\begin{cases} x > 1 \\\\ x \\leq 5 \\end{cases}$?",
-      "context": "",
+      "context": "Se plantea la solución de un sistema de dos inecuaciones lineales.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v9",
       "statement": "Resuelve: $|x - 3| = 5$.",
-      "context": "",
+      "context": "Un estudiante en Santander resuelve una ecuación sencilla con valor absoluto.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el número mínimo de ventas $x$ necesarias?",
-      "context": "",
+      "context": "Un comerciante en Málaga sabe que su beneficio $B$ debe cumplir $B \\geq 500$ para cubrir gastos. Si $B = 10x - 100$, donde $x$ es el número de ventas.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v11",
       "statement": "¿Para qué valores de $x$ está definida la función $f(x) = \\sqrt{9 - x^2}$ en los reales?",
-      "context": "",
+      "context": "Un estudiante avanzado analiza el dominio de una función con raíz cuadrada.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v12",
       "statement": "¿Qué inecuación con valor absoluto representa esta restricción?",
-      "context": "",
+      "context": "En un laboratorio en Valencia, se requiere que la temperatura $T$ no varíe más de 2 grados respecto a los $20^{\\circ}\\text{C}$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la solución de $|x + 1| \\geq 3$?",
-      "context": "",
+      "context": "Un estudiante estudia la inecuación del valor absoluto para valores grandes.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v14",
       "statement": "¿Para qué valores de $x$ se cumple que $\\frac{x-1}{x+2} > 0$?",
-      "context": "",
+      "context": "Un estudiante resuelve una inecuación racional analizando el signo del cociente.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el conjunto solución de $x^2 + x + 5 < 0$?",
-      "context": "",
+      "context": "Se analiza una inecuación cuadrática que no tiene raíces reales.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v16",
       "statement": "¿Qué valores satisfacen $|2x - 1| = |x + 5|$?",
-      "context": "",
+      "context": "Un estudiante resuelve una inecuación con valor absoluto doble.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v17",
       "statement": "Resuelve la inecuación: $\\frac{1}{x} < 2$.",
-      "context": "",
+      "context": "Un programador en una startup en Madrid optimiza un rango de búsqueda usando inecuaciones.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es la solución de $(x-1)(x-2)(x-3) > 0$?",
-      "context": "",
+      "context": "Se plantea una inecuación de grado superior mediante factorización.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v19",
       "statement": "¿Qué afirmación es siempre cierta para cualquier número real $x$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza la relación entre el cuadrado de un número y su valor absoluto.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v20",
       "statement": "Halla la solución de $||x| - 2| \\leq 1$.",
-      "context": "",
+      "context": "Un reto sobre inecuaciones con valor absoluto anidado.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

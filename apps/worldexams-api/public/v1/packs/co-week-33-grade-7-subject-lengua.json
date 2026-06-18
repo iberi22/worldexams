@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v1",
       "statement": "¿Cuál es el denominador común de todos estos tipos de textos que los diferencia de una novela tradicional de solo texto?",
-      "context": "",
+      "context": "Un estudiante revisa los temas vistos en las últimas semanas sobre textos multimodales: infografías, caricaturas, tablas y publicidad.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v2",
       "statement": "¿A qué tipo de texto multimodal corresponde la estructura descrita?",
-      "context": "",
+      "context": "En una evaluación en Manizales, los estudiantes deben identificar la estructura de un texto. El texto tiene un titular llamativo, una imagen de un producto y un eslogan al final.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v3",
       "statement": "¿Cuál es la relación de sentido entre el texto de la noticia y la imagen de la caricatura?",
-      "context": "",
+      "context": "Lee el siguiente fragmento de una noticia: \"La inflación en Colombia llegó al 9% este año\". Al lado, hay una caricatura de un ciudadano tratando de inflar un globo gigante que dice \"Precios\" hasta que está a punto de explotar.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v4",
       "statement": "¿Por qué se dice que el lenguaje de la infografía es \"sintético\"?",
-      "context": "",
+      "context": "Una infografía sobre el reciclaje usa el color verde para lo orgánico, azul para el papel y rojo para los residuos peligrosos. El texto explicativo es breve y directo.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v5",
       "statement": "¿Qué combinación de textos multimodales sería la más adecuada para cumplir ambos objetivos?",
-      "context": "",
+      "context": "Tienes la tarea de informar a la comunidad de tu barrio en Bogotá sobre los días de recolección de basura, pero también quieres denunciar que hay mucha gente tirando escombros.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v6",
       "statement": "¿Cómo se está utilizando el gráfico de líneas en este anuncio publicitario?",
-      "context": "",
+      "context": "Un anuncio publicitario de una bebida hidratante muestra a un atleta cruzando la meta y, al fondo, un gráfico de líneas que sube constantemente representando su rendimiento.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v7",
       "statement": "¿Cuál es la conclusión más acertada al integrar toda la información de la tabla (incluida la nota al pie)?",
-      "context": "",
+      "context": "Analiza una tabla de resultados de las pruebas Saber de un colegio. Muestra que el promedio en Matemáticas subió, pero una nota al pie indica que el 40% de los estudiantes no presentó el examen.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v8",
       "statement": "¿Qué crítica está planteando el autor sobre el ejercicio periodístico actual?",
-      "context": "",
+      "context": "Observa una caricatura sobre el lenguaje periodístico: un periodista escribe una noticia sobre un árbol que se cayó, pero en el dibujo se ve al periodista poniendo una lupa gigante sobre una sola hormiga que caminaba por ahí, ignorando el árbol.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v9",
       "statement": "Desde la perspectiva de la lectura crítica de textos multimodales, ¿por qué es importante conocer la fuente o el creador de la infografía?",
-      "context": "",
+      "context": "Un medio de comunicación publica una infografía sobre el éxito de una nueva ley. La infografía fue diseñada por el equipo de publicidad del gobierno que propuso la ley.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-v10",
       "statement": "¿Cuál es la conclusión más profunda sobre esta nueva forma de comunicación publicitaria?",
-      "context": "",
+      "context": "Evalúa el impacto de la publicidad multimodal en redes sociales: los anuncios aparecen mezclados con las fotos de tus amigos, imitando su estilo visual y usando el mismo tipo de lenguaje cercano.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W33-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",

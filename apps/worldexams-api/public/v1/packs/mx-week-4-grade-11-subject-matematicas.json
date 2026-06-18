@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v1",
       "statement": "¿Qué representa el punto de intersección de las dos rectas en el plano cartesiano para un sistema de ecuaciones?",
-      "context": "",
+      "context": "Un estudiante en la CDMX analiza gráficamente un sistema de dos ecuaciones lineales con dos incógnitas.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes ecuaciones modela correctamente esta situación?",
-      "context": "",
+      "context": "En un acuario en Veracruz, se sabe que el número de peces payaso (x) y peces cirujano (y) suma 30 ejemplares.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de estos NO es un método estándar para resolver sistemas de ecuaciones lineales?",
-      "context": "",
+      "context": "Durante una clase en Monterrey, se explican los diferentes métodos para resolver sistemas de ecuaciones 2x2.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.83,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v4",
       "statement": "Si un sistema de ecuaciones lineales tiene rectas paralelas, ¿cuántas soluciones tiene el sistema?",
-      "context": "",
+      "context": "Se presenta un sistema de ecuaciones donde las rectas son paralelas y nunca se cruzan.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v5",
       "statement": "Resuelve el sistema:\n1) y = 2x\n2) x + y = 15\n¿Cuál es el valor de x?",
-      "context": "",
+      "context": "Un estudiante en Puebla resuelve un sistema por el método de sustitución.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.77,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v6",
       "statement": "¿Cuántos borregos hay en la granja?",
-      "context": "",
+      "context": "En una granja en Querétaro, hay gallinas (G) y borregos (B). Se cuentan 20 cabezas y 50 patas en total.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v7",
       "statement": "Resuelve el sistema:\n1) x + y = 10\n2) x - y = 4\n¿Cuál es la solución para (x, y)?",
-      "context": "",
+      "context": "Un sistema de ecuaciones se resuelve por el método de reducción (suma y resta).",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.71,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el precio de una sola playera?",
-      "context": "",
+      "context": "En una tienda de ropa en Guadalajara, 2 playeras y 1 pantalón cuestan $700. Mientras que 1 playera y 1 pantalón cuestan $500.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v9",
       "statement": "Si al graficar un sistema 2x2 se obtiene una sola línea recta visible, ¿qué tipo de sistema es?",
-      "context": "",
+      "context": "Se analiza un sistema con dos rectas idénticas.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v10",
       "statement": "Para el sistema:\n1) x = 3y + 1\n2) x = y + 5\n¿Cuál es el valor de y?",
-      "context": "",
+      "context": "Se busca resolver un sistema por igualación en un ejercicio de preparación para el examen de la UNAM.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.63,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v11",
       "statement": "Resuelve por el método de reducción:\n1) 2x + 3y = 12\n2) 3x - y = 7\n¿Cuál es el valor de x?",
-      "context": "",
+      "context": "Un sistema de ecuaciones se presenta en su forma general ax + by = c.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v12",
       "statement": "Invirtió un total de $100,000 pesos. La acción A dio un 5% de interés y la B un 10%. Si el interés total ganado fue de $7,000, ¿cuánto invirtió en la acción B?",
-      "context": "",
+      "context": "Un pequeño inversionista en la Bolsa Mexicana de Valores reparte su capital en dos tipos de acciones, A y B.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.58,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v13",
       "statement": "Se mezcla café de $80/kg con café de $120/kg para obtener 20 kg de una mezcla de $90/kg. ¿Qué cantidad de café de $120 se utilizó?",
-      "context": "",
+      "context": "Se plantea un problema de mezclas de café en un negocio local de Chiapas.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v14",
       "statement": "Resuelve por igualación:\n1) 2x - y = 5\n2) 3x + 2y = 11\n¿Cuál es el valor de x?",
-      "context": "",
+      "context": "Un sistema de ecuaciones 2x2 requiere un despeje cuidadoso para ser resuelto por igualación.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.53,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v15",
       "statement": "Resuelve:\n1) x/2 + y/3 = 5\n2) x - y = 0\n¿Cuál es el valor de x?",
-      "context": "",
+      "context": "Un sistema de ecuaciones presenta coeficientes fraccionarios, típico en problemas de física en el bachillerato.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v16",
       "statement": "¿Para qué valor de \"k\" el sistema no tiene solución (rectas paralelas)?\n1) 2x + 4y = 8\n2) x + ky = 5",
-      "context": "",
+      "context": "Se analiza el determinante de un sistema 2x2 para determinar su tipo de solución.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.48,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v17",
       "statement": "Si x + y + z = 6, x + y = 3, y y + z = 5, ¿cuál es el valor de y?",
-      "context": "",
+      "context": "Un sistema de 3x3 se reduce a un problema de 2x2 en un nivel avanzado de bachillerato.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v18",
       "statement": "Una lancha viaja a favor de la corriente a 20 km/h y en contra a 12 km/h. ¿Cuál es la velocidad propia de la lancha (v) y la de la corriente (c)?",
-      "context": "",
+      "context": "Se plantea un problema de corrientes en un río, combinando vectores y sistemas de ecuaciones.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v19",
       "statement": "Resuelve para x en el sistema (asumiendo a+b ≠ 0):\n1) ax + by = 1\n2) bx + ay = 1",
-      "context": "",
+      "context": "Un sistema de ecuaciones con variables literales a, b (parámetros).",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.38,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle-v20",
       "statement": "La demanda de un producto es P = 100 - 2Q y la oferta es P = 10 + 3Q. ¿Cuál es la cantidad de equilibrio (Q) donde la oferta iguala a la demanda?",
-      "context": "",
+      "context": "Un reto sobre el punto de equilibrio en economía (oferta y demanda).",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W04-algebra-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

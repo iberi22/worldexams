@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v1",
       "statement": "Considerando los conceptos fundamentales de razonamiento matematico, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "",
+      "context": "En un simulacro de examen, aparece una pregunta sobre razonamiento matematico.",
       "options": [
         {
           "letter": "C",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.69,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v2",
       "statement": "En relación al estudio de razonamiento matematico, marca la opción verdadera:",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "B",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Metrico",
+      "expected_success": 0.61,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v3",
       "statement": "¿Cuál de las siguientes proposiciones sobre razonamiento matematico está CORRECTA?",
-      "context": "",
+      "context": "Un estudiante de secundaria está repasando razonamiento matematico para el examen.",
       "options": [
         {
           "letter": "D",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Metrico",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v4",
       "statement": "¿Cuál de las siguientes proposiciones sobre razonamiento matematico está CORRECTA?",
-      "context": "",
+      "context": "Durante la preparación para el examen, un alumno practica ejercicios de razonamiento matematico.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.58,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v5",
       "statement": "Considerando los conceptos fundamentales de razonamiento matematico, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "C",
@@ -202,6 +214,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Metrico",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v6",
       "statement": "Sobre razonamiento matematico, analiza las alternativas y señala la correcta:",
-      "context": "",
+      "context": "En un simulacro de examen, aparece una pregunta sobre razonamiento matematico.",
       "options": [
         {
           "letter": "D",
@@ -242,6 +257,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Metrico",
+      "expected_success": 0.63,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v7",
       "statement": "¿Cuál de las siguientes proposiciones sobre razonamiento matematico está CORRECTA?",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v8",
       "statement": "¿Cuál de las siguientes proposiciones sobre razonamiento matematico está CORRECTA?",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.62,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v9",
       "statement": "Considerando los conceptos fundamentales de razonamiento matematico, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "",
+      "context": "En un simulacro de examen, aparece una pregunta sobre razonamiento matematico.",
       "options": [
         {
           "letter": "D",
@@ -362,6 +386,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Metrico",
+      "expected_success": 0.84,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v10",
       "statement": "Considerando los conceptos fundamentales de razonamiento matematico, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "",
+      "context": "En un simulacro de examen, aparece una pregunta sobre razonamiento matematico.",
       "options": [
         {
           "letter": "D",
@@ -402,6 +429,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Metrico",
+      "expected_success": 0.77,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v11",
       "statement": "En relación al estudio de razonamiento matematico, marca la opción verdadera:",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "B",
@@ -442,6 +472,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Numerica",
+      "expected_success": 0.81,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v12",
       "statement": "En relación al estudio de razonamiento matematico, marca la opción verdadera:",
-      "context": "",
+      "context": "Un estudiante de secundaria está repasando razonamiento matematico para el examen.",
       "options": [
         {
           "letter": "C",
@@ -482,6 +515,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Numerica",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v13",
       "statement": "Sobre razonamiento matematico, analiza las alternativas y señala la correcta:",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "B",
@@ -522,6 +558,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.79,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v14",
       "statement": "¿Cuál de las siguientes proposiciones sobre razonamiento matematico está CORRECTA?",
-      "context": "",
+      "context": "Durante la preparación para el examen, un alumno practica ejercicios de razonamiento matematico.",
       "options": [
         {
           "letter": "C",
@@ -562,6 +601,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v15",
       "statement": "En relación al estudio de razonamiento matematico, marca la opción verdadera:",
-      "context": "",
+      "context": "Durante la preparación para el examen, un alumno practica ejercicios de razonamiento matematico.",
       "options": [
         {
           "letter": "B",
@@ -602,6 +644,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.63,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v16",
       "statement": "Sobre razonamiento matematico, analiza las alternativas y señala la correcta:",
-      "context": "",
+      "context": "Un estudiante de secundaria está repasando razonamiento matematico para el examen.",
       "options": [
         {
           "letter": "C",
@@ -642,6 +687,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Espacial",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v17",
       "statement": "¿Cuál de las siguientes proposiciones sobre razonamiento matematico está CORRECTA?",
-      "context": "",
+      "context": "Un estudiante de secundaria está repasando razonamiento matematico para el examen.",
       "options": [
         {
           "letter": "D",
@@ -682,6 +730,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Numerica",
+      "expected_success": 0.66,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v18",
       "statement": "Considerando los conceptos fundamentales de razonamiento matematico, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "",
+      "context": "En clase de matemáticas, el profesor presenta un problema sobre razonamiento matematico.",
       "options": [
         {
           "letter": "B",
@@ -722,6 +773,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Aleatorio",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v19",
       "statement": "En relación al estudio de razonamiento matematico, marca la opción verdadera:",
-      "context": "",
+      "context": "Durante la preparación para el examen, un alumno practica ejercicios de razonamiento matematico.",
       "options": [
         {
           "letter": "D",
@@ -762,6 +816,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Numerica",
+      "expected_success": 0.82,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-v20",
       "statement": "En relación al estudio de razonamiento matematico, marca la opción verdadera:",
-      "context": "",
+      "context": "En un simulacro de examen, aparece una pregunta sobre razonamiento matematico.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Aleatorio",
+      "expected_success": 0.77,
       "bundle_id": "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

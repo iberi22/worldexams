@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.132Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v1",
+      "statement": "¿Cómo ayudan los árboles de los parques a combatir la contaminación producida por el humo de los carros?",
+      "context": "En las grandes ciudades como Bogotá, hay muchos carros que lanzan humo invisible llamado dióxido de carbono al aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soplando el humo hacia las nubes",
+          "is_correct": false,
+          "feedback": "Los árboles no tienen la capacidad de soplar aire con fuerza; su ayuda es a través de un proceso químico interno."
+        },
+        {
+          "letter": "B",
+          "text": "Absorbiendo el dióxido de carbono para su fotosíntesis",
+          "is_correct": true,
+          "feedback": "Las plantas usan ese gas contaminante como un ingrediente para fabricar su alimento, limpiando así el aire."
+        },
+        {
+          "letter": "C",
+          "text": "Pintando el cielo de color azul",
+          "is_correct": false,
+          "feedback": "El color azul del cielo se debe a la forma en que la luz choca con la atmósfera, no a una acción de los árboles."
+        },
+        {
+          "letter": "D",
+          "text": "Atrapando el ruido con sus hojas",
+          "is_correct": false,
+          "feedback": "Aunque ayudan a reducir el ruido, su función más importante para el aire es el intercambio de gases."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son purificadoras naturales. Lo que para nosotros es un desecho tóxico (el dióxido de carbono), para ellas es materia prima para vivir. Al absorberlo, ayudan a reducir el calentamiento del planeta y a que el aire sea más puro.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v2",
+      "statement": "¿Por qué se dice que las plantas son la base de la alimentación de todos los animales?",
+      "context": "Sin las plantas, los animales carnívoros como los leones tampoco podrían existir, aunque ellos no comen hojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque a los leones les gusta jugar con las plantas",
+          "is_correct": false,
+          "feedback": "La relación no es de juego, sino de dependencia energética a través de la cadena alimentaria."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las plantas asustan a los depredadores",
+          "is_correct": false,
+          "feedback": "Las plantas no suelen tener mecanismos para asustar animales grandes; su papel es ser productores de energía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los animales que come el león sí comen plantas",
+          "is_correct": true,
+          "feedback": "Si no hubiera plantas, los herbívoros morirían y, por lo tanto, los carnívoros se quedarían sin comida."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las plantas producen carne mágica",
+          "is_correct": false,
+          "feedback": "Las plantas producen materia vegetal; la carne se forma en el cuerpo de los animales a partir de lo que comen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esto se llama cadena alimentaria. La energía del sol es capturada por las plantas, luego pasa a los herbívoros y finalmente a los carnívoros. Sin el primer paso (fotosíntesis), toda la cadena se rompería y la vida animal desaparecería.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v3",
+      "statement": "¿Cuál es la razón principal para darle este nombre a los grandes bosques y selvas?",
+      "context": "En el Amazonas, los científicos llaman a la selva \"el pulmón del mundo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los árboles tienen pulmones como nosotros",
+          "is_correct": false,
+          "feedback": "Los árboles no tienen pulmones; ellos respiran y hacen fotosíntesis a través de sus hojas y poros (estomas)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque producen gran parte del oxígeno que respiramos",
+          "is_correct": true,
+          "feedback": "Millones de árboles realizando fotosíntesis al mismo tiempo generan las nubes de oxígeno que cubren la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los árboles hacen mucho ruido al moverse",
+          "is_correct": false,
+          "feedback": "El sonido del viento en las hojas no tiene relación con la función respiratoria o de purificación del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en la selva siempre hace calor",
+          "is_correct": false,
+          "feedback": "El calor es una condición del clima, pero el nombre de \"pulmón\" se refiere específicamente al intercambio de gases."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un pulmón sirve para intercambiar gases. Las selvas realizan esta tarea a una escala gigante, retirando el carbono del aire y devolviendo oxígeno fresco, lo cual es vital para mantener el equilibrio de la atmósfera global.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v4",
+      "statement": "¿Qué beneficio de las plantas perdió el agricultor al quitar la vegetación?",
+      "context": "Un agricultor decide cortar todos los árboles de un monte para que el sol le dé directo a su casa, pero ahora nota que el lugar es mucho más caliente y seco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perdió el color verde de las rocas",
+          "is_correct": false,
+          "feedback": "Las rocas no cambian de color por los árboles; el cambio es en la temperatura y la humedad del aire."
+        },
+        {
+          "letter": "B",
+          "text": "Perdió la sombra y la humedad de la transpiración",
+          "is_correct": true,
+          "feedback": "Las plantas refrescan el ambiente al dar sombra y liberar vapor de agua a través de sus hojas verdes."
+        },
+        {
+          "letter": "C",
+          "text": "Perdió la capacidad de caminar por el monte",
+          "is_correct": false,
+          "feedback": "Caminar es posible, pero ahora el ambiente es mucho menos agradable y saludable que antes."
+        },
+        {
+          "letter": "D",
+          "text": "Perdió los nidos de los aviones",
+          "is_correct": false,
+          "feedback": "Aunque se pierden hábitats, la razón del aumento de calor es física por la falta de regulación térmica vegetal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son reguladoras del clima local. Al realizar fotosíntesis y transpiración, crean un microclima fresco. Sin ellas, el sol calienta directamente el suelo y el aire se vuelve seco, afectando la vida de todos los seres de la zona.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v5",
+      "statement": "¿Qué pasará si dejamos el frasco bajo la luz del sol durante un día entero?",
+      "context": "En un experimento, se coloca una planta pequeña dentro de un frasco de vidrio cerrado con una vela encendida. La vela se apaga rápido cuando el oxígeno se acaba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El frasco explotará por el calor",
+          "is_correct": false,
+          "feedback": "El vidrio resiste el calor del sol; lo que cambia es la composición del aire dentro del frasco cerrado."
+        },
+        {
+          "letter": "B",
+          "text": "La planta se volverá de cristal",
+          "is_correct": false,
+          "feedback": "Los seres vivos no cambian su composición biológica a materiales inertes por estar encerrados."
+        },
+        {
+          "letter": "C",
+          "text": "La planta producirá oxígeno nuevo y llenará el frasco",
+          "is_correct": true,
+          "feedback": "Gracias a la luz solar, la planta realizará fotosíntesis y devolverá el oxígeno que la vela consumió."
+        },
+        {
+          "letter": "D",
+          "text": "La planta dejará de respirar para siempre",
+          "is_correct": false,
+          "feedback": "La planta necesita respirar; precisamente la fotosíntesis le permite renovar el aire para seguir viviendo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es un experimento clásico que demuestra que las plantas producen oxígeno. En un ambiente cerrado, ellas son las únicas capaces de renovar el aire, permitiendo que la vida continúe incluso en espacios limitados.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v6",
+      "statement": "¿Qué les sucede a los corales si el agua se ensucia mucho y la luz del sol no puede llegar al fondo?",
+      "context": "Los arrecifes de coral en el mar Caribe dependen de unas algas microscópicas que viven dentro de ellos y hacen fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se ponen más felices en la oscuridad",
+          "is_correct": false,
+          "feedback": "Los corales no tienen emociones humanas y dependen biológicamente de la energía que les dan las algas."
+        },
+        {
+          "letter": "B",
+          "text": "Se enferman y mueren porque las algas no pueden trabajar",
+          "is_correct": true,
+          "feedback": "Sin luz no hay fotosíntesis, y sin ese alimento, el coral pierde su energía y su color (se blanquea)."
+        },
+        {
+          "letter": "C",
+          "text": "Empiezan a nadar buscando agua limpia",
+          "is_correct": false,
+          "feedback": "Los corales son animales fijos al suelo marino; no pueden desplazarse de un lugar a otro como los peces."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierten en arena blanca de inmediato",
+          "is_correct": false,
+          "feedback": "El proceso de convertirse en arena ocurre después de la muerte por erosión, no es una respuesta inmediata."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un ejemplo de interdependencia. La fotosíntesis no solo alimenta a la planta o al alga, sino que sostiene a otros animales que viven con ellas. Si dañamos el agua o el aire, dañamos la fábrica de energía de todo el ecosistema.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v7",
+      "statement": "¿Quiénes son los responsables de esta gran producción de oxígeno en el mar?",
+      "context": "Algunos científicos dicen que los océanos producen más oxígeno para el mundo que todos los bosques de la tierra juntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ballenas al saltar",
+          "is_correct": false,
+          "feedback": "Las ballenas son mamíferos que consumen oxígeno; el hecho de saltar no produce gases para la atmósfera."
+        },
+        {
+          "letter": "B",
+          "text": "Los peces de colores con sus burbujas",
+          "is_correct": false,
+          "feedback": "Los peces usan el oxígeno del agua y liberan CO2; no son productores sino consumidores de energía."
+        },
+        {
+          "letter": "C",
+          "text": "El fitoplancton y las algas microscópicas",
+          "is_correct": true,
+          "feedback": "Estos pequeños organismos realizan fotosíntesis en la superficie del mar, liberando inmensas cantidades de oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Las olas al chocar contra las rocas",
+          "is_correct": false,
+          "feedback": "El choque de las olas mezcla un poco de aire con el agua, pero no es una producción biológica de oxígeno nuevo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A veces lo más pequeño es lo más importante. Miles de millones de seres microscópicos en el mar trabajan cada día con el sol para mantener el aire del planeta respirable. Sin el plancton marino, los humanos no podríamos sobrevivir.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v8",
+      "statement": "¿Por qué es mejor dejar que los árboles vivan mucho tiempo en lugar de quemarlos?",
+      "context": "Cuando quemamos basura o madera, estamos liberando el gas carbónico que la planta había guardado hace mucho tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los árboles se ponen tristes cuando hay fuego",
+          "is_correct": false,
+          "feedback": "El fuego destruye la vida vegetal; el problema es biológico y ambiental, no emocional."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los árboles mantienen el carbono atrapado en su madera",
+          "is_correct": true,
+          "feedback": "Mientras el árbol esté vivo y creciendo, guarda el gas carbónico que calienta el planeta, ayudando al clima."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el fuego quema los zapatos de los niños",
+          "is_correct": false,
+          "feedback": "Esta es una consecuencia accidental de seguridad, no la razón biológica principal de protección de los bosques."
+        },
+        {
+          "letter": "D",
+          "text": "Porque a los árboles les gusta ver el sol",
+          "is_correct": false,
+          "feedback": "Ver el sol es necesario para su fotosíntesis, pero su función ambiental es guardar carbono y dar oxígeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los árboles son como \"bodegas\" de carbono. Al realizar fotosíntesis, toman el carbono del aire y lo convierten en madera sólida. Si los protegemos, ese gas no se queda en el aire calentando la Tierra, ayudándonos a evitar el cambio climático.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v9",
+      "statement": "¿Qué sucede con la fotosíntesis en un árbol que ha perdido todas sus hojas verdes?",
+      "context": "En otoño o en épocas de mucha sequía en Colombia, algunos árboles pierden todas sus hojas y parecen estar muertos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se vuelve más fuerte para recuperar las hojas",
+          "is_correct": false,
+          "feedback": "Sin hojas no hay paneles solares, por lo tanto la producción de energía se detiene casi por completo."
+        },
+        {
+          "letter": "B",
+          "text": "Las raíces empiezan a hacer fotosíntesis",
+          "is_correct": false,
+          "feedback": "Las raíces están en la oscuridad del suelo y carecen de clorofila para trabajar con la luz solar."
+        },
+        {
+          "letter": "C",
+          "text": "Se detiene casi por completo y el árbol usa sus ahorros",
+          "is_correct": true,
+          "feedback": "El árbol entra en un estado de reposo para ahorrar agua y vive de la energía que guardó en su tronco y raíces."
+        },
+        {
+          "letter": "D",
+          "text": "El árbol empieza a comer insectos",
+          "is_correct": false,
+          "feedback": "Un árbol común no cambia su dieta por perder las hojas; simplemente reduce su actividad vital al mínimo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es un ejemplo de ahorro de energía. Cuando no hay buenas condiciones para trabajar (poca agua), el árbol \"cierra su fábrica\" (tira las hojas) para no morir de sed, demostrando que el ciclo de fotosíntesis es adaptable.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v10",
+      "statement": "¿Cómo afectaría esta idea a la vida de las plantas y por qué?",
+      "context": "Un inventor propone llenar el cielo de nubes artificiales permanentes para que no haga tanto calor en las ciudades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les ayudaría porque así no tendrían calor",
+          "is_correct": false,
+          "feedback": "Las plantas necesitan la energía del sol para vivir; el calor es una consecuencia que ellas mismas regulan."
+        },
+        {
+          "letter": "B",
+          "text": "No les afectaría porque tienen agua de las nubes",
+          "is_correct": false,
+          "feedback": "El agua es solo un ingrediente; sin la energía de la luz, el agua no sirve para fabricar alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Sería malo porque no podrían hacer fotosíntesis correctamente",
+          "is_correct": true,
+          "feedback": "Al bloquear el sol, las plantas no tendrían energía para fabricar comida y empezarían a morir, dejando de producir oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Sería bueno porque las plantas prefieren la sombra",
+          "is_correct": false,
+          "feedback": "Aunque algunas plantas viven en sombra, la gran mayoría de la vida vegetal del planeta necesita luz intensa para funcionar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La luz solar es el motor de la vida en la Tierra. Cualquier acción humana que bloquee la luz de forma permanente destruiría la base de toda la vida: la fotosíntesis. Debemos cuidar el sol y las plantas como un solo sistema unido.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v1",
+      "statement": "¿Cómo se clasifican las plantas que nos sirven de sustento diario y nos dan energía?",
+      "context": "En el mercado del barrio, Mariana ve puestos con papas, zanahorias, manzanas y arroz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plantas industriales",
+          "is_correct": false,
+          "feedback": "Las plantas industriales se usan para fabricar objetos, no principalmente para ser consumidas directamente como comida."
+        },
+        {
+          "letter": "B",
+          "text": "Plantas alimenticias",
+          "is_correct": true,
+          "feedback": "Estas plantas producen frutos, raíces, tallos u hojas que los humanos podemos comer para nutrirnos."
+        },
+        {
+          "letter": "C",
+          "text": "Plantas ornamentales",
+          "is_correct": false,
+          "feedback": "El objetivo de las ornamentales es la decoración y belleza, no servir de alimento básico."
+        },
+        {
+          "letter": "D",
+          "text": "Plantas venenosas",
+          "is_correct": false,
+          "feedback": "Las plantas alimenticias son seguras y necesarias, todo lo contrario a las plantas tóxicas o venenosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas alimenticias son la base de nuestra dieta. De ellas obtenemos vitaminas, carbohidratos y minerales. Ejemplos en Colombia son el maíz, el plátano, la yuca y una inmensa variedad de frutas tropicales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v2",
+      "statement": "¿Qué nombre reciben las plantas que se utilizan para aliviar malestares o curar enfermedades?",
+      "context": "Cuando a un niño le duele la barriga, su abuela le prepara un agua caliente con hojas de menta o manzanilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plantas de plástico",
+          "is_correct": false,
+          "feedback": "Las plantas medicinales son seres vivos naturales con propiedades químicas curativas, no objetos artificiales."
+        },
+        {
+          "letter": "B",
+          "text": "Plantas medicinales",
+          "is_correct": true,
+          "feedback": "Estas plantas contienen sustancias naturales que ayudan al cuerpo a sanar o a reducir el dolor y la inflamación."
+        },
+        {
+          "letter": "C",
+          "text": "Plantas maderables",
+          "is_correct": false,
+          "feedback": "Las maderables se usan para obtener madera para construcción, no para preparar remedios o infusiones."
+        },
+        {
+          "letter": "D",
+          "text": "Plantas invisibles",
+          "is_correct": false,
+          "feedback": "Las plantas medicinales son muy comunes y fáciles de encontrar en jardines y plazas de mercado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia es muy rica en plantas medicinales. Desde hace siglos, comunidades indígenas y campesinas han usado el conocimiento de la naturaleza para tratar dolencias de forma natural y efectiva.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v3",
+      "statement": "¿A qué grupo pertenecen las plantas que proporcionan materiales para construir casas o muebles?",
+      "context": "El papá de Juan trabaja en una fábrica donde convierten el tronco de los pinos en tablas para hacer camas y mesas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plantas de jardín",
+          "is_correct": false,
+          "feedback": "Aunque se pueden tener pinos en jardines, el uso para construcción las clasifica de otra manera científica."
+        },
+        {
+          "letter": "B",
+          "text": "Plantas industriales o maderables",
+          "is_correct": true,
+          "feedback": "Se aprovechan sus fibras o su madera para procesos de fabricación de objetos útiles para el hombre."
+        },
+        {
+          "letter": "C",
+          "text": "Plantas de adorno",
+          "is_correct": false,
+          "feedback": "Si el uso principal es sacar madera para una fábrica, su categoría es industrial y no meramente decorativa."
+        },
+        {
+          "letter": "D",
+          "text": "Plantas acuáticas",
+          "is_correct": false,
+          "feedback": "Aunque algunas plantas acuáticas tienen usos, los pinos y robles son terrestres y de gran tamaño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas industriales nos dan materia prima. No solo madera, sino también fibras como el algodón para la ropa, el caucho para las llantas o aceites para jabones y perfumes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v4",
+      "statement": "¿Cómo clasificamos a las plantas que usamos para que nuestros espacios se vean más bonitos y alegres?",
+      "context": "Para celebrar el cumpleaños de la mamá, los niños compran un ramo de rosas rojas y orquídeas para poner en la sala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plantas de comida",
+          "is_correct": false,
+          "feedback": "Las rosas y orquídeas de adorno no se usan como base de la alimentación humana diaria."
+        },
+        {
+          "letter": "B",
+          "text": "Plantas de medicina",
+          "is_correct": false,
+          "feedback": "Aunque algunas flores tienen usos médicos, el propósito de un ramo en la sala es puramente visual."
+        },
+        {
+          "letter": "C",
+          "text": "Plantas ornamentales",
+          "is_correct": true,
+          "feedback": "\"Ornamental\" significa de adorno; son plantas elegidas por su belleza, colores y formas llamativas."
+        },
+        {
+          "letter": "D",
+          "text": "Plantas silvestres peligrosas",
+          "is_correct": false,
+          "feedback": "Las plantas de jardín y floristería suelen ser seguras y cultivadas específicamente para la decoración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas ornamentales mejoran nuestra calidad de vida y estado de ánimo. Colombia es famosa en todo el mundo por sus orquídeas y por ser uno de los mayores exportadores de flores cortadas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v5",
+      "statement": "¿Cuál es la principal utilidad industrial de la planta de algodón para los seres humanos?",
+      "context": "El algodón es una planta que produce una mota blanca y suave. Esta mota se hila y se teje en grandes máquinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para hacer ensaladas blancas",
+          "is_correct": false,
+          "feedback": "El algodón no es una planta alimenticia; sus fibras no son digeribles por el ser humano."
+        },
+        {
+          "letter": "B",
+          "text": "Para fabricar telas y ropa",
+          "is_correct": true,
+          "feedback": "Sus fibras naturales son la materia prima más importante del mundo para hacer camisetas, pantalones y sábanas."
+        },
+        {
+          "letter": "C",
+          "text": "Para construir barcos pesados",
+          "is_correct": false,
+          "feedback": "Las fibras de algodón son suaves y ligeras; para barcos se requiere madera resistente de árboles grandes."
+        },
+        {
+          "letter": "D",
+          "text": "Para producir luz eléctrica",
+          "is_correct": false,
+          "feedback": "Las plantas no producen electricidad directamente; el algodón es para la industria textil (vestido)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El algodón es un gran ejemplo de planta industrial. Demuestra que las plantas no solo nos dan qué comer, sino que también nos proporcionan con qué vestirnos y protegernos del clima.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v6",
+      "statement": "¿Qué tipo de utilidad le están dando estos árboles al medio ambiente y a las personas que viven cerca?",
+      "context": "En las orillas de los ríos, los árboles con raíces profundas evitan que el agua se lleve la tierra y cause derrumbes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilidad de alimentación de peces",
+          "is_correct": false,
+          "feedback": "Aunque caigan frutos, la función descrita de sostener el suelo es de otro tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Utilidad de juguete natural",
+          "is_correct": false,
+          "feedback": "Los árboles no son objetos para jugar; su función en la orilla es de protección física del terreno."
+        },
+        {
+          "letter": "C",
+          "text": "Utilidad de protección y conservación del suelo",
+          "is_correct": true,
+          "feedback": "Las plantas funcionan como una \"malla\" que amarra la tierra, evitando desastres naturales como la erosión."
+        },
+        {
+          "letter": "D",
+          "text": "Utilidad de sombra para los barcos",
+          "is_correct": false,
+          "feedback": "La sombra es un beneficio extra, pero evitar que el río se lleve el pueblo es una función de seguridad vital."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A veces olvidamos que las plantas tienen utilidades ecológicas. Protegen el agua, mantienen el suelo firme y regulan el aire. Sin ellas, vivir cerca de montañas o ríos sería mucho más peligroso para los humanos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v7",
+      "statement": "¿Cuál de las plantas deberías sembrar primero para asegurar que tengas qué comer pronto?",
+      "context": "Imagina que vas a una isla desierta. Tienes semillas de: 1. Orquídea, 2. Limonaria (medicina), 3. Maíz y 4. Roble.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La orquídea",
+          "is_correct": false,
+          "feedback": "Es muy bella, pero no te dará los nutrientes necesarios para sobrevivir en una isla desierta."
+        },
+        {
+          "letter": "B",
+          "text": "La limonaria",
+          "is_correct": false,
+          "feedback": "Es buena para la salud, pero no aporta las calorías que el cuerpo necesita para tener energía diaria."
+        },
+        {
+          "letter": "C",
+          "text": "El maíz",
+          "is_correct": true,
+          "feedback": "El maíz es una planta alimenticia de crecimiento rápido que te dará granos nutritivos en pocos meses."
+        },
+        {
+          "letter": "D",
+          "text": "El roble",
+          "is_correct": false,
+          "feedback": "Los árboles maderables tardan muchísimos años en crecer y no podrías comer su madera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En situaciones de supervivencia, las plantas alimenticias son la prioridad. El maíz es un cultivo fundamental en América que ha permitido la vida de civilizaciones enteras gracias a su valor nutricional.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v8",
+      "statement": "¿Qué industria estaría más interesada en aprovechar esta utilidad de la planta?",
+      "context": "Un científico descubre una flor en la selva que huele muy rico y el aroma dura muchos días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La industria de la construcción",
+          "is_correct": false,
+          "feedback": "Para construir se buscan materiales duros y resistentes, no aromas agradables de flores."
+        },
+        {
+          "letter": "B",
+          "text": "La industria de la perfumería y cosméticos",
+          "is_correct": true,
+          "feedback": "Usarían los aceites de la flor para fabricar perfumes, jabones y cremas para las personas."
+        },
+        {
+          "letter": "C",
+          "text": "La industria de los metales",
+          "is_correct": false,
+          "feedback": "El metal se obtiene de minerales del suelo y no tiene relación con los olores vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "La industria del papel",
+          "is_correct": false,
+          "feedback": "El papel se hace de la fibra de madera de los troncos, no del aroma de los pétalos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas nos dan utilidades sutiles como los aromas. Muchas esencias que usamos en casa vienen de flores y hojas, demostrando que la utilidad industrial de las plantas es inmensa y muy variada.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v9",
+      "statement": "¿En qué dos categorías de utilidad podríamos clasificar a la sábila según este ejemplo?",
+      "context": "Algunas plantas como la sábila (Aloe vera) se usan tanto para calmar quemaduras como para hacer champú para el cabello.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alimenticia y maderable",
+          "is_correct": false,
+          "feedback": "La sábila no es una fuente principal de alimento ni se usa para sacar tablas de madera dura."
+        },
+        {
+          "letter": "B",
+          "text": "Medicinal e industrial",
+          "is_correct": true,
+          "feedback": "Es medicinal porque cura la piel e industrial porque se procesa para fabricar productos de aseo."
+        },
+        {
+          "letter": "C",
+          "text": "Ornamental y venenosa",
+          "is_correct": false,
+          "feedback": "Aunque se ve bien, su uso principal es práctico y no es una planta tóxica para el contacto humano."
+        },
+        {
+          "letter": "D",
+          "text": "Solo para respirar",
+          "is_correct": false,
+          "feedback": "Todas las plantas ayudan a la respiración, pero la sábila tiene usos específicos en salud y belleza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchas plantas tienen utilidades múltiples. Conocerlas nos ayuda a valorar más la biodiversidad. Una sola planta puede ser la solución para un problema de salud y también una fuente de empleo en una fábrica.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v10",
+      "statement": "¿Qué utilidad vital de los bosques naturales se perdería si se hace este cambio radical?",
+      "context": "Un pueblo decide cambiar todos sus bosques naturales por cultivos de flores ornamentales para vender y ganar mucho dinero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La utilidad de ganar dinero rápido",
+          "is_correct": false,
+          "feedback": "Al contrario, el enunciado dice que ganarían dinero, pero la pregunta es qué se PIERDE biológicamente."
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas dejarían de ser verdes",
+          "is_correct": false,
+          "feedback": "Las flores ornamentales también son verdes y hacen fotosíntesis, el problema es de otro tipo."
+        },
+        {
+          "letter": "C",
+          "text": "La regulación del agua y el hogar de los animales",
+          "is_correct": true,
+          "feedback": "Los cultivos industriales no protegen el suelo ni a los animales como lo hace un bosque natural diverso."
+        },
+        {
+          "letter": "D",
+          "text": "Las flores no olerían a nada",
+          "is_correct": false,
+          "feedback": "Las flores seguirían oliendo, pero la función de pulmón y refugio del bosque original desaparecería."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es importante equilibrar la utilidad económica (vender flores) con la utilidad ecológica (tener bosques). Las plantas nos dan riqueza, pero su utilidad más grande es mantener las condiciones necesarias para que la vida continúe en el planeta.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

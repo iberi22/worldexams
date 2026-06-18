@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v1",
+      "statement": "Cuantas regiones naturales tiene Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Andina, Caribe, Pacifica, Orinoquia, Amazonia e Insular."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia se divide en 6 regiones naturales segun su relieve, clima y ecosistemas: Andina (montanas), Caribe (costa norte), Pacifica (costa oeste), Orinoquia (llanos), Amazonia (selva) e Insular (islas).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v2",
+      "statement": "Que caracteriza a la region Andina?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las llanuras",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres cordilleras, valles interandinos y la mayoria de la poblacion",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La selva amazonica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Las playas del Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Andina es la mas poblada de Colombia. Incluye las cordilleras Occidental, Central y Oriental, los valles del Magdalena y Cauca. Alli estan Bogota, Medellin, Cali.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v3",
+      "statement": "Que region natural incluye la costa norte de Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Region Pacifica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Region Caribe",
+          "is_correct": true,
+          "feedback": "Correcto. Bana el mar Caribe."
+        },
+        {
+          "letter": "C",
+          "text": "Region Andina",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Region Insular",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Caribe abarca la costa norte colombiana, desde el Golfo de Uraba hasta la peninsula de La Guajira. Incluye ciudades como Barranquilla, Cartagena y Santa Marta.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v4",
+      "statement": "Cual es el clima de la region Caribe?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frio todo el ano",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Calido y seco, con temporada de lluvias",
+          "is_correct": true,
+          "feedback": "Correcto. Temperaturas altas."
+        },
+        {
+          "letter": "C",
+          "text": "Paramo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Nevada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Caribe tiene clima calido con temperaturas promedio de 28 grados. Tiene una temporada seca (diciembre a abril) y una lluviosa. En La Guajira es muy seco (desierto).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v5",
+      "statement": "Donde se encuentra la region Pacifica colombiana?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la costa del Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En la costa occidental, bordeando el oceano Pacifico",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "En los Llanos Orientales",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En la Amazonia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Pacifica se extiende desde Panama hasta Ecuador, bordeando el oceano Pacifico. Incluye los departamentos de Choco, Valle, Cauca y Narino.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v6",
+      "statement": "Que caracteriza a la region Pacifica?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es seca y desertica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Es una de las regiones mas lluviosas del mundo, con selva tropical y rios caudalosos",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Es fria y montanosa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es una llanura",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Pacifica es extremadamente lluviosa (hasta 12.000 mm anuales). Tiene manglares, selvas y rios como el Atrato y San Juan. Es rica en biodiversidad.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v7",
+      "statement": "Que grupos humanos habitan la region Pacifica?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo indigenas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Comunidades afrocolombianas (mayoria) e indigenas como los Embera y Wounaan",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Solo mestizos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo colonos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Pacifica tiene una fuerte herencia afrocolombiana. Tambien habitan pueblos indigenas como los Embera, Wounaan y Tule. Es conocida por su cultura, musica y tradiciones.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v8",
+      "statement": "Que actividad economica predomina en la region Caribe?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mineria",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La ganaderia, la agricultura (banano, arroz) y el turismo",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La pesca de alta mar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La tecnologia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Caribe se destaca por la ganaderia vacuna, el cultivo de banano (Uraba), arroz, algodon y el turismo en Cartagena y Santa Marta.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v9",
+      "statement": "Por que la region Andina es la mas poblada?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene el mejor clima",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tiene condiciones favorables para la agricultura y la vida humana, y alli se concentra la historia y economia",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es la mas grande",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es la mas lluviosa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Andina concentra el 70% de la poblacion. Tiene clima templado en muchas zonas, suelos fertiles, las principales ciudades (Bogota, Medellin, Cali) y la mayor actividad economica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY-v10",
+      "statement": "Como se diferencian las regiones Caribe y Pacifica?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Caribe: calida, seca, ganadera y turistica. Pacifica: lluviosa, selvatuca, afrocolombiana y minera",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Caribe: lluviosa. Pacifica: seca.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son igual de lluviosas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La region Caribe es mas seca, con playas y ganaderia. La Pacifica es muy lluviosa, con selva, manglares y fuerte presencia afrocolombiana. Ambas son costeras pero muy diferentes en clima y cultura.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W09-regiones-naturales-001-MASTERY",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

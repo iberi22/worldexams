@@ -10,7 +10,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v1",
       "statement": "Qual é a lei de formação do termo geral ($a_n$) de uma Progressão Geométrica (PG) de primeiro termo $a_1$ e razão $q$?",
-      "context": "",
+      "context": "Um estudante em São Paulo está revisando a definição de sequências que crescem ou decrescem por meio de multiplicações sucessivas.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.85,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v2",
       "statement": "Uma Progressão Geométrica de termos positivos é considerada **decrescente** quando a razão $q$ satisfaz qual condição?",
-      "context": "",
+      "context": "Um professor no Rio de Janeiro explica como o valor da razão altera a natureza da sequência geométrica.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.8,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v3",
       "statement": "Dada a PG $(4, 12, 36, 108, ...)$, qual é o valor da razão $q$?",
-      "context": "",
+      "context": "Um biólogo em Manaus observa uma cultura de fungos cuja área ocupada triplica a cada dia de observação.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.75,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v4",
       "statement": "Se uma população inicial $P$ cresce a uma taxa de 5\\% ao período, qual é a razão $q$ da PG que descreve esse fenômeno?",
-      "context": "",
+      "context": "Um economista em Brasília analisa o crescimento populacional de uma cidade que aumenta 2\\% ao ano, caracterizando uma PG.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.7,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v5",
       "statement": "Qual é o sexto termo ($a_6$) da PG $(3, 6, 12, ...)$?",
-      "context": "",
+      "context": "Um técnico em informática em Curitiba analisa a propagação de um boato em uma rede social, onde cada pessoa repassa a informação para duas outras.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.65,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v6",
       "statement": "Se uma bola é solta de 10 metros e a cada quique atinge 80\\% da altura anterior, qual é a altura atingida após o terceiro quique?",
-      "context": "",
+      "context": "Um físico em São José dos Campos estuda o rebatimento de uma bola que perde 20\\% de sua altura a cada quique.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v7",
       "statement": "Qual é a soma dos 5 primeiros termos da PG $(2, 6, 18, ...)$?",
-      "context": "",
+      "context": "Um investidor em Belo Horizonte utiliza a fórmula da soma da PG finita para calcular o montante acumulado de aportes mensais fixos com juros compostos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v8",
       "statement": "Qual é a soma infinita dos termos da PG $(10, 5, 2,5, ...)$?",
-      "context": "",
+      "context": "Em um laboratório químico em Porto Alegre, uma substância radioativa decai pela metade a cada hora.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.55,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v9",
       "statement": "Se o primeiro quadrado tem lado 16, qual é o valor da área do quinto quadrado da sequência?",
-      "context": "",
+      "context": "Um designer em Recife cria um mosaico onde o lado de cada quadrado é metade do lado do quadrado anterior.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.55,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v10",
       "statement": "Determine o valor de $x$ para que a sequência $(x-1, x+2, 3x)$ seja uma PG de termos positivos.",
-      "context": "",
+      "context": "Um estudante em Fortaleza resolve equações para encontrar termos médios de uma progressão geométrica.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v11",
       "statement": "Qual é a soma dos 10 primeiros termos da PG $(1, 2, 4, ...)$?",
-      "context": "",
+      "context": "Um analista de sistemas em São Paulo calcula a capacidade de armazenamento necessária para um backup que dobra de tamanho a cada semana.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v12",
       "statement": "Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual é o valor do quinto termo?",
-      "context": "",
+      "context": "Um engenheiro civil em Goiânia utiliza PG para calcular a carga em treliças dispostas de forma escalonada.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v13",
       "statement": "Expresse a dízima periódica $0,333...$ como a soma de uma PG infinita e determine sua fração geratriz.",
-      "context": "",
+      "context": "Um professor em Vitória desafia seus alunos a encontrar a fração geratriz de uma dízima periódica usando a soma da PG infinita.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v14",
       "statement": "Numa PG de 9 termos, o produto do primeiro com o último termo é 100. Qual é o valor do termo central $a_5$? (Considere apenas termos positivos).",
-      "context": "",
+      "context": "Um matemático em Porto Alegre estuda as propriedades dos produtos de termos equidistantes em uma PG finita.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v15",
       "statement": "Determine a razão de uma PG onde $a_1 = 5$ e $a_4 = 625$.",
-      "context": "",
+      "context": "Um estatístico analisa um processo de filtragem onde cada etapa remove uma porcentagem fixa de impurezas restantes.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v16",
       "statement": "Se a sequência $(\\log a, \\log b, \\log c)$ é uma PA, então o que se pode afirmar sobre a sequência $(a, b, c)$?",
-      "context": "",
+      "context": "Um matemático investiga a relação entre os logaritmos dos termos de uma PG.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.35,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v17",
       "statement": "Qual é o valor da soma infinita $1 - \\frac{1}{2} + \\frac{1}{4} - \\frac{1}{8} + ...$?",
-      "context": "",
+      "context": "Um pesquisador em Campinas analisa a convergência de uma série geométrica alternada.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.3,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v18",
       "statement": "Calcule o produto dos 10 primeiros termos da PG $(1, 2, 4, 8, ...)$.",
-      "context": "",
+      "context": "Durante uma olimpíada, propõe-se um problema envolvendo o produto de uma grande quantidade de termos de uma PG.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.25,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v19",
       "statement": "Seja uma PG de 3 termos positivos cuja soma é 26 e o produto é 216. Determine o maior desses três termos.",
-      "context": "",
+      "context": "No vestibular do ITA, propõe-se um problema que relaciona a soma dos termos de uma PG com o seu produto.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v20",
       "statement": "Considere um quadrado de área $S$. Divide-se o quadrado em 4 quadrados iguais e pinta-se um deles. Repete-se o processo com um dos quadrados não pintados, infinitamente. Qual é a área total pintada ao final do processo?",
-      "context": "",
+      "context": "Um matemático analisa a área total de um fractal gerado pela soma infinita de áreas de figuras geométricas.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

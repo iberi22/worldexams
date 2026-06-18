@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.158Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v1",
+      "statement": "Cuantas regiones naturales tiene Colombia?",
+      "context": "I.E. San Bartolome, Bogota. Regiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seis: Andina, Caribe, Pacifica, Orinoquia, Amazonia e Insular.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Tres.",
+          "is_correct": false,
+          "feedback": "Son seis."
+        },
+        {
+          "letter": "C",
+          "text": "C) Cinco.",
+          "is_correct": false,
+          "feedback": "Son seis."
+        },
+        {
+          "letter": "D",
+          "text": "D) Siete.",
+          "is_correct": false,
+          "feedback": "Son seis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia se divide en seis regiones naturales con caracteristicas geograficas y culturales distintas.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v2",
+      "statement": "Donde estan las montanas mas importantes de Colombia?",
+      "context": "I.E. Los Andes, Pasto. Region Andina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la region Andina, donde se encuentran las tres cordilleras.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Region Caribe.",
+          "is_correct": false,
+          "feedback": "Es costera y plana."
+        },
+        {
+          "letter": "C",
+          "text": "C) Region Pacifica.",
+          "is_correct": false,
+          "feedback": "Es costera."
+        },
+        {
+          "letter": "D",
+          "text": "D) Region Amazonia.",
+          "is_correct": false,
+          "feedback": "Es selva plana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La region Andina esta formada por las tres cordilleras que cruzan Colombia de sur a norte.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v3",
+      "statement": "Que caracteriza a la region Caribe de Colombia?",
+      "context": "I.E. INEM, Medellin. Region Caribe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus playas, el mar Caribe, clima calido y cultura costena.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Montanas nevadas.",
+          "is_correct": false,
+          "feedback": "Eso es Andina."
+        },
+        {
+          "letter": "C",
+          "text": "C) Selva amazonica.",
+          "is_correct": false,
+          "feedback": "Es Amazonia."
+        },
+        {
+          "letter": "D",
+          "text": "D) Llanos extensos.",
+          "is_correct": false,
+          "feedback": "Es Orinoquia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La region Caribe tiene costas en el mar Caribe, clima calido y ciudades como Barranquilla y Cartagena.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v4",
+      "statement": "Que oceanos baña la region Pacifica?",
+      "context": "I.E. Fe y Alegria, Cali. Region Pacifica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oceano Pacifico, con costas en los departamentos del Choco, Cauca, Narino y Valle.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Oceano Atlantico.",
+          "is_correct": false,
+          "feedback": "Es Caribe."
+        },
+        {
+          "letter": "C",
+          "text": "C) Oceano Indico.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Oceano Artico.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La region Pacifica colombiana tiene costas sobre el oceano Pacifico.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v5",
+      "statement": "Donde estan los Llanos Orientales?",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la region Orinoquia, al oriente de Colombia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Region Amazonia.",
+          "is_correct": false,
+          "feedback": "Es selva."
+        },
+        {
+          "letter": "C",
+          "text": "C) Region Andina.",
+          "is_correct": false,
+          "feedback": "Son montanas."
+        },
+        {
+          "letter": "D",
+          "text": "D) Region Caribe.",
+          "is_correct": false,
+          "feedback": "Es costa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los Llanos Orientales forman la region Orinoquia, con extensas llanuras ganaderas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v6",
+      "statement": "Leticia, capital del Amazonas, esta en que region?",
+      "context": "I.E. Simon Bolivar, Leticia. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la region Amazonia, al sur de Colombia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Orinoquia.",
+          "is_correct": false,
+          "feedback": "Es al oriente."
+        },
+        {
+          "letter": "C",
+          "text": "C) Andina.",
+          "is_correct": false,
+          "feedback": "Es centro."
+        },
+        {
+          "letter": "D",
+          "text": "D) Caribe.",
+          "is_correct": false,
+          "feedback": "Es norte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leticia esta en la region Amazonia, en la triple frontera con Brasil y Peru.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v7",
+      "statement": "Por que Colombia tiene regiones tan diferentes?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por su geografia variada: montanas, costas, llanuras y selvas que crean climas diversos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque son inventadas.",
+          "is_correct": false,
+          "feedback": "Son reales."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque los gobiernos las crearon.",
+          "is_correct": false,
+          "feedback": "Son naturales."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo por el clima.",
+          "is_correct": false,
+          "feedback": "Geografia y clima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diversidad geografica de Colombia (relieve, clima, ubicacion) crea regiones naturales distintas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-v8",
+      "statement": "Por que es importante conocer las regiones de Colombia?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para valorar la diversidad del pais y entender las diferencias culturales y geograficas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No es importante.",
+          "is_correct": false,
+          "feedback": "Si es importante."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo para viajar.",
+          "is_correct": false,
+          "feedback": "Para entender el pais."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo para geografos.",
+          "is_correct": false,
+          "feedback": "Para todos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conocer las regiones ayuda a comprender la riqueza natural y cultural de Colombia.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W30-regiones-naturales-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

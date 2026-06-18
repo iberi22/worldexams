@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.143Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v1",
+      "statement": "¿Cuáles son las tres palabras que forman la regla de las 3R para cuidar los recursos?",
+      "context": "En el colegio, Mariana aprende sobre la regla de las 3R para ayudar al medio ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reír, Rugir y Rezar",
+          "is_correct": false,
+          "feedback": "Estas son acciones humanas pero no forman parte de la estrategia científica de conservación de materiales."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir, Reutilizar y Reciclar",
+          "is_correct": true,
+          "feedback": "Estas tres acciones permiten disminuir la cantidad de basura y el gasto innecesario de recursos naturales."
+        },
+        {
+          "letter": "C",
+          "text": "Romper, Regalar y Robar",
+          "is_correct": false,
+          "feedback": "Romper destruye recursos; las 3R buscan preservar la materia y la energía del planeta."
+        },
+        {
+          "letter": "D",
+          "text": "Respirar, Recrear y Reposar",
+          "is_correct": false,
+          "feedback": "Son funciones vitales o actividades de descanso, no una estrategia de manejo de residuos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las 3R son una guía para el consumo responsable. Reducir es gastar menos; Reutilizar es darle un nuevo uso a lo viejo; y Reciclar es procesar el material para hacer objetos nuevos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v2",
+      "statement": "¿Qué beneficio tiene para la naturaleza la acción de Juan de ahorrar energía eléctrica?",
+      "context": "Juan apaga la luz siempre que sale de su habitación y desconecta el cargador del celular cuando no lo está usando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el sol brille más fuerte",
+          "is_correct": false,
+          "feedback": "El sol brilla por procesos nucleares internos y no depende de si usamos o no luz en casa."
+        },
+        {
+          "letter": "B",
+          "text": "Que se gasten menos recursos como agua o carbón en las plantas de energía",
+          "is_correct": true,
+          "feedback": "La mayoría de nuestra electricidad viene de mover agua en represas o quemar carbón, afectando a la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Que los cables de la calle se vuelvan verdes",
+          "is_correct": false,
+          "feedback": "El ahorro de energía es un beneficio ecológico y económico, no un cambio estético en los cables."
+        },
+        {
+          "letter": "D",
+          "text": "Que la noche dure más tiempo",
+          "is_correct": false,
+          "feedback": "La duración del día y la noche depende de la rotación de la Tierra, no del consumo eléctrico humano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ahorrar energía es salvar ríos y bosques. En Colombia, muchas de nuestras \"fábricas de luz\" usan la fuerza del agua. Si gastamos menos luz, las represas afectan menos el ciclo natural de los ríos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v3",
+      "statement": "¿En qué caneca deberías depositar los restos de comida, como cáscaras de banano y núcleos de manzana?",
+      "context": "Para separar la basura correctamente, el colegio tiene canecas de diferentes colores: verde, blanca y negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la blanca (Reciclables)",
+          "is_correct": false,
+          "feedback": "La caneca blanca es para plástico, vidrio y papel limpio; la comida los ensuciaría y dañaría."
+        },
+        {
+          "letter": "B",
+          "text": "En la verde (Orgánicos)",
+          "is_correct": true,
+          "feedback": "Los restos de comida son materia orgánica que puede convertirse en abono para el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "En la negra (No aprovechables)",
+          "is_correct": false,
+          "feedback": "Los restos de comida SÍ se pueden aprovechar si se compostan correctamente, por eso van en la verde."
+        },
+        {
+          "letter": "D",
+          "text": "En ninguna, se tiran al suelo",
+          "is_correct": false,
+          "feedback": "Arrojar basura al suelo contamina el entorno y atrae plagas; siempre debemos usar los recipientes correctos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Separar los residuos orgánicos permite que la comida se convierta en humus en lugar de pudrirse en un basurero gigante. Es devolverle al suelo los nutrientes que las plantas nos dieron.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v4",
+      "statement": "¿Cuál de las 3R está practicando Mariana al convertir la botella en una maceta?",
+      "context": "Mariana usa una botella de plástico vieja para hacer una hermosa maceta para sus flores de la ventana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir",
+          "is_correct": false,
+          "feedback": "Reducir sería no haber comprado la botella en primer lugar; aquí Mariana le está dando una nueva vida."
+        },
+        {
+          "letter": "B",
+          "text": "Reutilizar",
+          "is_correct": true,
+          "feedback": "Reutilizar es usar un objeto para el mismo fin o para uno nuevo antes de tirarlo a la basura."
+        },
+        {
+          "letter": "C",
+          "text": "Reciclar",
+          "is_correct": false,
+          "feedback": "Reciclar implica un proceso industrial de triturar y fundir el material, no un cambio manual en casa."
+        },
+        {
+          "letter": "D",
+          "text": "Revolver",
+          "is_correct": false,
+          "feedback": "No es una de las 3R de la conservación; revolver los residuos dificulta su tratamiento ambiental posterior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reutilizar es la forma más creativa de cuidar el planeta. Alarga la vida de los objetos y evita que compremos cosas nuevas, lo que ahorra mucha energía y materia prima de la naturaleza.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v5",
+      "statement": "¿Qué acción representa mejor la R de \"Reducir\" en esta situación?",
+      "context": "Vas al supermercado y puedes elegir entre una bolsa de plástico de un solo uso o llevar tu propia bolsa de tela resistente desde casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar diez bolsas de plástico",
+          "is_correct": false,
+          "feedback": "Comprar más plástico aumenta el consumo de recursos no renovables y la producción de basura."
+        },
+        {
+          "letter": "B",
+          "text": "Llevar mi propia bolsa de tela",
+          "is_correct": true,
+          "feedback": "Al usar mi bolsa, estoy reduciendo la necesidad de fabricar y usar nuevos plásticos que contaminan."
+        },
+        {
+          "letter": "C",
+          "text": "Reciclar la bolsa de plástico después",
+          "is_correct": false,
+          "feedback": "Es mejor reducir que reciclar; la primera opción siempre debe ser no generar el residuo."
+        },
+        {
+          "letter": "D",
+          "text": "Botar la bolsa de tela al río",
+          "is_correct": false,
+          "feedback": "Las bolsas de tela también contaminan si se arrojan a la naturaleza; lo correcto es cuidarlas por años."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reducir es la más importante de las 3R. Si no usamos cosas innecesarias, la Tierra no tiene que gastar sus recursos en fabricarlas. Menos consumo es igual a más naturaleza protegida.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v6",
+      "statement": "¿Por qué la limpieza del agua ayuda a que la fauna (animales) regrese al ecosistema?",
+      "context": "En un pueblo prohibieron las bolsas de plástico y ahora el río se ve limpio y han vuelto a aparecer muchos peces y aves.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque a los peces les gusta el color verde del agua",
+          "is_correct": false,
+          "feedback": "La salud del agua depende de su composición química y oxígeno, no de su color visual."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen un hábitat sano donde pueden respirar y alimentarse",
+          "is_correct": true,
+          "feedback": "Sin basura ni tóxicos, los animales pueden cumplir su ciclo de vida natural sin enfermarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el plástico asusta a los pájaros",
+          "is_correct": false,
+          "feedback": "El peligro real no es el susto, sino que los animales se enredan o mueren al comer plástico por error."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua se volvió dulce solita",
+          "is_correct": false,
+          "feedback": "La salinidad o dulzura es natural; la limpieza retira los agentes artificiales que matan la vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conservación tiene resultados inmediatos. Los animales son muy inteligentes: si sienten que su casa está limpia y segura, vuelven para vivir allí y tener a sus crías, recuperando el equilibrio natural.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v7",
+      "statement": "¿Qué recurso renovable estamos protegiendo directamente cuando reciclamos las hojas de nuestros cuadernos viejos?",
+      "context": "El reciclaje del papel ayuda a que se corten menos árboles en los bosques comerciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El recurso petróleo",
+          "is_correct": false,
+          "feedback": "El petróleo se usa para el plástico; el papel proviene de la celulosa de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "El recurso flora (bosques)",
+          "is_correct": true,
+          "feedback": "Al usar papel reciclado para hacer hojas nuevas, evitamos tener que talar más árboles para obtener madera."
+        },
+        {
+          "letter": "C",
+          "text": "El recurso aire líquido",
+          "is_correct": false,
+          "feedback": "El aire es un gas; aunque los árboles limpian el aire, el material del papel es biomasa sólida."
+        },
+        {
+          "letter": "D",
+          "text": "El recurso carbón mineral",
+          "is_correct": false,
+          "feedback": "El carbón es un mineral fósil de la tierra; el papel es un derivado vegetal de la superficie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un árbol tarda años en crecer. Reciclar una tonelada de papel salva unos 17 árboles adultos. Imagina cuántos bosques podríamos salvar si todos los niños de Colombia reciclaran sus útiles escolares.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v8",
+      "statement": "¿Cuál acción demuestra un mejor manejo del recurso renovable agua y por qué?",
+      "context": "Tu familia quiere ahorrar agua. Tienen dos opciones: 1. Lavar el carro con una manguera abierta, 2. Lavar el carro con un balde de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La manguera, porque sale con más fuerza",
+          "is_correct": false,
+          "feedback": "La fuerza no indica ahorro; al contrario, gasta muchísima más agua por minuto de forma innecesaria."
+        },
+        {
+          "letter": "B",
+          "text": "El balde, porque usa solo la cantidad justa y no desperdicia",
+          "is_correct": true,
+          "feedback": "Usar un recipiente permite controlar el gasto y ahorrar hasta 300 litros de agua por lavada."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, el carro debe estar sucio",
+          "is_correct": false,
+          "feedback": "La limpieza es necesaria, pero debe hacerse de forma que no agote los recursos vitales de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "La manguera, si es de color verde",
+          "is_correct": false,
+          "feedback": "El color de la herramienta no influye en la cantidad de agua desperdiciada en la tarea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ahorro de agua es una acción de solidaridad. El agua que desperdicias con la manguera abierta es agua que le puede faltar a otra persona o animal río abajo. Cada litro cuenta en la conservación.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v9",
+      "statement": "¿Por qué llevarse estos elementos del mar es una forma de destruir un recurso natural?",
+      "context": "En las islas de San Andrés, se pide a los turistas que no se lleven caracoles ni pedazos de coral como recuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque pesan mucho en el avión",
+          "is_correct": false,
+          "feedback": "El peso es un problema de transporte humano, no la razón biológica de conservación del ecosistema."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son parte del hogar de otros animales y del suelo marino",
+          "is_correct": true,
+          "feedback": "Los restos de caracoles y corales se trituran para formar la arena y sirven de refugio a pequeños seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el coral grita cuando lo sacan",
+          "is_correct": false,
+          "feedback": "Los corales no emiten sonidos; el daño es silencioso pero destruye la biodiversidad y el paisaje."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en la ciudad se vuelven de plástico",
+          "is_correct": false,
+          "feedback": "Los elementos naturales mantienen su composición química hasta que se degradan, sin importar el lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la naturaleza, nada sobra. Incluso una concha vacía de caracol tiene un papel importante. Llevarse \"recuerdos\" naturales de un hábitat es robarle piezas al rompecabezas de la vida, debilitando el ecosistema.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v10",
+      "statement": "¿Qué error fundamental hay en el pensamiento de este niño sobre el valor de la naturaleza?",
+      "context": "Un niño dice: \"Yo no cuido los recursos porque mi papá paga el agua y la luz, así que puedo gastar lo que quiera\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su papá no tiene suficiente dinero",
+          "is_correct": false,
+          "feedback": "El problema no es el dinero de la familia, sino la disponibilidad del recurso natural para todos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la luz eléctrica es de mentira",
+          "is_correct": false,
+          "feedback": "La luz es energía real que proviene de transformar recursos naturales reales y limitados."
+        },
+        {
+          "letter": "C",
+          "text": "Que los recursos naturales tienen un valor vital que el dinero no puede reemplazar",
+          "is_correct": true,
+          "feedback": "Aunque pagues por el agua, si el río se seca, ningún dinero del mundo podrá fabricar agua dulce para beber."
+        },
+        {
+          "letter": "D",
+          "text": "Que el niño debe trabajar para pagar",
+          "is_correct": false,
+          "feedback": "La responsabilidad ambiental es un deber ciudadano de todos, sin importar quién pague las cuentas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La naturaleza no es un supermercado infinito. Hay cosas que el dinero no puede comprar, como un aire limpio para respirar o un río sano para bañarse. Cuidar los recursos es una obligación con la vida, no con la billetera.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v1",
+      "statement": "¿A qué gran grupo pertenecen estos recursos que nunca se agotan?",
+      "context": "En un examen de repaso, Mariana debe clasificar el Sol y el Viento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recursos renovables e inagotables",
+          "is_correct": true,
+          "feedback": "El sol y el viento son fuentes de energía constantes que la naturaleza repone cada día sin falta."
+        },
+        {
+          "letter": "B",
+          "text": "Recursos no renovables fósiles",
+          "is_correct": false,
+          "feedback": "Los fósiles (carbón, petróleo) se agotan con el uso; el sol y el viento no disminuyen por usarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Recursos fabricados por el hombre",
+          "is_correct": false,
+          "feedback": "Son elementos naturales de la Tierra y el sistema solar, no inventos tecnológicos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Recursos peligrosos para la vida",
+          "is_correct": false,
+          "feedback": "Al contrario, son la base de la vida y de las energías limpias para el planeta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender qué es renovable nos ayuda a elegir mejores fuentes de energía. El Sol es el motor de casi todos los demás ciclos naturales y el viento es aire en movimiento impulsado por ese mismo calor solar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v2",
+      "statement": "¿Por qué el petróleo es un recurso \"no renovable\"?",
+      "context": "El petróleo se usa para hacer la gasolina de los carros, pero los científicos dicen que algún día se acabará.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es de color negro",
+          "is_correct": false,
+          "feedback": "El color es una propiedad física, pero no determina si un recurso se agota o se repone."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tarda millones de años en formarse y no se repone rápido",
+          "is_correct": true,
+          "feedback": "La Tierra no puede fabricar petróleo a la velocidad que nosotros lo consumimos en nuestras ciudades."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no sirve para nada",
+          "is_correct": false,
+          "feedback": "Al contrario, es uno de los recursos más usados en la actualidad para transporte e industria."
+        },
+        {
+          "letter": "D",
+          "text": "Porque flota en el agua",
+          "is_correct": false,
+          "feedback": "Flotar es una propiedad de densidad, diferente a la capacidad geológica de renovación del material."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos no renovables, como el petróleo y el carbón, son \"tesoros del pasado\". Se formaron hace eras geológicas y, una vez que los saquemos todos de la tierra, habrán desaparecido para siempre.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v3",
+      "statement": "¿Qué \"R\" de la conservación está practicando Mariana al separar los materiales para que se conviertan en nuevos objetos?",
+      "context": "Para cuidar el planeta, Mariana separa el plástico, el vidrio y el papel de los restos de comida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir",
+          "is_correct": false,
+          "feedback": "Reducir es comprar menos; aquí Mariana ya tiene el objeto y está dándole un destino especial de fábrica."
+        },
+        {
+          "letter": "B",
+          "text": "Reutilizar",
+          "is_correct": false,
+          "feedback": "Reutilizar es usar el objeto igual o como adorno en casa sin transformarlo industrialmente."
+        },
+        {
+          "letter": "C",
+          "text": "Reciclar",
+          "is_correct": true,
+          "feedback": "El reciclaje es el proceso de transformar un residuo en materia prima para fabricar un producto nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "Romper",
+          "is_correct": false,
+          "feedback": "Romper es una acción destructiva que dificulta el aprovechamiento de los materiales reciclables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reciclaje cierra el círculo. Si reciclamos una botella de vidrio, la naturaleza no tiene que darnos más arena para hacer otra. Es una forma de \"darle un respiro\" a los recursos del suelo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v4",
+      "statement": "¿Qué nos demuestra este ejemplo sobre la distribución de los recursos naturales?",
+      "context": "En un desierto, el recurso agua es casi inexistente, pero hay mucha arena. En una selva, el agua sobra pero el suelo fértil es muy delgado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los lugares son iguales",
+          "is_correct": false,
+          "feedback": "Falso; cada región de la Tierra tiene abundancia de unos recursos y escasez de otros."
+        },
+        {
+          "letter": "B",
+          "text": "Que los recursos están repartidos de forma desigual en el planeta",
+          "is_correct": true,
+          "feedback": "La geografía y el clima determinan qué recursos tiene cada comunidad para su supervivencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que la arena es mejor que el agua",
+          "is_correct": false,
+          "feedback": "Ambos son recursos útiles pero con funciones diferentes; el agua es vital para la biología de todos."
+        },
+        {
+          "letter": "D",
+          "text": "Que no debemos vivir en la selva",
+          "is_correct": false,
+          "feedback": "Los humanos se han adaptado a todos los ecosistemas usando los recursos disponibles con inteligencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distribución desigual de los recursos es la razón por la cual los países intercambian productos. Colombia es rica en agua y biodiversidad, otros países son ricos en minerales o petróleo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v5",
+      "statement": "¿Cuál de las dos opciones es más amigable con el medio ambiente y por qué?",
+      "context": "Vas a comprar una gaseosa y ves dos opciones: una botella de vidrio retornable (se devuelve a la tienda) y una de plástico desechable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vidrio retornable, porque se reutiliza muchas veces",
+          "is_correct": true,
+          "feedback": "Al devolver la botella, esta se lava y se vuelve a llenar, reduciendo la basura y el gasto de energía."
+        },
+        {
+          "letter": "B",
+          "text": "El plástico desechable, porque es más liviano",
+          "is_correct": false,
+          "feedback": "Ser liviano ayuda al transporte, pero el daño ambiental del plástico de un solo uso es inmenso."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna de las dos, todas contaminan igual",
+          "is_correct": false,
+          "feedback": "Los sistemas retornables son científicamente más sostenibles que los sistemas de \"usar y tirar\"."
+        },
+        {
+          "letter": "D",
+          "text": "El plástico, porque es de colores",
+          "is_correct": false,
+          "feedback": "El color no influye en la sostenibilidad; el material y su ciclo de vida sí lo hacen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir productos retornables es una forma de \"Reutilizar\" a gran escala. Es una de las mejores decisiones que podemos tomar en el supermercado para proteger los recursos naturales.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v6",
+      "statement": "¿Cuándo un recurso renovable corre el riesgo de convertirse en \"no renovable\" o extinguirse?",
+      "context": "Los animales de la selva (fauna) son recursos renovables, pero si se cazan demasiados jaguares, la población ya no puede recuperarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando los jaguares duermen mucho",
+          "is_correct": false,
+          "feedback": "El sueño es una necesidad biológica normal y no afecta la renovación de la especie."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando los consumimos más rápido de lo que se reproducen",
+          "is_correct": true,
+          "feedback": "Si el ritmo de uso supera el ritmo de nacimiento, el recurso se agota hasta desaparecer."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando nacen demasiados bebés",
+          "is_correct": false,
+          "feedback": "Al contrario, muchos nacimientos aseguran que el recurso sea fuerte y abundante."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando se vuelven de color blanco",
+          "is_correct": false,
+          "feedback": "El color de los individuos no determina la capacidad reproductiva de toda la población silvestre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama sostenibilidad. Un recurso es renovable solo si lo tratamos con respeto. Si pescamos todos los peces de un río en un solo día, mañana no habrá nadie que ponga huevos y el recurso se acabará.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v7",
+      "statement": "¿Qué servicio vital nos presta el recurso aire, además de permitirnos respirar?",
+      "context": "El aire de la atmósfera es un recurso renovable que las plantas limpian cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regar los campos de maíz",
+          "is_correct": false,
+          "feedback": "El riego es una función del agua líquida; el aire transporta nubes pero no es el líquido mismo."
+        },
+        {
+          "letter": "B",
+          "text": "Actúa como un escudo contra los peligros del espacio",
+          "is_correct": true,
+          "feedback": "La atmósfera detiene meteoritos y filtra las radiaciones solares que nos harían daño."
+        },
+        {
+          "letter": "C",
+          "text": "Fabricar el suelo fértil",
+          "is_correct": false,
+          "feedback": "El suelo se forma por el desgaste de rocas y restos de vida, no es un producto directo del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Darle sabor a la comida",
+          "is_correct": false,
+          "feedback": "El aire es inodoro e insípido; el sabor proviene de los ingredientes orgánicos y minerales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A veces olvidamos que la atmósfera es un recurso físico. Nos protege como un traje espacial gigante. Cuidar el aire de la contaminación es cuidar nuestra principal defensa contra el vacío del espacio.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v8",
+      "statement": "¿Qué elementos deberías instalar en tu ciudad ideal?",
+      "context": "Tienes que diseñar una ciudad que use solo recursos renovables para su energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chimeneas gigantes de carbón",
+          "is_correct": false,
+          "feedback": "El carbón es no renovable y emite mucho humo contaminante a la atmósfera."
+        },
+        {
+          "letter": "B",
+          "text": "Pozos profundos de petróleo",
+          "is_correct": false,
+          "feedback": "El petróleo es un recurso fósil agotable que no cumple con el requisito de ser renovable."
+        },
+        {
+          "letter": "C",
+          "text": "Paneles solares y molinos de viento",
+          "is_correct": true,
+          "feedback": "Aprovechan la energía del Sol y del aire, que son fuentes inagotables y limpias."
+        },
+        {
+          "letter": "D",
+          "text": "Estufas que quemen plástico viejo",
+          "is_correct": false,
+          "feedback": "Quemar plástico es extremadamente tóxico para el aire y usa un material de origen no renovable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La transición a energías limpias es el gran reto de la ciencia moderna. Usar el sol y el viento nos permite tener las mismas comodidades (televisión, luz, internet) pero sin agotar los tesoros de la Tierra.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v9",
+      "statement": "¿Es la electricidad producida por el agua (hidroeléctrica) un recurso renovable?",
+      "context": "En Colombia, el agua de los páramos se usa para generar electricidad en grandes represas antes de llegar a las casas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque el agua vuelve a las montañas a través del ciclo natural",
+          "is_correct": true,
+          "feedback": "Mientras el ciclo del agua funcione, la lluvia llenará los ríos para mover las turbinas de nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el agua se gasta al pasar por la turbina",
+          "is_correct": false,
+          "feedback": "El agua no se destruye ni se gasta; solo se aprovecha su fuerza de caída y luego el río sigue su camino."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la electricidad es de color verde",
+          "is_correct": false,
+          "feedback": "El color no define la naturaleza renovable; lo define el origen de la energía utilizada."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el agua de las represas es salada",
+          "is_correct": false,
+          "feedback": "Las represas de las montañas usan agua dulce de ríos y lluvia, no agua del mar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia es líder en energía renovable porque tenemos mucha agua. Sin embargo, para que esta energía siga existiendo, debemos cuidar los páramos y bosques que aseguran que siempre haya agua en los ríos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v10",
+      "statement": "¿Qué riesgo biológico ignoró esta persona al hacer su afirmación?",
+      "context": "Una persona dice: \"No me importa si se acaban los recursos naturales, los científicos inventarán recursos artificiales iguales o mejores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las máquinas son más baratas",
+          "is_correct": false,
+          "feedback": "El precio no es la preocupación biológica; la vida es mucho más compleja que cualquier máquina."
+        },
+        {
+          "letter": "B",
+          "text": "Que los científicos no saben nada",
+          "is_correct": false,
+          "feedback": "Los científicos saben mucho, y precisamente por eso advierten que la naturaleza es irreemplazable."
+        },
+        {
+          "letter": "C",
+          "text": "Que la vida depende de ecosistemas naturales que no se pueden fabricar",
+          "is_correct": true,
+          "feedback": "No podemos \"fabricar\" una selva, un ciclo de oxígeno global o la biodiversidad en una fábrica."
+        },
+        {
+          "letter": "D",
+          "text": "Que la comida artificial sabe a chocolate",
+          "is_correct": false,
+          "feedback": "La nutrición básica y la salud del aire dependen de procesos naturales biológicos únicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tecnología nos ayuda, pero no puede reemplazar a la naturaleza. No existe ninguna máquina que pueda limpiar todo el aire del mundo como lo hacen los bosques, ni nada que reemplace el agua dulce natural. Cuidar lo que tenemos es la única opción segura.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v1",
       "statement": "¿Cual es la forma general de una funcion afin?",
-      "context": "",
+      "context": "Un estudiante en el Colegio Nacional Enrique Nvó Okenve de Malabo estudia la representacion algebraica de las funciones de primer grado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v2",
       "statement": "En la funcion $f(x) = mx + n$, ¿que indica el valor del parametro $m$?",
-      "context": "",
+      "context": "Un profesor en Bata explica el significado geometrico de los coeficientes de la funcion lineal.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v3",
       "statement": "¿Cual es el nombre especifico de una funcion como $I(x) = 2000x$ que pasa por el origen $(0,0)$?",
-      "context": "",
+      "context": "Un comerciante en Ebebiyin nota que sus ingresos siguen la funcion $I(x) = 2000x$, donde $x$ es el numero de articulos vendidos.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v4",
       "statement": "¿En que punto corta al eje Y la grafica de la funcion $f(x) = -3x + 5$?",
-      "context": "",
+      "context": "Un estudiante identifica las caracteristicas de la funcion $f(x) = -3x + 5$ a partir de su ecuacion.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.78,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v5",
       "statement": "¿Que significado tiene el numero $2$ en el contexto del consumo de combustible?",
-      "context": "",
+      "context": "Un tecnico en Malabo analiza el consumo de combustible de un generador: $C(t) = 0.5t + 2$, donde $t$ es el tiempo en horas y $C$ los litros.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.72,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v6",
       "statement": "¿Cual es el valor de la pendiente $m$ para la recta que pasa por los puntos $(1, 2)$ y $(3, 8)$?",
-      "context": "",
+      "context": "Un estudiante en Mongomo quiere hallar la pendiente de una recta que pasa por los puntos $A(1, 2)$ y $B(3, 8)$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v7",
       "statement": "¿Cual es la ecuacion de la funcion que representa la rampa?",
-      "context": "",
+      "context": "Un topografo en Annobon determina que una rampa tiene una pendiente $m = -0.5$ y pasa por el punto $(0, 4)$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.68,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v8",
       "statement": "¿Como se clasifica la funcion $f(x) = 2x - 3$ segun su pendiente?",
-      "context": "",
+      "context": "Un analista en Malabo observa que la funcion $f(x) = 2x - 3$ aumenta sus valores a medida que $x$ crece.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v9",
       "statement": "¿En que valor de $x$ la funcion $f(x) = -2x + 10$ corta al eje de las abcisas?",
-      "context": "",
+      "context": "Un estudiante en Evinayong resuelve la ecuacion $f(x) = 0$ para la funcion $f(x) = -2x + 10$.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.62,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v10",
       "statement": "¿Cual de los siguientes puntos pertenece a la recta definida por $f(x) = 3x - 1$?",
-      "context": "",
+      "context": "Un profesor en Mongomo explica como identificar si un punto pertenece a una recta.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.64,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v11",
       "statement": "¿Como son las graficas de estas dos funciones entre si?",
-      "context": "",
+      "context": "Un ingeniero en el puerto de Malabo analiza dos cintas transportadoras cuyas trayectorias son $f(x) = 2x + 1$ y $g(x) = 2x + 5$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v12",
       "statement": "¿En que valor de $x$ la funcion $f(x) = 4x - 12$ corta al eje horizontal?",
-      "context": "",
+      "context": "Un analista en Ciudad de la Paz quiere hallar el punto de corte con el eje X (la raiz) de la funcion $f(x) = 4x - 12$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.58,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v13",
       "statement": "¿Cual debe ser la pendiente de una segunda recta para que sea perpendicular a la primera?",
-      "context": "",
+      "context": "En la UNGE se estudia la relacion entre dos rectas perpendiculares. Se tiene una recta con ecuacion $y = 3x - 1$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v14",
       "statement": "¿Cual es la expresion de la funcion $f(x)$?",
-      "context": "",
+      "context": "Un estudiante en Evinayong observa que una funcion lineal $f(x)$ cumple que $f(1) = 5$ y $f(2) = 7$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.52,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v15",
       "statement": "¿Cual es la expresion de la funcion inversa $f^{-1}(x)$?",
-      "context": "",
+      "context": "Un analista en Luba estudia la funcion inversa de $f(x) = 2x - 4$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.48,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v16",
       "statement": "¿Cual es el coste marginal (coste de producir una unidad adicional) segun esta funcion?",
-      "context": "",
+      "context": "En un taller en Bata se determina que el coste de producir $x$ camisas es $C(x) = 500x + 1000$ Francos CFA.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.46,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v17",
       "statement": "¿A partir de cuantos minutos de conversacion empieza a ser mas barato el Plan B?",
-      "context": "",
+      "context": "Un analista financiero en Bata compara dos planes de telefonia. El Plan A cuesta $10$ Francos por minuto. El Plan B tiene un costo fijo de $1000$ Francos mas $5$ Francos por minuto.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v18",
       "statement": "¿Cual es el recorrido de cualquier funcion afin $f(x) = mx + n$ siempre que $m \\neq 0$?",
-      "context": "",
+      "context": "Se analiza el dominio y el recorrido (rango) de las funciones afines en el conjunto de los numeros reales.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.38,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v19",
       "statement": "¿Cual es la expresion resultante de la funcion compuesta $(f \\circ g)(x)$?",
-      "context": "",
+      "context": "Un estudiante en Malabo estudia la composicion de funciones: $f(x) = 2x + 3$ y $g(x) = x - 1$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v20",
       "statement": "¿Que profundidad se ha alcanzado si la temperatura medida es de $40^\\circ C$?",
-      "context": "",
+      "context": "Un geólogo mide la temperatura del suelo en una mina de Guinea Ecuatorial. A nivel de superficie ($0$ m) es de $25^\\circ C$, y aumenta $3^\\circ C$ por cada $100$ metros de profundidad.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.32,
       "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

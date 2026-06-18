@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se define a un poliedro cuyas caras son todas polígonos regulares congruentes y en el cual el mismo número de caras concurre en cada vértice?",
-      "context": "",
+      "context": "Un estudiante de arquitectura en la UNAM repasa la clasificación de los sólidos platónicos para un examen de fundamentos del diseño.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se llama a la distancia perpendicular entre los planos que contienen las bases de un cilindro?",
-      "context": "",
+      "context": "Un fabricante de envases en Monterrey necesita identificar las partes de un cilindro para optimizar el proceso de etiquetado.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v3",
       "statement": "Si un prisma y una pirámide tienen la misma base y la misma altura, ¿cuántas veces cabe el volumen de la pirámide en el volumen del prisma?",
-      "context": "",
+      "context": "Un grupo de estudiantes en una feria de ciencias en Puebla explica la relación entre el volumen de una pirámide y un prisma con la misma base y altura.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la fórmula para calcular el área total de la superficie de un cubo de arista $a$?",
-      "context": "",
+      "context": "Un geólogo en Chihuahua está estudiando la estructura de un cristal de sal, que tiene forma de cubo perfecto.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v5",
       "statement": "Si el tanque tiene un radio de 2 metros y una altura de 5 metros, ¿cuál es su capacidad de almacenamiento de agua aproximada en metros cúbicos? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Un tanque de almacenamiento de agua en una comunidad rural de Oaxaca tiene forma cilíndrica.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v6",
       "statement": "Si la base cuadrada mide 6 metros de lado y la altura de la pirámide es de 4 metros, ¿cuál es el volumen de la pirámide?",
-      "context": "",
+      "context": "Un arquitecto en Guadalajara está diseñando una pirámide decorativa de base cuadrada para un centro comercial.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v7",
       "statement": "Si el cono tiene un radio de 3 cm y una altura de 10 cm, ¿cuál es el volumen de helado que puede contener (considerando que se llena hasta el borde)? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Un fabricante de helados en Michoacán produce barquillos en forma de cono circular recto.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v8",
       "statement": "Si el radio de un balón es de 11 cm, ¿cuál es el área de su superficie exterior aproximada? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Una tienda de deportes en la Ciudad de México vende balones de fútbol profesionales que son esferas casi perfectas.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v9",
       "statement": "Las dimensiones del baúl son 1.2 m de largo, 0.5 m de ancho y 0.6 m de alto. ¿Cuál es el área total de madera necesaria para construirlo (sin contar desperdicios)?",
-      "context": "",
+      "context": "Un ebanista está construyendo un baúl de madera con forma de prisma rectangular (paralelepípedo).",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v10",
       "statement": "En un poliedro convexo que tiene 12 caras y 20 vértices (como el dodecaedro), ¿cuántas aristas debe tener según la relación de Euler?",
-      "context": "",
+      "context": "Un profesor de matemáticas en Toluca utiliza el Teorema de Euler para verificar la validez de dibujos de poliedros.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v11",
       "statement": "El radio de la base del cilindro y de la semiesfera es de 3 metros. La altura de la parte cilíndrica es de 10 metros. ¿Cuál es el área total de la superficie exterior (incluyendo la cúpula semiesférica pero no la base inferior que está en el suelo)? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Se está analizando la cantidad de pintura necesaria para cubrir un silo de granos que tiene forma de cilindro rematado por una semiesfera.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v12",
       "statement": "Sin considerar pérdidas de material, ¿cuál es el número máximo de esferas completas que se pueden fabricar? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Un diseñador de joyas en Taxco funde un cubo de oro de 2 cm de arista para fabricar pequeñas esferas de 0.5 cm de radio cada una.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v13",
       "statement": "El tanque tiene un radio superior de 4 m y una altura de 12 m. Si el agua alcanza una altura de 6 m, ¿qué fracción del volumen total del tanque está ocupada por el agua?",
-      "context": "",
+      "context": "Un ingeniero hidráulico en Veracruz estudia la presión en un tanque cónico invertido que se está llenando.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v14",
       "statement": "¿Qué porcentaje del volumen de la caja queda vacío al introducir la esfera? (Usa $\\pi \\approx 3.14$)",
-      "context": "",
+      "context": "Se desea empacar una esfera de radio $R$ en la caja (prisma rectangular) más pequeña posible.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v15",
       "statement": "Si el radio del cilindro es $R$ y su altura es $H$, ¿cuál es el volumen del prisma hexagonal inscrito?",
-      "context": "",
+      "context": "Un escultor en San Miguel de Allende corta un cilindro de mármol para obtener un prisma hexagonal regular de la mayor base posible.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v16",
       "statement": "Las bases son cuadrados de 10 cm y 6 cm de lado, y la altura del tronco de pirámide es de 9 cm. ¿Cuál es su volumen?",
-      "context": "",
+      "context": "Un carpintero construye una pirámide truncada (frusto de pirámide) de madera para una base de lámpara.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la fórmula para calcular el volumen de un octaedro regular de arista $a$?",
-      "context": "",
+      "context": "Se propone un diseño para un observatorio en forma de octaedro regular de arista $a$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v18",
       "statement": "Si el volumen de una esfera aumenta en un factor de 8, ¿en qué factor aumentó su área superficial?",
-      "context": "",
+      "context": "Un estudiante de física en la BUAP analiza el momento de inercia de una esfera y necesita entender cómo cambia su volumen respecto al radio.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v19",
       "statement": "Si el radio de la esfera es $R$ y la altura de la cúpula es $h$, ¿cuál es el área de la superficie curva de la cúpula (sin incluir la base plana)?",
-      "context": "",
+      "context": "Un arquitecto diseña una cúpula que es un segmento esférico (parte de una esfera cortada por un plano).",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v20",
       "statement": "Se tiene un cilindro circunscrito a una esfera de radio $R$ (el cilindro tiene radio $R$ y altura $2R$). ¿Cuál es la relación entre el volumen de la esfera y el volumen del cilindro?",
-      "context": "",
+      "context": "Un matemático estudia la optimización de contenedores y compara un cilindro y una esfera.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.15,
       "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",

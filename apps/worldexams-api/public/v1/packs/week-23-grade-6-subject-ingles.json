@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v1",
+      "statement": "\"I ___ a new backpack.\"",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have got",
+          "is_correct": true,
+          "feedback": "Correcto. I have got."
+        },
+        {
+          "letter": "B",
+          "text": "has got",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has = he/she/it."
+        },
+        {
+          "letter": "C",
+          "text": "am got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "are got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Have got = tener. I/you/we/they have got. He/she/it has got.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v2",
+      "statement": "\"She got\" - the correct form is ___.",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has got",
+          "is_correct": true,
+          "feedback": "Correcto. She has got."
+        },
+        {
+          "letter": "B",
+          "text": "have got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "is got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "are got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Third person: has got. She has got, he has got, it has got.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v3",
+      "statement": "\"___ your sister got a pet?\"",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has",
+          "is_correct": true,
+          "feedback": "Correcto. Has your sister got?"
+        },
+        {
+          "letter": "B",
+          "text": "Have",
+          "is_correct": false,
+          "feedback": "Incorrecto. Your sister = she."
+        },
+        {
+          "letter": "C",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Does",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Questions with have got: Have I/you/we/they got? Has he/she/it got? 'Has your sister got a pet?'\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v4",
+      "statement": "\"No, she ___. She hasn't got a pet.\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hasn't",
+          "is_correct": true,
+          "feedback": "Correcto. Hasn't = has not."
+        },
+        {
+          "letter": "B",
+          "text": "haven't",
+          "is_correct": false,
+          "feedback": "Incorrecto. Haven't para I/you/we/they."
+        },
+        {
+          "letter": "C",
+          "text": "isn't",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Short answers: Yes, she has. / No, she hasn't. Yes, I have. / No, I haven't.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v5",
+      "statement": "\"They've got a big house.\" 've got = ___.",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have got",
+          "is_correct": true,
+          "feedback": "Correcto. They've = they have."
+        },
+        {
+          "letter": "B",
+          "text": "has got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "are got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "like",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Contractions: I've got, you've got, he's got, she's got, we've got, they've got. 've = have, 's = has.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v6",
+      "statement": "\"___ you got a pencil?\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "Correcto. Have you got?"
+        },
+        {
+          "letter": "B",
+          "text": "Has",
+          "is_correct": false,
+          "feedback": "Incorrecto. You = second person."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Have you got...?' = ¿Tienes...? 'Have you got a pencil?' = ¿Tienes un lápiz?\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v7",
+      "statement": "\"My school ___ got a big playground.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correcto. My school = it = has."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Third person singular: has got. 'My school has got a big playground.'\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v8",
+      "statement": "\"I haven't got a smartphone, but I ___ a tablet.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have got",
+          "is_correct": true,
+          "feedback": "Correcto. Positive: have got."
+        },
+        {
+          "letter": "B",
+          "text": "has got",
+          "is_correct": false,
+          "feedback": "Incorrecto. I = have."
+        },
+        {
+          "letter": "C",
+          "text": "am got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "haven't",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negative ya usado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Positive vs negative: I haven't got = no tengo. I have got = tengo. 'I have got a tablet.'\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v9",
+      "statement": "\"Carlos has got a dog. Ana has got a cat. I haven't got any pets.\" Who DOESN'T have a pet?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I (the speaker)",
+          "is_correct": true,
+          "feedback": "Correcto. I haven't got any pets."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carlos has a dog."
+        },
+        {
+          "letter": "C",
+          "text": "Ana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ana has a cat."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading comprehension: identify who does NOT have something. 'I haven't got any pets.'\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-v10",
+      "statement": "\"Correct: 'She have got long hair.'\"",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has got long hair.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "She have got long hair.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gramática incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "She is got long hair.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "She has long got hair.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Error correction: 'She have got' → 'She has got'. Third person singular must use 'has'.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W23-have-has-got-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-v1",
       "statement": "What is the structure of passive voice?",
       "context": "At Colegio Cambridge de Pereira, teacher introduces passive.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W23-passive-voice-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",

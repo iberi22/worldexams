@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-8-grade-7-subject-ingles",
+    "generated_at": "2026-06-18T22:23:58.489Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v1",
+      "statement": "Which relative pronoun completes: 'The girl ___ won the prize is my friend'?",
+      "context": "In English class at Colegio La Presentación, Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! 'Who' for people."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "'Which' for things."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "'Where' for places."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "'Whose' for possession."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relative pronouns: who (people), which (things), where (places), whose (possession).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v2",
+      "statement": "Identify the phrasal verb meaning 'to continue':",
+      "context": "In English class at Colegio San Bartolomé, Santa Marta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "carry on",
+          "is_correct": true,
+          "feedback": "Correct! 'Carry on' = continue."
+        },
+        {
+          "letter": "B",
+          "text": "give up",
+          "is_correct": false,
+          "feedback": "'Give up' = stop trying."
+        },
+        {
+          "letter": "C",
+          "text": "look after",
+          "is_correct": false,
+          "feedback": "'Look after' = take care of."
+        },
+        {
+          "letter": "D",
+          "text": "turn down",
+          "is_correct": false,
+          "feedback": "'Turn down' = reject."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Phrasal verbs: verb + preposition/adverb with new meaning.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v3",
+      "statement": "In Cartagena, Felipe wants to express that an action started in the past and continues. Which tense?",
+      "context": "In English class at Colegio Champagnat, Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have lived here since 2020.",
+          "is_correct": true,
+          "feedback": "Correct! Since + point in time."
+        },
+        {
+          "letter": "B",
+          "text": "I live here since 2020.",
+          "is_correct": false,
+          "feedback": "Wrong structure."
+        },
+        {
+          "letter": "C",
+          "text": "I am living here since 2020.",
+          "is_correct": false,
+          "feedback": "Wrong tense combination."
+        },
+        {
+          "letter": "D",
+          "text": "I lived here since 2020.",
+          "is_correct": false,
+          "feedback": "Past simple with 'since' is wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present perfect with 'since' expresses action from past to present.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v4",
+      "statement": "Complete: If I ___ (be) you, I would accept the offer.",
+      "context": "In English class at Colegio INEM, Santa Marta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct! Past subjunctive 'were' for unreal present."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "'Was' is informal; 'were' is correct."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "First conditional structure needed."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Wrong conditional structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Second conditional: If + past, would + infinitive.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v5",
+      "statement": "Which sentence is correct?",
+      "context": "In English class at Colegio San Bartolomé, Villa de Leyva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has been studying English for two years.",
+          "is_correct": true,
+          "feedback": "Correct present perfect continuous!"
+        },
+        {
+          "letter": "B",
+          "text": "She is study English for two years.",
+          "is_correct": false,
+          "feedback": "Wrong grammar."
+        },
+        {
+          "letter": "C",
+          "text": "She studied English for two years and stop.",
+          "is_correct": false,
+          "feedback": "Past simple, not continuous."
+        },
+        {
+          "letter": "D",
+          "text": "She studies English since two years.",
+          "is_correct": false,
+          "feedback": "Wrong preposition usage."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present perfect continuous: has/have + been + verb-ing.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v6",
+      "statement": "Which relative pronoun completes: 'The girl ___ won the prize is my friend'?",
+      "context": "In English class at Colegio San José, Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! 'Who' for people."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "'Which' for things."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "'Where' for places."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "'Whose' for possession."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relative pronouns: who (people), which (things), where (places), whose (possession).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v7",
+      "statement": "Identify the phrasal verb meaning 'to continue':",
+      "context": "In English class at Colegio Champagnat, Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "carry on",
+          "is_correct": true,
+          "feedback": "Correct! 'Carry on' = continue."
+        },
+        {
+          "letter": "B",
+          "text": "give up",
+          "is_correct": false,
+          "feedback": "'Give up' = stop trying."
+        },
+        {
+          "letter": "C",
+          "text": "look after",
+          "is_correct": false,
+          "feedback": "'Look after' = take care of."
+        },
+        {
+          "letter": "D",
+          "text": "turn down",
+          "is_correct": false,
+          "feedback": "'Turn down' = reject."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Phrasal verbs: verb + preposition/adverb with new meaning.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.69,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v8",
+      "statement": "In Villa de Leyva, Mateo wants to express that an action started in the past and continues. Which tense?",
+      "context": "In English class at Colegio Nuevo Horizonte, Villa de Leyva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have lived here since 2020.",
+          "is_correct": true,
+          "feedback": "Correct! Since + point in time."
+        },
+        {
+          "letter": "B",
+          "text": "I live here since 2020.",
+          "is_correct": false,
+          "feedback": "Wrong structure."
+        },
+        {
+          "letter": "C",
+          "text": "I am living here since 2020.",
+          "is_correct": false,
+          "feedback": "Wrong tense combination."
+        },
+        {
+          "letter": "D",
+          "text": "I lived here since 2020.",
+          "is_correct": false,
+          "feedback": "Past simple with 'since' is wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present perfect with 'since' expresses action from past to present.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v9",
+      "statement": "Complete: If I ___ (be) you, I would accept the offer.",
+      "context": "In English class at Colegio San Carlos, Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct! Past subjunctive 'were' for unreal present."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "'Was' is informal; 'were' is correct."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "First conditional structure needed."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Wrong conditional structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Second conditional: If + past, would + infinitive.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-v10",
+      "statement": "Which sentence is correct?",
+      "context": "In English class at Colegio Champagnat, Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has been studying English for two years.",
+          "is_correct": true,
+          "feedback": "Correct present perfect continuous!"
+        },
+        {
+          "letter": "B",
+          "text": "She is study English for two years.",
+          "is_correct": false,
+          "feedback": "Wrong grammar."
+        },
+        {
+          "letter": "C",
+          "text": "She studied English for two years and stop.",
+          "is_correct": false,
+          "feedback": "Past simple, not continuous."
+        },
+        {
+          "letter": "D",
+          "text": "She studies English since two years.",
+          "is_correct": false,
+          "feedback": "Wrong preposition usage."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present perfect continuous: has/have + been + verb-ing.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-7-2026-W08-grammar-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v1",
+      "statement": "En cuantas cordilleras se divide la cordillera de los Andes en Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Occidental, Central y Oriental."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Andes se dividen en Colombia en tres cordilleras: Occidental, Central y Oriental. Entre ellas se forman los valles de los rios Magdalena y Cauca.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v2",
+      "statement": "Que cordillera es la mas alta de Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Occidental",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Central",
+          "is_correct": true,
+          "feedback": "Correcto. Alli estan los picos mas altos."
+        },
+        {
+          "letter": "C",
+          "text": "Oriental",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Cordillera Central tiene los picos mas altos de Colombia, incluyendo los nevados del Ruiz, Santa Isabel y Tolima.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v3",
+      "statement": "Cual es la montana mas alta de Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nevado del Ruiz",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Pico Simon Bolivar (Sierra Nevada de Santa Marta)",
+          "is_correct": true,
+          "feedback": "Correcto. Con 5.775 m."
+        },
+        {
+          "letter": "C",
+          "text": "Cerro de Monserrate",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Volcan Galeras",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pico mas alto de Colombia es el Pico Simon Bolivar en la Sierra Nevada de Santa Marta (5.775 m), seguido por el Pico Colon. No estan en los Andes sino en una sierra aislada.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v4",
+      "statement": "Que es un valle en el relieve colombiano?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una montana muy alta",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una depresion entre montanas por donde suele correr un rio",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un desierto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una llanura costera",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los valles interandinos mas importantes son el Valle del Magdalena (entre las cordilleras Central y Oriental) y el Valle del Cauca (entre las cordilleras Occidental y Central).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v5",
+      "statement": "Donde se encuentran las llanuras en Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en la Costa Pacifica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En la Costa Caribe, los Llanos Orientales y la Amazonia",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Solo en Bogota",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en la Sierra Nevada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las llanuras colombianas incluyen: la llanura del Caribe (al norte), los Llanos Orientales (Orinoquia) y la llanura amazonica (al sur). Son zonas planas o de suaves colinas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v6",
+      "statement": "Que es la Sierra Nevada de Santa Marta?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cordillera de los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una formacion montanosa aislada cerca del mar Caribe, la mas alta del pais",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un valle",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una llanura",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Sierra Nevada de Santa Marta es una formacion montanosa independiente de los Andes, ubicada en la costa Caribe. Tiene los picos mas altos de Colombia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v7",
+      "statement": "Que es el nudo de los Pastos?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un baile tipico",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una region montanosa en Narino donde los Andes se dividen en tres cordilleras",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un rio",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Nudo de los Pastos, en el departamento de Narino (sur de Colombia), es el punto donde la Cordillera de los Andes se divide en las tres cordilleras colombianas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v8",
+      "statement": "Que rio separa las cordilleras Central y Oriental?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rio Cauca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Separa la Occidental de la Central."
+        },
+        {
+          "letter": "B",
+          "text": "Rio Magdalena",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Rio Amazonas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Rio Orinoco",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rio Magdalena es el principal rio de Colombia. Corre de sur a norte entre las cordilleras Central y Oriental, hasta desembocar en el mar Caribe.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v9",
+      "statement": "Por que Colombia tiene un relieve tan variado?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un pais muy grande",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Por la presencia de tres cordilleras, llanuras, valles, sierras y costas en ambos oceanos",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tiene muchos rios",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque esta en el centro del mundo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia tiene un relieve diverso gracias a la presencia de los Andes en tres cordilleras, los valles interandinos, las llanuras del Caribe y los Llanos, la Sierra Nevada y las costas en dos oceanos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v10",
+      "statement": "Como afecta el relieve a la vida de los colombianos?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No afecta",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El relieve determina el clima, los cultivos, el transporte y la distribucion de la poblacion",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Solo afecta a los agricultores",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo afecta el turismo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El relieve influye en todos los aspectos: en las montanas hace mas frio, se cultiva cafe y papa; en las llanuras hace calor y se cultiva arroz y ganado. Las montanas dificultan el transporte.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

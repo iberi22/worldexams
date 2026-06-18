@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.152Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v1",
+      "statement": "La cÃ©lula es:",
+      "context": "En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en San AndrÃ©s, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La unidad mÃ¡s pequeÃ±a de los seres vivos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Un tejido",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Un Ã³rgano",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v2",
+      "statement": "La cÃ©lula animal NO tiene:",
+      "context": "En la clase de Ciencias Naturales del Instituto TÃ©cnico en Cali, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "NÃºcleo",
+          "is_correct": false,
+          "feedback": "SÃ­ tiene."
+        },
+        {
+          "letter": "B",
+          "text": "Pared celular",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Membrana",
+          "is_correct": false,
+          "feedback": "SÃ­ tiene."
+        },
+        {
+          "letter": "D",
+          "text": "Citoplasma",
+          "is_correct": false,
+          "feedback": "SÃ­ tiene."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v3",
+      "statement": "CÃ©lula vegetal tiene cloroplastos para:",
+      "context": "En la clase de Ciencias Naturales del Centro Educativo Rural en Cartagena, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respirar",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "FotosÃ­ntesis",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Reproducirse",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Moverse",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v4",
+      "statement": "La membrana celular:",
+      "context": "En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Sincelejo, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Da soporte",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Controla entrada y salida de sustancias",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Produce energÃ­a",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Almacena agua",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v5",
+      "statement": "El nÃºcleo de la cÃ©lula contiene:",
+      "context": "En la clase de Ciencias Naturales del Centro Educativo Rural en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Material genÃ©tico (ADN)",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Clorofila",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Nutrientes",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v6",
+      "statement": "Â¿CuÃ¡l estructura es exclusiva de cÃ©lula vegetal?",
+      "context": "En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Cali, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Cloroplasto",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "NÃºcleo",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v7",
+      "statement": "Las cÃ©lulas se agrupan para formar:",
+      "context": "En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Valledupar, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ã“rganos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Tejidos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Sistemas",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Organismos",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v8",
+      "statement": "Para observar cÃ©lulas necesitamos:",
+      "context": "En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en PopayÃ¡n, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lupa",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Microscopio",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Telescopio",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Binoculares",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v9",
+      "statement": "Â¿Por quÃ© las cÃ©lulas vegetales tienen forma rectangular?",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en Valledupar, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay razÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Por la pared celular rÃ­gida",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Porque son mÃ¡s pequeÃ±as",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tienen cloroplastos",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v10",
+      "statement": "Â¿Por quÃ© todas las cÃ©lulas se originan de otras cÃ©lulas?",
+      "context": "En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Pereira, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "TeorÃ­a celular",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Por casualidad",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "No es cierto",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Solo algunas",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

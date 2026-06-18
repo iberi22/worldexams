@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de los siguientes métodos NO es un procedimiento estándar para resolver sistemas de ecuaciones lineales?",
-      "context": "",
+      "context": "Un estudiante en un instituto de Madrid repasa los métodos clásicos para resolver sistemas de dos ecuaciones lineales.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina a un sistema de ecuaciones que tiene infinitas soluciones?",
-      "context": "",
+      "context": "Se explica la clasificación de los sistemas de ecuaciones en una clase en Barcelona.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v3",
       "statement": "Resuelve el sistema por el método que prefieras:\n$\\begin{cases} x + y = 10 \\\\ x - y = 2 \\end{cases}$",
-      "context": "",
+      "context": "Un estudiante resuelve un sistema sencillo para calcular el precio unitario de dos productos en Valencia.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v4",
       "statement": "Geométricamente, ¿qué representan las dos rectas de un sistema incompatible?",
-      "context": "",
+      "context": "Un examen en Sevilla pregunta por la interpretación geométrica de un sistema incompatible.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v5",
       "statement": "Resuelve el sistema:\n$\\begin{cases} 2x + 3y = 12 \\\\ x - y = 1 \\end{cases}$",
-      "context": "",
+      "context": "Un administrativo en una oficina de Sevilla calcula el coste de sobres y sellos mediante un sistema.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v6",
       "statement": "Determina la naturaleza del siguiente sistema:\n$\\begin{cases} x - 2y = 5 \\\\ 2x - 4y = 10 \\end{cases}$",
-      "context": "",
+      "context": "Un estudiante en Bilbao resuelve un sistema donde los coeficientes de las incógnitas son múltiplos entre sí.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de estos sistemas es incompatible?",
-      "context": "",
+      "context": "Un estudiante analiza la condición para que un sistema de dos rectas sea paralelo pero no coincidente.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v8",
       "statement": "Plantea el sistema de ecuaciones para hallar los kg de cada tipo ($x, y$).",
-      "context": "",
+      "context": "Un agricultor en Murcia mezcla dos tipos de abono. El tipo A cuesta 2 €/kg y el tipo B cuesta 5 €/kg. Quiere obtener 10 kg de mezcla a un precio de 3,2 €/kg.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el objetivo principal del método de Gauss al aplicarlo a un sistema de ecuaciones?",
-      "context": "",
+      "context": "Un estudiante en San Sebastián resuelve un sistema de tres ecuaciones con tres incógnitas usando el método de Gauss.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v10",
       "statement": "Halla los puntos de corte de $y = x^2$ y $y = x$.",
-      "context": "",
+      "context": "Un estudiante en Santander resuelve un sistema no lineal sencillo (recta y parábola).",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v11",
       "statement": "¿Qué condición debe cumplirse para que un sistema sea compatible (tenga solución) según el Teorema de Rouché-Frobenius?",
-      "context": "",
+      "context": "Un estudiante avanzado en Madrid estudia el Teorema de Rouché-Frobenius para sistemas con parámetros.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v12",
       "statement": "Resuelve el sistema:\n$\\begin{cases} x + y + z = 6 \\\\ y + z = 5 \\\\ z = 3 \\end{cases}$",
-      "context": "",
+      "context": "Se plantea la resolución de un sistema de 3 ecuaciones lineales mediante Gauss en un examen de acceso.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la propiedad fundamental de un sistema homogéneo (donde todos los términos independientes son cero)?",
-      "context": "",
+      "context": "Un estudiante en Asturias explica las características de un sistema homogéneo.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v14",
       "statement": "Halla las soluciones del sistema:\n$\\begin{cases} x^2 + y^2 = 25 \\\\ y = x + 1 \\end{cases}$",
-      "context": "",
+      "context": "Un arquitecto en Málaga resuelve un sistema no lineal para hallar la intersección de una tubería recta con una estructura circular.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v15",
       "statement": "Si el determinante de la matriz de coeficientes de un sistema $3 \\times 3$ es distinto de cero, ¿qué tipo de sistema es?",
-      "context": "",
+      "context": "Se analiza el rango de una matriz para discutir un sistema dependiente de $m$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v16",
       "statement": "Resuelve:\n$\\begin{cases} \\log x + \\log y = 1 \\\\ x + y = 7 \\end{cases}$",
-      "context": "",
+      "context": "Un estudiante resuelve un sistema donde una ecuación es logarítmica.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la limitación principal de la Regla de Cramer para resolver sistemas de ecuaciones?",
-      "context": "",
+      "context": "Un programador en Madrid usa la Regla de Cramer para resolver sistemas pequeños en un motor gráfico.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v18",
       "statement": "En un sistema con $Rg(A) = 2$ y $Rg(A') = 3$, ¿qué podemos afirmar sobre sus soluciones?",
-      "context": "",
+      "context": "Se plantea la discusión de un sistema con un parámetro $a$ en la matriz ampliada.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v19",
       "statement": "¿De cuántos parámetros dependerá la solución de un sistema de 3 incógnitas con $Rg(A) = Rg(A') = 2$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza un sistema indeterminado con 3 incógnitas y rango 2.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v20",
       "statement": "Determina el valor de $x$ e $y$ en:\n$\\begin{cases} x + y = a \\\\ x - y = b \\end{cases}$",
-      "context": "",
+      "context": "Un reto sobre un sistema donde los coeficientes forman una progresión.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",

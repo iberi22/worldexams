@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.150Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes opciones contiene **solamente** partes de la cabeza?",
+      "context": "Los estudiantes del Colegio Simón Bolívar de Santa Marta están repasando las partes del cuerpo para el examen del periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hombro, codo, muñeca",
+          "is_correct": false,
+          "feedback": "No. Hombro, codo y muñeca son partes de las extremidades superiores (brazos), no de la cabeza."
+        },
+        {
+          "letter": "B",
+          "text": "Ojos, nariz, boca, orejas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ojos, nariz, boca y orejas son partes de la cara y la cabeza."
+        },
+        {
+          "letter": "C",
+          "text": "Rodilla, tobillo, pie",
+          "is_correct": false,
+          "feedback": "No. Rodilla, tobillo y pie son partes de las extremidades inferiores (piernas)."
+        },
+        {
+          "letter": "D",
+          "text": "Estómago, hígado, intestinos",
+          "is_correct": false,
+          "feedback": "No. Estómago, hígado e intestinos son órganos internos del abdomen en el tronco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La **cabeza** contiene ojos, nariz, boca, orejas, cejas, pestañas, mejillas, barbilla y el cabello. En su interior está el cráneo, que protege el cerebro. Es importante diferenciar las partes de la cabeza de las del tronco y las extremidades.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v2",
+      "statement": "¿Cuál de estos órganos **NO** forma parte del sistema digestivo?",
+      "context": "En la clase de repaso del Colegio San Pedro Claver de Tunja, la profesora pide recordar los órganos del sistema digestivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estómago",
+          "is_correct": false,
+          "feedback": "Sí forma parte. El estómago es un órgano clave del sistema digestivo."
+        },
+        {
+          "letter": "B",
+          "text": "El pulmón",
+          "is_correct": true,
+          "feedback": "¡Correcto! El pulmón pertenece al sistema respiratorio, no al digestivo."
+        },
+        {
+          "letter": "C",
+          "text": "El intestino delgado",
+          "is_correct": false,
+          "feedback": "Sí forma parte. El intestino delgado absorbe los nutrientes de los alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "La boca",
+          "is_correct": false,
+          "feedback": "Sí forma parte. En la boca comienza la digestión con la masticación y la saliva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para recordar qué órgano pertenece a cada sistema, piensa en su **función**: los pulmones sirven para respirar (sistema respiratorio), mientras que el estómago, intestinos y boca participan en la digestión de alimentos (sistema digestivo).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v3",
+      "statement": "El **corazón** es el órgano principal del:",
+      "context": "Durante el repaso en el Colegio María Auxiliadora de Pasto, los estudiantes identifican qué órgano corresponde a cada sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema digestivo",
+          "is_correct": false,
+          "feedback": "No. El corazón no digiere alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema respiratorio",
+          "is_correct": false,
+          "feedback": "No. El corazón no respira. Los pulmones son los órganos principales del sistema respiratorio."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema circulatorio",
+          "is_correct": true,
+          "feedback": "¡Correcto! El corazón bombea sangre y es el órgano principal del sistema circulatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema nervioso",
+          "is_correct": false,
+          "feedback": "No. El órgano principal del sistema nervioso es el cerebro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El **sistema circulatorio** tiene como órgano principal al **corazón**, un músculo del tamaño de un puño que bombea sangre sin parar. La sangre viaja por las arterias y venas llevando oxígeno y nutrientes a todas las células del cuerpo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v4",
+      "statement": "¿Para qué nos sirve el sentido del **oído**?",
+      "context": "Los niños de la Escuela Mixta de San Andrés de Tumaco repasan los sentidos y su importancia en la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para ver los colores del arcoíris",
+          "is_correct": false,
+          "feedback": "No. Ver colores es función de la vista, no del oído."
+        },
+        {
+          "letter": "B",
+          "text": "Para saborear una fruta",
+          "is_correct": false,
+          "feedback": "No. Saborear es función del gusto."
+        },
+        {
+          "letter": "C",
+          "text": "Para escuchar música, conversaciones y sonidos del entorno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El oído nos permite percibir los sonidos del ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Para sentir la textura de la ropa",
+          "is_correct": false,
+          "feedback": "No. Sentir texturas es función del tacto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El **oído** nos permite escuchar todo tipo de sonidos: la voz de las personas, la música, el canto de los pájaros, el motor de un carro, entre otros. También cumple una función muy importante para **mantener el equilibrio** del cuerpo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v5",
+      "statement": "¿Qué sistema del cuerpo permite **sostenernos de pie** y **proteger** el cerebro?",
+      "context": "En el repaso del Colegio Agropecuario de Guaranda, los estudiantes relacionan las funciones con los sistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema muscular",
+          "is_correct": false,
+          "feedback": "No. El sistema muscular produce movimiento, pero no sostiene ni protege por sí solo."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema óseo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El sistema óseo (huesos) sostiene el cuerpo y el cráneo protege el cerebro."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema circulatorio",
+          "is_correct": false,
+          "feedback": "No. El sistema circulatorio transporta sangre, no cumple función de soporte."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema digestivo",
+          "is_correct": false,
+          "feedback": "No. El sistema digestivo procesa alimentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El **sistema óseo** es el armazón del cuerpo. Los huesos, como el fémur en las piernas, nos mantienen erguidos. Y el **cráneo** es una caja dura de hueso que rodea y protege el cerebro de golpes y lesiones.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v6",
+      "statement": "Valentina está en la clase de música y toca la flauta. ¿Qué sistemas de su cuerpo están trabajando al mismo tiempo para tocar ese instrumento?",
+      "context": "Los estudiantes del Colegio Técnico Industrial José Antonio Galán de Barrancabermeja hacen ejercicios de aplicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el sistema óseo",
+          "is_correct": false,
+          "feedback": "No. Tocar un instrumento requiere más que solo los huesos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el sistema digestivo",
+          "is_correct": false,
+          "feedback": "No. El sistema digestivo no participa al tocar flauta."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema óseo (sostiene los dedos), el muscular (mueve los dedos) y el nervioso (controla los movimientos)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tocar flauta requiere varios sistemas coordinados."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el sistema circulatorio",
+          "is_correct": false,
+          "feedback": "No. El sistema circulatorio siempre está activo, pero no ejecuta los movimientos de tocar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para tocar la flauta, el **sistema nervioso** envía órdenes al **sistema muscular**, que mueve los dedos y los labios. El **sistema óseo** da soporte a los dedos. El **sistema respiratorio** controla la respiración para soplar. Los sistemas trabajan en **equipo**.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v7",
+      "statement": "Al entrar a la panadería, sientes el olor del pan recién horneado y se te hace agua la boca. ¿Qué sentidos y sistemas están participando?",
+      "context": "En el repaso del Colegio Nacional José Eusebio Caro de Ocaña, se plantean situaciones cotidianas para aplicar los conocimientos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la vista, porque ves el pan",
+          "is_correct": false,
+          "feedback": "No. El olor se percibe con la nariz, no con la vista."
+        },
+        {
+          "letter": "B",
+          "text": "El olfato (nariz) detecta el olor, y el sistema digestivo (boca) se prepara para comer",
+          "is_correct": true,
+          "feedback": "¡Correcto! El olfato detecta el aroma y el cuerpo se prepara para la digestión."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el tacto, porque tocas el pan",
+          "is_correct": false,
+          "feedback": "No. Aún no has tocado el pan, has olido su aroma."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el oído, porque escuchas el horno",
+          "is_correct": false,
+          "feedback": "No. Escuchar el horno no produce antojo; el olor sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El **olfato** puede desencadenar respuestas en otros sistemas. Al oler pan caliente, el cerebro reconoce el aroma y envía señales al **sistema digestivo** para que se prepare: la boca produce saliva (se \"hace agua la boca\") y el estómago se alista para recibir comida.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v8",
+      "statement": "Si quieres levantar la mano para responder una pregunta, ¿qué sistema debe enviar la **orden** desde tu cerebro hasta el músculo del brazo?",
+      "context": "En la clase de repaso del Colegio San Antonio de Pitalito, la profesora pregunta cómo se comunican las partes del cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema circulatorio",
+          "is_correct": false,
+          "feedback": "No. La sangre transporta oxígeno, pero no envía órdenes de movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema digestivo",
+          "is_correct": false,
+          "feedback": "No. El sistema digestivo no controla los movimientos voluntarios."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema nervioso",
+          "is_correct": true,
+          "feedback": "¡Correcto! El sistema nervioso transmite las órdenes del cerebro a los músculos a través de los nervios."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema respiratorio",
+          "is_correct": false,
+          "feedback": "No. El sistema respiratorio controla la respiración, no envía órdenes a los brazos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El **sistema nervioso** funciona como una red de comunicación. El **cerebro** decide levantar la mano y envía una señal eléctrica por la **médula espinal** y los **nervios** hasta llegar al músculo del brazo. El músculo recibe la orden y se contrae, levantando la mano.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v9",
+      "statement": "En un día muy caluroso en la costa Caribe, Juan está sudando mientras juega fútbol en la playa. Su cuerpo necesita enfriarse. ¿Qué sistema ayuda a **regular la temperatura** del cuerpo?",
+      "context": "Los niños del Colegio La Presentación de Rionegro analizan una situación problema sobre el funcionamiento del cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el sistema óseo",
+          "is_correct": false,
+          "feedback": "No. Los huesos no regulan la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema nervioso solamente",
+          "is_correct": false,
+          "feedback": "No. El sistema nervioso detecta el calor, pero la regulación la hacen varios sistemas."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema nervioso (detecta el calor) y la piel (produce sudor para enfriar el cuerpo)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cerebro detecta el calor y ordena a la piel sudar para enfriarse."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el sistema digestivo",
+          "is_correct": false,
+          "feedback": "No. El sistema digestivo no regula la temperatura corporal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando hace calor, el **sistema nervioso** detecta el aumento de temperatura y ordena a las glándulas sudoríparas de la **piel** que produzcan sudor. El sudor se evapora y enfría la superficie de la piel. Los **vasos sanguíneos** de la piel también se dilatan para liberar calor. Este proceso se llama **termorregulación**.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-v10",
+      "statement": "Si una persona no pudiera usar el sentido del **tacto**, ¿qué actividades se le dificultarían más?",
+      "context": "Para terminar el repaso del periodo, los estudiantes del Colegio Nacionalizado de San Gil deben integrar todo lo aprendido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escuchar música en la radio",
+          "is_correct": false,
+          "feedback": "No. Escuchar música solo requiere el oído, no el tacto."
+        },
+        {
+          "letter": "B",
+          "text": "Ver televisión",
+          "is_correct": false,
+          "feedback": "No. Ver TV requiere la vista, no el tacto."
+        },
+        {
+          "letter": "C",
+          "text": "Saber si el agua de la ducha está muy caliente o muy fría",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin tacto no podríamos sentir la temperatura, presión ni texturas."
+        },
+        {
+          "letter": "D",
+          "text": "Oler una flor",
+          "is_correct": false,
+          "feedback": "No. Oler requiere el olfato, no el tacto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El **tacto** es esencial para percibir **temperatura**, **dolor**, **presión** y **textura**. Perderlo sería muy peligroso porque no sentiríamos si algo nos quema, si nos estamos lastimando o si estamos sosteniendo algo. También perderíamos la capacidad de sentir caricias, abrazos y el contacto con otras personas.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CIE-4-2026-W04-repaso-p1-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W11-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v1",
+      "statement": "\"I ___ my teeth every morning.\"",
+      "context": "In Bogotá, students learn daily actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wash",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Wash\" es lavar."
+        },
+        {
+          "letter": "B",
+          "text": "brush",
+          "is_correct": true,
+          "feedback": "Correcto. \"Brush my teeth\" = cepillarme los dientes."
+        },
+        {
+          "letter": "C",
+          "text": "clean",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Clean\" es limpiar en general."
+        },
+        {
+          "letter": "D",
+          "text": "cut",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cut\" es cortar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Brush my teeth\" = cepillarme los dientes. \"Wash my face\" = lavarme la cara. \"Comb my hair\" = peinarme.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v2",
+      "statement": "\"I ___ at 5:00 AM every day.\"",
+      "context": "In Medellín, students learn morning routine words.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go to bed",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ir a la cama es a la noche."
+        },
+        {
+          "letter": "B",
+          "text": "wake up",
+          "is_correct": true,
+          "feedback": "Correcto. \"Wake up\" = despertarse."
+        },
+        {
+          "letter": "C",
+          "text": "have dinner",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cenar es en la noche."
+        },
+        {
+          "letter": "D",
+          "text": "watch TV",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ver TV puede ser a cualquier hora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Wake up\" = despertarse. \"Get up\" = levantarse. \"Wake up\" es abrir los ojos, \"get up\" es salir de la cama.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v3",
+      "statement": "\"I have breakfast. Then I ___ to school.\"",
+      "context": "In Cali, students describe their morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": true,
+          "feedback": "Correcto. \"Go to school\" = ir al colegio."
+        },
+        {
+          "letter": "B",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrecto. Después de \"I\" en presente simple va el verbo base."
+        },
+        {
+          "letter": "C",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Goes\" es para tercera persona."
+        },
+        {
+          "letter": "D",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Went\" es pasado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Presente simple, primera persona: I go, I have, I wake up. \"Then\" = luego/después.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v4",
+      "statement": "\"I get dressed, I have breakfast, I brush my teeth.\" Which is the best order?",
+      "context": "In Barranquilla, students order daily activities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wake up, I have breakfast, I brush my teeth, I get dressed",
+          "is_correct": true,
+          "feedback": "Correcto. Orden lógico de la mañana."
+        },
+        {
+          "letter": "B",
+          "text": "I have breakfast, I wake up, I get dressed, I brush my teeth",
+          "is_correct": false,
+          "feedback": "Incorrecto. Primero despertarse."
+        },
+        {
+          "letter": "C",
+          "text": "I get dressed, I wake up, I have breakfast, I brush my teeth",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene orden lógico."
+        },
+        {
+          "letter": "D",
+          "text": "I brush my teeth, I have breakfast, I wake up, I get dressed",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene orden lógico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Orden lógico: wake up → get up → have breakfast → brush teeth → get dressed → go to school.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v5",
+      "statement": "\"I ___ play soccer after school.\"",
+      "context": "In Bucaramanga, students talk about frequency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "everyday",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Everyday\" no es adverbio de frecuencia aquí. \"Every day\" sería correcto pero no encaja."
+        },
+        {
+          "letter": "B",
+          "text": "always",
+          "is_correct": true,
+          "feedback": "Correcto. \"Always\" = siempre."
+        },
+        {
+          "letter": "C",
+          "text": "every",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Every\" necesita un sustantivo."
+        },
+        {
+          "letter": "D",
+          "text": "yesterday",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Yesterday\" es tiempo pasado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adverbios de frecuencia: always (siempre), usually (usualmente), sometimes (a veces), never (nunca). Van antes del verbo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v6",
+      "statement": "\"In the evening, I ___ dinner with my family.\"",
+      "context": "In Cartagena, a student describes their evening.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Make dinner\" es posible pero más común \"have dinner\"."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Correcto. \"Have dinner\" = cenar."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Do dinner\" no se usa."
+        },
+        {
+          "letter": "D",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Take dinner\" no es la expresión común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Have breakfast/lunch/dinner\" = desayunar/almorzar/cenar. \"Have\" se usa para comidas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v7",
+      "statement": "\"I ___ watch TV in the morning. I go to school.\"",
+      "context": "In Pereira, students use negative sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Correcto. \"Don't watch\" = no veo."
+        },
+        {
+          "letter": "B",
+          "text": "don't",
+          "is_correct": true,
+          "feedback": "Correcto. Negación en presente simple primera persona."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Doesn't\" es para tercera persona."
+        },
+        {
+          "letter": "D",
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Not\" necesita un verbo auxiliar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Negación en presente simple: I/you/we/they + don't + verbo. He/she/it + doesn't + verbo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v8",
+      "statement": "\"What time ___ you go to bed?\"",
+      "context": "In Manizales, students ask about routines.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Does\" es para tercera persona."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correcto. \"Do\" con \"you\"."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Are going\" sería presente continuo."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene sentido gramatical aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Preguntas con \"do/does\": Do you...? Does he/she...? \"What time do you go to bed?\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v9",
+      "statement": "\"I wake up at 5 AM. I have breakfast at 6 AM. School starts at 7 AM.\" What does he do FIRST?",
+      "context": "In Cúcuta, students read a text about routines.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wake up",
+          "is_correct": true,
+          "feedback": "Correcto. Lo primero es despertarse a las 5 AM."
+        },
+        {
+          "letter": "B",
+          "text": "Have breakfast",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desayuno es a las 6 AM."
+        },
+        {
+          "letter": "C",
+          "text": "Go to school",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colegio empieza a las 7 AM."
+        },
+        {
+          "letter": "D",
+          "text": "Finish school",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para identificar el orden, busca la hora más temprana. 5 AM (wake up) es la primera actividad.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W11-daily-routines-v10",
+      "statement": "\"Carlos: I go to bed at 9 PM. Ana: I go to bed at 10 PM.\" Who goes to bed LATER?",
+      "context": "In Ibagué, students compare routines.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 PM es más temprano."
+        },
+        {
+          "letter": "B",
+          "text": "Ana",
+          "is_correct": true,
+          "feedback": "Correcto. 10 PM es más tarde que 9 PM."
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son horarios diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una respuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Later\" = más tarde. 10 PM es later que 9 PM. Comparativos: early → earlier, late → later.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W11-daily-routines-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes condiciones es indispensable para que un texto tenga coherencia global?",
-      "context": "",
+      "context": "La coherencia es la propiedad del texto que permite que este sea percibido como una unidad con sentido global.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v2",
       "statement": "En la frase: \"Fuimos a visitar el Castillo de San Felipe en Cartagena. **Allí** conocimos la historia de las fortificaciones\", ¿a qué palabra se refiere el término resaltado?",
-      "context": "",
+      "context": "Los mecanismos de cohesión, como la referencia anafórica, ayudan a mantener la coherencia sin repetir palabras.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v3",
       "statement": "¿En qué oración se ha aplicado correctamente la **elipsis** del sujeto para evitar la repetición innecesaria?",
-      "context": "",
+      "context": "La elipsis es un mecanismo de coherencia que consiste en omitir elementos que se sobreentienden por el contexto.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v4",
       "statement": "Identifica el par de palabras que permite una sustitución léxica adecuada en un texto sobre la fauna colombiana:",
-      "context": "",
+      "context": "La sustitución léxica por sinonimia evita la monotonía y enriquece el vocabulario de un texto.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v5",
       "statement": "¿Cuál de las siguientes secuencias de oraciones **carece** de coherencia lineal?",
-      "context": "",
+      "context": "La coherencia lineal o local se encarga de la conexión lógica entre oraciones consecutivas.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v6",
       "statement": "Lee el siguiente fragmento: \"Para mejorar la convivencia escolar, debemos tomar varias medidas. **En primer lugar**, fomentar el diálogo. **Por otra parte**, establecer normas claras. **Finalmente**, involucrar a los padres de familia\".\n\n¿Qué tipo de progresión temática se observa gracias a estos marcadores?",
-      "context": "",
+      "context": "Los marcadores discursivos de ordenación ayudan a estructurar el texto y guiar al lector en su progresión.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v7",
       "statement": "En la oración: \"En la huerta sembramos lechugas, zanahorias y tomates; todas estas **hortalizas** crecieron sanas\", ¿qué función cumple la palabra resaltada?",
-      "context": "",
+      "context": "El uso de hiperónimos es un mecanismo de sustitución que permite generalizar para mantener la cohesión.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las siguientes oraciones contiene una **catáfora**?",
-      "context": "",
+      "context": "La referencia catafórica es un mecanismo que anticipa información que aparecerá más adelante en el texto.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v9",
       "statement": "Analiza el siguiente texto: \"Aunque no tenía dinero, decidió comprarse un carro de lujo. Por lo tanto, se quedó sin ahorros para pagar el arriendo de su casa en Bogotá\".\n\n¿Cómo evaluarías este texto desde la coherencia y la cohesión?",
-      "context": "",
+      "context": "Un texto puede ser cohesivo (tener conectores y referencias) pero carecer de coherencia si las ideas son absurdas o contradictorias.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v10",
       "statement": "¿En qué punto se rompe la coherencia del siguiente argumento sobre la educación?\n\"Es fundamental invertir más presupuesto en las escuelas públicas del país para mejorar la calidad educativa. No obstante, el gobierno debería reducir los impuestos que financian la educación para no afectar a los empresarios, pues de todas formas el dinero no se necesita tanto si los profesores trabajan por vocación\".",
-      "context": "",
+      "context": "En la redacción de ensayos, la contradicción es el mayor enemigo de la coherencia.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v1",
       "statement": "En la expresión de una función afín $f(x) = mx + n$, ¿qué nombre recibe el parámetro $m$?",
-      "context": "",
+      "context": "Un estudiante en un instituto de Madrid estudia la expresión analítica de las funciones de primer grado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la ordenada en el origen de la función $f(x) = -2x + 5$?",
-      "context": "",
+      "context": "Se analiza el punto de corte con el eje vertical en una clase en Barcelona.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v3",
       "statement": "Dada la función lineal $g(x) = 3x$, ¿cuál es el valor de $g(-4)$?",
-      "context": "",
+      "context": "Un estudiante en Valencia calcula la imagen de un valor para una función de costes.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes funciones representa una función afín que NO es puramente lineal (no pasa por el origen)?",
-      "context": "",
+      "context": "Un examen en Sevilla pregunta por la distinción entre función lineal y afín.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v5",
       "statement": "Calcula la pendiente de la recta que pasa por los puntos $A(1, 2)$ y $B(3, 8)$.",
-      "context": "",
+      "context": "Un estudiante en Bilbao debe hallar la pendiente de una recta que pasa por dos puntos dados.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la función que relaciona el coste total $C$ con los kilómetros $x$?",
-      "context": "",
+      "context": "Un mensajero en Zaragoza cobra una tarifa fija de 5 € más 2 € por cada kilómetro recorrido.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v7",
       "statement": "¿Qué condición deben cumplir dos rectas para ser paralelas?",
-      "context": "",
+      "context": "Un estudiante analiza la posición relativa de dos rectas en el plano.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el precio por hora (pendiente) de este fontanero?",
-      "context": "",
+      "context": "Un fontanero en Murcia aplica una función afín para sus facturas. Por 2 horas cobra 70 € y por 5 horas cobra 130 €.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v9",
       "statement": "¿En qué punto corta al eje X la función $f(x) = 4x - 12$?",
-      "context": "",
+      "context": "Un estudiante en San Sebastián halla el punto de corte con el eje de abscisas.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v10",
       "statement": "Halla la ecuación de la recta con pendiente $m = -1$ que pasa por el punto $(2, 3)$.",
-      "context": "",
+      "context": "Se busca la ecuación de una recta conociendo su pendiente y un punto.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v11",
       "statement": "Si una recta forma un ángulo de $45^{\\circ}$ con la dirección positiva del eje X, ¿cuál es su pendiente?",
-      "context": "",
+      "context": "Un estudiante avanzado en Madrid analiza la relación entre el ángulo de inclinación y la pendiente.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v12",
       "statement": "Expresa en forma general ($Ax + By + C = 0$) la función $y = \\frac{2}{3}x - 4$.",
-      "context": "",
+      "context": "Se plantea la obtención de la ecuación general a partir de la explícita.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v13",
       "statement": "¿Cuál de las siguientes ecuaciones representa una recta que NO es una función de $x$?",
-      "context": "",
+      "context": "Un estudiante en Asturias explica por qué una recta vertical no es una función.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v14",
       "statement": "Halla el punto de corte de las rectas $r: y = 2x - 1$ y $s: y = -x + 5$.",
-      "context": "",
+      "context": "Un arquitecto en Málaga calcula la intersección de dos trayectorias rectilíneas.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la pendiente de una recta perpendicular a $y = \\frac{1}{2}x + 3$?",
-      "context": "",
+      "context": "Se analiza la perpendicularidad en un diseño de cuadrícula.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la Tasa de Variación Media (TVM) de $f(x) = -3x + 8$ en el intervalo $[1, 5]$?",
-      "context": "",
+      "context": "Un estudiante calcula la tasa de variación media en un intervalo para una función afín.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v17",
       "statement": "Halla la ecuación de la recta que pasa por $(1, 5)$ y $(-2, -1)$.",
-      "context": "",
+      "context": "Un programador en una startup en Madrid interpola una función lineal entre dos lecturas de sensores.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v18",
       "statement": "¿Están alineados los puntos $P(0, 1)$, $Q(1, 3)$ y $R(2, 5)$?",
-      "context": "",
+      "context": "Se plantea la alineación de tres puntos en el plano.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la distancia del punto $(0, 0)$ a la recta $3x + 4y - 10 = 0$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza la distancia de un punto a una recta en un diseño de piezas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v20",
       "statement": "¿Para qué valor de $k$ las rectas $y = kx + 2$ e $y = (2k-3)x + 5$ son paralelas?",
-      "context": "",
+      "context": "Un reto sobre una familia de rectas que dependen de un parámetro $k$.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

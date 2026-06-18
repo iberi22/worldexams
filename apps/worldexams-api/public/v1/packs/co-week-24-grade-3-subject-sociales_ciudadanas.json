@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.154Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v1",
+      "statement": "Cual es un medio de transporte aereo?",
+      "context": "I.E. San Bartolome, Bogota. Transporte aereo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avion y helicoptero.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Barco.",
+          "is_correct": false,
+          "feedback": "Es acuatico."
+        },
+        {
+          "letter": "C",
+          "text": "C) Tren.",
+          "is_correct": false,
+          "feedback": "Es terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "D) Bus.",
+          "is_correct": false,
+          "feedback": "Es terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios de transporte aereo se desplazan por el aire, como aviones y helicopteros.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v2",
+      "statement": "Cual es un medio de transporte acuatico?",
+      "context": "I.E. La Candelaria, Cartagena. Transporte acuatico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barco, lancha y balsa.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Avion.",
+          "is_correct": false,
+          "feedback": "Es aereo."
+        },
+        {
+          "letter": "C",
+          "text": "C) Moto.",
+          "is_correct": false,
+          "feedback": "Es terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "D) Bicicleta.",
+          "is_correct": false,
+          "feedback": "Es terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios de transporte acuatico navegan por rios, lagos, mares y oceanos.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v3",
+      "statement": "Por que son importantes los aviones en Colombia?",
+      "context": "I.E. Sagrado Corazon, Cali. Importancia aviones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectan ciudades lejanas y permiten viajar rapido entre regiones.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Son lentos.",
+          "is_correct": false,
+          "feedback": "Son rapidos."
+        },
+        {
+          "letter": "C",
+          "text": "C) No son utiles.",
+          "is_correct": false,
+          "feedback": "Si son utiles."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo para turistas.",
+          "is_correct": false,
+          "feedback": "Para todos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los aviones conectan regiones separadas por montañas y selvas, ahorrando tiempo.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v4",
+      "statement": "Por que los barcos son importantes para Colombia?",
+      "context": "I.E. INEM, Barranquilla. Barcos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Colombia tiene costas en dos oceanos y los barcos transportan mercancias al exterior.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No tienen importancia.",
+          "is_correct": false,
+          "feedback": "Si son importantes."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo pasean turistas.",
+          "is_correct": false,
+          "feedback": "Transportan mercancias."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo van a islas.",
+          "is_correct": false,
+          "feedback": "Van a muchos lugares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los barcos son fundamentales para el comercio internacional de Colombia.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v5",
+      "statement": "La familia Perez viaja de Bogota a Leticia en avion. Por que no van en carro?",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no hay carretera directa y el avion es la unica via practica.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque el carro es mas rapido.",
+          "is_correct": false,
+          "feedback": "El avion es mas rapido."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque es mas barato.",
+          "is_correct": false,
+          "feedback": "En este caso no."
+        },
+        {
+          "letter": "D",
+          "text": "D) No hay razon.",
+          "is_correct": false,
+          "feedback": "Si la hay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leticia (Amazonas) solo se conecta por via aerea o fluvial, no hay carretera desde Bogota.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v6",
+      "statement": "Los pescadores salen al mar en sus embarcaciones. Que transporte usan?",
+      "context": "I.E. Simon Bolivar, Santa Marta. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte acuatico (lanchas o botes de pesca).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Aereo.",
+          "is_correct": false,
+          "feedback": "En el mar no vuelan."
+        },
+        {
+          "letter": "C",
+          "text": "C) Terrestre.",
+          "is_correct": false,
+          "feedback": "En el mar no hay tierra."
+        },
+        {
+          "letter": "D",
+          "text": "D) Subterraneo.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los pescadores usan lanchas y botes, que son medios de transporte acuatico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v7",
+      "statement": "Por que no todos los colombianos viajan en avion?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es mas costoso que el bus y no todos tienen acceso a aeropuertos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque no les gusta.",
+          "is_correct": false,
+          "feedback": "Es por costo y acceso."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque es peligroso.",
+          "is_correct": false,
+          "feedback": "Es seguro."
+        },
+        {
+          "letter": "D",
+          "text": "D) Porque es lento.",
+          "is_correct": false,
+          "feedback": "Es rapido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo y la disponibilidad de aeropuertos limitan el acceso al transporte aereo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-v8",
+      "statement": "Que pasaria si Colombia no tuviera transporte aereo ni acuatico?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las regiones alejadas estarian incomunicadas y no podria haber comercio con otros paises.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No pasaria nada.",
+          "is_correct": false,
+          "feedback": "Si pasaria."
+        },
+        {
+          "letter": "C",
+          "text": "C) Todos usarian bicicleta.",
+          "is_correct": false,
+          "feedback": "No es viable."
+        },
+        {
+          "letter": "D",
+          "text": "D) Mejoraria la economia.",
+          "is_correct": false,
+          "feedback": "Empeoraria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte aereo y acuatico es vital para conectar las regiones de Colombia y para el comercio.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W24-medios-transporte-aereo-acuatico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

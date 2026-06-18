@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v1",
       "statement": "En una conversación, ¿quién es el encargado de recibir y entender el mensaje?",
-      "context": "",
+      "context": "Un repaso de los elementos de la comunicación en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v2",
       "statement": "¿Cuál de estas palabras es un sustantivo propio y debe llevar mayúscula?",
-      "context": "",
+      "context": "Identificando sustantivos propios de la geografía colombiana.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v3",
       "statement": "¿Cuál es la forma correcta de completar la oración?\n\"________ niños ________ en el patio\".",
-      "context": "",
+      "context": "Aplicando concordancia en una frase sobre el colegio.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v4",
       "statement": "¿Qué tipo de texto deja siempre una moraleja o enseñanza?",
-      "context": "",
+      "context": "Reconociendo tipos de textos en una biblioteca de Cali.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v5",
       "statement": "¿Cuál de estas palabras agudas debe llevar tilde?",
-      "context": "",
+      "context": "Uso de la tilde en palabras agudas en un dictado en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v6",
       "statement": "¿Qué signo de puntuación se usa para separar los elementos de una lista?",
-      "context": "",
+      "context": "Puntuación básica en un párrafo sobre las vacaciones.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v7",
       "statement": "\"El agua es vital para la salud. Debemos beberla todos los días para que nuestro cuerpo funcione bien y tengamos energía\". ¿De qué trata el texto?",
-      "context": "",
+      "context": "Identificando la idea principal en un texto sobre el agua.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v8",
       "statement": "¿Cuál de estas palabras está escrita CORRECTAMENTE?",
-      "context": "",
+      "context": "Uso de b y v en un colegio de Pasto.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v9",
       "statement": "¿Cuál es la pareja de palabras que son **antónimos** (opuestos)?",
-      "context": "",
+      "context": "Diferenciando sinónimos de antónimos en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v10",
       "statement": "Si quieres convencer a un amigo de que tu juego favorito es el mejor, ¿qué estás haciendo?",
-      "context": "",
+      "context": "La intención del autor en diferentes textos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación Escrita",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

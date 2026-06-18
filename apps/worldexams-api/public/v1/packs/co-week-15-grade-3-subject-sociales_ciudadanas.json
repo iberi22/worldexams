@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.151Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v1",
+      "statement": "Cual es una norma basica en el aula?",
+      "context": "I.E. La Presentation, Tunja. Normas aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Levantar la mano antes de hablar y esperar el turno.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Gritar para hablar.",
+          "is_correct": false,
+          "feedback": "No permite escuchar."
+        },
+        {
+          "letter": "C",
+          "text": "C) Hablar al tiempo que profesor.",
+          "is_correct": false,
+          "feedback": "No deja aprender."
+        },
+        {
+          "letter": "D",
+          "text": "D) Interrumpir companeros.",
+          "is_correct": false,
+          "feedback": "Falta de respeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Levantar la mano permite participacion ordenada y que todos sean escuchados.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v2",
+      "statement": "Como debemos tratar a los companeros?",
+      "context": "I.E. Jose Maria Cordoba, Rionegro. Respeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con respeto, sin burlas, sin golpes y ayudandonos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Ignorandolos.",
+          "is_correct": false,
+          "feedback": "No es convivencia."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo saludar amigos.",
+          "is_correct": false,
+          "feedback": "Todos merecen respeto."
+        },
+        {
+          "letter": "D",
+          "text": "D) Pegar si se equivocan.",
+          "is_correct": false,
+          "feedback": "Violencia no es aceptable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El respeto mutuo es la base de la convivencia escolar.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v3",
+      "statement": "Por que existen normas en el aula?",
+      "context": "I.E. Simon Bolivar, Valledupar. Importancia normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que todos aprendamos en ambiente ordenado y respetuoso.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Para control del profesor.",
+          "is_correct": false,
+          "feedback": "Es bien comun."
+        },
+        {
+          "letter": "C",
+          "text": "C) Para prohibir diversion.",
+          "is_correct": false,
+          "feedback": "Organizan."
+        },
+        {
+          "letter": "D",
+          "text": "D) Para castigar.",
+          "is_correct": false,
+          "feedback": "No son castigos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las normas crean ambiente donde todos pueden concentrarse y aprender.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v4",
+      "statement": "Por que es importante compartir materiales?",
+      "context": "I.E. Fe y Alegria, Barranquilla. Compartir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayuda a companeros y fomenta solidaridad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Para que profesores nos quieran.",
+          "is_correct": false,
+          "feedback": "Es solidaridad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Para ganar puntos.",
+          "is_correct": false,
+          "feedback": "Es un valor."
+        },
+        {
+          "letter": "D",
+          "text": "D) No es importante.",
+          "is_correct": false,
+          "feedback": "Si lo es."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Compartir fortalece la comunidad educativa y desarrolla solidaridad.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v5",
+      "statement": "Un companero tira papel al piso. Que hacer?",
+      "context": "I.E. Tecnico, Sabaneta. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recordarle que bote la basura en la caneca.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Hacer lo mismo.",
+          "is_correct": false,
+          "feedback": "Imitar no es correcto."
+        },
+        {
+          "letter": "C",
+          "text": "C) Ignorarlo.",
+          "is_correct": false,
+          "feedback": "Puedes ayudar."
+        },
+        {
+          "letter": "D",
+          "text": "D) Gritarle.",
+          "is_correct": false,
+          "feedback": "Gritar no resuelve."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mantener el salon limpio es responsabilidad de todos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v6",
+      "statement": "Dos estudiantes quieren hablar al tiempo. Como resolver?",
+      "context": "I.E. INEM, Pereira. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno cede la palabra y espera su turno.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Los dos hablan al tiempo.",
+          "is_correct": false,
+          "feedback": "No se escuchan."
+        },
+        {
+          "letter": "C",
+          "text": "C) El que grite mas fuerte habla.",
+          "is_correct": false,
+          "feedback": "Gritar no es solucion."
+        },
+        {
+          "letter": "D",
+          "text": "D) Profesor decide, pero pueden acordar turnos.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Saber esperar turnos y ceder la palabra son habilidades importantes.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v7",
+      "statement": "Por que no es correcto burlarse de quien se equivoca?",
+      "context": "I.E. Sagrada Familia, Cali. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos tenemos derecho a equivocarnos y aprender sin miedo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Profesor se enoja.",
+          "is_correct": false,
+          "feedback": "Es por respeto."
+        },
+        {
+          "letter": "C",
+          "text": "C) Luego se vengan.",
+          "is_correct": false,
+          "feedback": "Es empatia."
+        },
+        {
+          "letter": "D",
+          "text": "D) Pierden puntos.",
+          "is_correct": false,
+          "feedback": "Es respeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El error es parte del aprendizaje. Burlarse crea un ambiente de temor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-v8",
+      "statement": "Un estudiante propone eliminar todas las normas del salon. Funcionaria?",
+      "context": "I.E. La Asuncion, Medellin. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, sin normas habria desorden, no se podria aprender.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Si, harian lo que quieren.",
+          "is_correct": false,
+          "feedback": "Desorden impide aprender."
+        },
+        {
+          "letter": "C",
+          "text": "C) Si, normas sobran.",
+          "is_correct": false,
+          "feedback": "Organizan convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "D) Tal vez si todos son amigos.",
+          "is_correct": false,
+          "feedback": "Amigos tambien necesitan normas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las normas no limitan la libertad, la organizan.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W15-normas-convivencia-aula-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

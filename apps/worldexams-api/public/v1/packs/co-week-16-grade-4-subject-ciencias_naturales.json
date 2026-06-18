@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-16-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.154Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v1",
+      "statement": "El esqueleto humano estÃ¡ formado por:",
+      "context": "En la clase de Ciencias Naturales del JardÃ­n Infantil en Pasto, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "MÃºsculos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Huesos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "CartÃ­lagos",
+          "is_correct": false,
+          "feedback": "TambiÃ©n."
+        },
+        {
+          "letter": "D",
+          "text": "Nervios",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v2",
+      "statement": "Los mÃºsculos se contraen y relajan para:",
+      "context": "En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Yopal, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir calor",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Generar movimiento",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Producir sonido",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Pensar",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v3",
+      "statement": "Los huesos protegen:",
+      "context": "En la clase de Ciencias Naturales del Escuela Normal Superior en IbaguÃ©, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el corazÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Ã“rganos internos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Solo el cerebro",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los pulmones",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v4",
+      "statement": "Las articulaciones permiten:",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en Manizales, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecimiento",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento entre huesos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "ProducciÃ³n de sangre",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar calcio",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v5",
+      "statement": "Los huesos almacenan:",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en Tunja, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Calcio y fÃ³sforo",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Grasa",
+          "is_correct": false,
+          "feedback": "TambiÃ©n."
+        },
+        {
+          "letter": "D",
+          "text": "Hierro",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v6",
+      "statement": "El deporte fortalece:",
+      "context": "En la clase de Ciencias Naturales del Colegio Franciscano en Pasto, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los mÃºsculos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Huesos y mÃºsculos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Solo los huesos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el corazÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v7",
+      "statement": "La columna vertebral protege:",
+      "context": "En la clase de Ciencias Naturales del Colegio Nacional en MonterÃ­a, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corazÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "La mÃ©dula espinal",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "El estÃ³mago",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v8",
+      "statement": "Una mala postura puede causar:",
+      "context": "En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Bucaramanga, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Dolor de espalda y problemas de columna",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "MÃ¡s fuerza",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Mejor digestiÃ³n",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v9",
+      "statement": "Â¿Por quÃ© los huesos son duros pero ligeros?",
+      "context": "En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Pereira, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No son ligeros",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen estructura porosa que da resistencia sin peso extra",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Son huecos completamente",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "EstÃ¡n llenos de aire",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-v10",
+      "statement": "Â¿CÃ³mo trabajan juntos huesos y mÃºsculos?",
+      "context": "En la clase de Ciencias Naturales del Escuela Rural en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No trabajan juntos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "MÃºsculos tiran de huesos para generar movimiento",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Huesos mueven mÃºsculos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Son independientes",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W16-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

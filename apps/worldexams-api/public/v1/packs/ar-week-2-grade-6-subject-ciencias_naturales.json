@@ -10,7 +10,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denominan los componentes \"no vivos\" de un ecosistema, como la luz solar, el agua, el suelo pampeano y la temperatura?",
-      "context": "",
+      "context": "En una clase en Santa Rosa, La Pampa, los alumnos estudian los componentes de un ecosistema típico de la llanura pampeana.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la diferencia entre una \"población\" y una \"comunidad\" en un ecosistema como la selva misionera?",
-      "context": "",
+      "context": "Un grupo de turistas visita las Cataratas del Iguazú en Misiones y observa una gran variedad de pájaros, insectos y plantas conviviendo en el mismo lugar.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.8,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v3",
       "statement": "Si identificás a los peces como consumidores primarios/secundarios que comen zooplancton, ¿qué lugar ocuparían las algas microscópicas (fitoplancton) en esta cadena?",
-      "context": "",
+      "context": "Imaginate que estás analizando una red trófica en el Mar Argentino. Observás que las orcas se alimentan de lobos marinos, y estos de peces.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.75,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se denomina este tipo de interacción entre dos especies diferentes que utilizan el mismo recurso limitado?",
-      "context": "",
+      "context": "Un biólogo en la Puna salteña observa que las vicuñas compiten con los guanacos por el pasto escaso de la zona.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.7,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v5",
       "statement": "¿Qué nombre recibe esta relación donde ambos organismos obtienen un beneficio de su interacción?",
-      "context": "",
+      "context": "En el Chaco, se observa que ciertas aves se alimentan de los parásitos que crecen sobre la piel de los carpinchos. El ave obtiene comida y el carpincho queda limpio.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.65,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v6",
       "statement": "¿Cómo se llama este proceso de cambios graduales en la composición de una comunidad tras una perturbación ambiental?",
-      "context": "",
+      "context": "Tras un incendio forestal en los bosques de Chubut, el ecosistema comienza a recuperarse lentamente: primero aparecen pastos, luego arbustos y finalmente árboles.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.6,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la principal razón por la que una \"especie exótica invasora\" como el castor causa tanto daño en un ecosistema donde no evolucionó?",
-      "context": "",
+      "context": "Los científicos están preocupados por la introducción del castor en Tierra del Fuego, una especie que no es originaria de allí y destruye los bosques de lenga.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.55,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v8",
       "statement": "¿Qué factor abiótico suele ser el más limitante para la vida en el ecosistema del Monte sanjuanino comparado con la laguna correntina?",
-      "context": "",
+      "context": "Compará un ecosistema terrestre (como el Monte en San Juan) con uno acuático (como una laguna en Corrientes).",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.5,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v9",
       "statement": "Desde un punto de vista ecológico, ¿cuál es la consecuencia más grave de rellenar un humedal y eliminar su vegetación nativa?",
-      "context": "",
+      "context": "En el Delta del Paraná, se está discutiendo el impacto de la construcción de barrios privados sobre humedales. Algunos dicen que \"limpiar\" el terreno es bueno.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el argumento más sólido para justificar que la protección de un ecosistema completo es mejor que intentar salvar solo a una especie famosa (como el yaguareté)?",
-      "context": "",
+      "context": "El gobierno argentino analiza crear un nuevo Parque Nacional en una zona de alta biodiversidad amenazada por la agricultura intensiva.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ecosistemas",
+      "expected_success": 0.4,
       "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

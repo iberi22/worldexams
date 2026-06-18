@@ -10,7 +10,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición fundamental de un logaritmo en base $b$?",
-      "context": "",
+      "context": "Un estudiante del Instituto Nacional \"Leonardo Matute\" en Ocotal revisa la definición de logaritmo.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el dominio de la función logarítmica básica $f(x) = \\log_b(x)$?",
-      "context": "",
+      "context": "Una clase sobre las restricciones de las funciones reales en Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.82,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el intercepto con el eje $x$ de la función logarítmica básica $f(x) = \\log_b(x)$?",
-      "context": "",
+      "context": "Un análisis gráfico comparativo en el plano cartesiano.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v4",
       "statement": "¿A qué base se refiere el logaritmo común, representado simplemente como $\\log(x)$?",
-      "context": "",
+      "context": "Un estudio sobre logaritmos comunes y naturales en una estación meteorológica nicaragüense.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.78,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la relación gráfica entre la función exponencial $f(x) = b^x$ y la función logarítmica $g(x) = \\log_b(x)$?",
-      "context": "",
+      "context": "Un sismólogo en Ineter (Nicaragua) explica la escala de Richter.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la asíntota vertical de la función $f(x) = \\log_2(x - 4) + 3$?",
-      "context": "",
+      "context": "Un análisis de la asíntota de una función logarítmica desplazada.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.72,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor exacto de $\\log_5(125)$?",
-      "context": "",
+      "context": "Un cálculo rápido de potencias y logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.7,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el valor de $\\log_2(1/8)$?",
-      "context": "",
+      "context": "Un estudiante evalúa logaritmos con argumentos fraccionarios.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.68,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v9",
       "statement": "¿Cómo se representa el logaritmo en base $e$, conocido como logaritmo natural o neperiano?",
-      "context": "",
+      "context": "Uso del logaritmo natural en un estudio de química en Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el valor de $\\ln(e^5)$?",
-      "context": "",
+      "context": "Aplicación de propiedades básicas de logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.62,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v11",
       "statement": "De acuerdo con las propiedades de los logaritmos, ¿a qué es igual $\\log_b(M \\cdot N)$?",
-      "context": "",
+      "context": "El uso de la propiedad del producto en cálculos logarítmicos.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.58,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la expresión equivalente a $\\log(50) - \\log(5)$?",
-      "context": "",
+      "context": "Simplificación de expresiones con logaritmos de cocientes.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v13",
       "statement": "¿A qué es igual la expresión $\\log_b(x^k)$?",
-      "context": "",
+      "context": "Un estudiante en Estelí utiliza la propiedad de la potencia para bajar exponentes.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.52,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la fórmula correcta para cambiar la base de un logaritmo $\\log_a(x)$ a una nueva base $b$?",
-      "context": "",
+      "context": "Cambio de base para usar una calculadora científica.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v15",
       "statement": "El pH se define como $pH = -\\log[H^+]$, donde $[H^+]$ es la concentración de iones de hidrógeno. Si el pH es 4, ¿cuál es la concentración de iones $[H^+]$?",
-      "context": "",
+      "context": "El cálculo del pH del agua en la Laguna de Apoyo, Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.48,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es el comportamiento de la función $f(x) = \\log_{0.5}(x)$?",
-      "context": "",
+      "context": "Gráfica de una función logarítmica con base fraccionaria.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v17",
       "statement": "Halla el valor de $x$ en la ecuación: $\\log_2(x + 5) = 4$.",
-      "context": "",
+      "context": "Resolución de una ecuación logarítmica simple.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v18",
       "statement": "La intensidad sonora en decibelios se calcula como $dB = 10 \\cdot \\log(I/I_0)$. Si un sonido tiene una intensidad $I$ que es 1,000 veces mayor que el umbral $I_0$, ¿cuántos decibelios marca el equipo?",
-      "context": "",
+      "context": "Un problema de intensidad de sonido medido en decibelios en un concierto en Managua.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.38,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es el dominio de la función $f(x) = \\ln(9 - x^2)$?",
-      "context": "",
+      "context": "Análisis del dominio de una función logarítmica compuesta.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v20",
       "statement": "Calcula el valor de $x$ si $\\log_2(\\log_3(x)) = 1$.",
-      "context": "",
+      "context": "Un reto sobre logaritmos anidados.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.32,
       "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

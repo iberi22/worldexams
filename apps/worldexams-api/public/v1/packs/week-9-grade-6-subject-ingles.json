@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v1",
+      "statement": "\"30\" in English is ___.",
+      "context": "In Bogotá, students learn numbers 20-100.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "threety",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe \"threety\"."
+        },
+        {
+          "letter": "B",
+          "text": "thirty",
+          "is_correct": true,
+          "feedback": "Correcto. 30 = thirty."
+        },
+        {
+          "letter": "C",
+          "text": "thirteen",
+          "is_correct": false,
+          "feedback": "Incorrecto. 13 = thirteen."
+        },
+        {
+          "letter": "D",
+          "text": "thirdy",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Thirdy\" no existe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Decenas: 20 = twenty, 30 = thirty, 40 = forty (sin u), 50 = fifty, 60 = sixty, 70 = seventy, 80 = eighty, 90 = ninety.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v2",
+      "statement": "\"100\" in English is ___.",
+      "context": "In Medellín, students count in class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one hundredth",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hundredth\" es ordinal (centésimo)."
+        },
+        {
+          "letter": "B",
+          "text": "one thousand",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1000 = one thousand."
+        },
+        {
+          "letter": "C",
+          "text": "one hundred",
+          "is_correct": true,
+          "feedback": "Correcto. 100 = one hundred."
+        },
+        {
+          "letter": "D",
+          "text": "one hundreds",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hundred\" no se pluraliza cuando va con número."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "100 = one hundred (un/a cien). 200 = two hundred (doscientos). En inglés, \"hundred\" no se pluraliza: two hundred, not \"two hundreds\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v3",
+      "statement": "\"Twenty + forty = ___\"",
+      "context": "In Cali, students do math problems.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fifty",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 + 40 = 60, no 50."
+        },
+        {
+          "letter": "B",
+          "text": "seventy",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es 70."
+        },
+        {
+          "letter": "C",
+          "text": "sixty",
+          "is_correct": true,
+          "feedback": "Correcto. 20 + 40 = 60 (sixty)."
+        },
+        {
+          "letter": "D",
+          "text": "eighty",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es 80."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "20 (twenty) + 40 (forty) = 60 (sixty). Practicar sumas ayuda a aprender los números en contexto.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v4",
+      "statement": "\"My grandmother is ___ years old.\" (72)",
+      "context": "In Barranquilla, students say their age.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "seventy two",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números compuestos llevan guión."
+        },
+        {
+          "letter": "B",
+          "text": "seventy-two",
+          "is_correct": true,
+          "feedback": "Correcto. 72 = seventy-two."
+        },
+        {
+          "letter": "C",
+          "text": "seventy second",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Second\" es ordinal."
+        },
+        {
+          "letter": "D",
+          "text": "seventy twos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pluraliza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los números compuestos (21-99) se escriben con guión: twenty-one, thirty-two, forty-three, seventy-two.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v5",
+      "statement": "\"That backpack costs ___ pesos.\" (55,000)",
+      "context": "In Bucaramanga, students talk about prices.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fifty five thousand",
+          "is_correct": false,
+          "feedback": "Correcto pero sin guión."
+        },
+        {
+          "letter": "B",
+          "text": "fifty-five thousand",
+          "is_correct": true,
+          "feedback": "Correcto. 55,000 = fifty-five thousand. guión entre decenas y unidades."
+        },
+        {
+          "letter": "C",
+          "text": "fifty-five thousandth",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Thousandth\" es ordinal."
+        },
+        {
+          "letter": "D",
+          "text": "fifty-fifth thousand",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es ordinal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cantidades grandes: 55,000 = fifty-five thousand. Thousand = mil. Se usa el guión en 55 (fifty-five).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v6",
+      "statement": "\"There are ___ students in my school.\" (350)",
+      "context": "In Cartagena, students read a school schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "three hundred and fifty",
+          "is_correct": true,
+          "feedback": "Correcto. 350 = three hundred and fifty."
+        },
+        {
+          "letter": "B",
+          "text": "three hundreds fifty",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hundred\" no se pluraliza."
+        },
+        {
+          "letter": "C",
+          "text": "three hundred fiftyth",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es ordinal."
+        },
+        {
+          "letter": "D",
+          "text": "three hundred fifty one",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería 351."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "350 = three hundred and fifty. En inglés británico se usa \"and\" entre hundred y el resto. En americano a veces se omite.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v7",
+      "statement": "\"What number is 5 tens + 3 ones?\"",
+      "context": "In Pereira, students play a number game.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirty-five",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 tens = 50, 3 ones = 3."
+        },
+        {
+          "letter": "B",
+          "text": "fifty-three",
+          "is_correct": true,
+          "feedback": "Correcto. 50 + 3 = 53 (fifty-three)."
+        },
+        {
+          "letter": "C",
+          "text": "fifty-five",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería 5 tens + 5 ones."
+        },
+        {
+          "letter": "D",
+          "text": "thirty-three",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería 3 tens + 3 ones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tens = decenas, ones = unidades. 5 tens (50) + 3 ones (3) = 53 (fifty-three).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v8",
+      "statement": "\"How much is this?\" \"It's ___ pesos.\" (1,200)",
+      "context": "In Manizales, students ask about prices.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one thousand two hundreds",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hundreds\" no se pluraliza."
+        },
+        {
+          "letter": "B",
+          "text": "one thousand two hundred",
+          "is_correct": true,
+          "feedback": "Correcto. 1,200 = one thousand two hundred."
+        },
+        {
+          "letter": "C",
+          "text": "twelve hundred",
+          "is_correct": false,
+          "feedback": "Posible en inglés informal, pero menos estándar."
+        },
+        {
+          "letter": "D",
+          "text": "one thousand and two hundredth",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hundredth\" es ordinal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1,200 = one thousand two hundred. En inglés, \"hundred\" y \"thousand\" no se pluralizan cuando van con números: two hundred, three thousand.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v9",
+      "statement": "\"The teacher says: seventy-eight. What number is it?\"",
+      "context": "In Cúcuta, students listen to a dictation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "87",
+          "is_correct": false,
+          "feedback": "Incorrecto. 87 = eighty-seven."
+        },
+        {
+          "letter": "B",
+          "text": "78",
+          "is_correct": true,
+          "feedback": "Correcto. seventy-eight = 78."
+        },
+        {
+          "letter": "C",
+          "text": "68",
+          "is_correct": false,
+          "feedback": "Incorrecto. 68 = sixty-eight."
+        },
+        {
+          "letter": "D",
+          "text": "88",
+          "is_correct": false,
+          "feedback": "Incorrecto. 88 = eighty-eight."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escuchar números requiere atención. Seventy (70) + eight (8) = seventy-eight (78). No confundir con eighty-seven (87).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-v10",
+      "statement": "\"Which number is the largest?\"",
+      "context": "In Ibagué, students compare numbers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirty-nine",
+          "is_correct": false,
+          "feedback": "Incorrecto. 39."
+        },
+        {
+          "letter": "B",
+          "text": "forty-one",
+          "is_correct": false,
+          "feedback": "Incorrecto. 41."
+        },
+        {
+          "letter": "C",
+          "text": "fifty-three",
+          "is_correct": false,
+          "feedback": "Posible pero no el mayor."
+        },
+        {
+          "letter": "D",
+          "text": "ninety-nine",
+          "is_correct": true,
+          "feedback": "Correcto. 99 es el mayor de todas las opciones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar números en inglés: ninety-nine (99) > fifty-three (53) > forty-one (41) > thirty-nine (39).\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W09-numbers-20-100-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v1",
       "statement": "What is the structure of present perfect?",
       "context": "At Liceo de la Sabana de Neiva, students review present perfect.",
@@ -42,6 +462,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -82,6 +504,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -122,6 +546,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -162,6 +588,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -202,6 +630,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -242,6 +672,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -282,6 +714,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -322,6 +756,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -362,6 +798,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -402,6 +840,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -442,6 +882,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

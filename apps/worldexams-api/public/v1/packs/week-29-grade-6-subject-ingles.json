@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v1",
+      "statement": "\"Soleado\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sunny",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cloudy = nublado."
+        },
+        {
+          "letter": "C",
+          "text": "rainy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rainy = lluvioso."
+        },
+        {
+          "letter": "D",
+          "text": "windy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Windy = ventoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Weather: sunny (soleado), cloudy (nublado), rainy/raining (lluvioso), windy (ventoso).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v2",
+      "statement": "\"Frío\" in English is ___.",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cold",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "hot",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hot = caliente/calor."
+        },
+        {
+          "letter": "C",
+          "text": "warm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Warm = cálido."
+        },
+        {
+          "letter": "D",
+          "text": "cool",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cool = fresco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Temperature: cold (frío), hot (caliente), warm (cálido), cool (fresco), freezing (congelado).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v3",
+      "statement": "\"It is ___ in Bogotá today.\" (13°C)",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cold",
+          "is_correct": true,
+          "feedback": "Correcto. 13°C es frío."
+        },
+        {
+          "letter": "B",
+          "text": "hot",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hot = 30°C+."
+        },
+        {
+          "letter": "C",
+          "text": "warm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Warm = 20-25°C."
+        },
+        {
+          "letter": "D",
+          "text": "sunny",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe condición, no temperatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Describe temperature: cold (frío), cool (fresco), warm (cálido), hot (caliente). Bogotá is usually cold (13-20°C).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v4",
+      "statement": "\"In Barranquilla, it is usually ___.\" (calor)",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hot",
+          "is_correct": true,
+          "feedback": "Correcto. Barranquilla is hot (30°C+)."
+        },
+        {
+          "letter": "B",
+          "text": "cold",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es frío."
+        },
+        {
+          "letter": "C",
+          "text": "freezing",
+          "is_correct": false,
+          "feedback": "Incorrecto. Freezing = congelado."
+        },
+        {
+          "letter": "D",
+          "text": "snowy",
+          "is_correct": false,
+          "feedback": "Incorrecto. Snowy = nevado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Barranquilla: hot and humid. Colombia has diverse climates: hot coast, cold mountains, mild interior.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v5",
+      "statement": "\"What's the weather like?\" \"It's ___.\" (lloviendo)",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "raining",
+          "is_correct": true,
+          "feedback": "Correcto. Raining = lloviendo."
+        },
+        {
+          "letter": "B",
+          "text": "rainy",
+          "is_correct": false,
+          "feedback": "Posible pero \"raining\" es más común."
+        },
+        {
+          "letter": "C",
+          "text": "rain",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rain es sustantivo."
+        },
+        {
+          "letter": "D",
+          "text": "rained",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "It's + -ing: It's raining (está lloviendo), It's snowing (está nevando). It's + adjective: It's rainy (es lluvioso).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v6",
+      "statement": "\"___ it raining outside?\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is",
+          "is_correct": true,
+          "feedback": "Correcto. Is it raining?"
+        },
+        {
+          "letter": "B",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrecto. It = singular."
+        },
+        {
+          "letter": "C",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Does",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Is it...? para tiempo. \"Is it raining?\" \"Is it sunny?\"\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v7",
+      "statement": "\"In Colombia, there ___ two main seasons.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correcto. Two seasons = plural."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia has two main seasons: dry (seca) and rainy (lluviosa), unlike the four seasons in many other countries.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v8",
+      "statement": "\"I need an umbrella. It's ___.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "raining",
+          "is_correct": true,
+          "feedback": "Correcto. Raining = lloviendo."
+        },
+        {
+          "letter": "B",
+          "text": "sunny",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sunny = soleado."
+        },
+        {
+          "letter": "C",
+          "text": "cloudy",
+          "is_correct": false,
+          "feedback": "Posible pero no necesita paraguas."
+        },
+        {
+          "letter": "D",
+          "text": "windy",
+          "is_correct": false,
+          "feedback": "Incorrecto. No necesita paraguas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Umbrella = paraguas. \"It's raining\" = está lloviendo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v9",
+      "statement": "\"Bogotá is cold. Cali is warm. Barranquilla is hot.\" Which city is the WARMEST?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barranquilla",
+          "is_correct": true,
+          "feedback": "Correcto. Hot > warm > cold."
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá is cold."
+        },
+        {
+          "letter": "C",
+          "text": "Cali",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cali is warm."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Compare: hot (más caliente) > warm (cálido) > cold (frío). Barranquilla is the hottest.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-v10",
+      "statement": "\"It's cold and rainy. You should wear ___.\"",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a coat and boots",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "a T-shirt and shorts",
+          "is_correct": false,
+          "feedback": "Incorrecto. For hot weather."
+        },
+        {
+          "letter": "C",
+          "text": "a swimsuit",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "sandals",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Weather-appropriate clothing: cold+rainy → coat + boots + umbrella. Hot+sunny → T-shirt + shorts.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W29-weather-vocabulary-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null

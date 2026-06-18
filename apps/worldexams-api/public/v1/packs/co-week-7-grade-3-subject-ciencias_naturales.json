@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -402,7 +420,869 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v1",
+      "statement": "¿Cuál es el componente del suelo que viene de la descomposición de plantas y animales muertos?",
+      "context": "En la huerta de la escuela, los estudiantes de grado 3 cavan un poco y notan que el suelo no es solo \"tierra\" negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La arena gruesa",
+          "is_correct": false,
+          "feedback": "La arena viene de la rotura de las rocas por el viento y el agua, no de seres vivos descompuestos."
+        },
+        {
+          "letter": "B",
+          "text": "El humus",
+          "is_correct": true,
+          "feedback": "El humus es la materia orgánica descompuesta que aporta nutrientes esenciales y le da el color oscuro al suelo fértil."
+        },
+        {
+          "letter": "C",
+          "text": "Los pedazos de vidrio",
+          "is_correct": false,
+          "feedback": "El vidrio es un material artificial que contamina el suelo; no es un componente natural ni saludable del mismo."
+        },
+        {
+          "letter": "D",
+          "text": "La arcilla roja",
+          "is_correct": false,
+          "feedback": "La arcilla es un componente mineral que viene de las rocas, no de la descomposición de seres vivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo es una mezcla compleja. El humus es la parte orgánica; es como el \"alimento\" que está guardado en la tierra. Gracias al trabajo de bacterias y lombrices, los restos de vida se transforman en esta sustancia oscura y nutritiva.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v2",
+      "statement": "¿Qué nos demuestran las burbujas que salen del suelo al mojarlo?",
+      "context": "Si pones un poco de suelo seco en un vaso con agua, notarás que salen pequeñas burbujas hacia la superficie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el suelo está hirviendo",
+          "is_correct": false,
+          "feedback": "Las burbujas no son por calor, sino por el aire que estaba atrapado en los huequitos del suelo y sale al entrar el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay peces viviendo ahí",
+          "is_correct": false,
+          "feedback": "Los peces necesitan agua libre; en el suelo viven otros animales, pero las burbujas son simplemente gases."
+        },
+        {
+          "letter": "C",
+          "text": "Que el suelo contiene aire",
+          "is_correct": true,
+          "feedback": "El aire ocupa los espacios vacíos entre los granos de tierra, lo cual es vital para que las raíces y animales respiren."
+        },
+        {
+          "letter": "D",
+          "text": "Que el suelo es gaseoso",
+          "is_correct": false,
+          "feedback": "El suelo es sólido, pero es poroso, lo que significa que tiene pequeños canales llenos de aire y agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque parezca sólido, el suelo tiene muchos espacios diminutos. Estos espacios están llenos de aire y agua. Sin el aire del suelo, las raíces de las plantas se \"ahogarían\" y muchos organismos como las lombrices no podrían sobrevivir.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v3",
+      "statement": "¿Cómo se llama el componente mineral del suelo que tiene los granos más grandes y que no retiene casi agua?",
+      "context": "En la clase de ciencias, los niños tocan diferentes materiales: unos granos grandes y rasposos, y otros muy finos que parecen harina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arena",
+          "is_correct": true,
+          "feedback": "Los granos de arena son grandes y dejan pasar el agua muy rápido, por eso los suelos arenosos se secan fácilmente."
+        },
+        {
+          "letter": "B",
+          "text": "Arcilla",
+          "is_correct": false,
+          "feedback": "La arcilla tiene granos microscópicos que se pegan mucho y retienen el agua, formando barro pegajoso."
+        },
+        {
+          "letter": "C",
+          "text": "Humus",
+          "is_correct": false,
+          "feedback": "El humus no es un mineral de roca; es materia orgánica de seres vivos y suele ser esponjoso."
+        },
+        {
+          "letter": "D",
+          "text": "Piedra pómez",
+          "is_correct": false,
+          "feedback": "Es un tipo de roca volcánica, pero no es el componente principal que forma la textura de la mayoría de suelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parte mineral del suelo viene de la desintegración de las rocas durante miles de años. Dependiendo del tamaño de esos granitos, el suelo será arenoso (granos grandes), limoso (medianos) o arcilloso (granos muy pequeñitos).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v4",
+      "statement": "¿Qué componente crees que abunda en el suelo donde se forman los charcos largos?",
+      "context": "Un agricultor nota que después de una lluvia, el agua desaparece muy rápido en una parte del campo, pero en otra se forman charcos que duran muchos días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mucha arena",
+          "is_correct": false,
+          "feedback": "Si hubiera mucha arena, el agua se filtraría rápidamente hacia abajo y no se formarían charcos en la superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Mucha arcilla",
+          "is_correct": true,
+          "feedback": "La arcilla es casi impermeable porque sus granos están muy apretados, lo que impide que el agua pase fácilmente."
+        },
+        {
+          "letter": "C",
+          "text": "Mucho aire",
+          "is_correct": false,
+          "feedback": "Si hubiera mucho aire, habría espacio para que el agua bajara; los charcos indican falta de espacio para filtrar."
+        },
+        {
+          "letter": "D",
+          "text": "Muchos diamantes",
+          "is_correct": false,
+          "feedback": "Los diamantes son minerales preciosos muy raros y no afectan la formación de charcos en los suelos comunes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La capacidad de filtrar agua se llama permeabilidad. Los suelos con mucha arcilla tienen baja permeabilidad y por eso se inundan fácil. Un buen suelo para cultivar debe tener una mezcla equilibrada de arena y arcilla.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v5",
+      "statement": "¿Qué componentes del suelo se están perdiendo al calentar la tierra así?",
+      "context": "Si quemas un poco de tierra en una cuchara vieja, notarás que sale un poco de vapor y la tierra se vuelve más clara y seca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo las piedras",
+          "is_correct": false,
+          "feedback": "Las piedras son muy resistentes al calor y no se evaporan ni cambian de color fácilmente al calentarlas un poco."
+        },
+        {
+          "letter": "B",
+          "text": "El agua y la materia orgánica",
+          "is_correct": true,
+          "feedback": "El calor evapora la humedad (agua) y quema los restos de plantas (humus), dejando solo la parte mineral."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro y el oro",
+          "is_correct": false,
+          "feedback": "Los metales en el suelo requieren temperaturas muchísimo más altas para derretirse o cambiar de forma."
+        },
+        {
+          "letter": "D",
+          "text": "La arena se convierte en vidrio",
+          "is_correct": false,
+          "feedback": "Para que la arena se vuelva vidrio se necesita un horno industrial extremadamente caliente, no una cuchara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este experimento casero muestra que el suelo tiene \"vida\" y humedad. Al eliminar el agua y la materia orgánica, el suelo pierde su fertilidad y se convierte en un material inerte que no sirve para que las plantas crezcan bien.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v6",
+      "statement": "¿Qué pasará con esos restos de hojas y ramas con el paso del tiempo?",
+      "context": "En un bosque nativo, el suelo está cubierto de hojas secas, ramas caídas y restos de insectos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se convertirán en piedras duras",
+          "is_correct": false,
+          "feedback": "Las piedras vienen de procesos geológicos, no de la descomposición de materia vegetal reciente."
+        },
+        {
+          "letter": "B",
+          "text": "Se transformarán en humus nutritivo",
+          "is_correct": true,
+          "feedback": "Gracias a la humedad y a los pequeños organismos del suelo, estos restos se descomponen y enriquecen la tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Desaparecerán por arte de magia",
+          "is_correct": false,
+          "feedback": "En la naturaleza nada desaparece; todo se transforma para ser reutilizado por otros seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "Se harán plástico biodegradable",
+          "is_correct": false,
+          "feedback": "El plástico es un material sintético creado por humanos; la naturaleza produce materia orgánica natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este proceso se llama el ciclo de la materia. Las plantas toman nutrientes del suelo, crecen, y cuando mueren, devuelven esos nutrientes al suelo en forma de humus. Es la forma en que la naturaleza se mantiene fértil por sí misma.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v7",
+      "statement": "¿Cuál de los dos suelos es mejor para tener una huerta productiva y por qué?",
+      "context": "Un científico analiza dos suelos. El Suelo A tiene 80% de arena. El Suelo B tiene 40% de arena, 40% de arcilla y 20% de humus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Suelo A, porque es más fácil de cavar",
+          "is_correct": false,
+          "feedback": "Ser fácil de cavar no significa que sea bueno; la arena no guarda agua ni nutrientes para las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "El Suelo B, porque tiene un equilibrio de minerales y nutrientes",
+          "is_correct": true,
+          "feedback": "La mezcla de arcilla (guarda agua) y humus (da alimento) lo hace ideal para el crecimiento vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "El Suelo A, porque las raíces no se mojan",
+          "is_correct": false,
+          "feedback": "Las raíces necesitan agua para beber; si el agua se va muy rápido, la planta se marchita y muere."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, las plantas crecen mejor en el cemento",
+          "is_correct": false,
+          "feedback": "El cemento es un material artificial inerte que no permite que las raíces penetren ni obtengan nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo ideal se llama \"suelo franco\". Es aquel que no es ni pura arena ni pura arcilla, sino una mezcla que permite que el aire circule, el agua se quede lo suficiente y los nutrientes alimenten a la planta.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v8",
+      "statement": "¿Cómo ayudan las lombrices a mejorar la composición y calidad del suelo?",
+      "context": "Las lombrices de tierra cavan túneles todo el día, comiendo tierra y restos de hojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacen que el suelo sea más pesado",
+          "is_correct": false,
+          "feedback": "Al contrario, al cavar túneles hacen que el suelo sea más liviano y esponjoso, facilitando la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Se comen las raíces de las plantas",
+          "is_correct": false,
+          "feedback": "Las lombrices no suelen comer raíces vivas; prefieren materia muerta y ayudan a las raíces a crecer."
+        },
+        {
+          "letter": "C",
+          "text": "Crean canales para el aire y abonan con sus desechos",
+          "is_correct": true,
+          "feedback": "Sus túneles airean la tierra y sus excrementos son el mejor abono natural que existe para el humus."
+        },
+        {
+          "letter": "D",
+          "text": "Pintan la tierra de color rojo",
+          "is_correct": false,
+          "feedback": "El color del suelo depende de los minerales y el humus, no de la presencia de lombrices."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las lombrices son llamadas \"los ingenieros del suelo\". Su trabajo constante de mezclar la tierra y crear espacios para el aire y el agua es fundamental para que el suelo sea un ambiente saludable para la vida vegetal.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v9",
+      "statement": "¿Por qué es difícil encontrar grandes bosques o selvas creciendo directamente sobre la arena de la playa?",
+      "context": "En las playas de San Andrés, el suelo es casi pura arena blanca formada por restos de corales y caracoles triturados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la arena no guarda el agua ni los nutrientes necesarios",
+          "is_correct": true,
+          "feedback": "El agua se filtra al fondo muy rápido y hay muy poca materia orgánica (humus) para alimentar árboles grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque a los árboles les da miedo el mar",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen sentimientos; su crecimiento depende de factores físicos como nutrientes y agua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sol de la playa es artificial",
+          "is_correct": false,
+          "feedback": "El sol es el mismo en todas partes; la diferencia es la capacidad del suelo para sostener la vida."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las raíces se vuelven de arena",
+          "is_correct": false,
+          "feedback": "Las raíces mantienen su estructura biológica, pero no encuentran de qué alimentarse en arena pura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada ecosistema tiene un suelo diferente. Las plantas de playa, como las palmeras de coco, están adaptadas a suelos arenosos, pero la mayoría de las plantas necesitan un suelo con más humus y arcilla para poder desarrollarse completamente.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v10",
+      "statement": "¿Qué consecuencia biológica grave tendría cubrir todo el suelo natural con materiales artificiales?",
+      "context": "Un constructor dice que el suelo es solo un estorbo y que sería mejor cubrir todo el mundo con asfalto y cemento para que sea más limpio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los zapatos no se ensuciarían más",
+          "is_correct": false,
+          "feedback": "Aunque es cierto, esta no es una consecuencia biológica importante para la vida en el planeta."
+        },
+        {
+          "letter": "B",
+          "text": "Desaparecerían las plantas y el oxígeno que producen",
+          "is_correct": true,
+          "feedback": "Sin suelo natural, no habría dónde cultivar comida ni dónde crecieran los bosques que limpian nuestro aire."
+        },
+        {
+          "letter": "C",
+          "text": "El mundo se vería más moderno y gris",
+          "is_correct": false,
+          "feedback": "Esta es una opinión estética, no una evaluación de los procesos vitales de los ecosistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Los gusanos tendrían casas más duras",
+          "is_correct": false,
+          "feedback": "Los gusanos y la mayoría de los organismos del suelo morirían al no poder excavar ni encontrar alimento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo es un recurso natural no renovable a escala humana (tarda cientos de años en formarse un solo centímetro). Es la base de la seguridad alimentaria y del equilibrio del clima. Proteger el suelo es proteger la vida misma.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v1",
+      "statement": "¿Cómo se clasifica el suelo que está formado principalmente por granos grandes de arena?",
+      "context": "Camilo va a la playa y nota que el suelo es de color claro, rasposo y que el agua desaparece al instante cuando llega una ola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo arcilloso",
+          "is_correct": false,
+          "feedback": "El suelo arcilloso tiene granos muy finos que se pegan, a diferencia de la arena que es suelta y rasposa."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo arenoso",
+          "is_correct": true,
+          "feedback": "Los suelos arenosos no retienen el agua y están formados por partículas grandes de minerales triturados."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo humífero",
+          "is_correct": false,
+          "feedback": "El suelo humífero es oscuro y rico en nutrientes de seres vivos, no es claro y rasposo como el de la playa."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo de cemento",
+          "is_correct": false,
+          "feedback": "El cemento es un material artificial; el suelo arenoso es un componente natural de la superficie terrestre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los suelos arenosos son muy porosos. Esto significa que tienen espacios grandes entre sus granos, por lo que el agua pasa a través de ellos muy rápido sin quedarse atrapada. Son suelos pobres para la agricultura porque se secan muy pronto.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v2",
+      "statement": "¿Qué tipo de suelo es el más adecuado para hacer cerámica debido a su capacidad de pegarse al mojarse?",
+      "context": "Una artesana en Ráquira, Boyacá, usa un tipo de tierra pegajosa y de color rojizo para moldear vasijas y platos de barro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo arcilloso",
+          "is_correct": true,
+          "feedback": "La arcilla está formada por partículas pequeñísimas que, al humedecerse, se vuelven moldeables como la plastilina."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo arenoso",
+          "is_correct": false,
+          "feedback": "La arena no se pega; si tratas de hacer una figura con arena mojada, se desmorona rápidamente al secarse."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo humífero",
+          "is_correct": false,
+          "feedback": "Este suelo es para sembrar plantas; si intentas quemarlo para hacer cerámica, se desintegraría por la materia orgánica."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo rocoso",
+          "is_correct": false,
+          "feedback": "Los suelos rocosos están llenos de piedras grandes y no permiten moldear figuras suaves y detalladas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El suelo arcilloso es impermeable. Sus partículas son tan pequeñas que no dejan pasar el agua ni el aire con facilidad. Esto lo hace excelente para la alfarería (hacer vasijas) pero difícil para el cultivo, ya que puede encharcarse y pudrir las raíces.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v3",
+      "statement": "¿Cómo se llama el suelo fértil que es rico en materia orgánica y nutrientes?",
+      "context": "Para sembrar una huerta de tomates, el profesor de ciencias busca un suelo que sea negro, esponjoso y que tenga muchas lombrices.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo arenoso",
+          "is_correct": false,
+          "feedback": "Como vimos, el arenoso tiene pocos nutrientes y no sirve para una huerta productiva de vegetales."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo arcilloso",
+          "is_correct": false,
+          "feedback": "Aunque retiene agua, la arcilla es muy dura para que las raíces pequeñas del tomate crezcan cómodamente."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo humífero",
+          "is_correct": true,
+          "feedback": "El suelo humífero (o orgánico) es el mejor para la vida vegetal porque contiene humus y retiene la humedad justa."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo salino",
+          "is_correct": false,
+          "feedback": "Los suelos con mucha sal son tóxicos para la mayoría de las plantas de cultivo y las marchitan rápido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El suelo humífero es el sueño de todo jardinero. Su color oscuro indica que tiene mucha energía guardada en forma de restos de plantas y animales descompuestos, lo que sirve de alimento natural para las nuevas plantas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v4",
+      "statement": "¿En qué maceta el agua tardará más tiempo en salir por el agujero de abajo?",
+      "context": "Tienes tres macetas: una con arena pura, otra con arcilla pura y otra con tierra negra de jardín. Echas la misma cantidad de agua a las tres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la de arena",
+          "is_correct": false,
+          "feedback": "La arena dejará pasar el agua casi de inmediato debido a sus poros grandes y falta de adherencia."
+        },
+        {
+          "letter": "B",
+          "text": "En la de arcilla",
+          "is_correct": true,
+          "feedback": "La arcilla retiene el agua con mucha fuerza y sus poros son tan pequeños que el agua fluye muy, muy lento."
+        },
+        {
+          "letter": "C",
+          "text": "En la de tierra negra",
+          "is_correct": false,
+          "feedback": "La tierra de jardín (humífera) deja pasar el agua de forma moderada, ni muy rápido ni muy lento."
+        },
+        {
+          "letter": "D",
+          "text": "Saldrá igual de rápido en todas",
+          "is_correct": false,
+          "feedback": "Las propiedades físicas de los granos de cada suelo hacen que la velocidad del agua sea totalmente diferente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este experimento demuestra la permeabilidad de los suelos. Los suelos arcillosos son los menos permeables, lo que significa que guardan el agua por mucho tiempo, a veces demasiado para algunas plantas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v5",
+      "statement": "¿Qué tipo de suelo predomina en ese sendero donde el barro es tan pegajoso?",
+      "context": "Caminando por un sendero después de un aguacero, tus zapatos se llenan de un barro pesado que se pega a la suela y te hace deslizar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo arenoso",
+          "is_correct": false,
+          "feedback": "El suelo arenoso no forma barro pegajoso; se siente mojado pero se desprende fácil de los zapatos."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo pedregoso",
+          "is_correct": false,
+          "feedback": "Los suelos con muchas piedras suelen drenar mejor y no forman esa capa de barro resbaladizo."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo arcilloso",
+          "is_correct": true,
+          "feedback": "Al mojarse, la arcilla se expande y se vuelve muy resbalosa y adherente, formando lo que conocemos como greda o barro."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo de hojas secas",
+          "is_correct": false,
+          "feedback": "Las hojas secas absorben el agua y se sienten blandas, pero no tienen la textura pegajosa del barro arcilloso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La arcilla mojada es muy conocida en el campo colombiano. Es difícil de caminar en ella porque no deja que el agua penetre al fondo, creando una capa superficial muy resbalosa que puede causar caídas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v6",
+      "statement": "¿Por qué los cactus pueden vivir en suelo arenoso si este no retiene agua?",
+      "context": "Los cactus viven en suelos muy arenosos donde llueve poco y el sol calienta mucho la superficie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque beben agua del aire con sus espinas",
+          "is_correct": false,
+          "feedback": "Las espinas son para protección y evitar pérdida de agua, no para absorberla del aire seco."
+        },
+        {
+          "letter": "B",
+          "text": "Porque guardan el agua dentro de sus tallos gordos",
+          "is_correct": true,
+          "feedback": "Como el suelo arenoso se seca rápido, el cactus absorbe mucha agua cuando llueve y la guarda como reserva."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el suelo arenoso es más frío",
+          "is_correct": false,
+          "feedback": "La arena se calienta mucho más rápido que otros suelos bajo el sol intenso del desierto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no necesitan agua para vivir",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos necesitan agua; la diferencia es cómo la consiguen y cómo la ahorran."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación entre el tipo de suelo y los seres vivos es vital. Como la arena no guarda agua, solo las plantas adaptadas para almacenar líquido en su interior (como los cactus) pueden sobrevivir en ese tipo de suelo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v7",
+      "statement": "¿Qué tipo de suelo debería evitar el constructor como base principal para su carretera?",
+      "context": "Un constructor quiere hacer una carretera estable. Sabe que si usa un suelo que se vuelve barro muy fácil, la carretera se puede hundir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El suelo arcilloso",
+          "is_correct": true,
+          "feedback": "Al mojarse y secarse, la arcilla cambia de tamaño y se vuelve inestable, lo que puede romper el asfalto."
+        },
+        {
+          "letter": "B",
+          "text": "El suelo pedregoso",
+          "is_correct": false,
+          "feedback": "Las piedras y rocas son excelentes bases para carreteras porque son muy resistentes y no cambian con el agua."
+        },
+        {
+          "letter": "C",
+          "text": "El suelo arenoso compactado",
+          "is_correct": false,
+          "feedback": "La arena bien apretada y mezclada con otros materiales es una buena base porque drena bien el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, todos son iguales para construir",
+          "is_correct": false,
+          "feedback": "Los ingenieros deben estudiar muy bien el tipo de suelo antes de construir para evitar desastres y grietas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tipo de suelo no solo importa para la agricultura, sino también para la ingeniería. Los suelos arcillosos son un reto porque \"trabajan\": se hinchan cuando llueve y se encogen cuando sale el sol, lo que daña las construcciones.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v8",
+      "statement": "¿Cómo se le llama comúnmente a este tipo de suelo ideal que mezcla lo mejor de todos?",
+      "context": "Encuentras un suelo que es una mezcla perfecta: tiene un poco de arena para que pase el aire, un poco de arcilla para guardar humedad y mucho humus para alimentar a las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo desértico",
+          "is_correct": false,
+          "feedback": "El suelo desértico es casi pura arena y no tiene el equilibrio de nutrientes necesario."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo franco",
+          "is_correct": true,
+          "feedback": "El suelo franco es el más equilibrado y productivo para la mayoría de los cultivos en todo el mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo de cemento fresco",
+          "is_correct": false,
+          "feedback": "El cemento no tiene componentes biológicos ni permite que las raíces respiren o se alimenten."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo volcánico puro",
+          "is_correct": false,
+          "feedback": "Aunque es fértil, el término para la mezcla equilibrada de arena, limo y arcilla es suelo franco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la naturaleza, los mejores suelos son las mezclas. Un suelo que sea \"solo una cosa\" suele tener problemas. La mezcla equilibrada permite que las plantas tengan agua disponible pero también aire para sus raíces.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v9",
+      "statement": "¿Qué pasaría si quitamos todos los árboles de una selva con este tipo de suelo delgado?",
+      "context": "En las selvas húmedas, a pesar de que hay muchas plantas, el suelo a veces es muy delgado y pobre porque la lluvia constante lava los nutrientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El suelo se volvería más fuerte",
+          "is_correct": false,
+          "feedback": "Sin los árboles, el suelo queda desprotegido y se daña mucho más rápido por el sol y la lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "El suelo se lavaría y se volvería estéril",
+          "is_correct": true,
+          "feedback": "Los árboles protegen el suelo; sin ellos, la lluvia arrastra lo poco nutritivo que queda (erosión) y nada vuelve a crecer."
+        },
+        {
+          "letter": "C",
+          "text": "El suelo daría más comida por el sol",
+          "is_correct": false,
+          "feedback": "Sin la protección de las hojas, el sol quema el humus y el suelo se vuelve duro como piedra."
+        },
+        {
+          "letter": "D",
+          "text": "Aparecerían edificios automáticamente",
+          "is_correct": false,
+          "feedback": "El desarrollo humano requiere planificación; la consecuencia natural inmediata es el daño al ecosistema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el peligro de la deforestación. Los árboles no solo viven en el suelo, sino que lo fabrican y lo cuidan. Al quitar la vegetación, el tipo de suelo cambia drásticamente, perdiendo su capacidad de sostener vida.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v10",
+      "statement": "¿Es correcto decir que un tipo de suelo es \"malo\" de forma general?",
+      "context": "Un científico dice que \"el suelo arcilloso es malo y el suelo humífero es bueno\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque en la arcilla no crece nada",
+          "is_correct": false,
+          "feedback": "Existen plantas que aman la arcilla y mucha agua; lo que es malo para una puede ser bueno para otra."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el humífero es el único natural",
+          "is_correct": false,
+          "feedback": "Todos los suelos (arenosos, arcillosos, etc.) son componentes naturales de la corteza terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "No, cada suelo tiene una función en la naturaleza",
+          "is_correct": true,
+          "feedback": "La arcilla es buena para impermeabilizar y para ciertos ecosistemas, aunque no sea la mejor para cultivar lechugas."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque todos los suelos saben igual",
+          "is_correct": false,
+          "feedback": "La clasificación científica no se basa en el sabor, sino en las propiedades físicas y biológicas del material."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la ciencia evitamos decir \"bueno\" o \"malo\". Decimos \"adecuado para un fin\". El suelo arenoso es excelente para los cactus y para construir casas con buen drenaje; el arcilloso es vital para mantener humedales y hacer ladrillos. La diversidad de suelos permite la diversidad de vida.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null

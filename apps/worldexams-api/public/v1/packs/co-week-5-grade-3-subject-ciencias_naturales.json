@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -402,7 +420,869 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v1",
+      "statement": "¿Cuál es una característica principal de las plantas en cuanto a su movimiento?",
+      "context": "En un parque de Pereira, los niños observan que las plantas no corren para buscar comida como lo hacen las palomas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corren muy lento por la noche",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen músculos ni sistema nervioso para desplazarse de un lugar a otro como los animales."
+        },
+        {
+          "letter": "B",
+          "text": "Viven fijas al suelo por sus raíces",
+          "is_correct": true,
+          "feedback": "Las plantas son organismos sésiles, lo que significa que pasan toda su vida en el mismo lugar donde germinaron."
+        },
+        {
+          "letter": "C",
+          "text": "Saltan cuando llueve mucho",
+          "is_correct": false,
+          "feedback": "El movimiento de las plantas es de crecimiento o respuesta lenta, no realizan saltos ni movimientos bruscos de desplazamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Vuelan usando sus hojas verdes",
+          "is_correct": false,
+          "feedback": "Las hojas sirven para la fotosíntesis y respiración; no son alas y no permiten que la planta se eleve."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas se distinguen por estar ancladas a la tierra. Sus raíces no solo absorben agua, sino que funcionan como un ancla poderosa que les permite crecer hacia arriba buscando la luz sin caerse o ser arrastradas fácilmente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v2",
+      "statement": "¿Cómo se llaman los seres vivos que fabrican su propio alimento, como las plantas?",
+      "context": "Las plantas son los únicos seres vivos que no necesitan \"ir al supermercado\" o cazar para alimentarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heterótrofos",
+          "is_correct": false,
+          "feedback": "Los heterótrofos (como los animales) son los que deben comer a otros seres para obtener energía."
+        },
+        {
+          "letter": "B",
+          "text": "Autótrofos",
+          "is_correct": true,
+          "feedback": "\"Auto\" significa por sí mismo y \"trofos\" alimento; las plantas fabrican su comida usando la luz del sol."
+        },
+        {
+          "letter": "C",
+          "text": "Carnívoros de luz",
+          "is_correct": false,
+          "feedback": "Este no es un término científico; las plantas no comen carne de luz, sino que transforman energía lumínica."
+        },
+        {
+          "letter": "D",
+          "text": "Compradores de energía",
+          "is_correct": false,
+          "feedback": "La naturaleza no funciona con transacciones comerciales; las plantas realizan procesos biológicos naturales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La nutrición autótrofa es la base de la vida en la Tierra. Al fabricar su alimento, las plantas inician las cadenas alimenticias, permitiendo que después los animales puedan alimentarse de ellas o de quienes las comieron.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v3",
+      "statement": "¿Qué sustancia le da el color verde a las plantas y es necesaria para atrapar la luz del sol?",
+      "context": "Un estudiante nota que la mayoría de las plantas tienen un color verde muy llamativo en sus hojas y tallos jóvenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sangre vegetal",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen sangre; tienen savia, la cual transporta nutrientes pero no suele ser la que da el color verde."
+        },
+        {
+          "letter": "B",
+          "text": "La pintura natural",
+          "is_correct": false,
+          "feedback": "No es una pintura, sino un pigmento biológico con una función química específica para la vida de la planta."
+        },
+        {
+          "letter": "C",
+          "text": "La clorofila",
+          "is_correct": true,
+          "feedback": "La clorofila es el pigmento verde que permite a las plantas absorber la energía de la luz solar para la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "El oxígeno líquido",
+          "is_correct": false,
+          "feedback": "El oxígeno es un gas que la planta libera, no es lo que le da el color verde característico a sus hojas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clorofila se encuentra dentro de las células vegetales. Su función es capturar la energía lumínica. Sin esta sustancia, las plantas no podrían realizar la fotosíntesis y, por lo tanto, no podrían sobrevivir ni producir oxígeno.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v4",
+      "statement": "¿Por qué es tan importante para las plantas recibir luz solar directa?",
+      "context": "En la selva del Amazonas, las plantas compiten por llegar lo más alto posible para que las hojas reciban los rayos del sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que no les dé frío",
+          "is_correct": false,
+          "feedback": "Aunque el sol calienta, la razón biológica principal de buscar luz es la producción de alimento, no el calor corporal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luz es el ingrediente principal de su comida",
+          "is_correct": true,
+          "feedback": "Sin luz, la planta no puede transformar el agua y el gas carbónico en azúcares que le dan energía para crecer."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los animales las vean mejor",
+          "is_correct": false,
+          "feedback": "La planta busca la luz para su propio beneficio biológico, no para ser vista por otros animales."
+        },
+        {
+          "letter": "D",
+          "text": "Para que sus hojas cambien de lugar",
+          "is_correct": false,
+          "feedback": "La luz no hace que las hojas se muevan de sitio en la rama, sino que les permite trabajar en la fotosíntesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sol es la fuente de energía externa que activa la \"fábrica\" de la planta. Al igual que una cocina necesita fuego o electricidad para preparar comida, la planta necesita la luz solar para sus procesos químicos internos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v5",
+      "statement": "¿Qué crees que le pasará a la planta después de dos semanas?",
+      "context": "Si pones una planta dentro de una caja cerrada y oscura pero le das agua todos los días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecerá muy fuerte por el agua",
+          "is_correct": false,
+          "feedback": "El agua es solo un ingrediente; sin luz (energía), la planta no puede procesar el agua para crecer."
+        },
+        {
+          "letter": "B",
+          "text": "Se pondrá pálida, débil y morirá",
+          "is_correct": true,
+          "feedback": "Al no poder realizar fotosíntesis, la planta consume sus reservas y deja de producir el color verde de la clorofila."
+        },
+        {
+          "letter": "C",
+          "text": "Empezará a dar muchos frutos",
+          "is_correct": false,
+          "feedback": "Producir frutos requiere muchísima energía; una planta sin luz no tiene fuerza para reproducirse."
+        },
+        {
+          "letter": "D",
+          "text": "Se convertirá en un hongo",
+          "is_correct": false,
+          "feedback": "Los seres vivos no cambian de especie; una planta sigue siendo planta aunque esté enferma o muera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este experimento mental demuestra que todas las necesidades de la planta deben cumplirse juntas. Agua, aire, luz y suelo son el equipo completo que permite que las características de la planta funcionen correctamente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v6",
+      "statement": "¿A través de qué parte de su cuerpo respiran principalmente las plantas?",
+      "context": "Las plantas, al igual que los animales, necesitan \"respirar\" el aire que las rodea para mantenerse vivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por las flores de colores",
+          "is_correct": false,
+          "feedback": "Las flores son para la reproducción; la respiración ocurre principalmente en las partes verdes."
+        },
+        {
+          "letter": "B",
+          "text": "Por los pelos de la raíz",
+          "is_correct": false,
+          "feedback": "Las raíces toman gases del suelo, pero el intercambio principal de gases ocurre en las hojas."
+        },
+        {
+          "letter": "C",
+          "text": "Por unos poros diminutos en las hojas",
+          "is_correct": true,
+          "feedback": "Las hojas tienen pequeños agujeros llamados estomas por donde entra y sale el aire (oxígeno y gas carbónico)."
+        },
+        {
+          "letter": "D",
+          "text": "Por la punta del tallo",
+          "is_correct": false,
+          "feedback": "El tallo transporta sustancias, pero no es el órgano especializado en el intercambio de gases con la atmósfera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas respiran todo el tiempo, día y noche. Toman oxígeno y liberan gas carbónico, igual que nosotros. Además, durante el día, hacen lo contrario para la fotosíntesis: toman gas carbónico y liberan el oxígeno que nosotros usamos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v7",
+      "statement": "¿Cómo realiza la fotosíntesis un cactus si no tiene hojas verdes?",
+      "context": "En el desierto de la Guajira, hay plantas que no tienen hojas anchas sino espinas y tallos muy gordos y verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hace fotosíntesis y come arena",
+          "is_correct": false,
+          "feedback": "Ninguna planta come arena; todas necesitan luz solar para fabricar su alimento biológico."
+        },
+        {
+          "letter": "B",
+          "text": "Usa su tallo verde y grueso",
+          "is_correct": true,
+          "feedback": "En los cactus, el tallo ha tomado la función de las hojas, siendo el encargado de atrapar la luz y guardar agua."
+        },
+        {
+          "letter": "C",
+          "text": "Roba el alimento de otras plantas",
+          "is_correct": false,
+          "feedback": "La mayoría de los cactus son independientes; existen plantas parásitas, pero el cactus común fabrica su comida."
+        },
+        {
+          "letter": "D",
+          "text": "Solo respira por las noches",
+          "is_correct": false,
+          "feedback": "Respirar no es fabricar alimento; el cactus debe realizar fotosíntesis durante el día usando su tallo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas se adaptan a su entorno. En lugares con muy poca agua, tener hojas grandes sería peligroso porque el agua se evaporaría rápido. El cactus \"muda\" su fábrica al tallo para protegerse y sobrevivir al calor extremo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v8",
+      "statement": "¿Qué proceso de las plantas ayuda a humedecer el aire de un bosque?",
+      "context": "Los árboles de un bosque ayudan a refrescar el aire y a que se formen nubes de lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La absorción de las raíces",
+          "is_correct": false,
+          "feedback": "La raíz saca el agua del suelo hacia la planta, pero no es el proceso que envía humedad al aire."
+        },
+        {
+          "letter": "B",
+          "text": "La transpiración por las hojas",
+          "is_correct": true,
+          "feedback": "Las plantas liberan vapor de agua a través de sus hojas, funcionando como una fuente natural de humedad para la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "El crecimiento de los frutos",
+          "is_correct": false,
+          "feedback": "Los frutos guardan agua y nutrientes, pero no liberan vapor de agua al aire de forma constante como las hojas."
+        },
+        {
+          "letter": "D",
+          "text": "La caída de las ramas viejas",
+          "is_correct": false,
+          "feedback": "Esto solo agrega materia orgánica al suelo, pero no influye directamente en la humedad del aire del bosque."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transpiración es vital para el ciclo del agua. Los grandes bosques, como el Amazonas, producen su propia lluvia gracias a que millones de hojas liberan agua al aire todo el tiempo. Por eso, donde hay árboles, el clima es más fresco.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v9",
+      "statement": "¿Siguen siendo estas plantas \"carnívoras\" seres vivos autótrofos?",
+      "context": "Algunas plantas \"atrapan\" insectos, pero no los usan para tener energía, sino para obtener minerales que no hay en el suelo donde viven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque todavía hacen fotosíntesis",
+          "is_correct": true,
+          "feedback": "Estas plantas usan los insectos como un \"suplemento vitamínico\", pero su energía principal sigue viniendo del sol."
+        },
+        {
+          "letter": "B",
+          "text": "No, ahora son animales con hojas",
+          "is_correct": false,
+          "feedback": "Siguen teniendo células vegetales, clorofila y raíces; el hecho de atrapar insectos es una adaptación especial."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque los animales no comen plantas",
+          "is_correct": false,
+          "feedback": "La pregunta es si la planta sigue siendo autótrofa, no sobre lo que comen los animales."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si tienen flores muy grandes",
+          "is_correct": false,
+          "feedback": "El tamaño de la flor no determina si una planta es autótrofa o no; lo determina su capacidad de fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las plantas insectívoras viven en suelos muy pobres. Aunque atrapan hormigas o moscas para obtener nitrógeno, siguen teniendo hojas verdes y realizan fotosíntesis. Son un ejemplo increíble de cómo la vida busca soluciones para alimentarse.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v10",
+      "statement": "¿Es científica la afirmación del artista sobre la pared verde?",
+      "context": "Un artista pinta una pared de verde oscuro y dice que la pared ahora \"respira y fabrica comida\" porque el color es igual al de las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque el color verde es lo único necesario",
+          "is_correct": false,
+          "feedback": "El color es solo una propiedad física; para la vida se requieren células, enzimas y procesos biológicos."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, si la pared está bajo la luz del sol",
+          "is_correct": false,
+          "feedback": "El sol por sí solo no fabrica alimento si no hay un organismo vivo (planta) que sepa cómo usar esa energía."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el color no es lo mismo que la clorofila viva",
+          "is_correct": true,
+          "feedback": "La clorofila es una molécula compleja dentro de una célula viva; una pintura verde no puede realizar fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque las paredes no tienen raíces",
+          "is_correct": false,
+          "feedback": "Aunque no tengan raíces, el problema principal es la falta de maquinaria biológica celular para procesar la energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La vida no es solo apariencia. Ser planta requiere una organización celular microscópica que permite transformar la materia inerte (agua, aire, luz) en materia viva. El arte imita la vida, pero no puede reemplazar sus funciones biológicas reales.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v1",
+      "statement": "¿A qué grupo pertenecen las plantas que tienen tallos verdes y flexibles?",
+      "context": "En un jardín, un niño ve plantas pequeñas con tallos verdes, delgados y muy flexibles que se pueden doblar fácilmente sin romperse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Árboles",
+          "is_correct": false,
+          "feedback": "Los árboles tienen tallos muy duros, leñosos y gruesos, no verdes y flexibles como los de las plantas pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "Arbustos",
+          "is_correct": false,
+          "feedback": "Los arbustos tienen tallos leñosos desde la base; no son tan flexibles y verdes como las hierbas."
+        },
+        {
+          "letter": "C",
+          "text": "Hierbas",
+          "is_correct": true,
+          "feedback": "Las hierbas se caracterizan por tener tallos tiernos, delgados y de color verde, y generalmente son de tamaño pequeño."
+        },
+        {
+          "letter": "D",
+          "text": "Piedras verdes",
+          "is_correct": false,
+          "feedback": "Las piedras son objetos inertes; las hierbas son seres vivos que crecen y realizan funciones vitales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las hierbas son el grupo de plantas con el tallo más delicado. Al ser flexibles, pueden moverse con el viento sin quebrarse. Ejemplos comunes son el pasto, el cilantro y muchas flores de jardín.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v2",
+      "statement": "¿Cómo se llaman las plantas de tamaño mediano que tienen varios tallos leñosos saliendo de la base?",
+      "context": "Un agricultor en el Quindío cultiva plantas que tienen varios tallos duros que salen directamente desde el suelo y no crecen muy alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hierbas gigantes",
+          "is_correct": false,
+          "feedback": "Aunque sean grandes, si el tallo es leñoso (duro como madera), ya no se clasifican como hierbas."
+        },
+        {
+          "letter": "B",
+          "text": "Arbustos",
+          "is_correct": true,
+          "feedback": "Los arbustos se distinguen porque sus ramas nacen desde el suelo y sus tallos son duros pero no llegan a ser tan grandes como un tronco de árbol."
+        },
+        {
+          "letter": "C",
+          "text": "Árboles enanos",
+          "is_correct": false,
+          "feedback": "El término correcto es arbusto; los árboles suelen tener un solo tronco principal antes de dividirse en ramas."
+        },
+        {
+          "letter": "D",
+          "text": "Plantas de plástico",
+          "is_correct": false,
+          "feedback": "Los arbustos son seres vivos naturales, no objetos artificiales fabricados por el hombre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los arbustos, como el cafetal o el rosal, son plantas de resistencia media. Sus tallos duros (leñosos) les permiten vivir más tiempo que la mayoría de las hierbas, pero no alcanzan las alturas de los árboles.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v3",
+      "statement": "¿Qué nombre reciben las plantas más grandes que tienen un solo tallo duro llamado tronco?",
+      "context": "En un bosque de robles en Boyacá, vemos plantas con un solo tronco muy grueso, duro y que llegan a tocar casi las nubes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hierbas de montaña",
+          "is_correct": false,
+          "feedback": "Las hierbas no tienen troncos gruesos y duros; sus tallos son delgados y suelen morir en poco tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Arbustos gigantes",
+          "is_correct": false,
+          "feedback": "Los arbustos tienen muchos tallos desde la base; los árboles tienen un tronco principal que se ramifica a cierta altura."
+        },
+        {
+          "letter": "C",
+          "text": "Árboles",
+          "is_correct": true,
+          "feedback": "Los árboles son las plantas de mayor tamaño y longevidad, gracias a su tronco leñoso y fuerte que las sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "Postes de madera viva",
+          "is_correct": false,
+          "feedback": "Aunque el tronco es de madera, el término biológico correcto para estos seres vivos es árboles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los árboles son los gigantes del reino vegetal. Su tronco principal les permite elevar sus hojas por encima de otras plantas para recibir mejor la luz del sol, lo cual es una gran ventaja en los bosques densos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v4",
+      "statement": "¿En qué orden abrazaste las plantas (Hierba, Arbusto, Árbol)?",
+      "context": "Imagina que tratas de abrazar una planta. En una te caben las manos, en otra te pinchas con varias ramas bajas y la otra es tan ancha que no alcanzas a rodearla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Árbol, Arbusto, Hierba",
+          "is_correct": false,
+          "feedback": "El árbol es el más ancho, por lo que el orden del enunciado es incorrecto según la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Arbusto, Árbol, Hierba",
+          "is_correct": false,
+          "feedback": "Si el último es el más ancho, el orden debería terminar en árbol, no en hierba."
+        },
+        {
+          "letter": "C",
+          "text": "Hierba, Arbusto, Árbol",
+          "is_correct": true,
+          "feedback": "La hierba es pequeña (caben las manos), el arbusto tiene ramas bajas y el árbol es el más ancho y grande de todos."
+        },
+        {
+          "letter": "D",
+          "text": "Todas eran árboles",
+          "is_correct": false,
+          "feedback": "Los árboles no suelen tener tallos tan pequeños que quepan solo en las manos (como las hierbas)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta comparación ayuda a entender la escala de tamaño y estructura. Las hierbas son pequeñas, los arbustos son de tamaño medio con muchas ramas desde abajo, y los árboles son los más masivos con un tronco central.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v5",
+      "statement": "¿Qué tipo de planta sería la mejor opción para tu jardín?",
+      "context": "Tienes que sembrar plantas en un jardín pequeño. Quieres algo que no crezca más de 2 metros y que tenga muchas flores desde el nivel del suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un roble gigante",
+          "is_correct": false,
+          "feedback": "El roble es un árbol que crece muchísimos metros y ocuparía todo el espacio del jardín pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "Un arbusto de flores",
+          "is_correct": true,
+          "feedback": "Los arbustos tienen el tamaño perfecto para jardines y sus ramas crecen desde abajo, llenando el espacio con flores."
+        },
+        {
+          "letter": "C",
+          "text": "Solo pasto y hierbas",
+          "is_correct": false,
+          "feedback": "Las hierbas son muy bajitas; si quieres algo de 2 metros con muchas ramas, el arbusto es mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Una planta de plástico",
+          "is_correct": false,
+          "feedback": "Siempre es mejor elegir seres vivos naturales que ayuden al medio ambiente y respiren."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir la planta adecuada depende de conocer su clasificación. Los arbustos son ideales para decoración porque su estructura ramificada desde la base permite crear barreras visuales y tener muchas flores a media altura.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v6",
+      "statement": "¿Por qué las hierbas resistieron mejor el viento fuerte que las ramas rígidas?",
+      "context": "Después de una tormenta fuerte con mucho viento, notas que las hierbas están intactas pero algunas ramas de los árboles se rompieron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son más valientes",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen emociones; su resistencia se debe a sus propiedades físicas y biológicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sus tallos son flexibles",
+          "is_correct": true,
+          "feedback": "Al ser elásticos, los tallos de las hierbas se doblan con el viento y vuelven a su lugar sin romperse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el viento no las ve",
+          "is_correct": false,
+          "feedback": "El viento golpea a todos los objetos; la diferencia está en cómo cada estructura absorbe la energía del viento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tienen raíces de acero",
+          "is_correct": false,
+          "feedback": "Las raíces son biológicas; la resistencia al viento en este caso depende de la flexibilidad del tallo aéreo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La flexibilidad es una adaptación de las hierbas. Al no invertir energía en fabricar madera dura (lignina), sus tallos actúan como resortes, lo que les permite sobrevivir a tormentas que podrían quebrar tallos más rígidos y pesados.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v7",
+      "statement": "¿Qué parte del cuerpo del árbol le permite vivir tantos años comparado con la hierba?",
+      "context": "Los árboles pueden vivir cientos de años, mientras que muchas hierbas mueren después de unos pocos meses de haber florecido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tronco leñoso resistente",
+          "is_correct": true,
+          "feedback": "La madera protege al árbol del clima, de los animales y sostiene su gran peso durante décadas o siglos."
+        },
+        {
+          "letter": "B",
+          "text": "El color de sus flores",
+          "is_correct": false,
+          "feedback": "Las flores duran poco tiempo y no influyen en la longevidad o duración de la vida del tronco."
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño de sus hojas",
+          "is_correct": false,
+          "feedback": "Hay hierbas con hojas muy grandes, pero sin un tronco sólido no pueden vivir tanto tiempo como un árbol."
+        },
+        {
+          "letter": "D",
+          "text": "Que no necesitan agua",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos necesitan agua; los árboles necesitan mucha más agua que las hierbas por su gran tamaño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La madera es una de las mejores invenciones de la naturaleza. Al tener un tallo leñoso (el tronco), los árboles pueden resistir el paso del tiempo, las enfermedades y los cambios de clima mucho mejor que las delicadas hierbas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v8",
+      "statement": "¿Cuál es el orden correcto de clasificación para estas tres plantas?",
+      "context": "Clasifica estas plantas de uso común: Cilantro, Pino, Hortensia (planta de jardín con muchas ramas bajas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arbusto, Árbol, Hierba",
+          "is_correct": false,
+          "feedback": "El cilantro no es un arbusto, es una hierba de tallo muy tierno y flexible."
+        },
+        {
+          "letter": "B",
+          "text": "Hierba, Árbol, Arbusto",
+          "is_correct": true,
+          "feedback": "El cilantro es hierba, el pino es árbol (gran tronco) y la hortensia es un arbusto ramificado."
+        },
+        {
+          "letter": "C",
+          "text": "Árbol, Hierba, Arbusto",
+          "is_correct": false,
+          "feedback": "El cilantro no es un árbol; el orden debe empezar por hierba según la lista dada."
+        },
+        {
+          "letter": "D",
+          "text": "Todas son hierbas de cocina",
+          "is_correct": false,
+          "feedback": "Solo el cilantro se usa comúnmente en la cocina; el pino es un árbol maderable muy diferente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar las plantas de nuestro entorno nos ayuda a entender la biodiversidad. Cada tipo de planta cumple un papel diferente: las hierbas suelen ser alimento rápido, los arbustos decoran y los árboles regulan el clima y dan madera.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v9",
+      "statement": "¿Cuál es la ventaja de tener un tallo tipo \"árbol\" en un bosque con mucha sombra?",
+      "context": "En un bosque muy oscuro, las hierbas apenas crecen, pero los árboles son muy altos y tienen muchas hojas en la copa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para estar más lejos del suelo sucio",
+          "is_correct": false,
+          "feedback": "El suelo no es sucio, es donde están los nutrientes; la altura no es por limpieza sino por recursos."
+        },
+        {
+          "letter": "B",
+          "text": "Para superar la altura de otras plantas y alcanzar la luz",
+          "is_correct": true,
+          "feedback": "El tronco largo permite que las hojas del árbol lleguen a donde hay sol, mientras las hierbas se quedan en la sombra."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los pájaros no las alcancen",
+          "is_correct": false,
+          "feedback": "Los pájaros aman los árboles; la altura es una estrategia para la fotosíntesis, no para huir de aves."
+        },
+        {
+          "letter": "D",
+          "text": "Para que las raíces crezcan hacia arriba",
+          "is_correct": false,
+          "feedback": "Las raíces siempre crecen hacia abajo buscando agua; el tronco es el que crece hacia arriba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia por la luz es una batalla constante en la naturaleza. Los árboles invierten mucha energía en crear un tronco alto y fuerte para ganar esa batalla y poder realizar fotosíntesis por encima de sus competidores más bajos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v10",
+      "statement": "¿Es el banano realmente un árbol desde el punto de vista científico?",
+      "context": "Una planta de banano parece un árbol porque es muy alta, pero su \"tronco\" en realidad está hecho de hojas apretadas y es blando y jugoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque da frutas muy grandes",
+          "is_correct": false,
+          "feedback": "Dar frutas no define si una planta es árbol; hay arbustos y hierbas (como el tomate) que también dan frutos."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque mide más de 3 metros",
+          "is_correct": false,
+          "feedback": "El tamaño engaña; lo que importa es la composición y dureza del tallo central."
+        },
+        {
+          "letter": "C",
+          "text": "No, es una hierba gigante porque no tiene madera",
+          "is_correct": true,
+          "feedback": "Como su tallo es blando y no leñoso, científicamente el banano se clasifica como una megaforbia o hierba gigante."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque no tiene ramas en la parte de abajo",
+          "is_correct": false,
+          "feedback": "Muchos árboles no tienen ramas abajo; la razón real es la falta de tronco de madera (leño)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A veces las plantas nos confunden. El banano es la hierba más grande del mundo. Al no tener un tronco de madera real, si lo cortas verás que es pura fibra y agua, demostrando que la clasificación depende de la estructura interna y no solo del tamaño.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null

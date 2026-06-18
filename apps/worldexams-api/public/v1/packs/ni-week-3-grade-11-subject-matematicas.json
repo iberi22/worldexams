@@ -10,7 +10,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la forma general de una función exponencial con base $b$?",
-      "context": "",
+      "context": "Un profesor en el Instituto Nacional Central \"Miguel Ramírez Goyena\" explica las bases de las funciones.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el intercepto con el eje $y$ de la función exponencial básica $f(x) = b^x$?",
-      "context": "",
+      "context": "Un análisis gráfico de las funciones en el sistema educativo nicaragüense.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.82,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v3",
       "statement": "¿Qué sucede con la gráfica de la función $f(x) = b^x$ si la base $b$ es mayor que 1?",
-      "context": "",
+      "context": "El crecimiento de una inversión en un banco de Managua.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el rango (conjunto de valores de llegada) de la función exponencial básica $f(x) = b^x$?",
-      "context": "",
+      "context": "Un estudio sobre el dominio y rango de funciones en secundaria.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.78,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v5",
       "statement": "¿Cuál de las siguientes funciones representa un decaimiento (decrecimiento) exponencial?",
-      "context": "",
+      "context": "Una investigación sobre la población de tortugas paslama en las playas de Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v6",
       "statement": "Dada la función $f(x) = 2^{x-3} + 1$, ¿cuál es la asíntota horizontal de su gráfica?",
-      "context": "",
+      "context": "Un técnico en refrigeración en Chinandega observa cómo disminuye la temperatura de un motor.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.72,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v7",
       "statement": "Si una población de bacterias se duplica cada hora y comienza con 100 bacterias, ¿cuál es la función que representa la cantidad de bacterias $N$ después de $t$ horas?",
-      "context": "",
+      "context": "El cálculo de la población de bacterias en un laboratorio de la UNAN-León.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.68,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v8",
       "statement": "Si $f(x) = 3^x$, ¿cuál es el valor de $f(-2)$?",
-      "context": "",
+      "context": "Un estudiante evalúa el valor de una función en un punto específico.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el valor aproximado de la constante de Euler ($e$), base de los logaritmos naturales y de la función exponencial natural?",
-      "context": "",
+      "context": "El uso del número $e$ en modelos financieros en Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.63,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v10",
       "statement": "¿Cómo se obtiene la gráfica de $g(x) = 4^x - 5$ a partir de la gráfica de $f(x) = 4^x$?",
-      "context": "",
+      "context": "La transformación de funciones en el plano cartesiano.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v11",
       "statement": "Se invierten C$ 1,000 a una tasa anual del 6% compuesta mensualmente. ¿Cuál es la función que representa el capital $C$ después de $t$ años?",
-      "context": "",
+      "context": "Un plan de ahorro con interés compuesto mensualmente en Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.58,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v12",
       "statement": "Dadas las funciones $f(x) = 100x$ y $g(x) = 2^x$. ¿Qué se puede afirmar sobre su comportamiento para valores muy grandes de $x$?",
-      "context": "",
+      "context": "Comparación del crecimiento de diferentes funciones.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v13",
       "statement": "La cantidad de una sustancia radiactiva disminuye según la función $M(t) = M_0 \\cdot e^{-kt}$. ¿Qué representa el signo negativo en el exponente?",
-      "context": "",
+      "context": "El análisis de la vida media de un isótopo radiactivo en un estudio geológico en Nicaragua.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.52,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la función exponencial de la forma $f(x) = a \\cdot b^x$ que pasa por los puntos $(0, 4)$ y $(2, 36)$?",
-      "context": "",
+      "context": "Identificación de una función a partir de puntos en el plano.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v15",
       "statement": "Dada la función $h(x) = -2^x$. ¿Cuál de las siguientes afirmaciones es CORRECTA sobre su gráfica?",
-      "context": "",
+      "context": "El efecto de los coeficientes negativos en la gráfica exponencial.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.48,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la relación entre las funciones $f(x) = 2^x$ y $g(x) = (1/2)^x$?",
-      "context": "",
+      "context": "Un análisis de la base fraccionaria y el exponente negativo.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v17",
       "statement": "Una población de peces en una laguna de Nicaragua sigue el modelo $P(t) = \\frac{5,000}{1 + 4e^{-0.2t}}$. ¿Qué representa el valor 5,000 en este contexto?",
-      "context": "",
+      "context": "Un modelo de crecimiento logístico simplificado en ecología.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v18",
       "statement": "Determina el valor de $x$ que satisface la ecuación $9^{x+1} = 27^{x-1}$.",
-      "context": "",
+      "context": "Resolución de una ecuación exponencial mediante igualación de bases.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.38,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v19",
       "statement": "Dada la función $f(x) = e^{x^2}$. ¿Cuál de las siguientes afirmaciones es CORRECTA sobre su simetría?",
-      "context": "",
+      "context": "Análisis de la composición de funciones exponenciales.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el capital final de una inversión de C$ 5,000 al 8% de interés anual compuesto continuamente durante 5 años? (Utiliza $e^{0.4} \\approx 1.4918$)",
-      "context": "",
+      "context": "Un reto sobre el interés compuesto de capitalización continua.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.32,
       "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

@@ -8,6 +8,432 @@
   },
   "questions": [
     {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v1",
+      "statement": "\"Tall\" means ___ in Spanish.",
+      "context": "In Bogotá, students learn adjectives for physical description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bajo\" es \"short\"."
+        },
+        {
+          "letter": "B",
+          "text": "Alto",
+          "is_correct": true,
+          "feedback": "Correcto. \"Tall\" = alto."
+        },
+        {
+          "letter": "C",
+          "text": "Delgado",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Delgado\" es \"thin\" o \"slim\"."
+        },
+        {
+          "letter": "D",
+          "text": "Gordo",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Gordo\" es \"fat\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Tall\" = alto/a. Opuestos: tall (alto) ↔ short (bajo), thin/fat (delgado/gordo), young (joven) ↔ old (viejo).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v2",
+      "statement": "\"Someone with no hair is ___.\"",
+      "context": "In Medellín, students learn hair vocabulary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "curly",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Curly\" = rizado."
+        },
+        {
+          "letter": "B",
+          "text": "blond",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Blond\" = rubio."
+        },
+        {
+          "letter": "C",
+          "text": "bald",
+          "is_correct": true,
+          "feedback": "Correcto. \"Bald\" = calvo."
+        },
+        {
+          "letter": "D",
+          "text": "long",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Long\" = largo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tipos de cabello: long (largo), short (corto), curly (rizado), straight (liso), wavy (ondulado), blond (rubio), brown (castaño), bald (calvo).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v3",
+      "statement": "\"She ___ long, straight hair.\"",
+      "context": "In Cali, students describe hair and eyes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Have\" con she no es correcto."
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correcto. \"She has\" = ella tiene."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Is\" no indica posesión de cabello."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrecto. No funciona aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para describir características físicas usamos \"have/has\": I have, you have, he/she has, we have, they have.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v4",
+      "statement": "\"My brother is very ___. He is 1.80 meters.\"",
+      "context": "In Barranquilla, students describe height.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tall",
+          "is_correct": true,
+          "feedback": "Correcto. 1.80 m es alto."
+        },
+        {
+          "letter": "B",
+          "text": "short",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.80 m no es bajo."
+        },
+        {
+          "letter": "C",
+          "text": "small",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Small\" es para objetos, no altura de personas."
+        },
+        {
+          "letter": "D",
+          "text": "tiny",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Tiny\" es muy pequeño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para altura de personas: tall (alto, +1.75m aprox), short (bajo). Para objetos: big/large (grande), small (pequeño).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v5",
+      "statement": "\"My eyes ___ brown.\"",
+      "context": "In Bucaramanga, students use \"be\" for description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Eyes\" es plural."
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correcto. \"Eyes\" = plural → are."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Am\" solo con I."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Have\" no se usa con color de ojos de esa forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para describir con el verbo \"to be\": \"My eyes are brown\" = Mis ojos son marrones. Para describir con \"have\": \"I have brown eyes\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v6",
+      "statement": "\"I ___ short and I ___ curly hair.\"",
+      "context": "In Cartagena, a student describes herself.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am / have",
+          "is_correct": true,
+          "feedback": "Correcto. \"I am short\" (ser), \"I have curly hair\" (tener)."
+        },
+        {
+          "letter": "B",
+          "text": "have / am",
+          "is_correct": false,
+          "feedback": "Incorrecto. Orden incorrecto de verbos."
+        },
+        {
+          "letter": "C",
+          "text": "am / am",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"I am curly hair\" no tiene sentido."
+        },
+        {
+          "letter": "D",
+          "text": "have / have",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"I have short\" no es correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Am\" para ser/estar (características estables). \"Have\" para tener (posesión de atributos como cabello). I am tall. I have blue eyes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v7",
+      "statement": "\"Shakira ___ long blond hair.\"",
+      "context": "In Pereira, students describe a famous Colombian person.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto. Shakira = she → has."
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correcto. \"Shakira has long blond hair.\""
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Is\" no indica posesión."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrecto. No funciona aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tercera persona singular (he/she/it) → has. Shakira has long blond hair. Carlos has brown eyes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v8",
+      "statement": "\"What does your best friend look ___?\"",
+      "context": "In Manizales, students ask about appearance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Look at\" = mirar a."
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Look for\" = buscar."
+        },
+        {
+          "letter": "C",
+          "text": "like",
+          "is_correct": true,
+          "feedback": "Correcto. \"Look like\" = cómo se ve, aspecto físico."
+        },
+        {
+          "letter": "D",
+          "text": "after",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Look after\" = cuidar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"What does he/she look like?\" pregunta por la apariencia física. Se responde con descripciones: \"He is tall and thin. He has short hair.\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v9",
+      "statement": "\"She is tall and thin. She has long straight hair. She wears glasses. Who could she be?\"",
+      "context": "In Cúcuta, students read a description and identify the person.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A baby",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bebés no son altos ni usan gafas típicamente."
+        },
+        {
+          "letter": "B",
+          "text": "A primary school student",
+          "is_correct": false,
+          "feedback": "Posible, pero \"tall\" sugiere alguien mayor."
+        },
+        {
+          "letter": "C",
+          "text": "A high school teacher",
+          "is_correct": true,
+          "feedback": "Correcto. Una profesora alta y delgada con gafas es una descripción plausible."
+        },
+        {
+          "letter": "D",
+          "text": "A toddler",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un niño pequeño no es alto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer descripciones requiere conectar adjetivos con personas plausibles. \"Tall\", \"glasses\", \"long straight hair\" describe a una adulta o adolescente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v10",
+      "statement": "\"Which sentence is INCORRECT?\"",
+      "context": "In Ibagué, students correct a wrong description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My sister has green eyes. <!-- Correct: Tener. -->",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "My father is tall and thin. <!-- Correct: Ser. -->",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "I am short hair.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"I am short hair\" significa \"Yo soy cabello corto\", que no tiene sentido."
+        },
+        {
+          "letter": "C",
+          "text": "I am short hair. <!-- Actually the error; listed twice, choose the right one -->",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "They have curly hair. <!-- Correct: Tener. -->",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"I am short hair\" es incorrecto porque \"short hair\" no es una característica de identidad. Lo correcto es \"I have short hair\" o \"My hair is short\".\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v1",
       "statement": "What is the structure of present perfect?",
       "context": "At Colegio Champagnat de Manizales, students review present perfect.",
@@ -42,6 +468,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -82,6 +510,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -122,6 +552,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -162,6 +594,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -202,6 +636,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -242,6 +678,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -282,6 +720,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -322,6 +762,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -362,6 +804,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -402,6 +846,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -442,6 +888,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

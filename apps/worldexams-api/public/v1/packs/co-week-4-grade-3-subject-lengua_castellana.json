@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v1",
       "statement": "¿Cuál de las siguientes palabras es un sustantivo?",
-      "context": "",
+      "context": "Una lista de palabras en un tablero de un colegio en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v2",
       "statement": "¿Qué palabra es un sustantivo propio?",
-      "context": "",
+      "context": "Carlos y María hablan sobre sus mascotas en un parque de Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v3",
       "statement": "En la frase \"Agrega la sal al arroz\", ¿cuáles son los sustantivos?",
-      "context": "",
+      "context": "Una receta de cocina típica en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v4",
       "statement": "¿Cuál es el género del sustantivo \"vaca\"?",
-      "context": "",
+      "context": "Observando animales en una finca del Quindío.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v5",
       "statement": "¿Cuál es el plural del sustantivo \"lápiz\"?",
-      "context": "",
+      "context": "Comprando útiles escolares en una papelería de Cali.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v6",
       "statement": "¿Cuál de estos sustantivos es común?",
-      "context": "",
+      "context": "Leyendo un cuento sobre un gigante en el Salto del Tequendama.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v7",
       "statement": "¿Qué sustantivo propio completa mejor esta oración?\n\"Mi primo vive en ____________.\"",
-      "context": "",
+      "context": "Escribiendo una carta a un familiar que vive en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v8",
       "statement": "¿Qué tienen en común los sustantivos: **niño, gato, pelota, parque**?",
-      "context": "",
+      "context": "Clasificando palabras en una actividad de grupo en Bucaramanga.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v9",
       "statement": "¿Cuál es el error en la siguiente frase: \"Los chigüiro corren por la llanura\"?",
-      "context": "",
+      "context": "Corrigiendo un texto sobre la fauna de los Llanos Orientales.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v10",
       "statement": "Si quieres crear un nombre propio para un delfín rosado, ¿cuál de estos sería el más apropiado gramaticalmente?",
-      "context": "",
+      "context": "Inventando una historia sobre un personaje mágico en el Amazonas.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

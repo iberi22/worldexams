@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v1",
+      "statement": "To say you like something: \"I ___ pizza.\"",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "like",
+          "is_correct": true,
+          "feedback": "Correcto. I like = me gusta."
+        },
+        {
+          "letter": "B",
+          "text": "likes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Likes es tercera persona."
+        },
+        {
+          "letter": "C",
+          "text": "liking",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gerundio."
+        },
+        {
+          "letter": "D",
+          "text": "am like",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "I like + noun/verb-ing. \"I like pizza.\" \"I like eating pizza.\"\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v2",
+      "statement": "\"She ___ ice cream.\" (le gusta)",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "likes",
+          "is_correct": true,
+          "feedback": "Correcto. She likes."
+        },
+        {
+          "letter": "B",
+          "text": "like",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tercera persona → likes."
+        },
+        {
+          "letter": "C",
+          "text": "is like",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Is like\" es ser como."
+        },
+        {
+          "letter": "D",
+          "text": "liking",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Like en tercera persona: he/she/it likes. \"She likes ice cream.\"\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v3",
+      "statement": "\"I ___ broccoli.\" (no me gusta)",
+      "context": "In Cali, expressing dislike.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't like",
+          "is_correct": true,
+          "feedback": "Correcto. Don't like = no gustar."
+        },
+        {
+          "letter": "B",
+          "text": "doesn't like",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doesn't para he/she/it."
+        },
+        {
+          "letter": "C",
+          "text": "no like",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es gramatical."
+        },
+        {
+          "letter": "D",
+          "text": "not like",
+          "is_correct": false,
+          "feedback": "Incorrecto. Necesita auxiliar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Negative: I/you/we/they + don't like. He/she/it + doesn't like.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v4",
+      "statement": "\"My brother ___ vegetables.\" (no le gustan)",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doesn't like",
+          "is_correct": true,
+          "feedback": "Correcto. Brother = he."
+        },
+        {
+          "letter": "B",
+          "text": "don't like",
+          "is_correct": false,
+          "feedback": "Incorrecto. Don't con he no."
+        },
+        {
+          "letter": "C",
+          "text": "isn't like",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "not like",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"My brother doesn't like vegetables.\" = A mi hermano no le gustan las verduras.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v5",
+      "statement": "\"___ you like coffee?\"",
+      "context": "In Bucaramanga, questions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": true,
+          "feedback": "Correcto. Do you like?"
+        },
+        {
+          "letter": "B",
+          "text": "Does",
+          "is_correct": false,
+          "feedback": "Incorrecto. Does con he/she/it."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Questions with like: Do + I/you/we/they + like? Does + he/she/it + like?\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v6",
+      "statement": "\"Do you like mango?\" \"Yes, I ___.\"",
+      "context": "In Cartagena, answer questions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correcto. Yes, I do."
+        },
+        {
+          "letter": "B",
+          "text": "like",
+          "is_correct": false,
+          "feedback": "Posible pero \"Yes, I do\" es la respuesta corta."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Short answers: Yes, I do. / No, I don't. Yes, she does. / No, she doesn't.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v7",
+      "statement": "\"I like apples ___ I don't like bananas.\"",
+      "context": "In Pereira, preferences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "but",
+          "is_correct": true,
+          "feedback": "Correcto. But = pero."
+        },
+        {
+          "letter": "B",
+          "text": "and",
+          "is_correct": false,
+          "feedback": "Incorrecto. And une cosas similares."
+        },
+        {
+          "letter": "C",
+          "text": "or",
+          "is_correct": false,
+          "feedback": "Incorrecto. Or = o."
+        },
+        {
+          "letter": "D",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrecto. Because = porque."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "But = pero (contraste). And = y (adición). \"I like apples but I don't like bananas.\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v8",
+      "statement": "\"I like ___ soccer.\"",
+      "context": "In Manizales, like + verb-ing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "playing",
+          "is_correct": true,
+          "feedback": "Correcto. Like + verb-ing."
+        },
+        {
+          "letter": "B",
+          "text": "play",
+          "is_correct": false,
+          "feedback": "Incorrecto. Like play no."
+        },
+        {
+          "letter": "C",
+          "text": "plays",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "played",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Like + verb-ing = disfrutar hacer algo. \"I like playing soccer.\" \"She likes reading books.\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v9",
+      "statement": "\"Ana likes fruit. She doesn't like candy.\" What does Ana like?",
+      "context": "In Cúcuta, read preferences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fruit",
+          "is_correct": true,
+          "feedback": "Correcto. Ana likes fruit."
+        },
+        {
+          "letter": "B",
+          "text": "Candy",
+          "is_correct": false,
+          "feedback": "Incorrecto. No le gusta el dulce."
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading comprehension: identify what the person likes (fruit) and doesn't like (candy).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v10",
+      "statement": "\"Carlos likes pizza. María doesn't like pizza.\" Who likes pizza?",
+      "context": "In Ibagué, compare preferences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carlos",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "María",
+          "is_correct": false,
+          "feedback": "Incorrecto. María no le gusta."
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading and understanding who likes and who doesn't like something.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null
