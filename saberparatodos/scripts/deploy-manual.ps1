@@ -116,6 +116,13 @@ if (-not $Fast) {
     if ($LASTEXITCODE -ne 0) {
       throw '[deploy] validate:strict failed.'
     }
+
+    Write-Host '[deploy] Running E2E tests...' -ForegroundColor Gray
+    pnpm run test
+    if ($LASTEXITCODE -ne 0) {
+      Write-Host '[deploy] E2E Tests failed! Check test-results directory for screenshots and traces.' -ForegroundColor Red
+      throw '[deploy] E2E Tests failed.'
+    }
   }
 }
 
