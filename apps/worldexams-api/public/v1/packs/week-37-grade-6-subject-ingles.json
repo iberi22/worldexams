@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W37-question-formation-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v1",
+      "statement": "\"Good evening\" is used at ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 PM onwards",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "8 AM",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 AM = morning."
+        },
+        {
+          "letter": "C",
+          "text": "12 PM",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 PM = afternoon."
+        },
+        {
+          "letter": "D",
+          "text": "3 PM",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 PM = afternoon."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Greetings: Good morning (AM), Good afternoon (12-6 PM), Good evening (6 PM+), Good night (farewell).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v2",
+      "statement": "\"Your father's mother is your ___.\"",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grandmother",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "aunt",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunt = tía."
+        },
+        {
+          "letter": "C",
+          "text": "sister",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sister = hermana."
+        },
+        {
+          "letter": "D",
+          "text": "cousin",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cousin = prima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Family: father's mother = grandmother. Father's father = grandfather.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v3",
+      "statement": "\"He ___ English on Mondays and Wednesdays.\" (third person)",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "studies",
+          "is_correct": true,
+          "feedback": "Correcto. He studies."
+        },
+        {
+          "letter": "B",
+          "text": "study",
+          "is_correct": false,
+          "feedback": "Incorrecto. He studies."
+        },
+        {
+          "letter": "C",
+          "text": "studying",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "studied",
+          "is_correct": false,
+          "feedback": "Incorrecto. Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Third person singular: study → studies. He studies English. She plays soccer.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v4",
+      "statement": "\"I ___ like spicy food.\" (negation)",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't",
+          "is_correct": true,
+          "feedback": "Correcto. I don't like."
+        },
+        {
+          "letter": "B",
+          "text": "doesn't",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doesn't para he/she/it."
+        },
+        {
+          "letter": "C",
+          "text": "am not",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Negation: I/you/we/they + don't. He/she/it + doesn't. \"I don't like spicy food.\"\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v5",
+      "statement": "\"It's quarter to eight\" = ___.",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7:45",
+          "is_correct": true,
+          "feedback": "Correcto. Quarter to eight = 7:45."
+        },
+        {
+          "letter": "B",
+          "text": "8:15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quarter past eight = 8:15."
+        },
+        {
+          "letter": "C",
+          "text": "8:30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Half past eight = 8:30."
+        },
+        {
+          "letter": "D",
+          "text": "8:00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eight o'clock = 8:00."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Quarter to = 15 minutos para la hora. Quarter past = 15 minutos después de la hora.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v6",
+      "statement": "\"This is María. ___ mother is a teacher.\" (possessive)",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Her",
+          "is_correct": true,
+          "feedback": "Correcto. María = she → her."
+        },
+        {
+          "letter": "B",
+          "text": "His",
+          "is_correct": false,
+          "feedback": "Incorrecto. María = woman."
+        },
+        {
+          "letter": "C",
+          "text": "My",
+          "is_correct": false,
+          "feedback": "Incorrecto. My = de quien habla."
+        },
+        {
+          "letter": "D",
+          "text": "Your",
+          "is_correct": false,
+          "feedback": "Incorrecto. Your = de ti."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Her = de ella. Possessive adjective for third person feminine singular.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v7",
+      "statement": "\"There ___ some books on the table.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correcto. Books = plural."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plural."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "There are + plural noun. There is + singular/uncountable noun. \"There are some books.\"\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v8",
+      "statement": "\"I ___ a new pencil case.\" (tengo)",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have got",
+          "is_correct": true,
+          "feedback": "Correcto. I have got."
+        },
+        {
+          "letter": "B",
+          "text": "has got",
+          "is_correct": false,
+          "feedback": "Incorrecto. I have."
+        },
+        {
+          "letter": "C",
+          "text": "am got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "is got",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "I have got (I've got) = yo tengo. He/she has got = él/ella tiene.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v9",
+      "statement": "\"Correct the sentence: She don't like vegetables.\"",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She doesn't like vegetables.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "She don't likes vegetables.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "She isn't like vegetables.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "She not like vegetables.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Error: 'don't' with 'she'. Correction: 'doesn't'. She doesn't like vegetables.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-v10",
+      "statement": "\"I wake up at 5 AM, have breakfast at 6, go to school at 7.\" What do I do at 6 AM?",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have breakfast",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Wake up",
+          "is_correct": false,
+          "feedback": "Incorrecto. Wake up = 5 AM."
+        },
+        {
+          "letter": "C",
+          "text": "Go to school",
+          "is_correct": false,
+          "feedback": "Incorrecto. School = 7 AM."
+        },
+        {
+          "letter": "D",
+          "text": "Sleep",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading comprehension: identify the activity at each time. 5 AM = wake up, 6 AM = breakfast, 7 AM = go to school.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W37-review-semester1-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
       "cefr_level": null

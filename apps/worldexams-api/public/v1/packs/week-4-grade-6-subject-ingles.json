@@ -10,7 +10,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-001",
       "statement": "What time is it if the clock says 07:30?",
-      "context": "",
+      "context": "Telling the time on a digital clock.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.85,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-002",
       "statement": "Choose the correct verb: \"I ___ my teeth after breakfast.\"",
-      "context": "",
+      "context": "Personal hygiene habits in the morning.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.8,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-003",
       "statement": "At many schools in Argentina, the shift starts at 08:00 AM. How do you say \"08:00\" in English?",
-      "context": "",
+      "context": "The start of the morning shift at school.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.85,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-004",
       "statement": "Which of these activities usually happens in the evening (night)?",
-      "context": "",
+      "context": "Categorizing activities by time of day.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.75,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-005",
       "statement": "Where does an adverb of frequency (like \"always\") go with the verb \"to be\"?",
-      "context": "",
+      "context": "Grammar rule for adverbs with the verb \"to be\".",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.75,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-006",
       "statement": "In Argentina, children often have a snack called 'merienda'. They ___ milk and eat cookies.",
-      "context": "",
+      "context": "Having \"merienda\" in Argentina at 5:00 PM.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-007",
       "statement": "What is the correct way to say 09:15?",
-      "context": "",
+      "context": "Telling the time (09:15).",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-008",
       "statement": "Read and choose: \"I ___ on Saturdays, but I ___ to the club.\"",
-      "context": "",
+      "context": "Weekend routines and frequency.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.65,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-009",
       "statement": "What does \"seldom\" or \"rarely\" mean in a routine?",
-      "context": "",
+      "context": "Understanding different levels of frequency.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.7,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-ING-06-2026-W04-daily-routines-010",
       "statement": "Choose the correct preposition: \"I do my homework ___ the afternoon.\"",
-      "context": "",
+      "context": "Using prepositions for times of day.",
       "options": [
         {
           "letter": "A",
@@ -402,7 +429,430 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y culturas",
+      "expected_success": 0.65,
       "bundle_id": "AR-ING-06-2026-W04-daily-routines-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v1",
+      "statement": "The Colombian flag has three colors: yellow, blue and ___.",
+      "context": "In class in Bogotá, students learn the colors of the Colombian flag.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "red",
+          "is_correct": true,
+          "feedback": "Correcto. Los colores de la bandera de Colombia son amarillo, azul y rojo."
+        },
+        {
+          "letter": "B",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verde no está en la bandera colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "white",
+          "is_correct": false,
+          "feedback": "Incorrecto. El blanco no está en la bandera colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "black",
+          "is_correct": false,
+          "feedback": "Incorrecto. El negro no está en la bandera colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La bandera de Colombia tiene tres colores: yellow (amarillo), blue (azul) y red (rojo). El amarillo representa la riqueza, el azul los mares y el rojo la sangre de los héroes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v2",
+      "statement": "How many letters are there in the English alphabet?",
+      "context": "In Medellín, students spell their names.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alfabeto inglés tiene menos de 27 letras."
+        },
+        {
+          "letter": "B",
+          "text": "26",
+          "is_correct": true,
+          "feedback": "Correcto. El alfabeto inglés tiene 26 letras."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alfabeto inglés tiene 26, no 25."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alfabeto inglés tiene 26 letras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El alfabeto inglés tiene 26 letras: A a Z. El alfabeto español tiene 27 (incluye la Ñ).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v3",
+      "statement": "\"Ten + five = ___\"",
+      "context": "In Cali, students practice numbers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirteen",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 + 5 = 15, no 13."
+        },
+        {
+          "letter": "B",
+          "text": "fourteen",
+          "is_correct": false,
+          "feedback": "Incorrecto. 14 = fourteen."
+        },
+        {
+          "letter": "C",
+          "text": "fifteen",
+          "is_correct": true,
+          "feedback": "Correcto. 10 + 5 = 15 (fifteen)."
+        },
+        {
+          "letter": "D",
+          "text": "sixteen",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16 = sixteen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Números en inglés: 10 = ten, 11 = eleven, 12 = twelve, 13 = thirteen, 14 = fourteen, 15 = fifteen, 16 = sixteen.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v4",
+      "statement": "\"Blue + yellow = ___\"",
+      "context": "In Barranquilla, the teacher mixes colors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "green",
+          "is_correct": true,
+          "feedback": "Correcto. Azul + amarillo = verde."
+        },
+        {
+          "letter": "B",
+          "text": "orange",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rojo + amarillo = naranja."
+        },
+        {
+          "letter": "C",
+          "text": "purple",
+          "is_correct": false,
+          "feedback": "Incorrecto. Azul + rojo = púrpura."
+        },
+        {
+          "letter": "D",
+          "text": "brown",
+          "is_correct": false,
+          "feedback": "Incorrecto. Varios colores mezclados dan marrón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mezcla de colores: blue + yellow = green, red + yellow = orange, red + blue = purple.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v5",
+      "statement": "\"C-A-T\" spells ___.",
+      "context": "In Bucaramanga, students spell the word \"cat\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cat",
+          "is_correct": true,
+          "feedback": "Correcto. C-A-T deletrea \"cat\" (gato)."
+        },
+        {
+          "letter": "B",
+          "text": "car",
+          "is_correct": false,
+          "feedback": "Incorrecto. Car se deletrea C-A-R."
+        },
+        {
+          "letter": "C",
+          "text": "hat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hat se deletrea H-A-T."
+        },
+        {
+          "letter": "D",
+          "text": "cut",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cut se deletrea C-U-T."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Deletrear (to spell) es decir cada letra de una palabra. C-A-T = cat. Es una habilidad importante para aprender vocabulario nuevo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v6",
+      "statement": "\"My ___ color is blue.\"",
+      "context": "In Cartagena, a student describes their favorite color.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "love",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se usa así."
+        },
+        {
+          "letter": "B",
+          "text": "like",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es correcto gramaticalmente."
+        },
+        {
+          "letter": "C",
+          "text": "favorite",
+          "is_correct": true,
+          "feedback": "Correcto. \"My favorite color\" = mi color favorito."
+        },
+        {
+          "letter": "D",
+          "text": "better",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Better\" no funciona aquí."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Favorite\" = favorito. Se usa antes del sustantivo: \"My favorite color\", \"My favorite food\", \"My favorite subject\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v7",
+      "statement": "\"There are ___ chairs in the classroom.\" (12)",
+      "context": "In Pereira, students count objects in the classroom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "twelve",
+          "is_correct": false,
+          "feedback": "Correcto. Twelve = 12."
+        },
+        {
+          "letter": "B",
+          "text": "twenty",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 = twenty."
+        },
+        {
+          "letter": "C",
+          "text": "twelve",
+          "is_correct": true,
+          "feedback": "Correcto. Twelve = 12."
+        },
+        {
+          "letter": "D",
+          "text": "twelveth",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Twelveth\" no existe; \"twelfth\" es el ordinal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Números cardinales: 11 = eleven, 12 = twelve, 13 = thirteen, 14 = fourteen, 15 = fifteen, 16 = sixteen, 17 = seventeen, 18 = eighteen, 19 = nineteen, 20 = twenty.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v8",
+      "statement": "\"What color is the sky on a sunny day?\"",
+      "context": "In Manizales, the teacher asks about colors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gray",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gray/gris es para días nublados."
+        },
+        {
+          "letter": "B",
+          "text": "Blue",
+          "is_correct": true,
+          "feedback": "Correcto. El cielo está azul en un día soleado."
+        },
+        {
+          "letter": "C",
+          "text": "Green",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cielo no es verde."
+        },
+        {
+          "letter": "D",
+          "text": "Yellow",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol es amarillo, el cielo es azul."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cielo (sky) en un día soleado (sunny day) es azul (blue). En un día nublado (cloudy day) es gris (gray).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v9",
+      "statement": "\"The teacher says 'one-four-seven'. What number is it?\"",
+      "context": "In Cúcuta, students do a listening exercise with numbers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "174",
+          "is_correct": false,
+          "feedback": "Incorrecto. One-four-seven = 1-4-7, que es 147."
+        },
+        {
+          "letter": "B",
+          "text": "147",
+          "is_correct": true,
+          "feedback": "Correcto. One-four-seven = 147."
+        },
+        {
+          "letter": "C",
+          "text": "117",
+          "is_correct": false,
+          "feedback": "Incorrecto. One-one-seven = 117."
+        },
+        {
+          "letter": "D",
+          "text": "471",
+          "is_correct": false,
+          "feedback": "Incorrecto. Four-seven-one = 471."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al deletrear números, se dice cada dígito individualmente. 147 = one-four-seven. Los números de teléfono se dicen así.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-v10",
+      "statement": "\"I have ___ pencils. They are ___.\"",
+      "context": "In Ibagué, a student describes an object by color and number.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "five / yellow",
+          "is_correct": true,
+          "feedback": "Correcto. \"Five yellow pencils\" = cinco lápices amarillos."
+        },
+        {
+          "letter": "B",
+          "text": "yellow / five",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es número + adjetivo + sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "fifth / yellow",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Fifth\" es ordinal (quinto)."
+        },
+        {
+          "letter": "D",
+          "text": "five / yellows",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores no se pluralizan en inglés."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En inglés el orden es: número + adjetivo + sustantivo. \"Five yellow pencils\". Los colores no tienen forma plural.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W04-colors-numbers-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null
@@ -442,6 +892,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -482,6 +934,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -522,6 +976,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -562,6 +1018,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -602,6 +1060,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -642,6 +1102,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -682,6 +1144,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -722,6 +1186,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -762,6 +1228,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -802,6 +1270,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -842,6 +1312,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W04-present-perfect-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v1",
       "statement": "¿Cuál es el recurso gráfico fundamental de la caricatura que consiste en deformar o resaltar los rasgos físicos de una persona para hacerla reconocible o burlarse de ella?",
-      "context": "",
+      "context": "En la sección de opinión de un diario colombiano, los estudiantes observan una caricatura de Matador. En ella aparece un personaje político con las orejas exageradamente grandes y una nariz muy larga.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v2",
       "statement": "¿A qué género periodístico pertenece principalmente la caricatura que busca expresar una postura crítica sobre un hecho de actualidad?",
-      "context": "",
+      "context": "Un caricaturista dibuja a un funcionario público sentado sobre un cerro de monedas de oro mientras a su lado hay un niño con un plato vacío. No hay diálogos en la imagen.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v3",
       "statement": "¿Qué figura retórica visual se está empleando al sustituir la balanza por billetes en este contexto?",
-      "context": "",
+      "context": "En una caricatura sobre la justicia en Colombia, se dibuja a la \"Dama de la Justicia\" con la venda en los ojos, pero en lugar de una balanza, sostiene un fajo de billetes.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v4",
       "statement": "¿Cuál es el mensaje implícito que el autor quiere transmitir con esta imagen?",
-      "context": "",
+      "context": "Una caricatura muestra a un ciudadano colombiano tratando de subir una montaña muy alta etiquetada como \"Costo de vida\", mientras lleva una maleta pequeña llamada \"Salario mínimo\".",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v5",
       "statement": "¿Cuál de las dos opciones cumple mejor con la función de una caricatura periodística y por qué?",
-      "context": "",
+      "context": "Imagina que debes crear una caricatura para criticar la contaminación del río Bogotá. Tienes dos ideas:\n1. Dibujar el río tal como se ve en una foto.\n2. Dibujar al río como un paciente en una camilla, con tapabocas y conectado a un suero de agua limpia.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v6",
       "statement": "¿Qué recurso del humor se está utilizando principalmente en este diálogo para criticar la demagogia política?",
-      "context": "",
+      "context": "Analiza una caricatura donde aparece un político prometiendo \"puentes\" en un pueblo donde no hay río. Un campesino le pregunta: \"¿Y el río?\", y el político responde: \"¡También se los construyo!\".",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v7",
       "statement": "¿Cuál es la función comunicativa de los elementos no verbales (las manos que salen de la pantalla) en este texto multimodal?",
-      "context": "",
+      "context": "Observa una caricatura sobre la educación virtual. Se ve a un niño frente a una pantalla con los ojos rojos y cansados, y de la pantalla salen manos que le roban sus juguetes y su tiempo de juego.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v8",
       "statement": "¿Qué conclusión se puede extraer sobre la objetividad en la caricatura periodística a partir de este ejemplo?",
-      "context": "",
+      "context": "Un periódico de una tendencia política dibuja al líder de la oposición como un lobo feroz, mientras que el periódico de la otra tendencia lo dibuja como un salvador con aureola.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v9",
       "statement": "¿Cuál es el argumento principal que justifica el uso de la sátira y la caricatura incluso en temas dolorosos de la realidad nacional?",
-      "context": "",
+      "context": "En Colombia, el uso del humor negro en la caricatura para tratar temas de violencia ha generado debates sobre la ética y la libertad de expresión.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-v10",
       "statement": "¿Cuál es la crítica central que el autor plantea sobre la sociedad contemporánea en esta pieza?",
-      "context": "",
+      "context": "Evalúa el impacto de la siguiente caricatura: Un grupo de personas está mirando sus teléfonos mientras una inundación real les llega a las rodillas. Uno dice: \"¡Mira la foto que subieron de la inundación, tiene mil likes!\".",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W31-caricatura-periodistica-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

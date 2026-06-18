@@ -1,0 +1,656 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-3-grade-10-subject-ingles",
+    "generated_at": "2026-06-18T22:23:58.318Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v1",
+      "statement": "If I ___ rich, I would travel:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Past subjunctive"
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.92,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v2",
+      "statement": "What does 'sustainable' mean?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintainable over time",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fast",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Expensive",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Temporary",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v3",
+      "statement": "Which uses present perfect correctly?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has visited Colombia three times.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "She has visit Colombia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "She visited Colombia last month.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "She visits Colombia three times.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "has/have + past participle\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Gramática",
+      "expected_success": 0.87,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v4",
+      "statement": "Passive: 'The book ___ by García Márquez'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was written",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "wrote",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "is writing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "has written",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "be + past participle\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v5",
+      "statement": "Complete: She ___ to school every day",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "3rd person -s"
+        },
+        {
+          "letter": "B",
+          "text": "go",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "gone",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present simple: she goes\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v6",
+      "statement": "'The woman ___ lives next door is a doctor'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "who for people\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Gramática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v7",
+      "statement": "'You ___ wear a seatbelt in Colombia'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Obligation"
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "might",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "must = obligation\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.77,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v8",
+      "statement": "Present continuous: 'They ___ playing soccer'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "are + verb-ing\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v9",
+      "statement": "If I ___ rich, I would travel:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Past subjunctive"
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Gramática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v10",
+      "statement": "What does 'sustainable' mean?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintainable over time",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fast",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Expensive",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Temporary",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v11",
+      "statement": "Which uses present perfect correctly?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has visited Colombia three times.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "She has visit Colombia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "She visited Colombia last month.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "She visits Colombia three times.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "has/have + past participle\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v12",
+      "statement": "Passive: 'The book ___ by García Márquez'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was written",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "wrote",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "is writing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "has written",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "be + past participle\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Gramática",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v13",
+      "statement": "Complete: She ___ to school every day",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "3rd person -s"
+        },
+        {
+          "letter": "B",
+          "text": "go",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "gone",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present simple: she goes\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v14",
+      "statement": "'The woman ___ lives next door is a doctor'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "who for people\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Escrita",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-v15",
+      "statement": "'You ___ wear a seatbelt in Colombia'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Obligation"
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "might",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "must = obligation\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Gramática",
+      "expected_success": 0.57,
+      "bundle_id": "CO-ING-10-2026-W03-travel-stories-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

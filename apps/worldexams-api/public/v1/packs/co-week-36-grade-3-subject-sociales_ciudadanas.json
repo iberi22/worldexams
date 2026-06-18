@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.160Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v1",
+      "statement": "Cuales son algunos tipos de familia?",
+      "context": "I.E. San Felipe, Bogota. Tipos de familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nuclear (papa, mama e hijos), extensa (abuelos, tios) y monoparental (un solo padre).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo la familia nuclear.",
+          "is_correct": false,
+          "feedback": "Hay varios tipos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Familia de dos personas.",
+          "is_correct": false,
+          "feedback": "Hay mas."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo padres y abuelos.",
+          "is_correct": false,
+          "feedback": "Varios tipos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Existen diferentes tipos de familia: nuclear, extensa, monoparental, ensamblada, entre otras.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v2",
+      "statement": "Cual es la funcion principal de la familia?",
+      "context": "I.E. Los Andes, Pasto. Funcion familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteger, educar y dar amor a sus miembros, especialmente a los ninos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo dar dinero.",
+          "is_correct": false,
+          "feedback": "Es mas que eso."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo alimentar.",
+          "is_correct": false,
+          "feedback": "Educa y protege."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo castigar.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La familia es el primer nucleo de socializacion, donde se aprenden valores y se recibe proteccion.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v3",
+      "statement": "Que valores se aprenden en la familia?",
+      "context": "I.E. INEM, Medellin. Valores familiares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respeto, responsabilidad, solidaridad, honestidad y amor.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo a trabajar.",
+          "is_correct": false,
+          "feedback": "Valores humanos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo a estudiar.",
+          "is_correct": false,
+          "feedback": "Valores eticos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo a cocinar.",
+          "is_correct": false,
+          "feedback": "Valores fundamentales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la familia se aprenden los valores fundamentales para la convivencia en sociedad.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v4",
+      "statement": "Que es una familia extensa?",
+      "context": "I.E. Fe y Alegria, Cali. Familia extensa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que incluye padres, hijos, abuelos, tios y primos viviendo juntos o cerca.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo padres e hijos.",
+          "is_correct": false,
+          "feedback": "Esa es nuclear."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo abuelos.",
+          "is_correct": false,
+          "feedback": "Incluye mas."
+        },
+        {
+          "letter": "D",
+          "text": "D) Una sola persona.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La familia extensa incluye a varios parientes que conviven o colaboran estrechamente.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v5",
+      "statement": "Maria vive con su mama y su abuela. Su papa vive en otra ciudad. Que tipo de familia tiene?",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Familia monoparental (vive solo con la mama) con apoyo de la abuela.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Nuclear.",
+          "is_correct": false,
+          "feedback": "Le falta el papa en casa."
+        },
+        {
+          "letter": "C",
+          "text": "C) Extensa sin nucleo.",
+          "is_correct": false,
+          "feedback": "Es monoparental con abuela."
+        },
+        {
+          "letter": "D",
+          "text": "D) No es familia.",
+          "is_correct": false,
+          "feedback": "Si es familia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las familias monoparentales son aquellas donde los hijos viven con un solo progenitor.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v6",
+      "statement": "Los abuelos de Pedro viven con su familia. Todos se ayudan. Que tipo es?",
+      "context": "I.E. Simon Bolivar, Sincelejo. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Familia extensa, donde varias generaciones conviven.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Nuclear.",
+          "is_correct": false,
+          "feedback": "Incluye abuelos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Monoparental.",
+          "is_correct": false,
+          "feedback": "Ambos padres presentes."
+        },
+        {
+          "letter": "D",
+          "text": "D) No es familia.",
+          "is_correct": false,
+          "feedback": "Si es."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando abuelos, padres e hijos viven juntos, se forma una familia extensa.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v7",
+      "statement": "Por que la familia es importante para la sociedad?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque forma a las personas en valores y prepara a los ciudadanos del futuro.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No es importante.",
+          "is_correct": false,
+          "feedback": "Si es fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo es importante para los ninos.",
+          "is_correct": false,
+          "feedback": "Para toda la sociedad."
+        },
+        {
+          "letter": "D",
+          "text": "D) Es solo un grupo de personas.",
+          "is_correct": false,
+          "feedback": "Es el nucleo social."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La familia es la base de la sociedad. De ella surgen ciudadanos responsables.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-v8",
+      "statement": "Todas las familias son iguales?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, hay diferentes tipos de familia, pero todas cumplen la funcion de cuidar y educar.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Si, todas son iguales.",
+          "is_correct": false,
+          "feedback": "Hay diversidad."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo las nucleares son familia.",
+          "is_correct": false,
+          "feedback": "Todos los tipos."
+        },
+        {
+          "letter": "D",
+          "text": "D) No importa.",
+          "is_correct": false,
+          "feedback": "Si importa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diversidad familiar es normal. Lo importante es que haya amor y respeto.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W36-la-familia-tipos-funciones-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

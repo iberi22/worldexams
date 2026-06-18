@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se clasifica la variable \"cantidad de hermanos\"?",
-      "context": "",
+      "context": "En una encuesta realizada en una escuela de Mendoza, se registró la cantidad de hermanos que tiene cada alumno de un curso de 5to año.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.9,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v2",
       "statement": "¿A qué tipo de variable estadística corresponden los valores de temperatura registrados?",
-      "context": "",
+      "context": "Se mide la temperatura al mediodía en la ciudad de Salta durante los 31 días de enero.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.88,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de variable es el nivel de satisfacción?",
-      "context": "",
+      "context": "Un sociólogo de la UBA está analizando el \"Nivel de Satisfacción\" de los usuarios del Subte (Muy Insatisfecho, Insatisfecho, Neutro, Satisfecho, Muy Satisfecho).",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v4",
       "statement": "¿Cuántos alumnos pertenecen a ese intervalo de peso?",
-      "context": "",
+      "context": "En una tabla de frecuencias sobre el peso de 50 alumnos de una escuela técnica, la frecuencia relativa de un intervalo es 0,12.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.82,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v5",
       "statement": "¿Cómo se denomina al punto medio de cada intervalo de clase en una tabla de frecuencias?",
-      "context": "",
+      "context": "Se analizan los ingresos mensuales de 200 familias en un barrio de Córdoba, agrupados en intervalos de clase.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.78,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la principal diferencia entre un histograma y un gráfico de barras?",
-      "context": "",
+      "context": "Un histograma muestra la distribución de las edades de los socios de un club de barrio en Avellaneda.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.75,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la frecuencia acumulada para la nota 7?",
-      "context": "",
+      "context": "En una tabla de frecuencias, se tiene la siguiente información sobre la variable \"Calificación en Matemática\" (de 1 a 10):\n- Frecuencia acumulada de la nota 6: 25 alumnos.\n- Frecuencia absoluta de la nota 7: 8 alumnos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.74,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la frecuencia relativa acumulada de los jóvenes que leen MENOS de 2 libros?",
-      "context": "",
+      "context": "Se realiza un estudio sobre la cantidad de libros leídos por año por 40 jóvenes de Rosario.\n- 0 libros: 10 jóvenes\n- 1 libro: 15 jóvenes\n- 2 libros: 10 jóvenes\n- 3 o más libros: 5 jóvenes",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.72,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v9",
       "statement": "¿Cuántos grados debe tener el sector circular que representa a la yerba \"Con Hierbas\"?",
-      "context": "",
+      "context": "Un gráfico circular representa el porcentaje de ventas de tres tipos de yerba mate: Tradicional (50%), Con Hierbas (30%) y Orgánica (20%).",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.8,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v10",
       "statement": "Si el primer intervalo es [0, 20) y el segundo es [20, 40), ¿qué ocurre con un paciente que esperó exactamente 20 minutos?",
-      "context": "",
+      "context": "Se analiza el tiempo de espera en la guardia de un hospital público en el Gran Buenos Aires. Los datos se agrupan en intervalos de 20 minutos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v11",
       "statement": "¿Qué porcentaje de jugadores mide 190 cm o más?",
-      "context": "",
+      "context": "Una tabla de frecuencias muestra la distribución de alturas de jugadores de básquet en un club de Santa Fe.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.65,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v12",
       "statement": "Si el polígono de invierno está desplazado hacia la derecha respecto al de verano, ¿qué interpretación es correcta?",
-      "context": "",
+      "context": "Se comparan dos polígonos de frecuencia que representan el consumo eléctrico en invierno y verano en una ciudad patagónica.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.62,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la principal característica visual de una ojiva?",
-      "context": "",
+      "context": "Un analista de datos está construyendo una Ojiva (gráfico de frecuencias acumuladas) para los tiempos de llegada de camiones a un centro logístico en Zárate.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la amplitud de cada intervalo?",
-      "context": "",
+      "context": "En una tabla de frecuencias con 5 intervalos de igual amplitud para datos entre 100 y 250...",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.64,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v15",
       "statement": "¿Qué información nos proporciona ese valor de 120?",
-      "context": "",
+      "context": "Se observa una tabla de frecuencias donde la frecuencia acumulada del último intervalo es 120.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v16",
       "statement": "¿Qué significa esto respecto a la distribución de los pesos?",
-      "context": "",
+      "context": "Un estudio sobre el peso al nacer en un hospital de San Luis muestra una distribución con asimetría positiva (cola hacia la derecha).",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.58,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v17",
       "statement": "Si el siguiente intervalo [5%, 10%) tiene una frecuencia absoluta de 30, ¿cuál es la frecuencia relativa acumulada hasta el 10%?",
-      "context": "",
+      "context": "Un analista financiero en Buenos Aires observa que la frecuencia relativa del intervalo de \"Rendimiento Mensual\" [0%, 5%) es del 0,25. Se sabe que hay 80 activos en total.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.52,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es la frecuencia absoluta del intervalo faltante?",
-      "context": "",
+      "context": "Se reconstruye una tabla de frecuencias donde se perdió un dato. Se sabe que n = 100, y las frecuencias relativas de 4 de los 5 intervalos son: 0,15; 0,20; 0,35; 0,10.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.55,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v19",
       "statement": "¿A qué concepto corresponde la altura de 0,02 si el área del rectángulo debe representar la frecuencia relativa del intervalo?",
-      "context": "",
+      "context": "En un histograma de frecuencias relativas, la base de un rectángulo mide 10 unidades (amplitud) y su altura es 0,02.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la interpretación correcta de estas formas?",
-      "context": "",
+      "context": "Se comparan dos muestras de igual tamaño: una tiene una ojiva con mucha pendiente al inicio y otra una ojiva con mucha pendiente al final.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.4,
       "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",

@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-40-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.163Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v1",
+      "statement": "La cÃ©lula es la unidad:",
+      "context": "En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Duitama, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "MÃ¡s grande del cuerpo",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Fundamental de los seres vivos",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Del sistema solar",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "De las rocas",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v2",
+      "statement": "El corazÃ³n bombea sangre y es parte del sistema:",
+      "context": "En la clase de Ciencias Naturales del Escuela Rural en Manizales, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiratorio",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Circulatorio",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Digestivo",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Excretor",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v3",
+      "statement": "Los riÃ±ones filtran la sangre y producen:",
+      "context": "En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Duitama, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sudor",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Orina",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Bilis",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Saliva",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v4",
+      "statement": "Los descomponedores reciclan:",
+      "context": "En la clase de Ciencias Naturales del JardÃ­n Infantil en ChÃ­a, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Materia orgÃ¡nica",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Aire",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Sol",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v5",
+      "statement": "Las mÃ¡quinas simples:",
+      "context": "En la clase de Ciencias Naturales del Centro Educativo Rural en Sogamoso, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crean energÃ­a",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Facilitan el trabajo",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Son complejas",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "No se usan",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v6",
+      "statement": "Ejemplo de cadena alimenticia:",
+      "context": "En la clase de Ciencias Naturales del Liceo Infantil en San AndrÃ©s, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasto â†’ conejo â†’ zorro",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Zorro â†’ conejo â†’ pasto",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Conejo â†’ zorro â†’ pasto",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Pasto â†’ zorro â†’ conejo",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v7",
+      "statement": "Para medir temperatura usamos:",
+      "context": "En la clase de Ciencias Naturales del InstituciÃ³n Educativa en CÃºcuta, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Balanza",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "TermÃ³metro",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Regla",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Probeta",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v8",
+      "statement": "Un cuchillo es un ejemplo de:",
+      "context": "En la clase de Ciencias Naturales del Colegio Salesiano en MedellÃ­n, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palanca",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "CuÃ±a",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Polea",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Rueda",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v9",
+      "statement": "Â¿Por quÃ© el agua es esencial para la vida?",
+      "context": "En la clase de Ciencias Naturales del Escuela Rural en FacatativÃ¡, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es esencial",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Es solvente universal y participa en todas las funciones vitales",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirve para beber",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Da energÃ­a",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-v10",
+      "statement": "Â¿Por quÃ© debemos cuidar los ecosistemas colombianos?",
+      "context": "En la clase de Ciencias Naturales del Centro Educativo Rural en Cali, la profesora presenta el siguiente ejercicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son turÃ­sticos",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Albergan biodiversidad Ãºnica y proveen servicios ambientales vitales",
+          "is_correct": true,
+          "feedback": "Â¡Correcto!"
+        },
+        {
+          "letter": "C",
+          "text": "No necesitan cuidado",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Son feos",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CIE-4-2026-W40-repaso-integral-anual-g4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

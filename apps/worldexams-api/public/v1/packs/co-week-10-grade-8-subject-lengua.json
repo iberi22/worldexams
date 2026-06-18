@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denomina al narrador que participa en la historia como personaje principal y cuenta los hechos desde su propio punto de vista utilizando la primera persona?",
-      "context": "",
+      "context": "Al leer textos antiguos, es fundamental identificar el tipo de narrador para entender desde qué perspectiva se cuenta la historia.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la función principal de un texto que describe detalladamente las características geográficas y climáticas de una región recién descubierta?",
-      "context": "",
+      "context": "Los textos informativos y expositivos buscan transmitir datos objetivos sobre un tema específico sin incluir opiniones personales del autor.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v3",
       "statement": "En el fragmento anterior, ¿cuál es el propósito comunicativo de los personajes mencionados (los dioses)?",
-      "context": "",
+      "context": "\"Entonces los dioses dijeron: 'Hágase así. Que se llene el vacío. Que esta agua se retire y deje espacio, que surja la tierra'.\" (Fragmento adaptado del Popol Vuh).",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v4",
       "statement": "Al leer el fragmento de Colón, ¿qué actitud se infiere en el narrador frente a lo que está observando por primera vez?",
-      "context": "",
+      "context": "\"Vimos árboles muy verdes y aguas muchas y frutas de diversas maneras. La gente andaba toda desnuda como su madre los parió\". (Cristóbal Colón, Diario de a bordo).",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v5",
       "statement": "Si un autor colonial escribe que \"es obligación de la Corona proteger a los indígenas porque son seres humanos con alma\", ¿cuál es la tesis principal de su argumento?",
-      "context": "",
+      "context": "Los textos argumentativos presentan una tesis (idea principal) que el autor defiende mediante razones o argumentos sólidos.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v6",
       "statement": "¿Cómo influyó el contexto de la Inquisición en el hecho de que muchos textos indígenas fueran escritos de forma simbólica u oculta?",
-      "context": "",
+      "context": "En el análisis literario, el \"contexto de producción\" se refiere a las circunstancias sociales e históricas en las que se escribió una obra.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v7",
       "statement": "¿Qué recurso retórico utiliza el autor al descalificar las versiones de otros escritores para validar la suya propia?",
-      "context": "",
+      "context": "\"La historia que aquí contamos es verdadera, no como las fábulas que otros inventan para ganar fama\". (Fray Bartolomé de las Casas).",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v8",
       "statement": "En un mito donde el Sol y la Luna son hermanos que pelean por el dominio del cielo, ¿qué elemento de la realidad se está intentando explicar de forma literaria?",
-      "context": "",
+      "context": "Muchos relatos míticos utilizan la \"personificación\" (dar rasgos humanos a objetos o animales) para explicar fenómenos naturales.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la ventaja de los códices mayas (que combinan dibujos con glifos) frente a un texto que solo contiene letras alfabéticas?",
-      "context": "",
+      "context": "Un texto multimodal es aquel que combina diferentes sistemas de signos, como palabras, imágenes o jeroglíficos, para transmitir un mensaje.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v10",
       "statement": "Si un cronista español describe a los indígenas como \"niños que necesitan ser guiados\", ¿qué visión ideológica está imponiendo a través de su lenguaje?",
-      "context": "",
+      "context": "El análisis crítico de un texto implica cuestionar las intenciones ocultas del autor y la ideología que hay detrás de sus palabras.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v11",
       "statement": "Cuando un poeta moderno escribe un poema sobre el \"descubrimiento de sí mismo\" usando las mismas metáforas de barcos y tormentas que usaba Colón, ¿qué tipo de relación está creando?",
-      "context": "",
+      "context": "La intertextualidad ocurre cuando un texto hace referencia a otro, ya sea de forma directa (cita) o indirecta (alusión).",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el valor literario de mezclar la historia oficial con relatos de la vida privada y anécdotas populares en una crónica?",
-      "context": "",
+      "context": "Los textos del periodo colonial colombiano, como \"El Carnero\" de Juan Rodríguez Freyle, mezclan hechos históricos con chismes y anécdotas de la época.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

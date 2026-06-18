@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.131Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v1",
+      "statement": "¿Cómo se llama el proceso por el cual las plantas fabrican su alimento usando la luz del sol?",
+      "context": "En una clase de ciencias en Medellín, los niños aprenden que las plantas \"cocinan\" su propio alimento en sus hojas verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiración celular",
+          "is_correct": false,
+          "feedback": "La respiración es el proceso de obtener energía quemando el alimento, no de fabricarlo desde cero."
+        },
+        {
+          "letter": "B",
+          "text": "Digestión vegetal",
+          "is_correct": false,
+          "feedback": "La digestión ocurre en los animales al comer a otros; las plantas no \"comen\", ellas \"fabrican\"."
+        },
+        {
+          "letter": "C",
+          "text": "Fotosíntesis",
+          "is_correct": true,
+          "feedback": "La fotosíntesis es el proceso químico natural que convierte la luz solar en alimento para la planta."
+        },
+        {
+          "letter": "D",
+          "text": "Germinación",
+          "is_correct": false,
+          "feedback": "La germinación es cuando una semilla empieza a brotar para convertirse en una nueva planta pequeña."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fotosíntesis es fundamental. \"Foto\" significa luz y \"síntesis\" significa fabricar. Es decir, las plantas usan la luz para fabricar materia viva, algo que ningún animal puede hacer por sí mismo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v2",
+      "statement": "¿Cuáles son los tres ingredientes que la planta necesita para realizar la fotosíntesis?",
+      "context": "Para que la fábrica de la planta funcione, necesita tres \"ingredientes\" principales que toma de la naturaleza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tierra, rocas y gusanos",
+          "is_correct": false,
+          "feedback": "Estos elementos pueden estar en el suelo, pero no son los ingredientes químicos de la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Agua, luz solar y gas carbónico",
+          "is_correct": true,
+          "feedback": "Estos tres elementos se combinan dentro de la hoja verde para producir el azúcar de la planta."
+        },
+        {
+          "letter": "C",
+          "text": "Leche, azúcar y huevos",
+          "is_correct": false,
+          "feedback": "Estos son ingredientes de una receta humana; las plantas solo usan elementos naturales simples."
+        },
+        {
+          "letter": "D",
+          "text": "Solo agua y mucho viento",
+          "is_correct": false,
+          "feedback": "El viento no aporta energía ni materia prima para que la planta fabrique sus nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas toman el agua por la raíz, el gas carbónico del aire por las hojas y la luz del sol directamente sobre su superficie. Con estos tres componentes, la planta tiene todo lo necesario para empezar a producir.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v3",
+      "statement": "¿Qué gas vital liberan las plantas como resultado del proceso de fotosíntesis?",
+      "context": "Después de realizar la fotosíntesis, la planta libera al aire un gas que es una bendición para todos los animales y humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Humo gris",
+          "is_correct": false,
+          "feedback": "El humo es producto de la combustión de materiales y es dañino; las plantas limpian el aire, no lo ensucian."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno",
+          "is_correct": true,
+          "feedback": "Gracias a la fotosíntesis, la atmósfera de la Tierra tiene el oxígeno necesario para que podamos respirar."
+        },
+        {
+          "letter": "C",
+          "text": "Helio",
+          "is_correct": false,
+          "feedback": "El helio es un gas muy liviano que no es producido por las plantas ni sirve para nuestra respiración."
+        },
+        {
+          "letter": "D",
+          "text": "Vapor de perfume",
+          "is_correct": false,
+          "feedback": "Aunque algunas flores huelen bien, el gas invisible que producen para la vida es el oxígeno puro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas actúan como pulmones inversos. Toman el aire que nosotros ya usamos (gas carbónico) y nos lo devuelven limpio y cargado de oxígeno nuevo. Por eso los bosques son tan importantes para nuestra salud.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v4",
+      "statement": "¿Cuál es el trabajo principal de la clorofila en la fotosíntesis?",
+      "context": "La clorofila es una sustancia especial que se encuentra dentro de las hojas y les da su color verde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Darle buen sabor a las hojas",
+          "is_correct": false,
+          "feedback": "El sabor es para defenderse o atraer animales; el trabajo biológico de la clorofila es otro."
+        },
+        {
+          "letter": "B",
+          "text": "Atrapar la energía de la luz solar",
+          "is_correct": true,
+          "feedback": "Sin la clorofila, la planta recibiría luz pero no sabría cómo usarla para fabricar su alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer que la planta no se moje",
+          "is_correct": false,
+          "feedback": "La clorofila no es un impermeabilizante; es un pigmento químico que trabaja con la luz."
+        },
+        {
+          "letter": "D",
+          "text": "Atraer a los pájaros cantores",
+          "is_correct": false,
+          "feedback": "Los pájaros se sienten atraídos por frutos o néctar, no específicamente por el color verde de la clorofila."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Imagina que la clorofila es como un panel solar diminuto. Millones de estos paneles en las hojas capturan la fuerza del sol para que la planta pueda realizar sus cambios químicos internos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v5",
+      "statement": "¿Cómo se llama el tipo de azúcar o alimento que la planta fabrica durante la fotosíntesis?",
+      "context": "La planta produce una sustancia dulce y pegajosa que es su verdadero alimento y le da energía para crecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miel de abejas",
+          "is_correct": false,
+          "feedback": "La miel la fabrican las abejas a partir del néctar; la planta fabrica algo mucho más básico para sí misma."
+        },
+        {
+          "letter": "B",
+          "text": "Chocolate natural",
+          "is_correct": false,
+          "feedback": "El chocolate viene de la semilla del cacao procesada; la planta fabrica una forma de azúcar simple."
+        },
+        {
+          "letter": "C",
+          "text": "Glucosa",
+          "is_correct": true,
+          "feedback": "La glucosa es el azúcar simple que le da la energía necesaria a todas las células de la planta para vivir."
+        },
+        {
+          "letter": "D",
+          "text": "Sal mineral",
+          "is_correct": false,
+          "feedback": "La sal mineral la toma la planta de la tierra, no la fabrica ella misma durante la fotosíntesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La glucosa es como la gasolina de la planta. Una vez fabricada en las hojas, viaja por todo el tallo hacia las raíces, frutos y flores para que toda la planta tenga energía para funcionar.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v6",
+      "statement": "¿Por qué las plantas que se quedan en la sombra crecen más lento o son más pequeñas?",
+      "context": "En una selva muy tupida, las plantas compiten por llegar a la parte más alta para que les dé el sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque les da miedo la altura",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen sentimientos; su crecimiento responde a la cantidad de recursos que reciben."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen menos luz para fabricar su alimento",
+          "is_correct": true,
+          "feedback": "Al recibir poca luz, realizan menos fotosíntesis y tienen menos energía para construir su cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el suelo de arriba es mejor",
+          "is_correct": false,
+          "feedback": "El suelo es el mismo en la base; la diferencia está en el recurso que viene del cielo: la luz."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no quieren que los animales las vean",
+          "is_correct": false,
+          "feedback": "La lucha por la luz es una necesidad vital para la nutrición, no una estrategia de camuflaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin luz suficiente, la fotosíntesis es muy pobre. Las plantas de sombra han aprendido a vivir con poco, pero siempre crecerán más despacio que aquellas que reciben la energía completa del sol directo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v7",
+      "statement": "¿Por qué las plantas dejan de producir oxígeno cuando se oculta el sol?",
+      "context": "Si pudiéramos ver el aire, notaríamos que cerca de las plantas hay mucho más oxígeno durante el día que durante la noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se van a dormir",
+          "is_correct": false,
+          "feedback": "Las plantas no duermen como nosotros; ellas siguen activas respirando, pero el proceso de fábrica se detiene."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sin luz no pueden realizar la fotosíntesis",
+          "is_correct": true,
+          "feedback": "La fotosíntesis es un proceso que requiere energía lumínica; al no haber sol, la producción de oxígeno se detiene."
+        },
+        {
+          "letter": "C",
+          "text": "Porque guardan el oxígeno para ellas",
+          "is_correct": false,
+          "feedback": "No lo guardan; simplemente no lo producen porque la reacción química necesita la chispa de la luz solar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la luna absorbe el oxígeno",
+          "is_correct": false,
+          "feedback": "La luna es un satélite inerte que no tiene ninguna influencia química sobre la producción de gases vegetales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fotosíntesis es un proceso de \"horario diurno\". Durante la noche, las plantas solo respiran (consumen un poco de oxígeno), pero es durante el día cuando compensan esto produciendo muchísimo más oxígeno del que gastan.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v8",
+      "statement": "¿Qué le faltaría a esa máquina para ser realmente igual a una planta viva?",
+      "context": "Imagina que un científico crea una máquina que absorbe gas carbónico y libera oxígeno, igual que una planta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sea de color verde brillante",
+          "is_correct": false,
+          "feedback": "El color es solo una apariencia; se puede pintar algo de verde sin que tenga vida biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Que pueda crecer y reproducirse por sí misma",
+          "is_correct": true,
+          "feedback": "Una máquina no tiene ciclo de vida natural ni organización celular, características exclusivas de los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Que haga mucho ruido al funcionar",
+          "is_correct": false,
+          "feedback": "Las plantas realizan sus procesos químicos de forma silenciosa y eficiente, a diferencia de muchas máquinas."
+        },
+        {
+          "letter": "D",
+          "text": "Que use pilas de control remoto",
+          "is_correct": false,
+          "feedback": "Las plantas usan energía natural del sol, agua y aire, no necesitan fuentes de poder artificiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fotosíntesis es solo UNA parte de la vida de la planta. Ser un ser vivo implica un ciclo completo de crecimiento, relación con el entorno y capacidad de dejar descendencia, algo que la tecnología aún no puede igualar.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v9",
+      "statement": "¿Qué pasaría con los animales que viven en el mar si estas minúsculas plantas desaparecieran?",
+      "context": "En los océanos también hay \"plantas\" microscópicas llamadas fitoplancton que realizan fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se quedarían sin alimento y sin oxígeno",
+          "is_correct": true,
+          "feedback": "El fitoplancton es la base de la comida en el mar y el principal productor de oxígeno para los océanos."
+        },
+        {
+          "letter": "B",
+          "text": "Aprenderían a comer arena del fondo",
+          "is_correct": false,
+          "feedback": "Ningún animal puede obtener energía biológica de la arena; dependen de otros seres vivos para comer."
+        },
+        {
+          "letter": "C",
+          "text": "Vivirían mejor porque habría más espacio",
+          "is_correct": false,
+          "feedback": "El espacio no sirve de nada sin comida y oxígeno; los animales marinos morirían de inmediato."
+        },
+        {
+          "letter": "D",
+          "text": "Se convertirían en plantas marinas",
+          "is_correct": false,
+          "feedback": "Los animales no pueden cambiar su naturaleza biológica a voluntad para empezar a hacer fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fotosíntesis no solo ocurre en la tierra. Más de la mitad del oxígeno que respiramos en todo el mundo viene de los océanos. Esto nos enseña que cuidar el agua es tan importante como cuidar los bosques.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v10",
+      "statement": "¿Por qué el razonamiento del niño es incorrecto científicamente?",
+      "context": "Un niño dice: \"Si yo me quedo mucho tiempo bajo el sol y tomo mucha agua, estoy haciendo fotosíntesis como las plantas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los niños no tienen raíces",
+          "is_correct": false,
+          "feedback": "Aunque es cierto, el problema real es que nuestras células no tienen la maquinaria química necesaria."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el sol le daría mucha sed",
+          "is_correct": false,
+          "feedback": "Tener sed es una señal de deshidratación, pero no tiene nada que ver con la capacidad de fabricar alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los animales no tienen clorofila ni células vegetales",
+          "is_correct": true,
+          "feedback": "Nuestros cuerpos no pueden transformar la luz en comida; estamos diseñados para comer a otros seres (heterótrofos)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los niños deben comer vegetales cocidos",
+          "is_correct": false,
+          "feedback": "Incluso si el niño comiera vegetales crudos, su cuerpo los digeriría en lugar de fabricarlos usando luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es la diferencia más grande entre plantas y animales. Las plantas son autónomas para alimentarse (autótrofas), mientras que nosotros dependemos siempre de lo que ellas fabrican para poder vivir (heterótrofos).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v1",
+      "statement": "¿Cuál es la función principal de las flores en el ciclo de vida de la planta?",
+      "context": "En la huerta de la escuela, los niños ven que las plantas de tomate han crecido mucho y ahora tienen pequeñas flores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absorber el agua del suelo",
+          "is_correct": false,
+          "feedback": "La absorción de agua es tarea exclusiva de las raíces; las flores están en la parte superior y no tocan el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Sostener las hojas pesadas",
+          "is_correct": false,
+          "feedback": "El tallo es el encargado de dar soporte y estructura a la planta, no la flor que es delicada."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar la reproducción",
+          "is_correct": true,
+          "feedback": "La flor contiene los órganos necesarios para que la planta produzca semillas y así nazcan nuevas plantas."
+        },
+        {
+          "letter": "D",
+          "text": "Respirar por toda la planta",
+          "is_correct": false,
+          "feedback": "Aunque las flores respiran, la respiración principal ocurre en las hojas a través de los estomas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La flor es el órgano reproductivo. Su color y aroma sirven para atraer insectos o aves que ayudan a que se formen los frutos y las semillas, garantizando que la especie de la planta continúe existiendo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v2",
+      "statement": "¿De dónde obtiene la planta la energía necesaria para realizar todas sus funciones?",
+      "context": "Un árbol de mango necesita energía para que sus mangos crezcan dulces y grandes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De comer insectos pequeños",
+          "is_correct": false,
+          "feedback": "La mayoría de las plantas no comen insectos; ellas fabrican su propio alimento usando recursos del ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "De la luz del sol",
+          "is_correct": true,
+          "feedback": "Las plantas son seres autótrofos que transforman la energía lumínica en energía química mediante la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Solo del agua de la lluvia",
+          "is_correct": false,
+          "feedback": "El agua es un ingrediente, pero sin la energía del sol, la planta no podría procesarla para alimentarse."
+        },
+        {
+          "letter": "D",
+          "text": "Del viento que mueve sus hojas",
+          "is_correct": false,
+          "feedback": "El viento puede ayudar a la polinización, pero no es una fuente de energía nutricional para la planta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son las únicas capaces de \"cocinar\" su alimento usando luz. Este proceso permite que la energía del sol entre al mundo de los seres vivos, alimentando después a los animales que comen plantas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v3",
+      "statement": "¿Qué sustancias absorben las raíces del suelo para ayudar a la nutrición de la planta?",
+      "context": "Las raíces de las plantas están bajo tierra, pero son muy activas todo el tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno y gas carbónico",
+          "is_correct": false,
+          "feedback": "Estos gases se intercambian principalmente a través de las hojas en el aire, no por las raíces subterráneas."
+        },
+        {
+          "letter": "B",
+          "text": "Agua y sales minerales",
+          "is_correct": true,
+          "feedback": "Las raíces actúan como pitillos que succionan el agua y los minerales disueltos en la tierra para llevarlos al resto de la planta."
+        },
+        {
+          "letter": "C",
+          "text": "Luz solar y calor",
+          "is_correct": false,
+          "feedback": "La luz solar es captada por las hojas verdes en la superficie, no por las raíces que están en la oscuridad del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Azúcar y comida preparada",
+          "is_correct": false,
+          "feedback": "La planta fabrica su propia azúcar (glucosa) en las hojas; la raíz solo aporta los ingredientes crudos del suelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La nutrición vegetal comienza en la raíz. El agua y los minerales forman la \"savia bruta\", que debe subir por el tallo hasta las hojas para ser transformada en alimento real.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v4",
+      "statement": "¿Qué función vital está demostrando la planta al moverse hacia la luz?",
+      "context": "Si notas que una planta en una maceta se está inclinando mucho hacia la ventana donde entra más claridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función de nutrición",
+          "is_correct": false,
+          "feedback": "Aunque busca luz para alimentarse, el acto de moverse como respuesta a un estímulo se llama de otra forma."
+        },
+        {
+          "letter": "B",
+          "text": "Función de relación",
+          "is_correct": true,
+          "feedback": "La planta percibe el estímulo de la luz y responde con un movimiento de crecimiento hacia ella para sobrevivir."
+        },
+        {
+          "letter": "C",
+          "text": "Función de reproducción",
+          "is_correct": false,
+          "feedback": "Moverse hacia la luz no crea nuevas plantas; simplemente ayuda a la planta actual a estar más sana."
+        },
+        {
+          "letter": "D",
+          "text": "Función de respiración",
+          "is_correct": false,
+          "feedback": "La respiración es un intercambio de gases constante que no depende de la dirección en la que crezca el tallo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas también se relacionan con su entorno. Como no pueden caminar, sus respuestas son movimientos lentos de crecimiento llamados tropismos. Moverse hacia la luz se llama fototropismo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v5",
+      "statement": "¿Qué hay dentro de ese fruto y cuál es su misión?",
+      "context": "Después de que la flor es polinizada, los pétalos se caen y empieza a crecer una pequeña bolita verde que luego será una fruta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay agua para que la gente beba",
+          "is_correct": false,
+          "feedback": "Aunque los frutos tienen agua, su función biológica no es calmar la sed humana sino proteger la vida vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "Hay aire para que la planta respire",
+          "is_correct": false,
+          "feedback": "Los frutos son estructuras sólidas y carnosas; la respiración ocurre en las hojas y tallos."
+        },
+        {
+          "letter": "C",
+          "text": "Hay semillas para crear nuevas plantas",
+          "is_correct": true,
+          "feedback": "El fruto protege a las semillas y ayuda a que se dispersen lejos de la planta madre para que crezcan hijos."
+        },
+        {
+          "letter": "D",
+          "text": "Hay clorofila para hacer fotosíntesis",
+          "is_correct": false,
+          "feedback": "La mayoría de los frutos no hacen fotosíntesis; su función es puramente reproductiva y de protección."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fruto es el \"cofre del tesoro\" de la planta. Guarda las semillas que son los embriones de las futuras plantas, asegurando que el ciclo de vida vuelva a empezar en un lugar adecuado.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v6",
+      "statement": "¿Cómo ayuda este proceso de transpiración al medio ambiente del bosque?",
+      "context": "Un árbol gigante de la selva puede transpirar cientos de litros de agua en forma de vapor a través de sus hojas cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantiene el aire fresco y húmedo",
+          "is_correct": true,
+          "feedback": "Al liberar vapor de agua, las plantas ayudan a regular la temperatura y a que se formen nubes de lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el suelo se seque rápido",
+          "is_correct": false,
+          "feedback": "Al contrario, el ciclo del agua que crean las plantas ayuda a que la lluvia regrese y mantenga el suelo fértil."
+        },
+        {
+          "letter": "C",
+          "text": "Calienta el planeta demasiado",
+          "is_correct": false,
+          "feedback": "Las plantas refrescan el ambiente; la falta de plantas es lo que contribuye al calentamiento global."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ningún efecto en el clima",
+          "is_correct": false,
+          "feedback": "Falso; los grandes bosques cambian el clima de regiones enteras gracias a la transpiración de sus hojas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transpiración vegetal es como el sudor de las plantas. Ayuda a que el agua suba desde las raíces y, al mismo tiempo, hidrata la atmósfera, siendo una parte fundamental del ciclo del agua en la naturaleza.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v7",
+      "statement": "¿Cuál es la diferencia principal entre respirar y hacer fotosíntesis en una planta?",
+      "context": "Las plantas realizan dos procesos con gases: la respiración y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiran solo de día y hacen fotosíntesis de noche",
+          "is_correct": false,
+          "feedback": "Es al revés; la fotosíntesis necesita luz solar obligatoriamente para ocurrir."
+        },
+        {
+          "letter": "B",
+          "text": "Solo las plantas adultas respiran",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos, desde que son semillas germinando, necesitan respirar oxígeno para vivir."
+        },
+        {
+          "letter": "C",
+          "text": "Respiran todo el tiempo y hacen fotosíntesis con luz",
+          "is_correct": true,
+          "feedback": "La respiración es constante para obtener energía; la fotosíntesis es para fabricar el alimento y requiere sol."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ninguna diferencia entre los dos",
+          "is_correct": false,
+          "feedback": "Son procesos opuestos; uno consume oxígeno y el otro lo produce, ambos vitales pero diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es común confundirse, pero son dos tareas distintas. La planta respira (como nosotros) para quemar energía, y hace fotosíntesis para fabricar esa energía, convirtiendo el aire malo (CO2) en oxígeno puro.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v8",
+      "statement": "¿Qué crees que le sucederá a la hoja tapada después de una semana?",
+      "context": "En un experimento, se tapa una hoja de una planta con un plástico negro, mientras las demás hojas reciben luz normal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecerá más que las otras buscando luz",
+          "is_correct": false,
+          "feedback": "Si no recibe nada de luz, no tiene energía para crecer; el crecimiento requiere alimento de la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Se pondrá pálida o amarilla y se debilitará",
+          "is_correct": true,
+          "feedback": "Al no poder realizar la fotosíntesis, la hoja pierde su color verde (clorofila) y empieza a morir."
+        },
+        {
+          "letter": "C",
+          "text": "Dará un fruto pequeño debajo del plástico",
+          "is_correct": false,
+          "feedback": "La producción de frutos requiere muchísima energía que solo se obtiene si hay hojas sanas con sol."
+        },
+        {
+          "letter": "D",
+          "text": "Se volverá de color negro para siempre",
+          "is_correct": false,
+          "feedback": "El color negro era el plástico; la hoja biológicamente pierde su color vital y se marchita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este experimento demuestra que la función de nutrición de la planta depende directamente de la luz. Sin luz, las \"fábricas\" de las hojas se detienen y la planta debe usar sus ahorros de energía hasta agotarlos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v9",
+      "statement": "¿Para qué le sirve a la planta este comportamiento de cerrar sus poros en el día?",
+      "context": "Algunas plantas, como las que viven en el desierto, cierran sus poros durante el día caluroso y los abren solo en la noche fresca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que no les entre arena",
+          "is_correct": false,
+          "feedback": "Aunque ayuda, el motivo principal es la conservación del agua, que es el recurso más escaso en el desierto."
+        },
+        {
+          "letter": "B",
+          "text": "Para evitar perder agua por el calor intenso",
+          "is_correct": true,
+          "feedback": "Al cerrar los poros (estomas), la planta evita que el agua de su interior se evapore hacia el aire seco."
+        },
+        {
+          "letter": "C",
+          "text": "Para poder dormir tranquilas",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen un ciclo de sueño como los animales; sus acciones responden a necesidades de supervivencia física."
+        },
+        {
+          "letter": "D",
+          "text": "Para atrapar insectos nocturnos",
+          "is_correct": false,
+          "feedback": "Cerrar los poros no ayuda a atrapar insectos; las plantas carnívoras tienen trampas especiales mecánicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una adaptación de la función de relación. La planta \"siente\" el calor extremo y \"decide\" ahorrar agua, demostrando que incluso sin cerebro, los seres vivos tienen mecanismos inteligentes para no morir.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v10",
+      "statement": "Basado en lo que aprendiste de sus funciones, ¿por qué esa afirmación es incorrecta?",
+      "context": "Una persona dice: \"Las plantas son aburridas porque no hacen nada, solo están ahí quietas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las plantas caminan de noche",
+          "is_correct": false,
+          "feedback": "Las plantas no se desplazan; su valor no está en el movimiento de traslación sino en sus procesos internos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las plantas tienen muchos colores",
+          "is_correct": false,
+          "feedback": "El color es una propiedad visual, pero lo que las hace interesantes es su compleja actividad biológica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque realizan procesos vitales complejos todo el tiempo",
+          "is_correct": true,
+          "feedback": "Aunque no se muevan, las plantas están fabricando oxígeno, transformando energía solar y limpiando el aire constantemente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se pueden usar para jugar",
+          "is_correct": false,
+          "feedback": "El valor de las plantas es biológico y ecológico para la vida del planeta, no solo para la diversión humana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas son las fábricas químicas más eficientes del mundo. Sin ellas, no habría oxígeno ni comida para los animales. Su \"quietud\" es solo exterior; por dentro, son organismos increíblemente activos y necesarios para la vida.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

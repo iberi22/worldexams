@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W39-question-formation-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v1",
+      "statement": "\"Anaranjado\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "orange",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "purple",
+          "is_correct": false,
+          "feedback": "Incorrecto. Purple = púrpura/morado."
+        },
+        {
+          "letter": "C",
+          "text": "pink",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pink = rosado."
+        },
+        {
+          "letter": "D",
+          "text": "brown",
+          "is_correct": false,
+          "feedback": "Incorrecto. Brown = marrón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colors: orange (anaranjado), purple (morado), pink (rosado), brown (marrón/café).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v2",
+      "statement": "\"I am ___ student.\" (article)",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": true,
+          "feedback": "Correcto. A + consonant sound."
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "is_correct": false,
+          "feedback": "Incorrecto. An + vowel sound."
+        },
+        {
+          "letter": "C",
+          "text": "the",
+          "is_correct": false,
+          "feedback": "Incorrecto. The = específico."
+        },
+        {
+          "letter": "D",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrecto. Some = algunos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A/an: a student (consonant), an apple (vowel). Use a before consonant SOUND, not spelling.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v3",
+      "statement": "\"She ___ to school at 6:30 AM.\" (present)",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correcto. She goes."
+        },
+        {
+          "letter": "B",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrecto. She goes."
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrecto. Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Third person singular present: goes. She goes to school. He goes to work.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v4",
+      "statement": "\"This is my book. It's ___.\" (mine)",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mine",
+          "is_correct": true,
+          "feedback": "Correcto. Mine = mío."
+        },
+        {
+          "letter": "B",
+          "text": "my",
+          "is_correct": false,
+          "feedback": "Incorrecto. My necesita sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "me",
+          "is_correct": false,
+          "feedback": "Incorrecto. Me = a mí."
+        },
+        {
+          "letter": "D",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Incorrecto. I = yo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Possessive pronouns: mine (mío/a), yours (tuyo/a), his (suyo de él), hers (suyo de ella), ours (nuestro/a), theirs (suyo de ellos).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v5",
+      "statement": "\"Which word is a VEHICLE?\"",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bus",
+          "is_correct": true,
+          "feedback": "Correcto. Bus = autobús."
+        },
+        {
+          "letter": "B",
+          "text": "Library",
+          "is_correct": false,
+          "feedback": "Incorrecto. Library = biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Hospital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hospital = hospital."
+        },
+        {
+          "letter": "D",
+          "text": "School",
+          "is_correct": false,
+          "feedback": "Incorrecto. School = colegio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vehicles/transport: bus, car, bike, plane, train, motorcycle. Places: library, hospital, school, park.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v6",
+      "statement": "\"You ___ cross the street when the light is red.\"",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't / mustn't",
+          "is_correct": true,
+          "feedback": "Correcto. Prohibido cruzar."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrecto. No puedes."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrecto. Must = obligación."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrecto. Should = debería."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can't = no puede. Mustn't = no debe (prohibido). Red light = stop. Green light = go.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v7",
+      "statement": "\"How ___ rice do you need?\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much",
+          "is_correct": true,
+          "feedback": "Correcto. Rice = uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrecto. Many para contables."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "How much + uncountable noun (rice, water, milk). How many + countable noun (apples, books, students).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v8",
+      "statement": "\"I like ___.\" (dibujar)",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "drawing",
+          "is_correct": true,
+          "feedback": "Correcto. Like + -ing."
+        },
+        {
+          "letter": "B",
+          "text": "draw",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "draws",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "drew",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Like + verb-ing: I like drawing (dibujar), I like painting (pintar), I like dancing (bailar).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v9",
+      "statement": "\"Which sentence is CORRECT?\"",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He go to school by bus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. He goes."
+        },
+        {
+          "letter": "B",
+          "text": "She doesn't like coffee.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "They doesn't play soccer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. They don't play."
+        },
+        {
+          "letter": "D",
+          "text": "I doesn't like vegetables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. I don't like."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Grammar check: She doesn't like coffee = correct third person negative.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-v10",
+      "statement": "\"Read: 'Bogotá is cold. Cartagena is hot. Medellín is warm.' Which city is the COLDEST?",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Cartagena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cartagena is hot."
+        },
+        {
+          "letter": "C",
+          "text": "Medellín",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medellín is warm."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparatives and superlatives: cold → colder → coldest. Bogotá is the coldest of the three cities.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W39-simulation-test-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
       "cefr_level": null

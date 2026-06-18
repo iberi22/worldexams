@@ -10,7 +10,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v1",
       "statement": "En la expresión algebraica $5x^3 - 4y + 7$, ¿cuál es el coeficiente del segundo término?",
-      "context": "",
+      "context": "Un estudiante en un instituto en Colón está identificando los componentes de una fórmula de costos logísticos en el puerto.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.9,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el valor numérico de la expresión $3a - 2b$ si $a = 4$ y $b = -3$?",
-      "context": "",
+      "context": "Un artesano en la provincia de Coclé utiliza una expresión para calcular la cantidad de material necesario para sus sombreros pinta'os.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el grado absoluto del polinomio $P(x, y) = 4x^2y^3 - 7xy^5 + 2$?",
-      "context": "",
+      "context": "En una clase de álgebra en un colegio de Santiago, se definen las características de los polinomios multivariables.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la traducción al lenguaje algebraico de la frase: \"El triple del cuadrado de un número, disminuido en cinco\"?",
-      "context": "",
+      "context": "Un comerciante en Paso Canoas utiliza el lenguaje algebraico para modelar sus ventas diarias de calzado y ropa.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v5",
       "statement": "Simplifica los términos semejantes de la expresión: $8x^2 - 3x + 5 - 2x^2 + 7x - 9$.",
-      "context": "",
+      "context": "Un arquitecto en la Ciudad de Panamá simplifica las expresiones de las dimensiones de un local comercial.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v6",
       "statement": "Realiza la suma de los polinomios: $P(x) = 3x^2 - 5x + 2$ y $Q(x) = 2x^2 + 8x - 7$.",
-      "context": "",
+      "context": "Un ingeniero hidráulico calcula la presión en las esclusas de Miraflores sumando dos polinomios de fuerzas.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v7",
       "statement": "Resta el polinomio $(2x^2 - 4x + 1)$ del polinomio $(5x^2 + 3x - 6)$.",
-      "context": "",
+      "context": "Un agricultor en Boquete resta la pérdida de cultivos de su proyección total usando expresiones algebraicas.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el resultado de multiplicar $(x + 4)(x - 3)$?",
-      "context": "",
+      "context": "En un proyecto escolar en La Villa de Los Santos, se calcula el área de una maqueta rectangular multiplicando binomios.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v9",
       "statement": "Si el lado de un cubo mide $(x + 2)$, ¿cuál es la expresión para su volumen tras desarrollar el cubo del binomio?",
-      "context": "",
+      "context": "Un programador panameño desarrolla una función para calcular el volumen de una caja cúbica según su lado.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v10",
       "statement": "Realiza la división de monomios: $\\frac{12x^5 y^3}{4x^2 y}$.",
-      "context": "",
+      "context": "En un laboratorio de química en la UNACHI, se divide una expresión de masa entre una de volumen (monomios).",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v11",
       "statement": "Simplifica la expresión algebraica racional: $\\frac{x^2 - 16}{x - 4}$.",
-      "context": "",
+      "context": "Un ingeniero de caminos en Darién simplifica una expresión racional para calcular el costo por kilómetro.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v12",
       "statement": "Al dividir $x^2 + 5x + 6$ entre $x + 2$, ¿cuál es el cociente resultante?",
-      "context": "",
+      "context": "Un topógrafo verifica la precisión de un cálculo de área utilizando la división larga de polinomios en un plano.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el residuo de dividir $x^3 - 2x^2 + 3x - 5$ entre $x - 1$?",
-      "context": "",
+      "context": "Un estudiante panameño utiliza la regla de Ruffini para encontrar el residuo de una división sintética en su tarea.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v14",
       "statement": "Simplifica totalmente la expresión: $\\left(\\frac{2x^2}{y}\\right)^3 \\cdot \\frac{y^2}{4x^4}$.",
-      "context": "",
+      "context": "Un analista de riesgos en la Bolsa de Valores de Panamá simplifica una expresión de potencias y fracciones.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.45,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v15",
       "statement": "Desarrolla la expresión $(2a + 3b)(2a - 3b)$ y determina su resultado simplificado.",
-      "context": "",
+      "context": "Un diseñador industrial en Herrera calcula la diferencia de volúmenes usando productos notables de binomios.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es el valor del término independiente en el desarrollo de $(x - 1)(x + 2)(x - 3)$?",
-      "context": "",
+      "context": "Un matemático investiga la relación entre las raíces de un polinomio y sus coeficientes en un estudio.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.45,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v17",
       "statement": "Simplifica la fracción compleja: $\\frac{1 + \\frac{1}{x}}{1 - \\frac{1}{x^2}}$.",
-      "context": "",
+      "context": "Un experto en finanzas corporativas en Panamá modela la amortización mediante una fracción compleja.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v18",
       "statement": "En el desarrollo de $(x + y)^5$, ¿cuál es el coeficiente del término que contiene $x^2 y^3$?",
-      "context": "",
+      "context": "Un científico de materiales analiza la expansión de una aleación usando un polinomio de Newton.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v19",
       "statement": "Si $x + \\frac{1}{x} = 5$, ¿cuál es el valor de $x^2 + \\frac{1}{x^2}$?",
-      "context": "",
+      "context": "Un criptógrafo en Panamá utiliza identidades algebraicas para verificar una clave de seguridad.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.3,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v20",
       "statement": "Determina el valor de la constante $k$ para que el polinomio $P(x) = x^3 - kx^2 + 4x - 4$ sea divisible por $(x - 2)$.",
-      "context": "",
+      "context": "Un matemático panameño demuestra una propiedad sobre la divisibilidad de polinomios superiores.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.25,
       "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

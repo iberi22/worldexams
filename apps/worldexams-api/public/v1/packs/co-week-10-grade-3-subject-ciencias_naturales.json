@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.130Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v1",
+      "statement": "¿Cómo se llama el lugar que le brinda a un animal todo lo que necesita para vivir (comida, agua, refugio)?",
+      "context": "En una expedición al Parque Tayrona, los niños ven monos en los árboles, peces en el mar y gaviotas volando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un centro comercial",
+          "is_correct": false,
+          "feedback": "Estos son lugares construidos por humanos para actividades sociales y económicas, no son entornos naturales de vida animal."
+        },
+        {
+          "letter": "B",
+          "text": "El hábitat",
+          "is_correct": true,
+          "feedback": "El hábitat es el entorno natural que cumple con las condiciones necesarias para que una especie pueda vivir y reproducirse."
+        },
+        {
+          "letter": "C",
+          "text": "Una caja de cartón",
+          "is_correct": false,
+          "feedback": "Aunque pueda servir de refugio temporal para una mascota, no es el entorno natural completo de un animal."
+        },
+        {
+          "letter": "D",
+          "text": "El espacio exterior",
+          "is_correct": false,
+          "feedback": "En el espacio no hay aire, agua ni comida; los animales necesitan las condiciones de la Tierra para sobrevivir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hábitat es la \"casa\" de los animales en la naturaleza. Cada especie tiene un hábitat favorito: algunos prefieren el calor del desierto, otros el frío de los páramos y otros la humedad de los océanos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v2",
+      "statement": "¿A qué tipo de hábitat pertenecen estos animales?",
+      "context": "Los delfines, los tiburones y los corales viven toda su vida sumergidos bajo el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terrestre",
+          "is_correct": false,
+          "feedback": "Los hábitats terrestres son los que están sobre la tierra firme, como bosques, selvas y desiertos."
+        },
+        {
+          "letter": "B",
+          "text": "Acuático",
+          "is_correct": true,
+          "feedback": "Los hábitats acuáticos son los cuerpos de agua, como océanos, ríos, lagos y lagunas."
+        },
+        {
+          "letter": "C",
+          "text": "Aeroterrestre",
+          "is_correct": false,
+          "feedback": "Este término se usa para animales que viven en tierra pero pasan mucho tiempo en el aire, como las aves."
+        },
+        {
+          "letter": "D",
+          "text": "Subterráneo",
+          "is_correct": false,
+          "feedback": "Aunque están bajo la superficie, los animales acuáticos viven en agua, no bajo la tierra sólida como los topos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los hábitats acuáticos pueden ser de agua salada (mares y océanos) o de agua dulce (ríos y lagos). Los animales acuáticos tienen adaptaciones especiales, como branquias o aletas, para poder vivir allí.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v3",
+      "statement": "¿Qué característica del oso de anteojos le ayuda a vivir en el clima frío de la montaña?",
+      "context": "Un oso de anteojos vive en los bosques altos y húmedos de las montañas colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene la piel muy delgada",
+          "is_correct": false,
+          "feedback": "La piel delgada dejaría escapar el calor del cuerpo, haciendo que el oso sintiera mucho frío en la montaña."
+        },
+        {
+          "letter": "B",
+          "text": "Su pelaje grueso y abundante",
+          "is_correct": true,
+          "feedback": "El pelo funciona como una cobija natural que atrapa el calor del cuerpo y lo protege de la humedad y el frío."
+        },
+        {
+          "letter": "C",
+          "text": "Que puede respirar bajo el agua",
+          "is_correct": false,
+          "feedback": "El oso de anteojos es un animal terrestre; no tiene branquias y moriría si tratara de respirar bajo el agua."
+        },
+        {
+          "letter": "D",
+          "text": "El color de sus ojos",
+          "is_correct": false,
+          "feedback": "El color de los ojos no influye en la capacidad del animal para mantener su temperatura corporal en el frío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las adaptaciones físicas son cambios en el cuerpo de los animales que les permiten ajustarse a su hábitat. El pelaje es la adaptación más común en mamíferos que viven en lugares fríos para evitar la pérdida de energía térmica.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v4",
+      "statement": "¿Qué le sucedería al pez y por qué?",
+      "context": "Si sacamos a un pez payaso del mar y lo ponemos en un jardín con flores y mucho sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se volvería amigo de las mariposas",
+          "is_correct": false,
+          "feedback": "Los animales no cambian su naturaleza social por estar en un entorno extraño; el problema es biológico y vital."
+        },
+        {
+          "letter": "B",
+          "text": "Moriría porque no puede respirar aire",
+          "is_correct": true,
+          "feedback": "Sus branquias están diseñadas para extraer oxígeno del agua, no del aire, y su cuerpo se secaría rápidamente."
+        },
+        {
+          "letter": "C",
+          "text": "Empezaría a caminar con sus aletas",
+          "is_correct": false,
+          "feedback": "Las aletas no tienen la estructura ósea ni muscular necesaria para sostener y mover el cuerpo en tierra firme."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiaría de color para esconderse",
+          "is_correct": false,
+          "feedback": "El camuflaje no sirve de nada si el animal no puede cumplir sus funciones vitales básicas como respirar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada animal está \"programado\" para su hábitat. El pez payaso tiene una relación de dependencia con el agua salada y las anémonas. Sacar a un animal de su hábitat natural es poner en peligro su vida de forma inmediata.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v5",
+      "statement": "¿En qué hábitat es más probable que viva el camello?",
+      "context": "Un camello tiene jorobas donde guarda grasa, pestañas muy largas y patas anchas para no hundirse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el Polo Norte entre el hielo",
+          "is_correct": false,
+          "feedback": "Sus patas anchas y falta de pelaje térmico grueso no lo ayudarían en la nieve profunda y el frío extremo."
+        },
+        {
+          "letter": "B",
+          "text": "En una selva muy lluviosa",
+          "is_correct": false,
+          "feedback": "La humedad excesiva dañaría su piel y sus adaptaciones para ahorrar agua no serían necesarias en la selva."
+        },
+        {
+          "letter": "C",
+          "text": "En un desierto caluroso y arenoso",
+          "is_correct": true,
+          "feedback": "Sus pestañas lo protegen de la arena y sus jorobas le permiten sobrevivir mucho tiempo sin agua ni comida."
+        },
+        {
+          "letter": "D",
+          "text": "Dentro de una cueva oscura",
+          "is_correct": false,
+          "feedback": "El tamaño del camello y sus necesidades de alimentación de plantas del desierto no encajan con la vida en una cueva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El camello es el rey de la adaptación al desierto. Sus jorobas no guardan agua, sino grasa que se convierte en energía y agua cuando el animal no encuentra comida, permitiéndole viajar kilómetros por la arena ardiente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v6",
+      "statement": "¿Qué buscan estos animales cuando bajan a la tierra o a los árboles?",
+      "context": "Los animales aeroterrestres, como las águilas y los murciélagos, pasan mucho tiempo en el aire pero necesitan la tierra para descansar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refugio para dormir y reproducirse",
+          "is_correct": true,
+          "feedback": "El aire es para moverse y cazar, pero para poner huevos o tener crías seguras necesitan un nido o refugio firme."
+        },
+        {
+          "letter": "B",
+          "text": "Aprender a caminar mejor",
+          "is_correct": false,
+          "feedback": "Su especialidad es el vuelo; bajan por necesidad de descanso y seguridad, no por entrenamiento físico de caminata."
+        },
+        {
+          "letter": "C",
+          "text": "Escapar del viento fuerte",
+          "is_correct": false,
+          "feedback": "Aunque el viento influye, el motivo principal es completar su ciclo de vida en un lugar sólido y protegido."
+        },
+        {
+          "letter": "D",
+          "text": "Enterrarse para no ser vistos",
+          "is_correct": false,
+          "feedback": "La mayoría de las aves y murciélagos prefieren lugares altos o cuevas, no se entierran en el suelo como los topos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ningún animal vive 100% en el aire. Los hábitats aeroterrestres combinan la ventaja de la velocidad del vuelo con la seguridad que ofrecen los árboles, los acantilados o las cuevas para la etapa de reproducción y sueño.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v7",
+      "statement": "¿Por qué los animales del páramo suelen ser de colores oscuros o tener mucho pelo?",
+      "context": "En Colombia hay animales que viven en los \"Páramos\", lugares muy altos donde hace mucho frío, hay mucha niebla y el viento sopla fuerte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no se bañan nunca",
+          "is_correct": false,
+          "feedback": "La higiene de los animales es natural y no tiene relación con el color de su piel o la cantidad de su pelo."
+        },
+        {
+          "letter": "B",
+          "text": "Para absorber el calor del sol y protegerse del frío",
+          "is_correct": true,
+          "feedback": "Los colores oscuros atrapan mejor la energía solar y el pelo abundante funciona como un aislante térmico."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las plantas no los vean",
+          "is_correct": false,
+          "feedback": "Las plantas no \"ven\" a los animales; las adaptaciones en el páramo son principalmente para resistir el clima extremo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el viento les pinta el pelo",
+          "is_correct": false,
+          "feedback": "El viento es aire en movimiento y no tiene la capacidad de cambiar el color biológico de los animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El páramo es un hábitat difícil. Los animales que viven allí, como el cóndor o el oso de anteojos, deben ser expertos en conservar la energía. Sus características físicas están diseñadas para que el clima no les robe el calor vital.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v8",
+      "statement": "¿Qué está haciendo el castor con su hábitat?",
+      "context": "Un castor construye una represa de palos y lodo en un río, creando una laguna tranquila donde construye su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Destruyendo la naturaleza",
+          "is_correct": false,
+          "feedback": "El castor es parte de la naturaleza; su construcción ayuda a crear nuevos microhábitats para otros animales."
+        },
+        {
+          "letter": "B",
+          "text": "Limpiando el río de madera vieja",
+          "is_correct": false,
+          "feedback": "Aunque usa madera, su objetivo no es la limpieza, sino la construcción de un refugio seguro para su familia."
+        },
+        {
+          "letter": "C",
+          "text": "Modificando el entorno para sus necesidades",
+          "is_correct": true,
+          "feedback": "Algunos animales tienen la capacidad de cambiar físicamente su hábitat para estar más seguros y encontrar comida fácil."
+        },
+        {
+          "letter": "D",
+          "text": "Jugando a ser arquitecto humano",
+          "is_correct": false,
+          "feedback": "Es una conducta instintiva de su especie que ha realizado por miles de años, mucho antes que los arquitectos humanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los animales no siempre aceptan el hábitat tal como es. Algunos, como los castores, las hormigas o los pájaros tejedores, transforman su entorno. Esto demuestra que el hábitat es un lugar dinámico donde los seres vivos interactúan y cambian las cosas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v9",
+      "statement": "¿Cómo se llama esta adaptación y para qué sirve en ese hábitat?",
+      "context": "Muchos animales de la selva tienen manchas o rayas que se confunden con las luces y sombras de las hojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camuflaje: para esconderse de presas o depredadores",
+          "is_correct": true,
+          "feedback": "Al parecerse al entorno, el animal puede cazar sin ser visto o evitar ser comido por otros más grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Decoración: para que la selva se vea más alegre",
+          "is_correct": false,
+          "feedback": "En la naturaleza, los colores y patrones tienen funciones de supervivencia, no de decoración o alegría."
+        },
+        {
+          "letter": "C",
+          "text": "Transparencia: para que la luz pase a través de ellos",
+          "is_correct": false,
+          "feedback": "El camuflaje no es ser transparente, es imitar los colores y formas de las cosas que rodean al animal."
+        },
+        {
+          "letter": "D",
+          "text": "Fotosíntesis animal: para tomar energía del color verde",
+          "is_correct": false,
+          "feedback": "Ya sabemos que los animales no hacen fotosíntesis; su relación con el color verde es para esconderse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El camuflaje es una herramienta de relación con el hábitat. Un tigre en la nieve se vería de inmediato, pero en la selva, sus rayas se mezclan con las sombras de los árboles, permitiéndole ser un cazador muy eficiente.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v10",
+      "statement": "¿Qué es lo más probable que les suceda a los animales que pierden su hábitat?",
+      "context": "Un bosque es talado para construir una carretera y muchos animales se quedan sin árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprenderán a vivir en la carretera",
+          "is_correct": false,
+          "feedback": "La carretera es peligrosa y no ofrece comida ni refugio natural para los animales silvestres."
+        },
+        {
+          "letter": "B",
+          "text": "Se convertirán en animales domésticos",
+          "is_correct": false,
+          "feedback": "El instinto silvestre no desaparece por perder el hábitat; los animales suelen tener miedo de los humanos."
+        },
+        {
+          "letter": "C",
+          "text": "Tendrán que buscar otro lugar o podrían morir",
+          "is_correct": true,
+          "feedback": "Sin los recursos de su hábitat, los animales sufren hambre, estrés y quedan expuestos a peligros que antes no tenían."
+        },
+        {
+          "letter": "D",
+          "text": "Los árboles volverán a crecer en un día",
+          "is_correct": false,
+          "feedback": "El crecimiento de un bosque tarda décadas o siglos; la pérdida del hábitat es un daño a largo plazo para la fauna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pérdida de hábitat es la mayor amenaza para los animales hoy en día. Sin su \"casa\" natural, las especies no pueden cumplir sus funciones vitales. Por eso es tan importante proteger los ecosistemas y planear bien nuestras construcciones.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v1",
+      "statement": "¿Cuál es la característica principal que clasifica al caballo como vertebrado y a la mariposa como invertebrada?",
+      "context": "En una clase de repaso, los estudiantes deben identificar la diferencia fundamental entre un caballo y una mariposa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de su piel o cubiertas",
+          "is_correct": false,
+          "feedback": "El color no es un criterio de clasificación para vertebrados; lo importante es la estructura interna del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia o ausencia de columna vertebral",
+          "is_correct": true,
+          "feedback": "Los vertebrados tienen esqueleto óseo interno con columna, mientras que los invertebrados carecen de ella."
+        },
+        {
+          "letter": "C",
+          "text": "El número de patas que tienen",
+          "is_correct": false,
+          "feedback": "Aunque tienen diferente número de patas, la clasificación en vertebrados depende de los huesos internos, no de las extremidades externas."
+        },
+        {
+          "letter": "D",
+          "text": "Si pueden comer plantas o no",
+          "is_correct": false,
+          "feedback": "Tanto vertebrados como invertebrados pueden ser herbívoros; la dieta no define la presencia de huesos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La columna vertebral es el eje del esqueleto interno. Los animales que la poseen son vertebrados (como nosotros) y los que no, son invertebrados (como los insectos). Esta es la división más grande del reino animal.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v2",
+      "statement": "¿A qué grupo alimenticio pertenece este animal y por qué?",
+      "context": "Un biólogo observa un cráneo de un animal que tiene muelas muy anchas y planas, sin colmillos afilados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Herbívoro, porque usa sus muelas para triturar plantas",
+          "is_correct": true,
+          "feedback": "Los herbívoros necesitan moler fibras vegetales duras, por lo que sus dientes son planos y fuertes."
+        },
+        {
+          "letter": "B",
+          "text": "Carnívoro, porque necesita morder muy fuerte",
+          "is_correct": false,
+          "feedback": "Los carnívoros necesitan desgarrar carne, por lo que tendrían colmillos puntiagudos y no muelas planas predominantes."
+        },
+        {
+          "letter": "C",
+          "text": "Omnívoro, porque puede comer piedras",
+          "is_correct": false,
+          "feedback": "Los omnívoros tienen dentadura mixta, y ningún animal se alimenta de piedras para obtener energía."
+        },
+        {
+          "letter": "D",
+          "text": "Insectívoros, porque las muelas aplastan bichos",
+          "is_correct": false,
+          "feedback": "Los insectívoros suelen tener dientes pequeños y puntiagudos o carecer de ellos, no tienen grandes muelas de rumiante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma de los dientes nos dice qué come el animal. Los herbívoros son como \"molinos vivientes\" que pasan mucho tiempo masticando vegetales para extraer sus nutrientes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v3",
+      "statement": "¿Cuál de estos animales nace directamente del vientre materno y se alimenta de leche?",
+      "context": "Clasifica a los siguientes animales según su forma de nacer: Perro, Tortuga, Tiburón (algunos nacen de huevo interno), Gallina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tortuga",
+          "is_correct": false,
+          "feedback": "La tortuga es un reptil ovíparo; pone huevos en la arena y las crías nacen solas sin tomar leche."
+        },
+        {
+          "letter": "B",
+          "text": "El perro",
+          "is_correct": true,
+          "feedback": "El perro es un mamífero vivíparo; sus crías se desarrollan dentro de la madre y luego toman leche materna."
+        },
+        {
+          "letter": "C",
+          "text": "La gallina",
+          "is_correct": false,
+          "feedback": "La gallina es un ave ovípara; pone huevos con cáscara dura y los calienta hasta que nacen los pollitos."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los mencionados",
+          "is_correct": false,
+          "feedback": "Solo el perro cumple con ser vivíparo y mamífero; los otros tienen formas de nacer diferentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los vivíparos mamíferos ofrecen el cuidado más completo a sus crías. Al nacer del vientre y recibir leche, el bebé está protegido y bien alimentado durante su etapa más vulnerable.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v4",
+      "statement": "¿Cómo se ha adaptado el cuerpo del pingüino para su hábitat acuático?",
+      "context": "Un pingüino intenta volar por el aire pero no puede; sin embargo, al entrar al agua, se desplaza a gran velocidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus alas se volvieron más largas y suaves",
+          "is_correct": false,
+          "feedback": "Si fueran largas y suaves, se doblarían con la resistencia del agua; necesitan ser cortas y rígidas."
+        },
+        {
+          "letter": "B",
+          "text": "Sus alas funcionan como aletas potentes",
+          "is_correct": true,
+          "feedback": "Aunque es un ave, sus extremidades superiores se transformaron en herramientas perfectas para nadar."
+        },
+        {
+          "letter": "C",
+          "text": "Le crecieron branquias en el cuello",
+          "is_correct": false,
+          "feedback": "Los pingüinos son aves y respiran aire con pulmones; deben salir a la superficie para respirar."
+        },
+        {
+          "letter": "D",
+          "text": "Su cuerpo se volvió cuadrado",
+          "is_correct": false,
+          "feedback": "Los animales acuáticos suelen tener cuerpos hidrodinámicos (alargados y suaves) para avanzar mejor en el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adaptación es la respuesta de la vida al medio ambiente. El pingüino cambió el vuelo aéreo por el \"vuelo submarino\", demostrando que las aves pueden conquistar diferentes hábitats.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v5",
+      "statement": "¿Para qué le sirve el camuflaje al jaguar en su función de nutrición?",
+      "context": "En la selva, un jaguar tiene manchas en su piel que se confunden con las sombras de las hojas y los troncos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el sol no lo queme",
+          "is_correct": false,
+          "feedback": "El camuflaje es una estrategia de ocultamiento, no una protección contra la radiación solar."
+        },
+        {
+          "letter": "B",
+          "text": "Para acercarse a sus presas sin ser visto",
+          "is_correct": true,
+          "feedback": "Como carnívoro, el jaguar necesita el sigilo para cazar con éxito antes de que su presa escape."
+        },
+        {
+          "letter": "C",
+          "text": "Para asustar a los árboles",
+          "is_correct": false,
+          "feedback": "Los árboles no tienen sentidos para asustarse; el jaguar interactúa con otros animales a través de su pelaje."
+        },
+        {
+          "letter": "D",
+          "text": "Para poder dormir todo el día",
+          "is_correct": false,
+          "feedback": "Dormir es una necesidad de descanso, pero las manchas tienen su función principal durante la actividad de caza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El camuflaje es una herramienta de doble propósito: ayuda a los cazadores a esconderse para atrapar comida, y a las presas a esconderse para no ser comidas. Es vital en hábitats complejos como la selva.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v6",
+      "statement": "¿Qué proceso del ciclo de vida permitió este cambio tan grande en la rana?",
+      "context": "Un renacuajo vive en el agua y respira por branquias. Una rana adulta vive en la tierra y respira por pulmones y por su piel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La alimentación variada",
+          "is_correct": false,
+          "feedback": "Comer diferentes cosas ayuda a crecer, pero no cambia los órganos respiratorios de branquias a pulmones."
+        },
+        {
+          "letter": "B",
+          "text": "La metamorfosis",
+          "is_correct": true,
+          "feedback": "Este proceso de transformación permite que el animal cambie su forma y sus funciones para vivir en un hábitat diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El nacimiento vivíparo",
+          "is_correct": false,
+          "feedback": "Las ranas nacen de huevos (son ovíparas), no nacen del vientre materno."
+        },
+        {
+          "letter": "D",
+          "text": "El crecimiento de la cola",
+          "is_correct": false,
+          "feedback": "En la metamorfosis de la rana, la cola en realidad desaparece para dar paso a las patas traseras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metamorfosis es típica de los anfibios. Les permite aprovechar dos hábitats diferentes en su vida, reduciendo la competencia por comida entre los jóvenes y los adultos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v7",
+      "statement": "¿A qué grupo pertenece y qué tipo de esqueleto tiene?",
+      "context": "Imagina un animal que tiene 6 patas, alas transparentes y un esqueleto duro por fuera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vertebrado con huesos internos",
+          "is_correct": false,
+          "feedback": "Los animales de 6 patas son insectos, los cuales carecen de huesos y columna vertebral."
+        },
+        {
+          "letter": "B",
+          "text": "Invertebrado con exoesqueleto",
+          "is_correct": true,
+          "feedback": "Los insectos tienen una cubierta dura externa llamada exoesqueleto que protege sus órganos blandos."
+        },
+        {
+          "letter": "C",
+          "text": "Mamífero con armadura",
+          "is_correct": false,
+          "feedback": "Los mamíferos tienen huesos internos y pelo, no tienen 6 patas ni alas transparentes de insecto."
+        },
+        {
+          "letter": "D",
+          "text": "Reptil con caparazón",
+          "is_correct": false,
+          "feedback": "Aunque los reptiles tienen escamas o caparazón, son vertebrados y tienen solo 4 patas o ninguna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El exoesqueleto es como una armadura que los invertebrados deben cambiar (mudar) para poder crecer. A diferencia de nuestros huesos, el esqueleto del insecto está por fuera de sus músculos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v8",
+      "statement": "¿Cuál es la clasificación más completa para el murciélago?",
+      "context": "Tienes que clasificar a un murciélago: vuela, tiene pelo, nace del vientre de su madre y tiene huesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ave nocturna",
+          "is_correct": false,
+          "feedback": "Aunque vuela, el murciélago no tiene plumas ni nace de huevo; por lo tanto, no es un ave."
+        },
+        {
+          "letter": "B",
+          "text": "Invertebrado volador",
+          "is_correct": false,
+          "feedback": "El enunciado dice que \"tiene huesos\", lo que lo clasifica inmediatamente como un vertebrado."
+        },
+        {
+          "letter": "C",
+          "text": "Vertebrado mamífero",
+          "is_correct": true,
+          "feedback": "Tiene huesos (vertebrado) y nace del vientre alimentándose de leche (mamífero), a pesar de que vuela."
+        },
+        {
+          "letter": "D",
+          "text": "Reptil con alas",
+          "is_correct": false,
+          "feedback": "Los reptiles tienen escamas y sangre fría; el murciélago tiene pelo y sangre caliente de mamífero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No todos los animales que vuelan son aves. El murciélago es el único mamífero capaz de volar activamente. Esto nos enseña que las características de reproducción y estructura ósea son más importantes para clasificar que la forma de moverse.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v9",
+      "statement": "¿Por qué en la naturaleza siempre hay más herbívoros que carnívoros?",
+      "context": "En un ecosistema, hay muchos conejos y pocos zorros. Si hubiera más zorros que conejos, los zorros se quedarían sin comida pronto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los herbívoros son más inteligentes",
+          "is_correct": false,
+          "feedback": "La inteligencia no determina la cantidad de población; lo hace la disponibilidad de energía y alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se necesita mucha energía vegetal para sostener a los depredadores",
+          "is_correct": true,
+          "feedback": "La energía se pierde al pasar de plantas a herbívoros y luego a carnívoros; por eso se necesita una base muy grande de alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los carnívoros no quieren tener hijos",
+          "is_correct": false,
+          "feedback": "Todos los animales buscan reproducirse; la cantidad de individuos está limitada por la comida disponible."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol solo alimenta a los conejos",
+          "is_correct": false,
+          "feedback": "El sol alimenta a las plantas, que luego alimentan a los conejos y estos a los zorros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama pirámide de energía. La naturaleza es equilibrada. Si hubiera demasiados carnívoros, acabarían con todos los herbívoros y luego ellos mismos morirían de hambre.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v10",
+      "statement": "¿Es este animal un mamífero a pesar de que pone huevos?",
+      "context": "Un científico encuentra un animal que pone huevos pero amamanta a sus crías con leche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque los mamíferos nunca ponen huevos",
+          "is_correct": false,
+          "feedback": "Existen excepciones muy raras en la naturaleza, como el ornitorrinco, que rompen las reglas generales."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque tiene plumas de colores",
+          "is_correct": false,
+          "feedback": "Si tuviera plumas sería un ave; los mamíferos tienen pelo o piel, no plumas."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la característica definitiva de los mamíferos es dar leche",
+          "is_correct": true,
+          "feedback": "Aunque ponga huevos (ovíparo), si posee glándulas mamarias y pelo, se clasifica como un mamífero especial."
+        },
+        {
+          "letter": "D",
+          "text": "No, es una planta que camina",
+          "is_correct": false,
+          "feedback": "Claramente es un animal complejo con funciones vitales de nutrición heterótrofa y reproducción animal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ornitorrinco es el ejemplo perfecto de que la naturaleza no es una lista de reglas rígidas. Se clasifica como mamífero (monotrema) porque tiene pelo y glándulas mamarias, aunque su forma de nacer sea como la de un ave o reptil.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

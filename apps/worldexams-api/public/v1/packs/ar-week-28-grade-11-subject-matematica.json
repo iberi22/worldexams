@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el intervalo de confianza que se desprende de estos datos?",
-      "context": "",
+      "context": "Un analista en Buenos Aires realiza una encuesta de opinión y calcula que el 45% de la población aprueba una medida económica, con un margen de error del 3%.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v2",
       "statement": "¿Qué significa técnicamente que el nivel de confianza sea del 95%?",
-      "context": "",
+      "context": "En un estudio sobre el ingreso promedio en una ciudad de Córdoba, se utiliza un nivel de confianza del 95%.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.82,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor aproximado de Z_α/2 para un nivel de confianza estándar del 95%?",
-      "context": "",
+      "context": "Al calcular un intervalo de confianza para la media usando la distribución normal, se utiliza un valor crítico Z_α/2.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.88,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v4",
       "statement": "Si el fabricante dice: \"El promedio de duración es de exactamente 1.200 horas\", ¿qué tipo de estimación está realizando?",
-      "context": "",
+      "context": "Un fabricante de bombillas en Santa Fe desea estimar la vida media de su producción.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.8,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v5",
       "statement": "¿Cómo será el margen de error de la encuesta B respecto a la A?",
-      "context": "",
+      "context": "Se comparan dos encuestas electorales en la provincia de Mendoza. La encuesta A usó una muestra de 400 personas y la encuesta B usó una muestra de 1.600 personas. Ambas usaron un nivel de confianza del 95%.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.75,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v6",
       "statement": "¿Qué sucede con la amplitud del intervalo de confianza?",
-      "context": "",
+      "context": "Un investigador aumenta el nivel de confianza de su estudio del 95% al 99% sin cambiar el tamaño de la muestra.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el margen de error de esta estimación? (Fórmula del error: E = Z * σ / √n)",
-      "context": "",
+      "context": "En un control de peso de paquetes de harina en una fábrica de Rosario:\n- n = 100 paquetes\n- x̄ = 1002 g (promedio muestral)\n- σ = 10 g (desviación estándar poblacional conocida)\n- Confianza = 95% (Z = 1,96)",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.72,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el error estándar de la proporción (SE = √[p(1-p)/n])?",
-      "context": "",
+      "context": "Se realiza una encuesta a 1.000 personas en Salta sobre la aprobación de un nuevo festival. El 60% está a favor. Se usa un 95% de confianza (Z=1,96).",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.74,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v9",
       "statement": "¿Cuál fue el promedio muestral (x̄) utilizado para construir este intervalo?",
-      "context": "",
+      "context": "Se determinó que el intervalo de confianza al 95% para la altura media de los pinos en un bosque de Neuquén es [12,4 m ; 14,2 m].",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.78,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v10",
       "statement": "Si queremos reducir el margen de error a $250 manteniendo la misma confianza, ¿qué debemos hacer con la muestra?",
-      "context": "",
+      "context": "Un estudio sobre el gasto promedio en ferias barriales de CABA tiene un margen de error de $500 con un 90% de confianza.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.72,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v11",
       "statement": "¿En qué situación es OBLIGATORIO usar la distribución t de Student en lugar de la Normal (Z)?",
-      "context": "",
+      "context": "Un laboratorio de control de aguas en San Luis analiza la presencia de una sustancia. Toma una muestra de n = 16 mediciones. Dado que n es pequeño, el investigador duda entre usar Z o t de Student.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.65,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el tamaño de muestra mínimo necesario si no tenemos información previa sobre la proporción (caso más desfavorable p=0,5)? Fórmula: n = (Z² * p * q) / E²",
-      "context": "",
+      "context": "Se quiere estimar el porcentaje de hogares con internet en un pueblo de 2.000 habitantes. El margen de error deseado es del 5% (0,05) con un 95% de confianza (Z=1,96).",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.6,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v13",
       "statement": "¿Cómo se denomina técnicamente a esta situación?",
-      "context": "",
+      "context": "En una encuesta de boca de urna en una ciudad patagónica, la diferencia entre dos candidatos es del 2%, pero el margen de error de la encuesta es del 4%.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.62,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v14",
       "statement": "¿Cuál de las siguientes afirmaciones es SIEMPRE verdadera?",
-      "context": "",
+      "context": "Se estimó el consumo promedio de carne por persona en un pueblo mediante un intervalo al 95%. Luego se calculó otro al 99% con los mismos datos.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el margen de error relativo respecto a la media (porcentaje de error)?",
-      "context": "",
+      "context": "Un intervalo de confianza para el precio de la soja en la bolsa de Rosario es [$420, $440].",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.64,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es el tamaño de muestra mínimo n? Fórmula: n = (Z * σ / E)²",
-      "context": "",
+      "context": "Se quiere estimar la altura media de una población con un error máximo de 1 cm y un desvío estándar poblacional conocido de 5 cm. Se usa un 95% de confianza (Z=1,96).",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.58,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v17",
       "statement": "¿Es equivalente esta afirmación a la definición de un intervalo de confianza al 95% para la media?",
-      "context": "",
+      "context": "Un estadístico de la UNLP afirma: \"En 95 de cada 100 muestras, el promedio muestral caerá dentro de 1,96 errores estándar de la media poblacional\".",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.52,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v18",
       "statement": "¿Es este resultado consistente con la teoría estadística?",
-      "context": "",
+      "context": "Se observa que al aumentar el tamaño de la muestra de n=100 a n=400, el intervalo de confianza se redujo de [45, 55] a [48, 52].",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.55,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v19",
       "statement": "¿Por qué muchos estadísticos consideran esta frase técnicamente imprecisa (aunque se use coloquialmente)?",
-      "context": "",
+      "context": "Un analista dice: \"Hay una probabilidad del 95% de que la media poblacional μ esté entre 10 y 20\".",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle-v20",
       "statement": "Desde el punto de vista de la precisión y fiabilidad, ¿cuál método es preferible para construir un intervalo de confianza?",
-      "context": "",
+      "context": "Se quiere comparar dos métodos para estimar el precio promedio de alquileres en Buenos Aires. El Método 1 tiene un sesgo conocido de +$5000 y un error estándar de $1000. El Método 2 no tiene sesgo pero su error estándar es de $8000.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Probabilidad y Estadística",
+      "expected_success": 0.42,
       "bundle_id": "AR-MAT-11-2026-W28-intervalos-confianza-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",

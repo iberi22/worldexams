@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.220Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v1",
+      "statement": "Que conflicto interno ha vivido Colombia desde mediados del siglo XX?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una invasion extranjera",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Un conflicto armado interno con guerrillas, paramilitares y narcotrafico",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra mundial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una monarquia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia ha vivido un conflicto armado interno de mas de 50 anos que ha involucrado guerrillas (FARC, ELN), paramilitares, fuerzas del Estado y el narcotrafico.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v2",
+      "statement": "Que fue el proceso de paz con las FARC?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una guerra",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Las negociaciones entre el gobierno colombiano y las FARC que terminaron con un acuerdo de paz en 2016",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una batalla",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Un partido politico",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tras 4 anos de conversaciones en La Habana (Cuba), el gobierno de Juan Manuel Santos y las FARC firmaron un acuerdo de paz en 2016. Las FARC dejaron las armas y se convirtieron en partido politico.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v3",
+      "statement": "Quien fue presidente de Colombia cuando se firmo el acuerdo de paz con las FARC?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alvaro Uribe Velez",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Juan Manuel Santos",
+          "is_correct": true,
+          "feedback": "Correcto. Recibio el Premio Nobel de Paz 2016."
+        },
+        {
+          "letter": "C",
+          "text": "Andres Pastrana",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ernesto Samper",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Juan Manuel Santos (presidente 2010-2018) lidero el proceso de paz con las FARC. Por esto recibio el Premio Nobel de Paz en 2016.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v4",
+      "statement": "Que es el narcotrafico y como afecto a Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el cultivo de cafe",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El trafico ilegal de drogas, que ha causado violencia, corrupcion y deterioro social",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un deporte nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una tradicion indigena",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narcotrafico ha sido uno de los principales factores de violencia en Colombia desde los anos 70. Carteles como el de Medellin (Pablo Escobar) y Cali generaron terrorismo y corrupcion.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v5",
+      "statement": "Quien fue Pablo Escobar?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un presidente colombiano",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El lider del Cartel de Medellin, uno de los narcotraficantes mas poderosos del mundo",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un escritor",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Un deportista",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pablo Escobar lidero el Cartel de Medellin en los anos 80 y principios de los 90. Su organizacion terrorista asesino a politicos, jueces y policias. Murio en 1993.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v6",
+      "statement": "Que acciones se tomaron contra el narcotrafico en Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Extradicion de narcotraficantes, fumigacion de cultivos, persecucion policial y acuerdos de sometimiento a la justicia",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Legalizacion total",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Alianza con los carteles",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia ha combatido el narcotrafico con extradicion a EE.UU., erradicacion de cultivos ilicitos, operativos policiales y acuerdos de sometimiento (como con el Cartel de Cali).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v7",
+      "statement": "Como ha sido la Constitucion de 1991 para Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue un fracaso",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una nueva constitucion que amplio derechos, creo mecanismos de participacion ciudadana y modernizo el Estado",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "No cambio nada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Instauro la monarquia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitucion de 1991 reemplazo a la de 1886. Reconocio derechos fundamentales, la diversidad etnica y cultural, creo la tutela y otros mecanismos de participacion.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v8",
+      "statement": "Que es la 'Justicia Especial para la Paz' (JEP)?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tribunal militar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Un tribunal creado por el acuerdo de paz para juzgar los delitos del conflicto armado",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una carcel",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Un partido politico",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La JEP es el sistema de justicia transicional creado por el Acuerdo de Paz con las FARC. Juzga los delitos mas graves del conflicto armado. Ofrece penas alternativas a cambio de verdad.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v9",
+      "statement": "Que es el 'posconflicto' en Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La guerra contra las FARC",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La etapa posterior a la firma del acuerdo de paz, buscando construir paz territorial y superar las causas del conflicto",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La colonizacion",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El posconflicto es el proceso de construccion de paz despues del acuerdo. Incluye la reintegracion de excombatientes, la reparacion a victimas y el desarrollo rural.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v10",
+      "statement": "Cual es el mayor desafio de Colombia en el siglo XXI?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Construir una paz estable y duradera, superar la desigualdad social y proteger el medio ambiente",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Conquistar nuevos territorios",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Volver a la colonia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los principales desafios de Colombia hoy son: consolidar la paz, reducir la desigualdad, combatir el narcotrafico, proteger la biodiversidad y fortalecer la democracia.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

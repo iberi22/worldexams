@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W16-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v1",
+      "statement": "\"What is your name?\" \"My name ___ Carlos.\"",
+      "context": "In Bogotá, midterm review.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrecto. Am es para \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correcto. \"My name is\" es la estructura correcta."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrecto. Are no va con \"name\" singular."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrecto. Be es el infinitivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"My name is + name\" = \"Mi nombre es...\". También puedes decir \"I am + name\": \"I am Carlos.\"\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v2",
+      "statement": "\"Eraser\" in Spanish is ___.",
+      "context": "In Medellín, review of classroom items.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tajalápiz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tajalápiz = sharpener."
+        },
+        {
+          "letter": "B",
+          "text": "Borrador",
+          "is_correct": true,
+          "feedback": "Correcto. Eraser = borrador."
+        },
+        {
+          "letter": "C",
+          "text": "Regla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regla = ruler."
+        },
+        {
+          "letter": "D",
+          "text": "Cuaderno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuaderno = notebook."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "School supplies: eraser (borrador), pencil (lápiz), ruler (regla), notebook (cuaderno), sharpener (tajalápiz), backpack (mochila).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v3",
+      "statement": "\"Your mother's sister is your ___.\"",
+      "context": "In Cali, students review family.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aunt",
+          "is_correct": true,
+          "feedback": "Correcto. La hermana de tu mamá es tu tía."
+        },
+        {
+          "letter": "B",
+          "text": "cousin",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hija de tu tía es tu prima."
+        },
+        {
+          "letter": "C",
+          "text": "niece",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hija de tu hermano es tu sobrina."
+        },
+        {
+          "letter": "D",
+          "text": "grandmother",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mamá de tu mamá es tu abuela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mother's sister = aunt (tía). Father's sister = aunt (tía). Mother's brother = uncle (tío). Father's brother = uncle (tío).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v4",
+      "statement": "\"It's 8:30. In words: ___\"",
+      "context": "In Barranquilla, students review time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eight o'clock",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8:00 = eight o'clock."
+        },
+        {
+          "letter": "B",
+          "text": "Half past eight",
+          "is_correct": true,
+          "feedback": "Correcto. 8:30 = half past eight."
+        },
+        {
+          "letter": "C",
+          "text": "Quarter past eight",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8:15 = quarter past eight."
+        },
+        {
+          "letter": "D",
+          "text": "Quarter to nine",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8:45 = quarter to nine."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Half past eight = las ocho y media = 8:30. En español decimos \"ocho y media\", en inglés \"half past eight\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v5",
+      "statement": "\"Ana has a brother. ___ name is Pedro.\"",
+      "context": "In Bucaramanga, review possessives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "His",
+          "is_correct": true,
+          "feedback": "Correcto. Ana's brother = he → his."
+        },
+        {
+          "letter": "B",
+          "text": "Her",
+          "is_correct": false,
+          "feedback": "Incorrecto. Her sería si el nombre fuera de Ana."
+        },
+        {
+          "letter": "C",
+          "text": "My",
+          "is_correct": false,
+          "feedback": "Incorrecto. My es para quien habla."
+        },
+        {
+          "letter": "D",
+          "text": "Your",
+          "is_correct": false,
+          "feedback": "Incorrecto. Your es para la segunda persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Possessive adjectives: his (de él), her (de ella). Ana's brother (he/his) = el hermano de Ana.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v6",
+      "statement": "\"Every morning, I ___ a shower before breakfast.\"",
+      "context": "In Cartagena, students apply daily routine vocabulary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Make a shower\" no se usa."
+        },
+        {
+          "letter": "B",
+          "text": "take",
+          "is_correct": true,
+          "feedback": "Correcto. \"Take a shower\" = ducharse."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Do a shower\" no es correcto."
+        },
+        {
+          "letter": "D",
+          "text": "get",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Get a shower\" es menos común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Take a shower\" = ducharse. \"Take a bath\" = bañarse. \"Have breakfast\" = desayunar. Estas son colocaciones fijas del inglés.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v7",
+      "statement": "\"___ your notebook to page 10.\"",
+      "context": "In Pereira, students apply commands.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opening",
+          "is_correct": false,
+          "feedback": "Incorrecto. Imperativo usa verbo base."
+        },
+        {
+          "letter": "B",
+          "text": "Open",
+          "is_correct": true,
+          "feedback": "Correcto. \"Open your notebook\" = abre tu cuaderno."
+        },
+        {
+          "letter": "C",
+          "text": "Opens",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tercera persona, no imperativo."
+        },
+        {
+          "letter": "D",
+          "text": "Opened",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Classroom commands: Open (abran), Close (cierren), Turn to page (vayan a la página), Listen (escuchen), Repeat (repitan).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v8",
+      "statement": "\"The Colombian flag is ___, blue and red.\"",
+      "context": "In Manizales, students apply colors and numbers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verde no está en la bandera."
+        },
+        {
+          "letter": "B",
+          "text": "white",
+          "is_correct": false,
+          "feedback": "Incorrecto. El blanco no está en la bandera."
+        },
+        {
+          "letter": "C",
+          "text": "yellow",
+          "is_correct": true,
+          "feedback": "Correcto. La bandera colombiana tiene amarillo, azul y rojo."
+        },
+        {
+          "letter": "D",
+          "text": "black",
+          "is_correct": false,
+          "feedback": "Incorrecto. El negro no está en la bandera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombian flag colors: yellow (amarillo), blue (azul), red (rojo). Yellow represents the country's wealth, blue the seas, red the blood of heroes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v9",
+      "statement": "\"Which sentence is CORRECT?\"",
+      "context": "In Cúcuta, students correct mistakes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She go to school at 7 AM.",
+          "is_correct": false,
+          "feedback": "Incorrecto. She goes."
+        },
+        {
+          "letter": "B",
+          "text": "I studys English.",
+          "is_correct": false,
+          "feedback": "Incorrecto. I study."
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't like math.",
+          "is_correct": true,
+          "feedback": "Correcto. Tercera persona negativa."
+        },
+        {
+          "letter": "D",
+          "text": "They doesn't play soccer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. They don't play."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Negative simple present: I don't, you don't, he/she/it doesn't. After doesn't, the verb goes back to base form: doesn't like, doesn't play.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-v10",
+      "statement": "\"Read: 'I get up at 5 AM. I have breakfast at 6. I go to school at 7.' How much time is between getting up and going to school?\"",
+      "context": "In Ibagué, students read and answer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 hour",
+          "is_correct": false,
+          "feedback": "Incorrecto. De 5 a 7 son 2 horas."
+        },
+        {
+          "letter": "B",
+          "text": "2 hours",
+          "is_correct": true,
+          "feedback": "Correcto. De 5 AM a 7 AM = 2 horas."
+        },
+        {
+          "letter": "C",
+          "text": "3 hours",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son 2 horas."
+        },
+        {
+          "letter": "D",
+          "text": "4 hours",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son 2 horas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculate time difference: go to school (7 AM) - get up (5 AM) = 2 hours. In this time: breakfast, brush teeth, get dressed.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-ING-6-2026-W16-review-midterm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null

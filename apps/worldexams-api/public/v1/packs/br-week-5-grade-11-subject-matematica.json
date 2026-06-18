@@ -10,7 +10,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v1",
       "statement": "Qual é a forma básica de uma função exponencial de base $a$?",
-      "context": "",
+      "context": "Um estudante em São Paulo está aprendendo as bases das funções que descrevem fenômenos de crescimento rápido, como populações ou juros compostos.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.85,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v2",
       "statement": "Em uma função exponencial do tipo $f(x) = a^x$, o que acontece com o gráfico se a base $a$ estiver entre 0 e 1 ($0 < a < 1$)?",
-      "context": "",
+      "context": "Um biólogo em Manaus observa o crescimento de bactérias em uma placa de Petri e nota que a população dobra a cada hora.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.8,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v3",
       "statement": "Qual é o valor de $f(3)$ para a função exponencial $f(x) = 2^x$?",
-      "context": "",
+      "context": "Um investidor no Rio de Janeiro calcula o montante de uma aplicação financeira após alguns anos usando a fórmula de juros compostos.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.75,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v4",
       "statement": "Onde o gráfico de qualquer função exponencial da forma $f(x) = a^x$ intercepta o eixo das ordenadas ($y$)?",
-      "context": "",
+      "context": "Em um laboratorio de química em Curitiba, estuda-se a desintegração radioativa de um elemento, onde a massa cai pela metade a cada período fixo.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.7,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v5",
       "statement": "Dada a função $f(x) = (\\frac{1}{3})^x$, qual é o valor de $f(-2)$?",
-      "context": "",
+      "context": "Um analista financeiro em Brasília projeta a desvalorização de um veículo ao longo dos anos usando uma taxa percentual fixa.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.65,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v6",
       "statement": "Sobre o conjunto imagem da função exponencial $f(x) = 5^x$, definida para todo $x$ real, é correto afirmar que:",
-      "context": "",
+      "context": "Um programador em Belo Horizonte cria um algoritmo para simular a propagação de um vírus em uma rede de computadores.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v7",
       "statement": "Após quantas horas $t$ a massa de algas atingirá 160 gramas?",
-      "context": "",
+      "context": "Um técnico em Salvador analisa o crescimento de uma cultura de algas marinhas cuja população $P$ em gramas é dada por $P(t) = 10 \\cdot 2^t$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v8",
       "statement": "Resolva a equação exponencial $9^x = 27$.",
-      "context": "",
+      "context": "Em um laboratório de informática em Porto Alegre, estuda-se o poder de processamento que dobra a cada 18 meses (Lei de Moore).",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.55,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v9",
       "statement": "Se a área inicial é $A_0$, a função que descreve a área após $n$ décadas é $A(n) = A_0 \\cdot (0,9)^n$. Qual será a porcentagem da área original restante após 2 décadas?",
-      "context": "",
+      "context": "Um geógrafo em Recife analisa a redução da área de uma floresta nativa que perde 10\\% de seu tamanho a cada década.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.55,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v10",
       "statement": "Qual é a solução da equação $2^{x+3} = 32$?",
-      "context": "",
+      "context": "Um estudante em Fortaleza resolve desafios sobre potências para se preparar para as olimpíadas regionais de matemática.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v11",
       "statement": "Considere a função $f(x) = 2^x + 3$. Qual é a assíntota horizontal desta função e o seu intercepto com o eixo $y$?",
-      "context": "",
+      "context": "Um cientista em São Paulo estuda a propagação de calor e utiliza funções exponenciais com translação vertical para modelar a temperatura de um objeto.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v12",
       "statement": "Resolva a inequação exponencial: $(\\frac{1}{2})^x < \\frac{1}{8}$.",
-      "context": "",
+      "context": "Um engenheiro civil em Goiânia analisa a atenuação do sinal de rádio ao atravessar paredes de diferentes espessuras.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v13",
       "statement": "Dadas as funções $f(x) = 2^x$ e $g(x) = 4x$, para quais valores inteiros de $x$ temos $f(x) = g(x)$?",
-      "context": "",
+      "context": "Um professor em Vitória desafia seus alunos a comparar o crescimento de uma função afim com o de uma função exponencial.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v14",
       "statement": "Se a população inicial é de 100 insetos, qual das seguintes funções representa a população $P$ após $n$ dias? (Considere uma semana como 7 dias).",
-      "context": "",
+      "context": "Um biólogo em Manaus estuda uma população de insetos que triplica a cada semana.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v15",
       "statement": "A função $f(x) = e^x$ é chamada de função exponencial natural. Qual é a característica fundamental de sua função inversa?",
-      "context": "",
+      "context": "Um analista financeiro em São Paulo utiliza a constante de Euler ($e \\approx 2,718$) para calcular juros compostos continuamente.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v16",
       "statement": "Se $V(t) = 100 \\cdot 2^{-t}$, qual será o valor de $V$ após 3 unidades de tempo?",
-      "context": "",
+      "context": "Um físico em São José dos Campos estuda o decaimento de uma voltagem em um capacitor, seguindo a função $V(t) = V_0 \\cdot e^{-t/RC}$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.35,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v17",
       "statement": "Resolva a equação: $4^x - 6 \\cdot 2^x + 8 = 0$.",
-      "context": "",
+      "context": "Um matemático em Campinas propõe uma equação que exige a substituição de variáveis para ser resolvida.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.3,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v18",
       "statement": "Considere a função $f(x) = 2^{-x^2}$. Qual é o valor máximo desta função e para qual valor de $x$ ele ocorre?",
-      "context": "",
+      "context": "Durante uma competição de matemática, avalia-se a profundidade do conhecimento sobre o comportamento assintótico de funções compostas.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.25,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v19",
       "statement": "Determine o conjunto solução da inequação: $2^{x^2 - 4} > (\\frac{1}{2})^{x - 2}$.",
-      "context": "",
+      "context": "Um pesquisador avançado em São José dos Campos investiga as propriedades de funções exponenciais em domínios complexos.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v20",
       "statement": "Se $3^x + 3^{-x} = 5$, qual é o valor de $9^x + 9^{-x}$?",
-      "context": "",
+      "context": "Em um exame de alto nível para ingressar no ITA, avalia-se a capacidade de manipulação algébrica de potências compostas.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

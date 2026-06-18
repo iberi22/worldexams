@@ -10,7 +10,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la fórmula para calcular la distancia entre dos puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$ en el plano cartesiano?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Ciudad de Guatemala utiliza el sistema de coordenadas cartesianas para ubicar puntos en un plano.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v2",
       "statement": "¿Cuáles son las coordenadas del punto medio $M$ de un segmento cuyos extremos son $A(x_1, y_1)$ y $B(x_2, y_2)$?",
-      "context": "",
+      "context": "Se desea encontrar el centro de un segmento que une dos comunidades en un mapa de Guatemala.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la definición algebraica de la pendiente ($m$) de una recta que pasa por los puntos $(x_1, y_1)$ y $(x_2, y_2)$?",
-      "context": "",
+      "context": "Un estudiante analiza la inclinación de una rampa de acceso en un edificio público.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se denomina a la forma de la ecuación de la recta expresada como $Ax + By + C = 0$?",
-      "context": "",
+      "context": "En la geometría analítica, existen diferentes formas de expresar la ecuación de una misma recta.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la distancia entre los puntos $P(1, 2)$ y $Q(4, 6)$?",
-      "context": "",
+      "context": "Un topógrafo mide la distancia entre dos hitos de propiedad en un terreno llano en Escuintla.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v6",
       "statement": "Si las estaciones están en $A(-2, 5)$ y $B(4, 1)$, ¿cuáles son las coordenadas del punto medio?",
-      "context": "",
+      "context": "Se necesita encontrar la ubicación exacta para colocar una antena de comunicación a la mitad de camino entre dos estaciones.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la pendiente de la recta que pasa por los puntos $(2, -3)$ y $(5, 6)$?",
-      "context": "",
+      "context": "Un estudiante calcula la pendiente de una calle empinada en una zona residencial de Mixco.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la ecuación de la recta que tiene pendiente $m = -2$ y pasa por el punto $(3, 1)$?",
-      "context": "",
+      "context": "Un arquitecto utiliza la forma punto-pendiente para definir la línea de drenaje de una construcción.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v9",
       "statement": "¿Qué condición deben cumplir las pendientes de dos rectas para que sean paralelas?",
-      "context": "",
+      "context": "Un estudiante observa dos rectas en un software de geometría dinámica y nota que nunca se cruzan.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v10",
       "statement": "Si la recta pasa por el origen $(0, 0)$ y por el punto $(4, 12)$, ¿cuál es su ecuación?",
-      "context": "",
+      "context": "Un analista financiero representa el crecimiento de una inversión mediante una línea recta.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v11",
       "statement": "Si la calle A sigue la recta $y = \\frac{1}{3}x + 2$, ¿cuál debe ser la pendiente de la calle B para que sea perpendicular?",
-      "context": "",
+      "context": "En el diseño de una lotificación en Villa Nueva, se requiere que dos calles sean perpendiculares entre sí.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la pendiente y el intercepto con el eje $y$ de la recta $4x - 2y + 10 = 0$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato convierte la ecuación general de una recta a su forma pendiente-intercepto para graficarla más fácilmente.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la distancia del punto $P(2, 3)$ a la recta $3x + 4y - 8 = 0$?",
-      "context": "",
+      "context": "Un ingeniero calcula la distancia más corta (perpendicular) desde un punto de control a una carretera recta.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v14",
       "statement": "Dada una recta con ángulo de inclinación $\\alpha = 45^\\circ$ con el eje positivo de las $x$, ¿cuál es su pendiente?",
-      "context": "",
+      "context": "Se estudian las propiedades de los cuadriláteros en el plano cartesiano mediante sus pendientes.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la ecuación general de la recta cuya forma simétrica es $\\frac{x}{3} + \\frac{y}{4} = 1$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería de la USAC utiliza la forma simétrica de la recta para identificar rápidamente los puntos de corte con los ejes.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v16",
       "statement": "¿Son colineales los puntos $A(1, 2)$, $B(2, 4)$ y $C(3, 6)$?",
-      "context": "",
+      "context": "Un estudiante analiza si tres puntos dados en el plano están alineados (son colineales).",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v17",
       "statement": "¿Cuáles son las coordenadas del punto $P$ que divide al segmento $AB$ con $A(1, 1)$ y $B(7, 4)$ en una razón $r = 2$ (es decir, $AP = 2PB$)?",
-      "context": "",
+      "context": "Un matemático estudia las rectas que dividen a un segmento en una razón dada (no solo el punto medio).",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el ángulo agudo aproximado entre las rectas $y = 2x + 1$ y $y = -3x + 5$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería civil calcula el ángulo agudo que forman dos carreteras representadas por rectas.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es el punto de la recta $2x + y - 5 = 0$ más cercano al origen $(0, 0)$?",
-      "context": "",
+      "context": "Un arquitecto diseña una plaza y necesita hallar el punto de la recta $2x + y = 5$ que esté más cerca del origen.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la ecuación de la mediatriz del segmento que une los puntos $A(2, 1)$ y $B(4, 5)$?",
-      "context": "",
+      "context": "Se plantea un problema sobre la mediatriz de un segmento como lugar geométrico de puntos equidistantes de los extremos.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.35,
       "bundle_id": "GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.155Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v1",
+      "statement": "Que es un periodico?",
+      "context": "I.E. San Bartolome, Bogota. Periodico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un medio impreso que publica noticias e informacion de actualidad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Un libro de cuentos.",
+          "is_correct": false,
+          "feedback": "No, son noticias."
+        },
+        {
+          "letter": "C",
+          "text": "C) Una revista de moda.",
+          "is_correct": false,
+          "feedback": "No es solo moda."
+        },
+        {
+          "letter": "D",
+          "text": "D) Un programa de TV.",
+          "is_correct": false,
+          "feedback": "Es impreso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El periodico es un medio de comunicacion escrito que informa sobre eventos actuales.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v2",
+      "statement": "Que partes tiene una noticia?",
+      "context": "I.E. La Candelaria, Medellin. Partes noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titulo, lead (inicio), cuerpo y fotografia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo el titulo.",
+          "is_correct": false,
+          "feedback": "Tiene mas partes."
+        },
+        {
+          "letter": "C",
+          "text": "C) Introduccion, desarrollo y final sin titulo.",
+          "is_correct": false,
+          "feedback": "El titulo es clave."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo fotos.",
+          "is_correct": false,
+          "feedback": "Tiene texto tambien."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda noticia tiene titulo (llamativo), lead (resumen), cuerpo (detalles) y a veces fotos.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v3",
+      "statement": "Por que son importantes las noticias?",
+      "context": "I.E. INEM, Cali. Importancia noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque mantienen informada a la comunidad sobre lo que sucede en el mundo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No son importantes.",
+          "is_correct": false,
+          "feedback": "Si son importantes."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo para adultos.",
+          "is_correct": false,
+          "feedback": "Para todos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo para periodistas.",
+          "is_correct": false,
+          "feedback": "Para toda la sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las noticias permiten a las personas estar informadas y tomar decisiones.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v4",
+      "statement": "Donde se pueden leer noticias?",
+      "context": "I.E. Fe y Alegria, Barranquilla. Tipos noticias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En periodicos impresos, sitios web de noticias y redes sociales.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo en periodicos de papel.",
+          "is_correct": false,
+          "feedback": "Tambien digital."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo en TV.",
+          "is_correct": false,
+          "feedback": "Tambien escritas."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo en la radio.",
+          "is_correct": false,
+          "feedback": "Tambien escritas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las noticias se pueden leer en periodicos, sitios web y aplicaciones.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v5",
+      "statement": "En el periodico del colegio, los estudiantes publican noticias. Que deben incluir?",
+      "context": "I.E. Tecnico, Pasto. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titulo llamativo, informacion clara y datos verificados.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo fotos.",
+          "is_correct": false,
+          "feedback": "Debe tener texto."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo opiniones.",
+          "is_correct": false,
+          "feedback": "Debe tener hechos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Historias inventadas.",
+          "is_correct": false,
+          "feedback": "Las noticias son reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las noticias deben ser reales, claras y con informacion verificada.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v6",
+      "statement": "Maria lee que llovera toda la semana. Donde pudo leerlo?",
+      "context": "I.E. Simon Bolivar, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el periodico o en un sitio web del clima.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo en la radio.",
+          "is_correct": false,
+          "feedback": "Tambien escrito."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo en TV.",
+          "is_correct": false,
+          "feedback": "Tambien escrito."
+        },
+        {
+          "letter": "D",
+          "text": "D) En un libro de historia.",
+          "is_correct": false,
+          "feedback": "No es noticia actual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La informacion del clima se publica en periodicos y sitios web.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v7",
+      "statement": "Por que los periodicos son confiables?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los periodistas verifican la informacion antes de publicarla.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque todo lo que publican es cierto.",
+          "is_correct": false,
+          "feedback": "Deben verificar."
+        },
+        {
+          "letter": "C",
+          "text": "C) No son confiables.",
+          "is_correct": false,
+          "feedback": "Los serios si."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo porque tienen fotos.",
+          "is_correct": false,
+          "feedback": "Verifican fuentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El periodismo serio verifica datos y fuentes antes de publicar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-v8",
+      "statement": "\"Todo lo que sale en internet es verdad.\" Es correcto?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, en internet hay informacion falsa. Debemos verificar las fuentes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Si, todo es verdad.",
+          "is_correct": false,
+          "feedback": "Hay mucha desinformacion."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo lo que dicen los periodicos.",
+          "is_correct": false,
+          "feedback": "Tambien hay que verificar."
+        },
+        {
+          "letter": "D",
+          "text": "D) Las redes siempre dicen verdad.",
+          "is_correct": false,
+          "feedback": "No siempre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es importante verificar la informacion en fuentes confiables antes de creerla.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W27-periodico-y-noticia-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

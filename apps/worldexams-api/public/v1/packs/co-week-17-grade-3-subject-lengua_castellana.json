@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v1",
       "statement": "¿Cuál es el propósito principal de un texto teatral?",
-      "context": "",
+      "context": "Un grupo de niños prepara una obra de teatro en un colegio de Cali.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v2",
       "statement": "¿Cómo se le llama a la conversación entre dos o más personajes en una obra de teatro?",
-      "context": "",
+      "context": "Leyendo un guion teatral en una clase de Lengua en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v3",
       "statement": "En un libreto, ¿qué son las **acotaciones**?",
-      "context": "",
+      "context": "Identificando las aclaraciones en un libreto de teatro escolar.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v4",
       "statement": "Observa este fragmento:\n**VENDEDOR: (Sonriendo amable) ¿Qué desea comprar hoy, niña?**\n¿Cuál es la acotación en este texto?",
-      "context": "",
+      "context": "Un ejemplo de texto teatral sobre una tienda en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v5",
       "statement": "¿Cómo se llama el conjunto de objetos, decorados y luces que ambientan el lugar de la obra?",
-      "context": "",
+      "context": "Los elementos del escenario en una obra sobre la selva.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v6",
       "statement": "¿Cuál es la diferencia más importante entre un cuento y una obra de teatro?",
-      "context": "",
+      "context": "Diferenciando teatro de cuento en un colegio de Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v7",
       "statement": "Cuando se cierra el telón para cambiar el decorado o descansar un momento, decimos que ha terminado un:",
-      "context": "",
+      "context": "La división de una obra de teatro larga.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v8",
       "statement": "¿Qué debe hacer un actor para representar bien su personaje?",
-      "context": "",
+      "context": "El papel de los actores en un festival de teatro en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v9",
       "statement": "¿Por qué es importante el vestuario en una obra de teatro?",
-      "context": "",
+      "context": "El vestuario en una obra histórica sobre la Independencia de Colombia.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-v10",
       "statement": "¿Cuál es la forma correcta de escribir el inicio de un diálogo en tu guion?",
-      "context": "",
+      "context": "Quieres escribir una escena corta sobre dos amigos que se encuentran en el parque Explora de Medellín.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",

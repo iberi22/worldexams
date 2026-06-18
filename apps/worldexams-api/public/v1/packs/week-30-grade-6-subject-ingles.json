@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W30-passive-voice-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v1",
+      "statement": "\"Invierno\" in English is ___.",
+      "context": "In Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "winter",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "summer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Summer = verano."
+        },
+        {
+          "letter": "C",
+          "text": "spring",
+          "is_correct": false,
+          "feedback": "Incorrecto. Spring = primavera."
+        },
+        {
+          "letter": "D",
+          "text": "autumn",
+          "is_correct": false,
+          "feedback": "Incorrecto. Autumn = otoño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Four seasons: spring (primavera), summer (verano), autumn/fall (otoño), winter (invierno).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v2",
+      "statement": "\"What season comes after winter?\"",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring",
+          "is_correct": true,
+          "feedback": "Correcto. Spring = primavera."
+        },
+        {
+          "letter": "B",
+          "text": "Summer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Summer is after spring."
+        },
+        {
+          "letter": "C",
+          "text": "Autumn",
+          "is_correct": false,
+          "feedback": "Incorrecto. Autumn is after summer."
+        },
+        {
+          "letter": "D",
+          "text": "Winter again",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Order of seasons: Spring → Summer → Autumn → Winter → Spring again.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v3",
+      "statement": "\"Colombia has only two seasons because ___.\"",
+      "context": "In Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is near the equator",
+          "is_correct": true,
+          "feedback": "Correcto. Ecuador = línea ecuatorial."
+        },
+        {
+          "letter": "B",
+          "text": "it is a big country",
+          "is_correct": false,
+          "feedback": "Incorrecto. Not the reason."
+        },
+        {
+          "letter": "C",
+          "text": "it has mountains",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mountains create microclimates."
+        },
+        {
+          "letter": "D",
+          "text": "it rains all year",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia is on the equator → no extreme seasons → only dry and rainy seasons.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v4",
+      "statement": "\"The dry season in Colombia is called ___.\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "summer / verano",
+          "is_correct": true,
+          "feedback": "Correcto. Dry season = summer."
+        },
+        {
+          "letter": "B",
+          "text": "winter / invierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Winter = rainy season."
+        },
+        {
+          "letter": "C",
+          "text": "spring",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "monsoon",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "In Colombia: summer (verano) = dry season, winter (invierno) = rainy season. Opposite of many countries.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v5",
+      "statement": "\"The temperature in Bogotá is usually around ___.\"",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14-20°C",
+          "is_correct": true,
+          "feedback": "Correcto. Bogotá: 14-20°C year-round."
+        },
+        {
+          "letter": "B",
+          "text": "30-35°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. That's hot coast."
+        },
+        {
+          "letter": "C",
+          "text": "0-10°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Too cold for Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "40-45°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Extremely hot."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bogotá: 14-20°C (cold). Medellín: 18-28°C (spring-like). Cali: 25-35°C (warm). Barranquilla: 28-38°C (hot).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v6",
+      "statement": "\"I like ___ because the weather is warm.\" (Cartagena)",
+      "context": "In Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cartagena",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá is cold."
+        },
+        {
+          "letter": "C",
+          "text": "Manizales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Manizales is cold."
+        },
+        {
+          "letter": "D",
+          "text": "Pasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasto is very cold."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cartagena is a hot coastal city. Bogotá, Manizales, Pasto are cold because of altitude.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v7",
+      "statement": "\"In December, it is ___ in Colombia.\" (dry season)",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sunny and dry",
+          "is_correct": true,
+          "feedback": "Correcto. Dec-Feb = dry season."
+        },
+        {
+          "letter": "B",
+          "text": "rainy and cold",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rainy = April-May, Oct-Nov."
+        },
+        {
+          "letter": "C",
+          "text": "snowy",
+          "is_correct": false,
+          "feedback": "Incorrecto. No snow in most of Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "stormy",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia dry season: December-February and July-August. Rainy season: April-May and October-November.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v8",
+      "statement": "\"It's very cold. The temperature is ___ zero.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "below",
+          "is_correct": true,
+          "feedback": "Correcto. Below zero = bajo cero."
+        },
+        {
+          "letter": "B",
+          "text": "above",
+          "is_correct": false,
+          "feedback": "Incorrecto. Above = arriba de."
+        },
+        {
+          "letter": "C",
+          "text": "over",
+          "is_correct": false,
+          "feedback": "Incorrecto. Over = sobre."
+        },
+        {
+          "letter": "D",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrecto. Under = debajo. Below es más formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Below zero = bajo cero (0°C). Manizales can get very cold at night.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v9",
+      "statement": "\"The rainy season is from April to June. The dry season is from December to March.\" When is the dry season?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "December to March",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "April to June",
+          "is_correct": false,
+          "feedback": "Incorrecto. That's rainy."
+        },
+        {
+          "letter": "C",
+          "text": "All year",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "July to September",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading: identify dry season (December-March) vs rainy season (April-June, October-November).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-v10",
+      "statement": "\"If the temperature is 35°C, the weather is ___.\"",
+      "context": "In Ibagué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hot",
+          "is_correct": true,
+          "feedback": "Correcto. 35°C = hot."
+        },
+        {
+          "letter": "B",
+          "text": "cold",
+          "is_correct": false,
+          "feedback": "Incorrecto. 35°C is very warm."
+        },
+        {
+          "letter": "C",
+          "text": "freezing",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "cool",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Temperature: >30°C = hot, 20-30 = warm, 10-20 = cool/cold, <10°C = cold, <0°C = freezing.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W30-seasons-climate-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null

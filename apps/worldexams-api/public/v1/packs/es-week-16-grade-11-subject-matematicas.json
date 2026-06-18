@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v1",
       "statement": "¿Cuáles son las tres características fundamentales que definen a un vector?",
-      "context": "",
+      "context": "Un estudiante de 1º de Bachillerato en Madrid comienza el estudio de los vectores en el plano $\\mathbb{R}^2$.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v2",
       "statement": "¿Qué regla geométrica se utiliza comúnmente para hallar la suma de dos vectores que parten del mismo origen?",
-      "context": "",
+      "context": "En una clase de Matemáticas en Valencia, se explica cómo sumar vectores gráficamente.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v3",
       "statement": "Si un vector $\\vec{v}$ tiene coordenadas $(v_x, v_y)$, ¿cuál es la fórmula para calcular su módulo $|\\vec{v}|$?",
-      "context": "",
+      "context": "Un estudiante repasa el cálculo del módulo de un vector en el plano.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la característica principal de un vector unitario?",
-      "context": "",
+      "context": "Se define el concepto de vectores unitarios.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.78,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v5",
       "statement": "Halla las coordenadas del vector $\\vec{AB}$ que une el punto $A$ con el punto $B$.",
-      "context": "",
+      "context": "Un estudiante en Barcelona tiene los puntos $A(1, 2)$ y $B(4, 6)$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el valor del producto escalar $\\vec{u} \\cdot \\vec{v}$?",
-      "context": "",
+      "context": "Un ingeniero en Zaragoza debe calcular el producto escalar de dos vectores: $\\vec{u} = (2, -3)$ y $\\vec{v} = (5, 4)$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v7",
       "statement": "¿Qué debe cumplirse para que dos vectores no nulos $\\vec{u}$ y $\\vec{v}$ sean perpendiculares?",
-      "context": "",
+      "context": "Se desea comprobar si dos fuerzas representadas por vectores son perpendiculares (ortogonales).",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v8",
       "statement": "Si multiplicamos el vector $\\vec{w} = (4, -2)$ por el escalar $k = -3$, ¿qué obtenemos?",
-      "context": "",
+      "context": "Un estudiante analiza la multiplicación de un vector por un número escalar $k$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v9",
       "statement": "Halla las coordenadas del punto medio $M$ del segmento $PQ$.",
-      "context": "",
+      "context": "Se busca el punto medio de un segmento en un mapa de Sevilla. Los extremos son $P(2, 5)$ y $Q(8, 11)$.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el valor de dicho ángulo en grados?",
-      "context": "",
+      "context": "Un estudiante en Bilbao calcula el ángulo que forma el vector $\\vec{a} = (1, 1)$ con el semieje positivo de las abscisas (Eje X).",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.62,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v11",
       "statement": "¿Qué significa que dos vectores $\\vec{u}$ y $\\vec{v}$ sean linealmente dependientes en el plano $\\mathbb{R}^2$?",
-      "context": "",
+      "context": "Un matemático en Salamanca analiza la combinación lineal de vectores.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v12",
       "statement": "¿Cuál debe ser el valor de $k$ para que los vectores $\\vec{a}$ y $\\vec{b}$ sean perpendiculares?",
-      "context": "",
+      "context": "Se pide hallar el valor de un parámetro $k$ para asegurar la ortogonalidad. Vectores: $\\vec{a} = (k, 4)$ y $\\vec{b} = (3, -6)$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el coseno del ángulo $\\alpha$ que forman estos dos vectores?",
-      "context": "",
+      "context": "Un arquitecto en Asturias calcula el ángulo entre dos vectores de diseño: $\\vec{u} = (3, 0)$ y $\\vec{v} = (2, 2)$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la longitud de la proyección ortogonal del vector $\\vec{u}$ sobre el eje X?",
-      "context": "",
+      "context": "Se proyecta un vector $\\vec{u} = (4, 3)$ sobre la dirección del eje X.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v15",
       "statement": "¿Qué dos condiciones debe cumplir un conjunto de dos vectores $\\{\\vec{e_1}, \\vec{e_2}\\}$ para ser una base ortonormal?",
-      "context": "",
+      "context": "Un estudiante investiga el concepto de base ortonormal del plano.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v16",
       "statement": "¿Qué se puede afirmar sobre la dirección y el sentido del vector nulo?",
-      "context": "",
+      "context": "Un estudiante analiza el vector $\\vec{v} = (0, 0)$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v17",
       "statement": "Halla el vector unitario $\\vec{u}$ que tiene la misma dirección y sentido que $\\vec{d}$.",
-      "context": "",
+      "context": "En un sistema de navegación en Málaga, se desea normalizar el vector de desplazamiento $\\vec{d} = (3, -4)$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v18",
       "statement": "¿Qué relación establece la desigualdad triangular entre los módulos de dos vectores y su suma?",
-      "context": "",
+      "context": "Se plantea la desigualdad triangular en el contexto de vectores.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v19",
       "statement": "Si el producto escalar $\\vec{L} \\cdot \\vec{n}$ es negativo, ¿qué indica sobre la posición de la luz respecto a la superficie?",
-      "context": "",
+      "context": "Un programador de juegos calcula la reflexión de un vector de luz $\\vec{L}$ sobre una superficie con vector normal $\\vec{n}$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v20",
       "statement": "¿Cuál de las siguientes afirmaciones define correctamente al conjunto de vectores del plano $(\\mathbb{R}^2, +, \\cdot)$ con las operaciones habituales?",
-      "context": "",
+      "context": "Un estudiante reflexiona sobre la estructura algebraica de los vectores del plano.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",

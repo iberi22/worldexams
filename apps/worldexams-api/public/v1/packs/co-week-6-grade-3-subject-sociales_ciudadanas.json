@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.147Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v1",
+      "statement": "¿Cuáles de los siguientes son medios de comunicación tradicionales?",
+      "context": "En la clase de Sociales de la I.E. Carlos Arturo Torres de Tunja, la profesora pregunta sobre los medios de comunicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La radio, la televisión, el periódico y la revista.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos son medios de comunicación tradicionales que han existido por décadas."
+        },
+        {
+          "letter": "B",
+          "text": "TikTok, Instagram y WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son medios digitales y redes sociales de la era moderna."
+        },
+        {
+          "letter": "C",
+          "text": "El telégrafo y el fax.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque fueron medios de comunicación, hoy son poco usados."
+        },
+        {
+          "letter": "D",
+          "text": "El semáforo y las señales de tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son señales de comunicación vial, no medios de comunicación masiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios de comunicación tradicionales como la radio, la televisión, los periódicos y las revistas han sido durante décadas las principales fuentes de información y entretenimiento en Colombia. La radio sigue siendo muy importante en zonas rurales donde no llega internet.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v2",
+      "statement": "¿Para qué sirven los medios de comunicación en nuestra sociedad?",
+      "context": "En la I.E. Normal Superior de Montería, los estudiantes hablan sobre cómo se comunican las personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo para entretener a las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los medios también informan, educan y comunican."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente para vender productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hacen publicidad, su función es más amplia."
+        },
+        {
+          "letter": "C",
+          "text": "Para informar, educar, entretener y comunicar mensajes entre las personas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los medios de comunicación cumplen múltiples funciones en la sociedad."
+        },
+        {
+          "letter": "D",
+          "text": "Solo para que los adultos los usen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños también pueden usar los medios de forma apropiada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los medios de comunicación cumplen funciones esenciales: informar sobre lo que ocurre en el país y el mundo, educar con contenidos formativos, entretener con programas culturales y de recreación, y servir como canal de comunicación entre personas y comunidades.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v3",
+      "statement": "¿Por qué la radio es un medio de comunicación muy importante en las zonas rurales de Colombia?",
+      "context": "La profesora de la I.E. La Salle de Sincelejo explica cómo la radio llega a las zonas rurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es el único medio que existe en el campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También hay televisión y celulares, pero no siempre con buena señal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la radio solo se usa en el campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radio se usa en todo el país."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no necesita internet ni electricidad constante, funciona con pilas y llega a lugares donde otros medios no llegan.",
+          "is_correct": true,
+          "feedback": "Correcto. La radio es accesible en zonas apartadas porque funciona con pilas y tiene amplia cobertura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el campo no hay televisores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas familias rurales tienen televisor, pero la radio es más práctica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La radio ha sido tradicionalmente el medio de comunicación más accesible en las zonas rurales de Colombia. Emisoras como Radio Nacional de Colombia y las emisoras comunitarias llevan información, educación y entretenimiento a comunidades apartadas donde no llega la señal de televisión ni internet.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v4",
+      "statement": "¿En qué se diferencia el internet de los medios de comunicación tradicionales como la televisión o el periódico?",
+      "context": "En la I.E. Buenos Aires de Tumaco, el profesor pregunta cómo han cambiado los medios de comunicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En que el internet no sirve para comunicarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El internet es una herramienta muy poderosa de comunicación."
+        },
+        {
+          "letter": "B",
+          "text": "No hay diferencia, todos son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El internet tiene características muy diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "El internet permite que cualquier persona pueda crear y compartir información, además de comunicarse en tiempo real con personas de todo el mundo.",
+          "is_correct": true,
+          "feedback": "Correcto. El internet es interactivo y permite comunicación bidireccional y en tiempo real."
+        },
+        {
+          "letter": "D",
+          "text": "El internet solo sirve para jugar videojuegos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El internet tiene muchos usos: educativo, informativo, comunicativo y recreativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de los medios tradicionales (donde la información fluye en una sola dirección), el internet permite la interacción y la participación activa. Las personas no solo reciben información, también pueden crearla y compartirla. En Colombia, según el MinTIC, más del 70% de los hogares tienen acceso a internet.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v5",
+      "statement": "Si estás buscando información para una tarea de Sociales y encuentras un dato en una página web que no conoces, ¿qué debes hacer?",
+      "context": "En la I.E. San José Obrero de Barranquilla, los estudiantes de grado 3 navegan en internet por primera vez en la sala de informática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar la información sin preguntar, porque todo lo que está en internet es verdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda la información en internet es confiable."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar esa página y no hacer la tarea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay mejores alternativas."
+        },
+        {
+          "letter": "C",
+          "text": "Verificar la información con otras fuentes confiables y preguntar al profesor si la página es adecuada.",
+          "is_correct": true,
+          "feedback": "Correcto. Es importante verificar la información en varias fuentes y consultar con el profesor."
+        },
+        {
+          "letter": "D",
+          "text": "Publicar la información en redes sociales para que otros la vean.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Primero debes verificar si la información es correcta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso responsable de internet incluye verificar la veracidad de la información. En Colombia, el programa \"En TIC confío\" del MinTIC promueve el uso seguro y responsable de las tecnologías. Los niños deben aprender a identificar fuentes confiables y a no compartir información sin verificarla.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v6",
+      "statement": "Antes de que existiera el internet, ¿cómo se comunicaban las personas que vivían lejos unas de otras en Colombia?",
+      "context": "En la I.E. Pablo Neruda de Cali, el profesor pregunta cómo se comunicaban las personas antes de que existiera internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se comunicaban porque era imposible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Siempre han existido formas de comunicación a distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Se escribían cartas que enviaban por correo, hacían llamadas telefónicas o enviaban telegramas.",
+          "is_correct": true,
+          "feedback": "Correcto. El correo postal, el teléfono fijo y los telegramas eran los medios para comunicarse a distancia."
+        },
+        {
+          "letter": "C",
+          "text": "Viajaban todos los días para verse en persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Viajar todos los días no era práctico ni posible para la mayoría."
+        },
+        {
+          "letter": "D",
+          "text": "Usaban el WhatsApp desde siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. WhatsApp es una aplicación moderna que requiere internet."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Antes de la era digital, la comunicación a distancia se realizaba mediante cartas (servicio postal), llamadas telefónicas (teléfonos fijos) y telegramas. La empresa de Correos de Colombia (4-72) y Telecom fueron fundamentales para la comunicación en el país durante gran parte del siglo XX.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v7",
+      "statement": "¿Por qué es peligroso compartir noticias falsas (fake news) en las redes sociales?",
+      "context": "En la I.E. La Magdalena de Valledupar, el profesor pregunta sobre las noticias falsas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no son peligrosas, solo son bromas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las noticias falsas pueden causar daños reales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque engañan a las personas, pueden causar pánico o desinformación, y afectan la convivencia y la confianza en los medios.",
+          "is_correct": true,
+          "feedback": "Correcto. Las noticias falsas tienen consecuencias graves en la sociedad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la policía puede meter a la cárcel a quien las comparta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque pueden tener consecuencias legales, no necesariamente llevan a la cárcel."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los adultos pueden compartir información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier persona puede compartir información, pero debe hacerlo responsablemente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las noticias falsas o fake news son un problema grave en la era digital. En Colombia, la desinformación ha afectado procesos electorales y la salud pública (como durante la pandemia de COVID-19). Es importante enseñar a los niños a identificar información falsa y a no compartirla.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v8",
+      "statement": "Pedro pasa 5 horas al día viendo videos en su celular y ya no juega con sus amigos ni hace las tareas. Su mamá le dice que debe usar menos el celular. ¿Quién tiene la razón?",
+      "context": "En la I.E. Ciudad de Ipiales, los estudiantes discuten sobre el tiempo que pasan frente a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedro tiene razón porque puede hacer lo que quiera con su tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños necesitan equilibrio entre pantallas y otras actividades."
+        },
+        {
+          "letter": "B",
+          "text": "La mamá no tiene razón porque el celular es más importante que jugar y hacer tareas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las actividades son importantes y deben equilibrarse."
+        },
+        {
+          "letter": "C",
+          "text": "La mamá tiene razón porque los niños deben equilibrar el uso de los medios digitales con el juego, el estudio, el deporte y la convivencia familiar.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso excesivo de pantallas afecta el desarrollo integral del niño."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos tienen razón, Pedro puede seguir viendo videos y también jugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es posible si pasa 5 horas al día viendo videos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso responsable de los medios de comunicación y la tecnología implica establecer límites. La Organización Mundial de la Salud recomienda que los niños de 6 a 12 años no pasen más de 2 horas diarias frente a pantallas con fines recreativos. El juego al aire libre, la interacción social y el estudio son fundamentales para el desarrollo infantil.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

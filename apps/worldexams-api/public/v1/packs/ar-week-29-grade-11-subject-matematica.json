@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v1",
       "statement": "¿Qué significa que el límite de f(x) cuando x tiende a 'a' es igual a L?",
-      "context": "",
+      "context": "En una clase de Análisis Matemático en un colegio de Rosario, el profesor explica el comportamiento de una función cerca de un punto.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.88,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v2",
       "statement": "Para que el límite general de f(x) en x = a exista, ¿qué condición deben cumplir los límites laterales?",
-      "context": "",
+      "context": "Se analiza el gráfico de una función que tiene un \"salto\" en x = 2.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor del límite de f(x) = 2x + 5 cuando x → 3?",
-      "context": "",
+      "context": "Un estudiante intenta calcular el límite de f(x) = 2x + 5 cuando x tiende a 3.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.92,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v4",
       "statement": "¿A qué es igual el límite de una constante k cuando x tiende a c?",
-      "context": "",
+      "context": "Se evalúa el límite de una función constante f(x) = 7 cuando x tiende a cualquier valor c.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.95,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v5",
       "statement": "Si al intentar evaluar un límite por sustitución directa obtenemos la forma \"0/0\", ¿qué podemos concluir?",
-      "context": "",
+      "context": "Un alumno se encuentra con la expresión lim (x² - 9) / (x - 3) cuando x tiende a 3.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.82,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el valor final del límite de (x² - 9) / (x - 3) cuando x tiende a 3?",
-      "context": "",
+      "context": "Resolviendo el límite anterior: lim (x² - 9) / (x - 3) cuando x → 3.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.78,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor del límite de f(x) = 1/x cuando x tiende a +∞?",
-      "context": "",
+      "context": "En la Facultad de Ingeniería de La Plata, se estudian límites que tienden al infinito.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.8,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el valor del límite de (3x² + 5) / (x² - 2) cuando x → ∞?",
-      "context": "",
+      "context": "Se analiza la función f(x) = (3x² + 5) / (x² - 2) cuando x se aleja hacia el infinito.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.75,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el comportamiento del límite de f(x) cuando x tiende a 4 por la derecha (x → 4⁺)?",
-      "context": "",
+      "context": "Consideramos la función f(x) = 1 / (x - 4).",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.72,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el límite de f(x) cuando x tiende a 2?",
-      "context": "",
+      "context": "Una función f(x) está definida por partes:\n- f(x) = x + 1 si x < 2\n- f(x) = 5 si x = 2\n- f(x) = 2x - 1 si x > 2",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.74,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es el valor del límite de (√(x + 1) - 1) / x cuando x → 0?",
-      "context": "",
+      "context": "Se presenta el límite de f(x) = (√(x + 1) - 1) / x cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.65,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el valor del límite fundamental trigonométrico: lim (sen x) / x cuando x → 0?",
-      "context": "",
+      "context": "Se analiza el límite de f(x) = (sen x) / x cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el valor del límite cuando x tiende a infinito?",
-      "context": "",
+      "context": "Se evalúa el límite de f(x) = (2x³ + x) / (5x⁴ - 2) cuando x tiende a +∞.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es el valor del límite?",
-      "context": "",
+      "context": "Se busca el límite de f(x) = (x³ - 1) / (x² - 1) cuando x tiende a 1.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.62,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el valor de este límite fundamental?",
-      "context": "",
+      "context": "El límite de f(x) = (1 + 1/x)ˣ cuando x tiende a +∞.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.65,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v16",
       "statement": "¿Qué ocurre con el límite de |x| / x cuando x tiende a 0?",
-      "context": "",
+      "context": "Analizamos el límite de f(x) = |x| / x cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.6,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v17",
       "statement": "Calculá el valor del límite aplicando la Regla de L'Hôpital (derivando sucesivamente).",
-      "context": "",
+      "context": "Se plantea el límite de f(x) = (x - sen x) / x³ cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el valor del límite de (1 - cos x) / x² cuando x → 0?",
-      "context": "",
+      "context": "Se evalúa el límite de f(x) = (1 - cos x) / x² cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.5,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es el valor del límite? (Sugerencia: usar propiedad de logaritmos y el número e).",
-      "context": "",
+      "context": "Consideramos la función f(x) = (ln(1 + x)) / x cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.48,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor del límite?",
-      "context": "",
+      "context": "Se analiza el límite de f(x) = x * sen(1/x) cuando x tiende a 0.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Álgebra y Funciones",
+      "expected_success": 0.42,
       "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",

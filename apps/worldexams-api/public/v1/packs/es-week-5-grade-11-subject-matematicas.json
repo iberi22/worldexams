@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la forma general de una ecuación de segundo grado completa con una incógnita?",
-      "context": "",
+      "context": "Un estudiante en un instituto de Madrid repasa la clasificación de las ecuaciones según su grado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v2",
       "statement": "¿Qué indica un discriminante negativo ($\\Delta < 0$) en una ecuación de segundo grado?",
-      "context": "",
+      "context": "Se explica el concepto de discriminante en una clase de álgebra en Barcelona.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v3",
       "statement": "Resuelve la ecuación: $3(x - 2) = x + 4$.",
-      "context": "",
+      "context": "Un estudiante resuelve una ecuación lineal para calcular el gasto en transporte mensual.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v4",
       "statement": "¿Cuáles son las soluciones de la ecuación $x^2 - 9 = 0$?",
-      "context": "",
+      "context": "Un examen en Valencia pregunta por las soluciones de una ecuación cuadrática incompleta.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v5",
       "statement": "Halla las soluciones de la ecuación: $x^2 - 5x + 6 = 0$.",
-      "context": "",
+      "context": "Un comerciante en Sevilla calcula el beneficio de sus ventas usando una ecuación de segundo grado.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el conjunto solución de la ecuación $2x^2 + 8x = 0$?",
-      "context": "",
+      "context": "Un estudiante en Bilbao resuelve una ecuación cuadrática incompleta donde falta el término independiente.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v7",
       "statement": "Si $x_1$ y $x_2$ son las raíces de $ax^2 + bx + c = 0$, ¿a qué es igual la suma de dichas raíces según las fórmulas de Vieta?",
-      "context": "",
+      "context": "Un estudiante analiza la relación entre las raíces y los coeficientes de una ecuación de segundo grado.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v8",
       "statement": "Plantea la ecuación para hallar el ancho ($x$) del terreno.",
-      "context": "",
+      "context": "Un agricultor en Murcia tiene un terreno rectangular cuya área es de $120$ $m^2$. El largo mide $2$ metros más que el ancho.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la solución de la ecuación $x^2 - 10x + 25 = 0$?",
-      "context": "",
+      "context": "Un estudiante en San Sebastián resuelve una ecuación de segundo grado que tiene una única solución real.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v10",
       "statement": "Resuelve: $\\frac{x}{2} + \\frac{x}{3} = 5$.",
-      "context": "",
+      "context": "Un estudiante en Santander resuelve una ecuación con fracciones que se reduce a una lineal.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v11",
       "statement": "¿Para qué valor de $k$ la ecuación $x^2 - 4x + k = 0$ tiene una única solución real?",
-      "context": "",
+      "context": "Un estudiante avanzado en Madrid analiza el número de soluciones de una ecuación según un parámetro $k$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v12",
       "statement": "Resuelve la ecuación $2x^2 - 7x + 3 = 0$.",
-      "context": "",
+      "context": "Se plantea la resolución de una ecuación de segundo grado con coeficientes grandes en un examen de acceso.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el número máximo de soluciones reales que puede tener una ecuación polinómica de grado $n$?",
-      "context": "",
+      "context": "Un estudiante en Asturias explica por qué una ecuación no puede tener tres soluciones reales.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v14",
       "statement": "Resuelve para el radio positivo $r$: $r^2 + 4r - 21 = 0$.",
-      "context": "",
+      "context": "Un arquitecto en Málaga diseña un jardín circular cuyo radio satisface una ecuación cuadrática.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v15",
       "statement": "¿Qué se puede afirmar sobre la gráfica de $y = x^2 - 6x + 9$?",
-      "context": "",
+      "context": "Se analiza una ecuación cuadrática con discriminante nulo para un ajuste de trayectoria.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v16",
       "statement": "Resuelve: $(x+1)^2 = x^2 + 5$.",
-      "context": "",
+      "context": "Un estudiante resuelve una ecuación de primer grado \"disfrazada\" tras simplificar términos.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v17",
       "statement": "Halla las soluciones de: $\\frac{x+1}{x-1} = 3$.",
-      "context": "",
+      "context": "Un programador en una startup de tecnología en Madrid resuelve una ecuación racional compleja.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v18",
       "statement": "¿Cuáles son las soluciones reales de la ecuación $x^4 - 13x^2 + 36 = 0$?",
-      "context": "",
+      "context": "Se plantea una ecuación bicuadrática que se resuelve mediante un cambio de variable.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la suma de los inversos de las raíces de la ecuación $x^2 - 4x + 2 = 0$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza una ecuación con parámetros donde el discriminante depende de una variable externa.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v20",
       "statement": "Si en la ecuación $x^2 + bx + c = 0$, las raíces son consecutivas (ej. 3 y 4), ¿cuál es el valor del discriminante $\\Delta$?",
-      "context": "",
+      "context": "Un reto sobre una ecuación de segundo grado con coeficientes literales.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

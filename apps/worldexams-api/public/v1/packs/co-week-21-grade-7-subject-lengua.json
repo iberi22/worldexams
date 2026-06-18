@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se llama el tipo de argumento que utiliza números, porcentajes o datos comprobables para sustentar una idea?",
-      "context": "",
+      "context": "Existen diversas formas de apoyar una tesis según el tipo de información que se utilice.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes frases es un ejemplo de **analogía**?",
-      "context": "",
+      "context": "Los argumentos por analogía establecen una comparación entre dos situaciones similares para extraer una conclusión.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de argumento se utiliza en la siguiente frase?\n\"Si no protegemos los nacederos de agua, en el futuro sufriremos graves sequías que afectarán la agricultura nacional\".",
-      "context": "",
+      "context": "El argumento de causa-efecto establece una conexión lógica donde un hecho es consecuencia directa de otro.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v4",
       "statement": "¿En qué situación es más probable encontrar un predominio de **argumentos afectivos**?",
-      "context": "",
+      "context": "Los argumentos afectivos o emotivos buscan conmover al receptor para que acepte una idea por empatía.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v5",
       "statement": "¿Cuál de las siguientes es una idea basada en el **sentido común** o conocimiento general que sirve como argumento?",
-      "context": "",
+      "context": "Los argumentos de conocimiento general se basan en verdades aceptadas por la mayoría de la sociedad.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v6",
       "statement": "Analiza la siguiente frase: \"Todos los municipios que han invertido en turismo sostenible en Boyacá han mejorado su economía; por lo tanto, el turismo es la clave del desarrollo regional\". ¿Qué tipo de argumento se aplica?",
-      "context": "",
+      "context": "Un argumento por generalización observa varios casos similares y extrae una regla general de ellos.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v7",
       "statement": "¿En cuál de los siguientes casos el **argumento de autoridad** es **inapropiado**?",
-      "context": "",
+      "context": "Los argumentos de autoridad pueden perder validez si la persona citada no es experta en el tema que se discute.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v8",
       "statement": "En un foro sobre transporte público, un ciudadano dice: \"Yo uso el Transmilenio todos los días desde hace diez años y puedo asegurar que el servicio ha empeorado en puntualidad\". ¿Qué valor tiene este argumento?",
-      "context": "",
+      "context": "Los argumentos de experiencia personal se basan en lo vivido por el propio autor del texto.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v9",
       "statement": "Lee el siguiente fragmento: \"El 80% de los jóvenes prefiere las redes sociales para informarse. Como dice el experto en medios Manuel Castells, vivimos en una sociedad de red. Por eso, si las escuelas no integran la tecnología, se quedarán aisladas del mundo real, tal como ocurrió con las bibliotecas que no se digitalizaron\".\n\n¿En qué orden aparecen los argumentos en este texto?",
-      "context": "",
+      "context": "Identificar el tipo de argumento dominante ayuda a entender la intención del autor y la calidad del texto.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v10",
       "statement": "Analiza el siguiente argumento: \"Debes comprar esta marca de celular porque es la que más se vende en toda Colombia; si todos lo compran, es porque es el mejor\". ¿A qué tipo de razonamiento (posiblemente falaz) corresponde?",
-      "context": "",
+      "context": "Las falacias son argumentos que parecen válidos pero tienen un error lógico en su construcción.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",

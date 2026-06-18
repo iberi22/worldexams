@@ -10,7 +10,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el primer paso recomendado para resolver la ecuación exponencial $b^x = a$, cuando $a$ no puede expresarse como una potencia de $b$?",
-      "context": "",
+      "context": "Un estudiante de secundaria en Matagalpa repasa los métodos para resolver ecuaciones.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.85,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la propiedad que permite convertir la ecuación $\\log_b(x) = \\log_b(y)$ en la ecuación simple $x = y$?",
-      "context": "",
+      "context": "Un examen de admisión universitaria en Nicaragua que incluye álgebra avanzada.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.82,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v3",
       "statement": "¿Por qué es obligatorio verificar las soluciones obtenidas en una ecuación logarítmica en el enunciado original?",
-      "context": "",
+      "context": "Un análisis sobre las soluciones de ecuaciones con logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.8,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v4",
       "statement": "Para resolver la ecuación $\\log_2(x) = 5$, ¿cuál es su forma exponencial equivalente?",
-      "context": "",
+      "context": "Conversión de formas para facilitar el despeje.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.78,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v5",
       "statement": "Resuelve la ecuación exponencial: $5^{2x} = 25$.",
-      "context": "",
+      "context": "Un problema de crecimiento de capital en una microfinanciera en León.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.75,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v6",
       "statement": "Halla el valor de $x$ en la ecuación: $2^{x+1} = 8$.",
-      "context": "",
+      "context": "Un cálculo de tiempos de duplicación en biología.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.72,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor de $x$ en la ecuación $\\log_3(x - 2) = 2$?",
-      "context": "",
+      "context": "Resolución de ecuaciones logarítmicas con términos constantes.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.68,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v8",
       "statement": "Resuelve para $x$: $e^x = 10$. (Expresa el resultado en términos de logaritmo natural).",
-      "context": "",
+      "context": "Uso de logaritmos naturales en el despeje de la variable tiempo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.65,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v9",
       "statement": "Halla el valor de $x$ en: $\\log(x) + \\log(2) = \\log(12)$.",
-      "context": "",
+      "context": "Aplicación de la propiedad del producto para resolver una ecuación logarítmica.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.63,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v10",
       "statement": "Resuelve: $\\ln(x) - \\ln(3) = \\ln(4)$.",
-      "context": "",
+      "context": "Uso de la propiedad del cociente en ecuaciones.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.6,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la solución de $(1/2)^x = 16$?",
-      "context": "",
+      "context": "Un problema de base fraccionaria en una ecuación exponencial.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.58,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v12",
       "statement": "Halla $x$ en la ecuación: $2 \\log_2(x) = \\log_2(25)$.",
-      "context": "",
+      "context": "Resolución de una ecuación logarítmica que requiere simplificación previa.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.55,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el valor aproximado de $x$ en $3^x = 20$? (Usa $\\log 3 \\approx 0.477$ y $\\log 20 \\approx 1.301$).",
-      "context": "",
+      "context": "Una ecuación exponencial que requiere el uso de logaritmos comunes.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.52,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v14",
       "statement": "Al resolver la ecuación $\\log(x) + \\log(x - 3) = 1$, se obtienen los valores $x = 5$ y $x = -2$. ¿Cuál es la solución real?",
-      "context": "",
+      "context": "Un reto sobre el dominio de las soluciones en ecuaciones logarítmicas.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.5,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v15",
       "statement": "Resuelve la ecuación exponencial: $2^{3x} = 5^{x+2}$. (Expresa la solución en términos de logaritmos).",
-      "context": "",
+      "context": "Uso de cambio de base para resolver una ecuación.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.48,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v16",
       "statement": "¿Qué sustitución es útil para resolver la ecuación $e^{2x} - 5e^x + 6 = 0$?",
-      "context": "",
+      "context": "Una ecuación que se resuelve mediante cambio de variable (forma cuadrática).",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.45,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v17",
       "statement": "Halla las soluciones para $x$ en la ecuación $4^x - 6(2^x) + 8 = 0$.",
-      "context": "",
+      "context": "Resolución completa de una ecuación exponencial cuadrática.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.4,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v18",
       "statement": "Resuelve la ecuación: $\\log_2(x) + \\log_4(x) = 3$.",
-      "context": "",
+      "context": "Una ecuación logarítmica que involucra el cambio de base.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.38,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v19",
       "statement": "Resuelve el sistema:\n$2^x \\cdot 4^y = 32$\n$\\log(x + y) = \\log(4)$\n¿Cuáles son los valores de $x$ e $y$?",
-      "context": "",
+      "context": "Un sistema de ecuaciones no lineales.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.35,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v20",
       "statement": "Determina el valor de $x$ si $x^{\\log_x(10)} = 10^x$.",
-      "context": "",
+      "context": "Un reto sobre las propiedades de logaritmos y potencias combinadas.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Variacional",
+      "expected_success": 0.32,
       "bundle_id": "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

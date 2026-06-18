@@ -10,7 +10,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el resultado de simplificar la expresión $x^5 \\cdot x^3$?",
-      "context": "",
+      "context": "Un estudiante en un bachillerato técnico en David revisa las leyes fundamentales de los exponentes para un examen de ingreso universitario.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.9,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v2",
       "statement": "Si el lado del tablero mide $2^4$ cm, ¿cuál es su área expresada como una potencia de 2?",
-      "context": "",
+      "context": "Un carpintero en Chitré necesita calcular el área de un tablero cuadrado cuyo lado está expresado como una potencia de 2.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v3",
       "statement": "¿A qué es equivalente la expresión $5^{-2}$?",
-      "context": "",
+      "context": "Durante una clase en la escuela secundaria Pedro Pablo Sánchez de La Chorrera, se discute el significado de los exponentes negativos.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la representación en forma de potencia con exponente fraccionario de la raíz quinta de $x^3$?",
-      "context": "",
+      "context": "Un topógrafo panameño calcula la raíz de una medida para ajustar un plano de construcción.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v5",
       "statement": "Si la población inicial es de $3^2$ bacterias, ¿cuántas habrá después de 4 horas? Exprese el resultado como una potencia de 3.",
-      "context": "",
+      "context": "Un biólogo en el Parque Nacional Coiba estudia el crecimiento de una población de bacterias que se triplica cada hora.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v6",
       "statement": "Simplifica la expresión $\\frac{(a^2 b^3)^2}{a^3 b^4}$.",
-      "context": "",
+      "context": "Un estudiante de ingeniería en la UTP simplifica una expresión compleja para un problema de estática.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v7",
       "statement": "Simplifica el radical $\\sqrt{72}$ a su forma más sencilla $a\\sqrt{b}$.",
-      "context": "",
+      "context": "En un taller de orfebrería en Herrera, se calcula la diagonal de una pieza cuadrada simplificando radicales.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el valor numérico de la expresión $27^{2/3}$?",
-      "context": "",
+      "context": "Un agrónomo en Los Santos mide el volumen de un depósito de agua esférico, lo cual requiere el uso de potencias fraccionarias.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el resultado de racionalizar el denominador de la expresión $\\frac{5}{\\sqrt{2}}$?",
-      "context": "",
+      "context": "Un analista financiero en la Ciudad de Panamá utiliza la racionalización para simplificar fórmulas de tasas de interés.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v10",
       "statement": "Simplifica la expresión: $\\sqrt{20} + \\sqrt{45}$.",
-      "context": "",
+      "context": "Durante una olimpiada de matemáticas en Santiago de Veraguas, se presenta un reto sobre la suma de radicales.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v11",
       "statement": "Simplifica y expresa con exponentes positivos: $\\left(\\frac{x^2 y^{-3}}{z^{-1}}\\right)^{-2}$.",
-      "context": "",
+      "context": "Un ingeniero de telecomunicaciones calcula la pérdida de señal en una antena cerca del Canal de Panamá usando potencias negativas.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el factor por el que se debe multiplicar el numerador y denominador para racionalizar $\\frac{1}{\\sqrt[3]{2}}$?",
-      "context": "",
+      "context": "En un estudio metalúrgico en una mina en Donoso, se requiere racionalizar una fracción con raíz cúbica.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v13",
       "statement": "Calcula el producto y simplifica: $\\sqrt{3x} \\cdot \\sqrt[3]{3x}$.",
-      "context": "",
+      "context": "Un estudiante de física analiza la relación entre la velocidad de una partícula y su energía, involucrando productos de raíces.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v14",
       "statement": "Simplifica la expresión $\\sqrt[3]{\\sqrt{64x^{12}}}$.",
-      "context": "",
+      "context": "Un ingeniero eléctrico en la represa de Bayano resuelve una ecuación que involucra la raíz de una raíz.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v15",
       "statement": "¿Cuál de las siguientes igualdades es verdadera para cualquier número real $a$?",
-      "context": "",
+      "context": "Un analista de sistemas en el Biomuseo verifica una propiedad de los números reales para un simulador de ecosistemas.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.45,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v16",
       "statement": "Calcula el valor de la expresión: $16^{3/4} + 81^{1/4}$.",
-      "context": "",
+      "context": "Un químico en un laboratorio de Aduanas en Paso Canoas calcula la concentración de una sustancia usando sumas de potencias.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v17",
       "statement": "Si un monto final es $M = C \\cdot e^{rt}$, ¿cuál es la expresión correcta para despejar el tiempo $t$?",
-      "context": "",
+      "context": "Un economista analiza el interés compuesto continuo para una deuda soberana de Panamá, lo que involucra expresiones con el número $e$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v18",
       "statement": "Simplifica totalmente la expresión $\\sqrt[n]{x^{2n} \\cdot \\sqrt[3]{x^{3n}}}$.",
-      "context": "",
+      "context": "Un físico nuclear en un centro de investigación en Gamboa estudia la desintegración radiactiva usando leyes de exponentes.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v19",
       "statement": "Resuelve para $x$ la ecuación: $2^{x+2} + 2^x = 20$.",
-      "context": "",
+      "context": "Se plantea un reto de alta complejidad en el Concurso Nacional de Matemática de Panamá sobre ecuaciones exponenciales.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.3,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v20",
       "statement": "Determina el numerador simplificado de $\\frac{\\sqrt{x} + \\sqrt{y}}{\\sqrt{x} - \\sqrt{y}} - \\frac{\\sqrt{x} - \\sqrt{y}}{\\sqrt{x} + \\sqrt{y}}$ tras reducir a común denominador.",
-      "context": "",
+      "context": "Un experto en criptografía en el Hub Digital de Panamá utiliza propiedades avanzadas de radicales para un protocolo.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.25,
       "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

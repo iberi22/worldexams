@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v1",
+      "statement": "¿Cuáles son los cuatro puntos cardinales principales?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arriba, abajo, izquierda, derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos no son puntos cardinales, son direcciones relativas."
+        },
+        {
+          "letter": "B",
+          "text": "Norte, Sur, Este y Oeste",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste."
+        },
+        {
+          "letter": "C",
+          "text": "Noreste, Noroeste, Sureste, Suroeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son puntos cardinales secundarios o laterales."
+        },
+        {
+          "letter": "D",
+          "text": "Ecuador, Trópico, Meridiano, Paralelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son conceptos relacionados con coordenadas, no puntos cardinales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cuatro puntos cardinales principales son: Norte (N), Sur (S), Este (E) y Oeste (O). También se conocen como: Norte = Septentrión o Boreal, Sur = Meridional o Austral, Este = Oriente o Levante, Oeste = Occidente o Poniente.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v2",
+      "statement": "¿Cómo se llama el instrumento que sirve para orientarse señalando el norte magnético?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Termómetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide temperatura, no orientación."
+        },
+        {
+          "letter": "B",
+          "text": "Barómetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El barómetro mide presión atmosférica."
+        },
+        {
+          "letter": "C",
+          "text": "Brújula",
+          "is_correct": true,
+          "feedback": "Correcto. La brújula es un instrumento que señala el norte magnético terrestre y permite orientarse."
+        },
+        {
+          "letter": "D",
+          "text": "GPS",
+          "is_correct": false,
+          "feedback": "Incorrecto. El GPS usa satélites para ubicación, pero la brújula es el instrumento tradicional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La brújula es el instrumento tradicional de orientación. Su aguja imantada siempre apunta hacia el norte magnético de la Tierra. Fue inventada por los chinos hace más de 2.000 años y fue fundamental para la navegación durante los viajes de exploración.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v3",
+      "statement": "Si el Sol sale por el Este, ¿hacia qué punto cardinal se pone al atardecer?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oeste",
+          "is_correct": true,
+          "feedback": "Correcto. El Sol sale por el Este y se pone por el Oeste debido al movimiento de rotación de la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol no se pone por el Norte (excepto en regiones polares en ciertas épocas)."
+        },
+        {
+          "letter": "C",
+          "text": "Sur",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol no se pone por el Sur en el Ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "Este",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el punto por donde sale, no por donde se pone."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Sol sale por el Este (oriente) y se oculta por el Oeste (occidente). Esto se debe a que la Tierra gira de oeste a este sobre su propio eje (movimiento de rotación). Este conocimiento ayuda a orientarse sin brújula: extendiendo el brazo derecho hacia donde sale el Sol, el brazo izquierdo señalará el Oeste.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v4",
+      "statement": "¿Qué puntos cardinales laterales se encuentran entre el Norte y el Este?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noroeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Noroeste está entre Norte y Oeste."
+        },
+        {
+          "letter": "B",
+          "text": "Sureste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sureste está entre Sur y Este."
+        },
+        {
+          "letter": "C",
+          "text": "Noreste",
+          "is_correct": true,
+          "feedback": "Correcto. Noreste (NE) se encuentra entre el Norte y el Este."
+        },
+        {
+          "letter": "D",
+          "text": "Suroeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suroeste está entre Sur y Oeste."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los puntos cardinales laterales o secundarios son: Noreste (NE) entre Norte y Este, Noroeste (NO) entre Norte y Oeste, Sureste (SE) entre Sur y Este, y Suroeste (SO) entre Sur y Oeste. En total son 8 puntos si sumamos los 4 principales y los 4 laterales.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v5",
+      "statement": "María está en la ciudad de Bogotá y quiere ir a la ciudad de Medellín. Sabe que Medellín está al noroeste de Bogotá. ¿Hacia dónde debe dirigirse?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Directamente hacia el Norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medellín no está exactamente al norte, está en dirección noroeste."
+        },
+        {
+          "letter": "B",
+          "text": "Directamente hacia el Oeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medellín no está exactamente al oeste, combina norte y oeste."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el Noroeste",
+          "is_correct": true,
+          "feedback": "Correcto. Noroeste significa entre el Norte y el Oeste, que es la ubicación de Medellín respecto a Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia el Suroeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suroeste sería combinación de sur y oeste, dirección contraria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La dirección noroeste (NO) es la combinación de Norte y Oeste. Medellín se encuentra al noroeste de Bogotá, a aproximadamente 415 km de distancia por carretera. Saber los puntos cardinales ayuda a ubicar ciudades y planificar viajes.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v6",
+      "statement": "Un grupo de estudiantes está en el Parque Nacional Natural Tayrona, en la costa Caribe colombiana. Son las 12 del mediodía y el Sol está en lo más alto. ¿Cuál es la mejor manera de orientarse?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mirar la posición del Sol al mediodía para encontrar el Este",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al mediodía el Sol está en el sur en el hemisferio norte, no en el este."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar el atardecer para orientarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede orientar sin esperar, usando otros métodos."
+        },
+        {
+          "letter": "C",
+          "text": "Si el Sol está al sur (hemisferio norte), mirar la sombra o usar una brújula",
+          "is_correct": true,
+          "feedback": "Correcto. Al mediodía en el hemisferio norte el Sol está al sur, y la sombra apunta al norte."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar a un pescador local es el único método confiable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Preguntar ayuda, pero hay métodos de orientación directos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el hemisferio norte (donde está Colombia), al mediodía el Sol se encuentra hacia el sur. La sombra de un objeto vertical apunta hacia el norte. Este método, junto con la brújula, permite orientarse en cualquier momento del día.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v7",
+      "statement": "En un mapa físico de Colombia, la rosa de los vientos muestra el Norte hacia arriba. Si una ciudad está en la parte superior del mapa, ¿hacia qué punto cardinal se encuentra?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Norte",
+          "is_correct": true,
+          "feedback": "Correcto. En los mapas convencionales, el norte se representa en la parte superior."
+        },
+        {
+          "letter": "B",
+          "text": "Sur",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sur se representa en la parte inferior del mapa."
+        },
+        {
+          "letter": "C",
+          "text": "Este",
+          "is_correct": false,
+          "feedback": "Incorrecto. El este se representa a la derecha del mapa."
+        },
+        {
+          "letter": "D",
+          "text": "Oeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oeste se representa a la izquierda del mapa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por convención internacional, en los mapas el norte se coloca en la parte superior, el sur en la inferior, el este a la derecha y el oeste a la izquierda. La rosa de los vientos confirma esta orientación.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v8",
+      "statement": "Un estudiante está en San Andrés y quiere viajar a Bogotá. Mirando un mapa, observa que San Andrés está al noroeste de Bogotá. Si viaja de San Andrés a Bogotá, ¿en qué dirección se desplaza?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el Noroeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su punto de partida es el noroeste, por lo que debe ir en dirección contraria."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el Sureste",
+          "is_correct": true,
+          "feedback": "Correcto. Si San Andrés está al noroeste de Bogotá, entonces Bogotá está al sureste de San Andrés."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el Norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá no está al norte de San Andrés."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia el Suroeste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá está al sureste, no al suroeste de San Andrés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La orientación es relativa. Si un lugar A está al noroeste de B, entonces B está al sureste de A. San Andrés está en el mar Caribe, al noroeste de Bogotá, y Bogotá está en el interior del país, al sureste de San Andrés.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v9",
+      "statement": "Un explorador camina 3 km hacia el Norte, luego 4 km hacia el Este y finalmente 3 km hacia el Sur. ¿A qué distancia y en qué dirección está de su punto de partida?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 km al Este",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia no es la suma simple."
+        },
+        {
+          "letter": "B",
+          "text": "3 km al Norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El regreso hacia el Sur cancela el avance hacia el Norte."
+        },
+        {
+          "letter": "C",
+          "text": "4 km al Este",
+          "is_correct": true,
+          "feedback": "Correcto. Avanza 3 km N y vuelve 3 km S (se cancelan). Solo queda el desplazamiento de 4 km hacia el Este."
+        },
+        {
+          "letter": "D",
+          "text": "5 km al Noreste",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado neto es solo hacia el Este."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al desplazarse 3 km al norte y luego 3 km al sur, estos movimientos se cancelan entre sí. Por lo tanto, el desplazamiento neto es de 4 km hacia el este desde el punto de partida. Los puntos cardinales permiten entender y calcular desplazamientos sobre la superficie terrestre.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v10",
+      "statement": "¿Por qué una brújula NO funciona correctamente cerca de objetos metálicos grandes o dispositivos electrónicos?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la brújula solo funciona al aire libre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brújula funciona en interiores también mientras no haya interferencias."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el metal bloquea la luz solar necesaria para la brújula",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brújula no necesita luz solar para funcionar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los metales y campos magnéticos artificiales interfieren con la aguja imantada de la brújula",
+          "is_correct": true,
+          "feedback": "Correcto. La aguja de la brújula responde al campo magnético; metales y electrónicos crean campos que la desvían."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la brújula solo funciona con baterías y los metales las descargan",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brújula tradicional no usa baterías."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La brújula funciona gracias a que su aguja imantada se alinea con el campo magnético terrestre. Los objetos metálicos (como llaves, cinturones, vehículos) y los dispositivos electrónicos (celulares, computadoras) generan sus propios campos magnéticos que interfieren y desvían la aguja, dando lecturas incorrectas.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

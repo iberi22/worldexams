@@ -10,7 +10,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v1",
       "statement": "¿Cual es el resultado de la operacion $a^m \\cdot a^n$ segun las propiedades de las potencias de base real?",
-      "context": "",
+      "context": "Un estudiante en el Centro de Estudios de Malabo repasa las leyes basicas de los exponentes antes de un examen.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v2",
       "statement": "¿Como se expresa el numero real $a$ elevado a un exponente negativo, $a^{-n}$, donde $a \\neq 0$?",
-      "context": "",
+      "context": "En una ferreteria de Bata, se venden cables cuya resistencia varia de forma exponencial. El dueño anota las formulas en una pizarra.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v3",
       "statement": "Si el lado de un cuadrado mide $\\sqrt{x}$ metros, ¿cual es el area del cuadrado en metros cuadrados?",
-      "context": "",
+      "context": "Un topografo en Mongomo calcula el area de un terreno cuadrado cuya medida de lado esta expresada como una raiz.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v4",
       "statement": "Si inicialmente hay 1 bacteria, ¿que expresion representa la cantidad de bacterias despues de $n$ horas?",
-      "context": "",
+      "context": "Una bióloga en el Parque Nacional de Monte Alen estudia el crecimiento de una poblacion de bacterias que se triplica cada hora.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.78,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v5",
       "statement": "¿Cual es la forma equivalente de expresar $\\sqrt[3]{a^2}$ usando exponentes fraccionarios?",
-      "context": "",
+      "context": "Un estudiante de secundaria en Ebebiyin intenta simplificar una expresion con radicales combinados.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.72,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v6",
       "statement": "¿Cual es el volumen del deposito expresado como una sola potencia de 2?",
-      "context": "",
+      "context": "Un arquitecto en Ciudad de la Paz necesita calcular el volumen de un deposito cubico cuya arista mide $2^3$ centimetros.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v7",
       "statement": "Si el capital es $1,000,000$ Francos CFA y el tiempo son 2 años, pero el banco decide pagar el doble de la tasa elevando la base al cuadrado, ¿que potencia representaria el nuevo factor de crecimiento?",
-      "context": "",
+      "context": "Un tesorero en Malabo maneja cuentas bancarias donde los intereses se calculan mediante la formula $Capital \\cdot (1.05)^t$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.68,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v8",
       "statement": "¿Cual es el resultado de simplificar $\\sqrt{a^4 \\cdot b^6}$ asumiendo que $a$ y $b$ son positivos?",
-      "context": "",
+      "context": "En un laboratorio en Bata, se simplifica la expresion $\\sqrt{a^4 \\cdot b^6}$ para un analisis de fluidos.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v9",
       "statement": "¿Cual es el valor numerico de $27^{2/3}$?",
-      "context": "",
+      "context": "Un estudiante en Evinayong calcula el valor de $27^{2/3}$ sin usar calculadora.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.62,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v10",
       "statement": "¿Cual es el desarrollo correcto de la expresion $(2x)^3$?",
-      "context": "",
+      "context": "Un arquitecto en Mongomo utiliza la propiedad de la potencia de un producto para simplificar el diseño de una estructura.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.64,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v11",
       "statement": "¿Cual es la forma racionalizada y simplificada de la expresion $\\frac{10}{\\sqrt{5}}$?",
-      "context": "",
+      "context": "Un ingeniero en el puerto de Luba necesita racionalizar una expresion de diseño que contiene una raiz en el denominador: $\\frac{10}{\\sqrt{5}}$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v12",
       "statement": "¿Cual es el resultado simplificado de la operacion $3\\sqrt{2} + \\sqrt{50}$?",
-      "context": "",
+      "context": "Un estudiante en Annobon resuelve la suma de radicales semejantes para un proyecto de navegacion: $3\\sqrt{2} + \\sqrt{50}$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.58,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v13",
       "statement": "Simplifica la expresion $(\\sqrt[3]{x^2})^6$ asumiendo que $x$ es un numero real positivo.",
-      "context": "",
+      "context": "En un examen de acceso a la UNGE, se plantea simplificar la expresion $(\\sqrt[3]{x^2})^6$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v14",
       "statement": "¿Despues de cuanto tiempo $t$ la masa $M$ sera exactamente la cuarta parte de la masa inicial $M_0$?",
-      "context": "",
+      "context": "Un quimico en un laboratorio de Malabo analiza la desintegracion de una sustancia, cuya masa sigue la formula $M = M_0 \\cdot 2^{-t/5}$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.52,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v15",
       "statement": "¿Cual de las siguientes afirmaciones es correcta al comparar los numeros $A$ y $B$?",
-      "context": "",
+      "context": "Un estudiante compara dos numeros reales expresados con radicales: $A = 2\\sqrt{3}$ y $B = 3\\sqrt{2}$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.48,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v16",
       "statement": "¿Cual es la forma simplificada de $\\sqrt[3]{54x^4}$?",
-      "context": "",
+      "context": "En un taller en Malabo se pide simplificar la expresion $\\sqrt[3]{54x^4}$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.46,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v17",
       "statement": "¿Bajo que condicion la expresion $\\sqrt[n]{x}$ representa un numero real cuando $x$ es negativo?",
-      "context": "",
+      "context": "Un matematico analiza la validez de las operaciones con raices negativas en el conjunto de los numeros reales.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v18",
       "statement": "Expresa $\\sqrt{x\\sqrt{x\\sqrt{x}}}$ como una sola potencia de $x$.",
-      "context": "",
+      "context": "Se plantea simplificar la expresion radical anidada $\\sqrt{x\\sqrt{x\\sqrt{x}}}$ para un modelo de fractales.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.38,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v19",
       "statement": "Si el voltaje $V$ aumenta en un factor de $\\sqrt{2}$ y la resistencia $R$ se reduce a la mitad, ¿que ocurre con la potencia $P$?",
-      "context": "",
+      "context": "Un ingeniero electrico en Mongomo analiza la potencia disipada por un componente, dada por $P = V^2 / R$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v20",
       "statement": "¿Cual es el valor de $x$ que satisface la ecuacion exponencial $2^x \\cdot 4^{x-1} = 8$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato avanzado en Guinea Ecuatorial debe resolver la siguiente igualdad: $2^x \\cdot 4^{x-1} = 8$.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.32,
       "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

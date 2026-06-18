@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-25-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.142Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v1",
+      "statement": "¿Cuáles son los dos tipos de materia que forman el suelo natural?",
+      "context": "Al observar un corte de tierra en una montaña, vemos diferentes materiales mezclados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Materia plástica y materia metálica",
+          "is_correct": false,
+          "feedback": "El plástico y el metal son materiales mayormente artificiales introducidos por el hombre, no componentes naturales del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Materia orgánica (humus) y materia inorgánica (rocas/minerales)",
+          "is_correct": true,
+          "feedback": "El suelo es una mezcla de restos de seres vivos y minerales provenientes de las rocas."
+        },
+        {
+          "letter": "C",
+          "text": "Materia gaseosa y materia solar",
+          "is_correct": false,
+          "feedback": "Aunque el suelo tiene aire (gas), la materia solar es energía lumínica y no un componente físico del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Materia líquida de mar y materia de nube",
+          "is_correct": false,
+          "feedback": "El agua del mar es salada; el suelo tiene agua dulce infiltrada de la lluvia y humedad propia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo es un sistema complejo. La parte orgánica (humus) da la fertilidad, mientras que la parte inorgánica (arena, arcilla, piedras) da la estructura física y los minerales básicos para las plantas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v2",
+      "statement": "¿Qué componente del suelo es el responsable de ese color oscuro y de que sea tan bueno para las plantas?",
+      "context": "Si tomas un puñado de tierra negra y la aprietas, notas que es esponjosa y mantiene un poco la humedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La arena gruesa",
+          "is_correct": false,
+          "feedback": "La arena es de color claro y no retiene humedad ni nutrientes de forma eficiente."
+        },
+        {
+          "letter": "B",
+          "text": "El humus",
+          "is_correct": true,
+          "feedback": "El humus es materia orgánica descompuesta que enriquece el suelo y le da su color oscuro característico."
+        },
+        {
+          "letter": "C",
+          "text": "Los pedazos de vidrio",
+          "is_correct": false,
+          "feedback": "El vidrio es un contaminante peligroso que no aporta nada a la salud biológica del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La pintura negra",
+          "is_correct": false,
+          "feedback": "La naturaleza no usa pintura; el color viene de los procesos químicos de descomposición de la vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El humus es como la \"vitamina\" del suelo. Viene de hojas, insectos y animales muertos que se han descompuesto gracias a las bacterias y lombrices, convirtiéndose en el mejor alimento para nuevas plantas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v3",
+      "statement": "¿Qué tipo de suelo es el ideal para la alfarería debido a sus granos pequeñísimos que se pegan al mojarse?",
+      "context": "En la alfarería de Ráquira, los artesanos buscan un suelo que sea muy pegajoso y que se pueda moldear con las manos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo arenoso",
+          "is_correct": false,
+          "feedback": "La arena no se pega; sus granos son demasiado grandes para formar una masa moldeable que mantenga la forma."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo arcilloso",
+          "is_correct": true,
+          "feedback": "La arcilla tiene partículas microscópicas que al mojarse forman un barro plástico perfecto para hacer vasijas y ladrillos."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo de pura piedra",
+          "is_correct": false,
+          "feedback": "Las piedras son sólidas y rígidas; no se pueden moldear con las manos como el barro."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo de algodón",
+          "is_correct": false,
+          "feedback": "El algodón es una fibra vegetal que crece SOBRE el suelo, no es un tipo de suelo mineral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo arcilloso es impermeable y denso. Por eso es excelente para la industria de la construcción y el arte, aunque para la agricultura sea difícil porque se encharca fácilmente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v4",
+      "statement": "¿En cuál de las dos macetas el agua desaparecerá más rápido hacia el fondo?",
+      "context": "Mariana echa agua en dos macetas: una llena de arena de playa y otra con tierra negra de bosque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la maceta con arena",
+          "is_correct": true,
+          "feedback": "La arena es muy permeable; sus poros grandes permiten que el agua pase sin obstáculos hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "En la maceta con tierra negra",
+          "is_correct": false,
+          "feedback": "La tierra negra tiene humus que absorbe el agua como una esponja, manteniéndola más tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "En ambas desaparecerá igual",
+          "is_correct": false,
+          "feedback": "No, cada tipo de suelo tiene una \"permeabilidad\" diferente según el tamaño de sus granos."
+        },
+        {
+          "letter": "D",
+          "text": "El agua no bajará en ninguna",
+          "is_correct": false,
+          "feedback": "Por gravedad, el agua siempre intenta bajar; la velocidad depende de los obstáculos que encuentre en el suelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La permeabilidad es la capacidad del suelo de dejar pasar el agua. Los suelos arenosos son muy permeables (el agua corre), mientras que los arcillosos y humíferos la retienen más tiempo para las plantas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v5",
+      "statement": "¿Cómo se llama el proceso de pérdida del suelo fértil causado por la lluvia y el viento?",
+      "context": "Un agricultor nota que después de una fuerte lluvia, su terreno en la montaña ha perdido la capa negra de arriba y ahora se ve la roca pelada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis de montaña",
+          "is_correct": false,
+          "feedback": "La fotosíntesis crea materia viva; el desgaste del suelo es un proceso de destrucción física."
+        },
+        {
+          "letter": "B",
+          "text": "Erosión",
+          "is_correct": true,
+          "feedback": "La erosión es el arrastre de los materiales del suelo, dejando la tierra estéril y desprotegida."
+        },
+        {
+          "letter": "C",
+          "text": "Infiltración profunda",
+          "is_correct": false,
+          "feedback": "La infiltración es buena para el agua; la erosión es mala para la estabilidad del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Condensación de tierra",
+          "is_correct": false,
+          "feedback": "La condensación es para el vapor de agua; la tierra no cambia de estado de esa manera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La erosión es una \"enfermedad\" de la tierra causada muchas veces por el hombre al quitar los árboles. Sin raíces que amarren el suelo, la lluvia se lleva la riqueza del campo hacia los ríos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v6",
+      "statement": "¿Por qué es importante que el suelo tenga canales de aire hechos por las lombrices?",
+      "context": "Las lombrices de tierra son llamadas \"los pulmones del suelo\" porque siempre están haciendo huecos y canales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el suelo no pese tanto",
+          "is_correct": false,
+          "feedback": "El peso del suelo es insignificante para la escala de la Tierra; lo importante es la vida interna."
+        },
+        {
+          "letter": "B",
+          "text": "Para que las raíces puedan respirar y el agua entre mejor",
+          "is_correct": true,
+          "feedback": "Sin aire y espacios, las raíces de las plantas se asfixian y mueren, y el agua no puede infiltrarse."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las lombrices no se aburran",
+          "is_correct": false,
+          "feedback": "Los comportamientos animales responden a necesidades biológicas, no a estados de ánimo humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el suelo sea de color rojo",
+          "is_correct": false,
+          "feedback": "El color depende de los minerales (hierro) y el humus, no de los canales de aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo debe ser poroso. El aire es tan necesario en el suelo como en la atmósfera. Sin los túneles de las lombrices, el suelo se apretaría tanto que nada podría crecer en él.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v7",
+      "statement": "¿Qué conclusión científica podemos sacar sobre el cuidado del suelo basado en este dato?",
+      "context": "Se necesitan casi 1.000 años para que la naturaleza fabrique apenas tres centímetros de suelo fértil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el suelo es infinito y se hace rápido",
+          "is_correct": false,
+          "feedback": "Al contrario, el dato demuestra que es un proceso extremadamente lento y difícil."
+        },
+        {
+          "letter": "B",
+          "text": "Que es un recurso no renovable a escala humana y debemos protegerlo",
+          "is_correct": true,
+          "feedback": "Como tarda tanto en hacerse, si lo perdemos hoy, ninguna persona viva volverá a verlo recuperado."
+        },
+        {
+          "letter": "C",
+          "text": "Que no importa si lo ensuciamos hoy",
+          "is_correct": false,
+          "feedback": "Ensuciarlo acelera su pérdida, lo cual es un desastre para la alimentación del futuro."
+        },
+        {
+          "letter": "D",
+          "text": "Que el suelo viene del espacio exterior",
+          "is_correct": false,
+          "feedback": "El suelo es un producto del planeta Tierra por el desgaste de sus propias rocas y vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La formación del suelo es el proceso más lento de la superficie terrestre. Por eso, arrojar basura o químicos al suelo es un crimen ambiental, ya que destruimos en un minuto lo que la Tierra tardó milenios en crear.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v8",
+      "statement": "¿Cuál de estos suelos elegirías para que tus plantas crezcan grandes y saludables?",
+      "context": "Tienes que elegir un lugar para sembrar una huerta de hortalizas (lechugas, zanahorias, cebollas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un suelo con muchas piedras y arena",
+          "is_correct": false,
+          "feedback": "Las piedras estorban a las raíces y la arena no guarda comida ni agua para las hortalizas."
+        },
+        {
+          "letter": "B",
+          "text": "Un suelo de pura arcilla pegajosa",
+          "is_correct": false,
+          "feedback": "La arcilla es muy dura para que las lechugas crezcan y se inunda demasiado fácil."
+        },
+        {
+          "letter": "C",
+          "text": "Un suelo humífero, oscuro y con buena humedad",
+          "is_correct": true,
+          "feedback": "Este suelo tiene el equilibrio perfecto de nutrientes y agua que las plantas necesitan."
+        },
+        {
+          "letter": "D",
+          "text": "Un suelo cubierto de asfalto y cemento",
+          "is_correct": false,
+          "feedback": "Como ya sabemos, el asfalto es inerte y ninguna planta puede nacer allí de forma natural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El éxito de una huerta depende de la calidad del suelo. Un buen suelo debe ser \"franco\", es decir, una mezcla que tenga un poco de todo pero sobre todo mucha materia orgánica (humus) para alimentar la vida.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v9",
+      "statement": "¿Cómo llamarías al suelo basándote en todos estos beneficios que nos ofrece?",
+      "context": "En la industria, el suelo nos da el hierro para los carros, el carbón para la energía y la arena para el vidrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estorbo para construir edificios",
+          "is_correct": false,
+          "feedback": "Al contrario, el suelo es la base indispensable sobre la cual se apoyan todos los edificios."
+        },
+        {
+          "letter": "B",
+          "text": "Un recurso natural indispensable para la vida y la economía",
+          "is_correct": true,
+          "feedback": "El suelo nos da comida, materiales para construir y energía para nuestras industrias."
+        },
+        {
+          "letter": "C",
+          "text": "Una capa de polvo sin valor",
+          "is_correct": false,
+          "feedback": "El valor del suelo es incalculable; sin él no existiría la civilización humana."
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de agua sólida",
+          "is_correct": false,
+          "feedback": "El suelo es litósfera (roca/tierra), una sustancia totalmente diferente a la hidrósfera (agua)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo es el soporte de todo. A menudo lo ignoramos porque lo pisamos todos los días, pero es la plataforma donde ocurre la magia de la vida terrestre y donde el hombre encuentra sus materiales de progreso.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v10",
+      "statement": "¿Qué le responderías tú al constructor basándote en lo que aprendiste sobre el ciclo de la vida?",
+      "context": "Un constructor dice: \"Es mejor pavimentar todo el campo para que sea más limpio y no haya barro cuando llueva\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene razón, el barro es muy sucio",
+          "is_correct": false,
+          "feedback": "El barro es suelo natural húmedo; la \"suciedad\" es una opinión humana, no un hecho biológico."
+        },
+        {
+          "letter": "B",
+          "text": "Que si pavimenta todo, no habrá dónde cultivar comida ni nacerá oxígeno",
+          "is_correct": true,
+          "feedback": "El suelo natural es la fábrica de vida del planeta; cubrirlo es asfixiar la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el pavimento es mejor para las raíces",
+          "is_correct": false,
+          "feedback": "Falso; las raíces mueren bajo el pavimento al no poder respirar ni absorber agua de lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "Que el suelo se puede fabricar en una tienda",
+          "is_correct": false,
+          "feedback": "El suelo natural es irreemplazable por el hombre a gran escala; es una obra única de la naturaleza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El progreso debe ser equilibrado. Necesitamos calles, pero necesitamos mucho más el suelo natural. El barro no es suciedad, es tierra viva trabajando. Un mundo sin suelo natural sería un mundo muerto.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v1",
+      "statement": "¿Cuál es el recurso natural que nos permite cultivar plantas para obtener frutas, verduras y cereales?",
+      "context": "En la escuela, los niños aprenden que casi todo lo que comemos viene directa o indirectamente de la tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cemento de las calles",
+          "is_correct": false,
+          "feedback": "El cemento es un material artificial donde las raíces no pueden penetrar ni obtener nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "El aire de las montañas",
+          "is_correct": false,
+          "feedback": "El aire da los gases, pero las plantas necesitan un soporte sólido y con minerales para crecer."
+        },
+        {
+          "letter": "C",
+          "text": "El suelo fértil",
+          "is_correct": true,
+          "feedback": "El suelo proporciona el anclaje, el agua y los nutrientes minerales necesarios para la agricultura."
+        },
+        {
+          "letter": "D",
+          "text": "El vidrio de las ventanas",
+          "is_correct": false,
+          "feedback": "El vidrio no tiene nutrientes orgánicos ni minerales disponibles para que las plantas vivan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El suelo es la base de la seguridad alimentaria. Sin un suelo sano, los agricultores no podrían sembrar y los seres humanos no tendríamos qué comer. Es nuestra mayor riqueza natural en la superficie.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v2",
+      "statement": "¿Qué tipo de suelo se utiliza principalmente como recurso para la industria de la construcción y la alfarería?",
+      "context": "Muchos de los ladrillos y tejas de nuestras casas en Colombia se fabrican con una tierra especial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suelo arcilloso",
+          "is_correct": true,
+          "feedback": "La arcilla es moldeable al mojarse y se vuelve muy dura al secarse o quemarse, ideal para ladrillos."
+        },
+        {
+          "letter": "B",
+          "text": "Suelo de pura arena",
+          "is_correct": false,
+          "feedback": "La arena sola no se puede moldear para hacer ladrillos resistentes; se desmorona fácilmente."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo humífero con hojas",
+          "is_correct": false,
+          "feedback": "La materia orgánica (humus) se quemaría en el horno, dejando el ladrillo lleno de huecos y débil."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo invisible",
+          "is_correct": false,
+          "feedback": "Todos los tipos de suelo son materia sólida visible que forma parte de la corteza terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El suelo no solo nos da comida, también nos da refugio. La arcilla ha sido usada por miles de años para construir hogares, demostrando que el suelo es un recurso industrial muy valioso.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v3",
+      "statement": "¿Cuál es la principal utilidad de la arena como recurso natural extraído del suelo?",
+      "context": "En las orillas de los ríos, la arena se extrae en grandes camiones para mezclarla con cemento y hacer concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para fabricar ropa suave",
+          "is_correct": false,
+          "feedback": "La ropa se fabrica de fibras vegetales (algodón) o animales (lana), no de granos de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Para la industria de la construcción (mezclas)",
+          "is_correct": true,
+          "feedback": "La arena da volumen y resistencia a las mezclas de concreto para edificios, puentes y casas."
+        },
+        {
+          "letter": "C",
+          "text": "Para hacer jugos de frutas",
+          "is_correct": false,
+          "feedback": "La arena no es comestible y dañaría gravemente el sistema digestivo humano."
+        },
+        {
+          "letter": "D",
+          "text": "Para producir oxígeno en los hospitales",
+          "is_correct": false,
+          "feedback": "El oxígeno lo producen las plantas; la arena es un mineral de roca inerte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La arena es uno de los recursos más usados en el mundo moderno. Sin arena no habría concreto, ni vidrio, ni chips para computadoras. Es un recurso del suelo que usamos todos los días sin darnos cuenta.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v4",
+      "statement": "¿Qué le sucedió al recurso suelo cuando le quitaron la protección de los árboles?",
+      "context": "Un ganadero decide quitar todos los árboles de su finca para que crezca más pasto para sus vacas. Después de un tiempo, nota que la tierra está muy seca y dura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se volvió más nutritivo por el sol",
+          "is_correct": false,
+          "feedback": "El sol directo quema el humus y mata los microorganismos que hacen el suelo fértil."
+        },
+        {
+          "letter": "B",
+          "text": "Se convirtió en oro puro",
+          "is_correct": false,
+          "feedback": "Los procesos biológicos no transforman la tierra común en metales preciosos."
+        },
+        {
+          "letter": "C",
+          "text": "Se degradó y perdió su humedad natural",
+          "is_correct": true,
+          "feedback": "Sin la sombra y las raíces de los árboles, el suelo queda expuesto al calor y se vuelve estéril rápido."
+        },
+        {
+          "letter": "D",
+          "text": "Los árboles se fueron a pasear",
+          "is_correct": false,
+          "feedback": "Los árboles murieron al ser talados; la consecuencia es el daño físico y biológico al suelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El suelo es un recurso delicado. Si no lo protegemos con vegetación, el sol y el viento lo dañan hasta que ya no sirve para nada. Cuidar los árboles es la mejor forma de cuidar la calidad de la tierra.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v5",
+      "statement": "¿Por qué Mariana necesita agregarle estos elementos al suelo de su huerta?",
+      "context": "Mariana tiene una pequeña huerta en su balcón. Cada tres meses, ella le agrega un poco de tierra negra nueva o cáscaras de fruta picadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la maceta no se vea vacía",
+          "is_correct": false,
+          "feedback": "El objetivo no es el volumen visual, sino la calidad nutricional para los seres vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Para asustar a los insectos",
+          "is_correct": false,
+          "feedback": "Las cáscaras orgánicas atraen insectos benéficos que ayudan a descomponer la materia."
+        },
+        {
+          "letter": "C",
+          "text": "Para reponer los nutrientes que las plantas consumieron",
+          "is_correct": true,
+          "feedback": "Las plantas sacan \"comida\" del suelo; si no se la devolvemos (abono), el suelo se agota y las plantas mueren."
+        },
+        {
+          "letter": "D",
+          "text": "Para que la tierra cambie de lugar",
+          "is_correct": false,
+          "feedback": "Reponer tierra es un acto de fertilización, no un cambio geográfico de posición del material."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esto se llama abonar. Las plantas son como nosotros: necesitan comer. Si siembras muchas veces en el mismo lugar, el suelo se cansa. Agregarle humus o compost es devolverle su poder como recurso nutritivo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v6",
+      "statement": "¿Por qué el suelo se considera un recurso natural NO renovable a escala humana?",
+      "context": "El suelo tarda cientos de años en formar una sola capa delgada de tierra fértil, pero la lluvia y el viento pueden llevársela en un solo día si el bosque es talado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el suelo no se puede tocar",
+          "is_correct": false,
+          "feedback": "El suelo es materia sólida que usamos y tocamos constantemente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no sirve para nada",
+          "is_correct": false,
+          "feedback": "Ya vimos que es vital para la comida y la construcción; es uno de los recursos más útiles."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tarda muchísimo tiempo en volver a formarse",
+          "is_correct": true,
+          "feedback": "Una vez que perdemos el suelo fértil por descuido, tendrían que pasar muchas vidas humanas para que la naturaleza haga más."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el suelo es infinito",
+          "is_correct": false,
+          "feedback": "Falso; la capa de suelo fértil es muy delgada y se está acabando en muchas partes del mundo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Debemos cuidar el suelo como si fuera oro. Si lo contaminamos con basura o permitimos que se lave con la lluvia, estamos perdiendo un recurso que no volveremos a ver en nuestra vida.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v7",
+      "statement": "¿Qué tipo de recursos le proporciona el suelo a la industria minera?",
+      "context": "En la minería, se extraen metales como el hierro, el carbón y el oro de capas profundas del suelo y las rocas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recursos vegetales",
+          "is_correct": false,
+          "feedback": "Los vegetales se encuentran sobre el suelo (plantas); la minería busca recursos inorgánicos."
+        },
+        {
+          "letter": "B",
+          "text": "Recursos minerales",
+          "is_correct": true,
+          "feedback": "El suelo y las rocas guardan los metales y minerales que usamos para fabricar todo tipo de objetos tecnológicos."
+        },
+        {
+          "letter": "C",
+          "text": "Recursos de aire líquido",
+          "is_correct": false,
+          "feedback": "El aire está en la atmósfera; el suelo guarda sólidos y algunos gases naturales atrapados."
+        },
+        {
+          "letter": "D",
+          "text": "Recursos de agua de mar",
+          "is_correct": false,
+          "feedback": "El mar está sobre la corteza oceánica; la minería terrestre busca materiales de la litósfera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo es un almacén de tesoros minerales. Todo lo que tiene metal (tu celular, la estufa, los cubiertos) vino originalmente de un proceso de extracción del suelo. Es otro uso industrial de este recurso.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v8",
+      "statement": "¿Qué consecuencia grave tendrá esta acción para el recurso suelo de ese campo?",
+      "context": "Una fábrica de químicos lanza sus desechos líquidos directamente a un campo de cultivo cercano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El suelo se volverá más brillante",
+          "is_correct": false,
+          "feedback": "El brillo no indica salud; la presencia de químicos suele causar muerte biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Se contaminará y no servirá más para sembrar comida",
+          "is_correct": true,
+          "feedback": "Los químicos tóxicos matan la vida del suelo y envenenan cualquier planta que intente crecer allí."
+        },
+        {
+          "letter": "C",
+          "text": "Las raíces aprenderán a comer químicos",
+          "is_correct": false,
+          "feedback": "Las plantas no se adaptan a venenos fuertes; simplemente mueren o se vuelven tóxicas para los humanos."
+        },
+        {
+          "letter": "D",
+          "text": "No pasará nada porque el suelo es muy duro",
+          "is_correct": false,
+          "feedback": "Aunque sea duro, el suelo es poroso y absorbe los venenos, guardándolos por mucho tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contaminación del suelo es un daño casi permanente. Los venenos se infiltran y se quedan atrapados entre los granos de tierra, acabando con la fertilidad y la salud de todo el ecosistema local.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v9",
+      "statement": "¿Cómo ayuda esta \"alfombra\" de hojas a proteger el recurso suelo?",
+      "context": "Los bosques nativos de Colombia tienen una capa de hojas secas sobre el suelo que parece una alfombra blanda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que los animales caminen sin ruido",
+          "is_correct": false,
+          "feedback": "Aunque ayuda al silencio, su función principal en el suelo es biológica y física."
+        },
+        {
+          "letter": "B",
+          "text": "Evita el golpe directo de la lluvia y mantiene la humedad",
+          "is_correct": true,
+          "feedback": "Las hojas actúan como un escudo que impide que el agua lave la tierra y que el sol la seque."
+        },
+        {
+          "letter": "C",
+          "text": "Atrae a los cazadores de nubes",
+          "is_correct": false,
+          "feedback": "No existe tal cosa; la función es de protección del recurso tierra en el ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "Para que la tierra no se ensucie",
+          "is_correct": false,
+          "feedback": "La tierra no se ensucia con hojas, se enriquece. El concepto de suciedad es humano respecto a materiales artificiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta capa se llama mantillo. Es la forma en que la naturaleza se protege a sí misma. Las hojas muertas de hoy son el suelo rico del mañana. Protegen la tierra de la erosión y la mantienen fresca.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v10",
+      "statement": "¿Cuál sería la respuesta científica más equilibrada a esta afirmación?",
+      "context": "En un debate escolar, un niño dice: \"El suelo es más importante que el agua porque sobre el suelo es donde vivimos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el niño tiene razón, el suelo es lo único valioso",
+          "is_correct": false,
+          "feedback": "Sin agua, el suelo se vuelve polvo desértico y nada puede crecer en él."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua es más importante porque se puede beber",
+          "is_correct": false,
+          "feedback": "Sin suelo no habría plantas para producir oxígeno; el agua sola no sostiene la vida terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos son recursos inseparables y vitales",
+          "is_correct": true,
+          "feedback": "El suelo necesita agua para ser fértil, y el agua necesita del suelo para filtrarse y ser pura."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguno es importante comparado con el sol",
+          "is_correct": false,
+          "feedback": "Todos los recursos (sol, agua, suelo, aire) forman un sistema donde cada uno es indispensable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la naturaleza todo está conectado. No podemos elegir un recurso sobre otro. Sin suelo sano el agua se ensucia, y sin agua el suelo se muere. Debemos aprender a valorar y proteger todo el conjunto de la vida.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

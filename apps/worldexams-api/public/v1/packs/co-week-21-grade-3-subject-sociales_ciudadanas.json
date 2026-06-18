@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.153Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v1",
+      "statement": "Que es un oficio?",
+      "context": "I.E. San Felipe, Bogota. Oficios comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un trabajo que las personas realizan para ganar dinero y aportar a la comunidad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Un juego.",
+          "is_correct": false,
+          "feedback": "No, es un trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "C) Una materia del colegio.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Un deporte.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un oficio es una ocupacion laboral que las personas aprenden y realizan para sostenerse y contribuir a la sociedad.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v2",
+      "statement": "Cual de estos es un oficio comun en Colombia?",
+      "context": "I.E. Los Libertadores, Cali. Oficios comunes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panadero, carpintero, zapatero y campesino.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Astronauta.",
+          "is_correct": false,
+          "feedback": "No es comun."
+        },
+        {
+          "letter": "C",
+          "text": "C) Presidente.",
+          "is_correct": false,
+          "feedback": "No es comun."
+        },
+        {
+          "letter": "D",
+          "text": "D) Piloto espacial.",
+          "is_correct": false,
+          "feedback": "No es comun."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Panadero, carpintero, zapatero y campesino son oficios comunes que encontramos en nuestras comunidades.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v3",
+      "statement": "Por que son importantes los oficios en la comunidad?",
+      "context": "I.E. INEM, Medellin. Importancia oficios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque satisfacen necesidades basicas como alimentacion, vestido y vivienda.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No son importantes.",
+          "is_correct": false,
+          "feedback": "Si lo son."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo algunos.",
+          "is_correct": false,
+          "feedback": "Todos son importantes."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo los de la ciudad.",
+          "is_correct": false,
+          "feedback": "Tambien los del campo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada oficio cumple una funcion necesaria. El panadero hace pan, el carpintero fabrica muebles.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v4",
+      "statement": "Que significa tener un trabajo digno?",
+      "context": "I.E. Fe y Alegria, Barranquilla. Trabajo digno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un trabajo donde la persona es tratada con respeto y recibe un pago justo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Trabajar sin descanso.",
+          "is_correct": false,
+          "feedback": "No es digno."
+        },
+        {
+          "letter": "C",
+          "text": "C) Trabajar sin pago.",
+          "is_correct": false,
+          "feedback": "No es digno."
+        },
+        {
+          "letter": "D",
+          "text": "D) Trabajar solo cuando quiera.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo digno implica condiciones justas, respeto y remuneracion adecuada.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v5",
+      "statement": "Don Pedro arregla zapatos en su taller. Cual es su oficio?",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zapatero.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Panadero.",
+          "is_correct": false,
+          "feedback": "Hace pan, no arregla zapatos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Sastre.",
+          "is_correct": false,
+          "feedback": "Hace ropa."
+        },
+        {
+          "letter": "D",
+          "text": "D) Albañil.",
+          "is_correct": false,
+          "feedback": "Construye."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El zapatero arregla y fabrica zapatos, un oficio tradicional en las comunidades colombianas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v6",
+      "statement": "La senora Maria vende arepas en la esquina. Que oficio tiene?",
+      "context": "I.E. Simon Bolivar, Sincelejo. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vendedora ambulante o arepera.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Medica.",
+          "is_correct": false,
+          "feedback": "No atiende pacientes."
+        },
+        {
+          "letter": "C",
+          "text": "C) Profesora.",
+          "is_correct": false,
+          "feedback": "No ensena."
+        },
+        {
+          "letter": "D",
+          "text": "D) Abogada.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La venta de alimentos es un oficio comun en las calles colombianas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v7",
+      "statement": "Por que todos los oficios son importantes?",
+      "context": "I.E. San Carlos, Pasto. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada uno satisface una necesidad diferente y todos se complementan.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Algunos no sirven.",
+          "is_correct": false,
+          "feedback": "Todos sirven."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo los profesionales importan.",
+          "is_correct": false,
+          "feedback": "Todos importan."
+        },
+        {
+          "letter": "D",
+          "text": "D) Depende del dinero que ganen.",
+          "is_correct": false,
+          "feedback": "No importa el dinero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todos los oficios son valiosos. Sin panaderos no hay pan, sin carpinteros no hay muebles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-v8",
+      "statement": "\"Los oficios manuales son menos importantes que las profesiones.\" Es correcto?",
+      "context": "I.E. Gabriel Garcia, Bogota. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, todos los trabajos son dignos e importantes para la sociedad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Si, las profesiones son mejores.",
+          "is_correct": false,
+          "feedback": "Todos son valiosos."
+        },
+        {
+          "letter": "C",
+          "text": "C) Depende del salario.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Si, porque requieren menos estudio.",
+          "is_correct": false,
+          "feedback": "La importancia no es por estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todos los trabajos merecen respeto. Un carpintero es tan valioso como un medico.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W21-trabajo-oficios-comunidad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

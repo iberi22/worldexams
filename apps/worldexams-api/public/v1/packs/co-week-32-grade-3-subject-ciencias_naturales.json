@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-32-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.146Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v1",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio Los Andes en Mompox",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v2",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio San Bartolomé en Barichara",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v3",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio San Bartolomé en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v4",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio Nacional en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v5",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio INEM en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v6",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio La Presentación en Villa de Leyva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v7",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio San José en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-v8",
+      "statement": "¿Cuál es un ejemplo de cambio físico?",
+      "context": "En la clase de Ciencias del Colegio Champagnat en Popayán",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se congela y forma hielo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sigue siendo agua, solo cambia de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La madera arde y se convierte en cenizas",
+          "is_correct": false,
+          "feedback": "Ese es cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro se oxida",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La leche se vuelve yogurt",
+          "is_correct": false,
+          "feedback": "Cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios físicos: alteran forma/estado pero no composición. Cambios químicos: alteran composición.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-3-2026-W32-cambios-materia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el nombre de la representación gráfica de una función cuadrática de la forma $f(x) = ax^2 + bx + c$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Guatemala analiza las ecuaciones de trayectoria de diferentes objetos en movimiento.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v2",
       "statement": "En la función lineal $f(x) = mx + b$, ¿qué representa la letra $m$?",
-      "context": "",
+      "context": "En el estudio de las funciones lineales, la pendiente es el concepto clave para entender la inclinación.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v3",
       "statement": "Si la gráfica de la función $f(x) = ax^2 + bx + c$ abre hacia abajo (cóncava hacia abajo), ¿qué se puede afirmar sobre el coeficiente $a$?",
-      "context": "",
+      "context": "Un estudiante observa una parábola y nota que se abre hacia abajo.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v4",
       "statement": "Si el costo total es $C(x) = 25x + 500$, ¿qué representa el valor de $500$ en el contexto del negocio?",
-      "context": "",
+      "context": "Un emprendedor en Quetzaltenango modela sus costos fijos y variables mediante una función lineal.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la coordenada $x$ del vértice de la parábola $f(x) = x^2 - 6x + 5$?",
-      "context": "",
+      "context": "Un ingeniero calcula la ubicación del punto más alto (vértice) de un puente con forma parabólica.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v6",
       "statement": "¿Cuáles son los interceptos con el eje $x$ de la función $f(x) = x^2 - 4$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato necesita hallar los puntos donde una trayectoria cruza el eje horizontal (raíces).",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la ecuación de la recta que tiene una pendiente $m = 3$ y pasa por el punto $(0, 5)$?",
-      "context": "",
+      "context": "En un laboratorio en Ciudad de Guatemala se estudia la relación entre dos variables físicas que producen una línea recta.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v8",
       "statement": "La tarifa base es de GTQ $10.00$ y el costo por kilómetro es de GTQ $6.00$. Si un pasajero paga GTQ $70.00$, ¿cuántos kilómetros recorrió?",
-      "context": "",
+      "context": "Un taxista en Guatemala cobra una tarifa base más un costo por cada kilómetro recorrido.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v9",
       "statement": "¿En qué punto se cortan las rectas $y = 2x$ y $y = -x + 6$?",
-      "context": "",
+      "context": "Un estudiante compara dos funciones lineales para encontrar su punto de intersección.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes parábolas es más \"cerrada\" o estrecha respecto al eje $y$?",
-      "context": "",
+      "context": "Un profesor muestra cómo cambia la apertura de una parábola según el valor absoluto del coeficiente $a$.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la ecuación de la recta que pasa por los puntos $(1, 4)$ y $(3, 10)$?",
-      "context": "",
+      "context": "Un arquitecto necesita la ecuación de una recta que represente el borde de un techo inclinado en una casa de La Antigua.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v12",
       "statement": "¿En qué tiempo $t$ (en segundos) alcanza la pelota su altura máxima?",
-      "context": "",
+      "context": "Un estudiante de física en Guatemala modela la altura de una pelota lanzada hacia arriba con la función $h(t) = -5t^2 + 20t + 2$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la ecuación de la recta paralela a $y = 4x - 1$ que pasa por el punto $(2, 5)$?",
-      "context": "",
+      "context": "Se estudian rectas paralelas en el diseño de una red eléctrica.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es el valor máximo de la función $f(x) = -2x^2 + 8x - 3$?",
-      "context": "",
+      "context": "Un estudiante analiza el comportamiento de una función cuadrática para determinar su valor máximo.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v15",
       "statement": "Si la pendiente de una recta es $m_1 = -2/3$, ¿cuál es la pendiente de una recta perpendicular a ella?",
-      "context": "",
+      "context": "Un geómetra estudia la relación entre rectas perpendiculares en un plano de construcción.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v16",
       "statement": "¿Cuáles son las raíces (ceros) de la función $f(x) = x^2 - 5x$?",
-      "context": "",
+      "context": "Un agrónomo en Guatemala utiliza una función cuadrática para modelar el rendimiento de una cosecha basado en la cantidad de fertilizante.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v17",
       "statement": "Dada la función de beneficio $B(x) = -x^2 + 10x - 16$, ¿en qué rango de producción $x$ la empresa obtiene ganancias (beneficio $> 0$)?",
-      "context": "",
+      "context": "Un economista analiza el equilibrio entre la oferta (lineal) y el beneficio (cuadrático) de una empresa en Guatemala.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el vértice y el sentido de la parábola dada por $f(x) = 3(x - 4)^2 + 7$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería utiliza la forma canónica (vértice) de la parábola para identificar sus propiedades rápidamente.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v19",
       "statement": "¿En qué puntos se intersectan la recta $y = 2x + 1$ y la parábola $y = x^2 - 2x + 4$?",
-      "context": "",
+      "context": "Un analista financiero estudia la intersección entre una función lineal de ingresos y una función cuadrática de costos.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la función cuadrática que tiene su vértice en $(0, 0)$ y pasa por el punto $(2, 12)$?",
-      "context": "",
+      "context": "Se plantea un problema sobre la determinación de una función cuadrática a partir de puntos específicos en su gráfica.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.35,
       "bundle_id": "GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

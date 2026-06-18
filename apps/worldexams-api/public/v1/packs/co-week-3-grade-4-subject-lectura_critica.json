@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.591Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v1",
+      "statement": "*\"Primero sembraron la semilla, luego regaron y finalmente la taparon con tierra.\"* ¿Qué hicieron primero?",
+      "context": "Primer evento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar la semilla.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Tapar con tierra.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar primer paso.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v2",
+      "statement": "*\"Primero peló la papa, después la cortó en tiras y por último la frió.\"* ¿Qué hizo al final?",
+      "context": "Último evento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peló la papa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cortó la papa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Frió la papa.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Lavó la papa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar último paso.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v3",
+      "statement": "*\"1. Se levantó. 2. Desayunó. 3. Se cepilló los dientes. 4. Salió a la escuela.\"* ¿Qué va después de desayunar?",
+      "context": "Orden correcto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se levantó.",
+          "is_correct": false,
+          "feedback": "Ya pasó."
+        },
+        {
+          "letter": "B",
+          "text": "Se cepilló los dientes.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Salió a la escuela.",
+          "is_correct": false,
+          "feedback": "Todavía no."
+        },
+        {
+          "letter": "D",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar secuencia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v4",
+      "statement": "*\"Lavó la ropa, después la tendió al sol.\"* ¿Qué palabra indica orden?",
+      "context": "Conector de secuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lavó.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "después.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "ropa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "sol.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar conector temporal.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v5",
+      "statement": "*\"Por la mañana fue al médico. Al mediodía almorzó. En la tarde fue al parque.\"* ¿Cuándo almorzó?",
+      "context": "Orden cronológico en día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la mañana.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Al mediodía.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Por la tarde.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En la noche.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ubicar evento en el tiempo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v6",
+      "statement": "*\"1. Compró ingredientes. 2. ________. 3. Horneó el pastel.\"* ¿Qué falta?",
+      "context": "Evento faltante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se durmió.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Preparó la mezcla del pastel.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Salió a jugar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Leyó un libro.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir paso faltante.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v7",
+      "statement": "*\"En la noche se acostó. Antes de eso, cenó. Y antes de cenar, lavó los platos.\"* ¿Qué hizo primero?",
+      "context": "Orden inverso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acostó.",
+          "is_correct": false,
+          "feedback": "Fue lo último."
+        },
+        {
+          "letter": "B",
+          "text": "Cenó.",
+          "is_correct": false,
+          "feedback": "Fue en medio."
+        },
+        {
+          "letter": "C",
+          "text": "Lavó los platos.",
+          "is_correct": true,
+          "feedback": "Correcto. Fue lo primero."
+        },
+        {
+          "letter": "D",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconstruir orden inverso.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v8",
+      "statement": "*\"Final: el pollito salió del cascarón. Inicio: la mamá gallina puso un huevo.\"* ¿Qué va en medio?",
+      "context": "Reconstruir historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El huevo se rompió solo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La gallina incubó el huevo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "El pollito voló.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El huevo rodó.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconstruir secuencia narrativa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v9",
+      "statement": "*\"El texto no tiene palabras como primero, luego, después.\"* ¿Es fácil entender el orden?",
+      "context": "Evaluar si hay orden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, siempre se entiende.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, porque faltan conectores que ayuden a seguir la secuencia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Da igual.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Depende del lector.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar importancia de conectores.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-v10",
+      "statement": "*\"Para hacer una cometa se necesita: 1. Cortar papel 2. Pegar varitas 3. Atar hilo.\"* Si se invierte el orden, ¿funciona?",
+      "context": "Planificar secuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, funciona igual.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, el orden importa.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay que seguir los pasos en orden."
+        },
+        {
+          "letter": "C",
+          "text": "A veces funciona.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Da lo mismo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar importancia del orden.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W03-secuencia-eventos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

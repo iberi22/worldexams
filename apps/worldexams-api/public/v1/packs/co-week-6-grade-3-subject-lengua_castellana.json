@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v1",
       "statement": "¿Cuál es el artículo en la frase: \"La mochila es azul\"?",
-      "context": "",
+      "context": "Un niño busca su mochila antes de ir al colegio en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W02-articulos-001-MASTERY-v2",
       "statement": "¿Cuál de estos es un artículo definido (determinado)?",
-      "context": "",
+      "context": "Identificando artículos definidos en una biblioteca de Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v3",
       "statement": "Elige el artículo que mejor completa la oración: \"Quiero ________ piña madura\".",
-      "context": "",
+      "context": "Comprando frutas en un mercado de Leticia.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v4",
       "statement": "¿Cuál es la forma correcta del artículo para el sustantivo \"árboles\"?",
-      "context": "",
+      "context": "Concordancia de número en una frase sobre parques en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v5",
       "statement": "En la frase \"Unos pájaros vuelan alto\", ¿qué tipo de artículo se usa?",
-      "context": "",
+      "context": "Observando aves en el departamento del Chocó.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v6",
       "statement": "¿Qué artículo está mal usado en esta frase: \"El transmilenios son rojos\"?",
-      "context": "",
+      "context": "Corrigiendo un texto de un compañero sobre el transporte en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v7",
       "statement": "Completa la frase: \"Iremos a ________ festival más alegre del país\".",
-      "context": "",
+      "context": "Escribiendo una invitación para el Festival de la Leyenda Vallenata en Valledupar.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v8",
       "statement": "¿Con cuál de estos sustantivos se usa el artículo \"El\"?",
-      "context": "",
+      "context": "Diferenciando entre sustantivos femeninos y masculinos en el colegio.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v9",
       "statement": "¿Cuál es la forma correcta de decir \"águila\" en singular usando el artículo definido?",
-      "context": "",
+      "context": "Un caso especial de artículos en una clase de ciencias en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-v10",
       "statement": "En la frase \"Cuidar las fuentes de agua es tarea de todos\", ¿qué indican los artículos usados?",
-      "context": "",
+      "context": "Un texto sobre el cuidado del agua en Colombia.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",

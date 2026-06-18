@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-14-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.134Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v1",
+      "statement": "¿Qué adaptación tienen los cactus para no perder el agua que tanto les cuesta conseguir?",
+      "context": "En la Guajira, el sol es muy fuerte y casi no llueve en todo el año. Los cactus viven felices allí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen hojas gigantes y delgadas",
+          "is_correct": false,
+          "feedback": "Las hojas grandes pierden mucha agua por evaporación; los cactus prefirieron deshacerse de ellas."
+        },
+        {
+          "letter": "B",
+          "text": "Transformaron sus hojas en espinas",
+          "is_correct": true,
+          "feedback": "Las espinas no pierden agua y además protegen a la planta de animales que quieran robársela."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen raíces muy cortas",
+          "is_correct": false,
+          "feedback": "Al contrario, necesitan raíces largas para buscar cualquier gota de agua profunda en el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Son de color azul brillante",
+          "is_correct": false,
+          "feedback": "El color verde del tallo es vital para seguir haciendo fotosíntesis sin necesidad de hojas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las adaptaciones son cambios de supervivencia. En el desierto, el agua es un tesoro. Al convertir sus hojas en espinas, el cactus reduce la superficie por donde se escapa el vapor de agua, manteniéndose hidratado por mucho tiempo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v2",
+      "statement": "¿Cómo logra la Victoria Regia que sus hojas tan grandes no se hundan en el río?",
+      "context": "En los ríos de la Amazonía colombiana, la Victoria Regia es una planta con hojas circulares enormes que flotan sobre el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son de madera pesada",
+          "is_correct": false,
+          "feedback": "Si fueran de madera pesada se hundirían de inmediato; el secreto de flotar está en el aire."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los peces las sostienen",
+          "is_correct": false,
+          "feedback": "Las plantas deben ser autónomas en su estructura; no dependen del esfuerzo físico de los animales."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen cámaras de aire en su interior",
+          "is_correct": true,
+          "feedback": "Como un flotador de piscina, estas plantas tienen espacios huecos llenos de aire que las mantienen en la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua del río es de sal",
+          "is_correct": false,
+          "feedback": "Los ríos de la selva son de agua dulce; la flotación se debe a la estructura interna de la hoja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas acuáticas tienen adaptaciones de flotabilidad. Sus tejidos son esponjosos y almacenan aire. Esto les permite estar siempre en la superficie para recibir la luz del sol necesaria para la fotosíntesis.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v3",
+      "statement": "¿Qué forma tienen las hojas de muchas plantas de selva para que el exceso de agua resbale y no las pudra?",
+      "context": "En la selva del Chocó llueve casi todos los días y hay muchísima humedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen punta de goteo y ceras suaves",
+          "is_correct": true,
+          "feedback": "La forma puntiaguda hacia abajo permite que el agua corra rápido como por un tobogán, manteniendo la hoja seca."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen forma de tazón para guardar agua",
+          "is_correct": false,
+          "feedback": "Guardar demasiada agua en un lugar tan húmedo atraería hongos y bacterias que enfermarían a la planta."
+        },
+        {
+          "letter": "C",
+          "text": "No tienen hojas en absoluto",
+          "is_correct": false,
+          "feedback": "En la selva la luz es poca y necesitan hojas muy grandes y eficientes para atrapar el sol entre los árboles."
+        },
+        {
+          "letter": "D",
+          "text": "Son de papel absorbente",
+          "is_correct": false,
+          "feedback": "Las hojas son de tejido biológico; si absorbieran toda el agua como un papel, se volverían pesadas y se romperían."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la selva, el problema no es la falta de agua, sino el exceso. Las plantas han desarrollado superficies \"antiadherentes\" y formas de \"embudo invertido\" para que la lluvia no se estanque sobre ellas y les permita respirar bien.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v4",
+      "statement": "¿Para qué le sirven esos \"pelitos\" al frailejón en el clima frío y ventoso del páramo?",
+      "context": "Los frailejones del páramo tienen hojas cubiertas de unos pelitos blancos y muy finos, como si tuvieran una chaqueta de algodón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para verse más elegantes",
+          "is_correct": false,
+          "feedback": "En la naturaleza, las estructuras siempre tienen una función práctica de supervivencia ante el clima."
+        },
+        {
+          "letter": "B",
+          "text": "Para atrapar la humedad y protegerse del frío",
+          "is_correct": true,
+          "feedback": "Los pelos crean una capa de aire caliente cerca de la planta y atrapan el agua de la neblina."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las aves no se paren en ellos",
+          "is_correct": false,
+          "feedback": "Al contrario, muchas aves buscan los frailejones; los pelos son para la protección climática del individuo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se les olvidó quitarse la lana",
+          "is_correct": false,
+          "feedback": "No es lana de animal; son extensiones de sus propias células vegetales adaptadas al páramo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El páramo es un desierto frío. Los pelitos del frailejón son una adaptación doble: funcionan como un abrigo contra las heladas de la noche y como una red para capturar el agua de las nubes, que luego baja al suelo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v5",
+      "statement": "¿Por qué estos árboles necesitan raíces tan anchas que salgan por encima del suelo?",
+      "context": "Un árbol gigante de la selva tiene raíces que no solo están bajo tierra, sino que salen hacia los lados como paredes fuertes llamadas \"bambas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la gente no se acerque",
+          "is_correct": false,
+          "feedback": "Las plantas no tienen intenciones sociales; estas raíces cumplen una función física estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Para sostener su gran altura en un suelo blando",
+          "is_correct": true,
+          "feedback": "Como la tierra de la selva es muy húmeda y poco profunda, necesitan estos \"contrafuertes\" para no caerse con el viento."
+        },
+        {
+          "letter": "C",
+          "text": "Para respirar mejor por la noche",
+          "is_correct": false,
+          "feedback": "Aunque las raíces respiran, la forma de pared es para equilibrio y soporte, no para intercambio de gases."
+        },
+        {
+          "letter": "D",
+          "text": "Para guardar los frutos que se caen",
+          "is_correct": false,
+          "feedback": "Los frutos caídos se descomponen en el suelo; el árbol no usa sus raíces para almacenarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Imagina que el árbol es una torre muy alta en un suelo que parece gelatina. Las raíces tabulares o bambas funcionan como los tirantes de una carpa, dándole estabilidad al gigante verde para que pueda crecer metros y metros hacia arriba.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v6",
+      "statement": "¿Cuál es la ventaja de vivir arriba en las ramas de otro árbol en lugar de en el suelo oscuro?",
+      "context": "Las orquídeas y los bromelias viven encima de las ramas de los árboles muy altos, pero no les roban alimento, solo usan el espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que pueden ver los carros pasar",
+          "is_correct": false,
+          "feedback": "Los procesos biológicos de las plantas no dependen de la observación de actividades humanas."
+        },
+        {
+          "letter": "B",
+          "text": "Que reciben mucha más luz solar",
+          "is_correct": true,
+          "feedback": "En el suelo de la selva es muy oscuro; vivir en las copas les permite hacer fotosíntesis con eficiencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua de lluvia llega más limpia",
+          "is_correct": false,
+          "feedback": "El agua es la misma; la verdadera competencia en la selva densa es por la energía de la luz."
+        },
+        {
+          "letter": "D",
+          "text": "Que no tienen que usar raíces",
+          "is_correct": false,
+          "feedback": "Sí tienen raíces, pero adaptadas para agarrarse a la corteza y absorber humedad del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Estas plantas se llaman epífitas. Su adaptación es la ubicación espacial. Al \"mudarse\" al segundo piso del bosque, escapan de la sombra perpetua del suelo y encuentran un lugar privilegiado para captar los rayos del sol.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v7",
+      "statement": "¿Para qué sirven esas raíces que apuntan hacia el cielo en el manglar?",
+      "context": "En los manglares de la costa, el agua es salada y tiene poco oxígeno. Los árboles tienen raíces que salen del agua hacia arriba, como pitillos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para asustar a los cangrejos",
+          "is_correct": false,
+          "feedback": "Los cangrejos aman los manglares y viven entre esas raíces; no son un mecanismo de defensa."
+        },
+        {
+          "letter": "B",
+          "text": "Para poder respirar el aire directamente",
+          "is_correct": true,
+          "feedback": "Como en el lodo del fondo no hay oxígeno, estas raíces (neumatóforos) toman aire de la superficie."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las hojas no se mojen",
+          "is_correct": false,
+          "feedback": "Las hojas están mucho más arriba; las raíces se encargan de la nutrición y respiración del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "Para atrapar barcos que pasan",
+          "is_correct": false,
+          "feedback": "La navegación debe ser cuidadosa, pero la función biológica de la raíz es la vida del árbol, no la pesca de barcos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El manglar es un ambiente extremo. Sus raíces respiratorias demuestran que las plantas pueden adaptarse a vivir incluso donde parece imposible, encontrando formas creativas de obtener el oxígeno que les falta bajo el agua.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v8",
+      "statement": "¿Qué pasará lo más probable con ambas plantas?",
+      "context": "Tienes una planta de desierto (cactus) y una de selva (helecho). Las intercambias de lugar: pones el cactus en la sombra húmeda y el helecho al sol del desierto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se volverán mejores amigas",
+          "is_correct": false,
+          "feedback": "La biología no se basa en relaciones sociales; las plantas dependen de sus adaptaciones físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas morirán pronto",
+          "is_correct": true,
+          "feedback": "El cactus se pudrirá por mucha agua y poca luz, y el helecho se secará de inmediato por el calor y falta de humedad."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiarán su forma en un día",
+          "is_correct": false,
+          "feedback": "Las adaptaciones tardan miles de años; una planta individual no puede cambiar sus genes de un momento a otro."
+        },
+        {
+          "letter": "D",
+          "text": "Se convertirán en piedras",
+          "is_correct": false,
+          "feedback": "Los seres vivos mantienen su naturaleza orgánica hasta que mueren y se descomponen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este experimento mental nos enseña que las plantas están \"diseñadas\" para un lugar específico. Sus adaptaciones son tan precisas que sacarlas de su ambiente natural es casi siempre una sentencia de muerte si no se simulan sus condiciones.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v9",
+      "statement": "¿Por qué tirar las hojas es una buena adaptación para sobrevivir al verano?",
+      "context": "En los bosques secos, los árboles pierden todas sus hojas en la época de verano y parecen estar muertos, pero cuando llueve, se ponen verdes en pocos días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las hojas pesan mucho",
+          "is_correct": false,
+          "feedback": "El peso de las hojas no es un problema para un árbol con tronco sólido."
+        },
+        {
+          "letter": "B",
+          "text": "Para ahorrar agua y no secarse",
+          "is_correct": true,
+          "feedback": "Por las hojas se pierde mucha humedad; al quitarlas, el árbol guarda el agua que tiene en su interior hasta que vuelva a llover."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los pájaros se vayan",
+          "is_correct": false,
+          "feedback": "Los árboles necesitan a los pájaros para dispersar semillas; perder hojas es por una necesidad de hidratación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las hojas son de color café",
+          "is_correct": false,
+          "feedback": "Se vuelven cafés porque se están secando; el árbol decide soltarlas para proteger su vida central (el tronco)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama caducifoliedad. Es como si el árbol entrara en una siesta profunda. Al cerrar su fábrica (las hojas), evita que el sol le robe la humedad, demostrando que a veces perder algo es la mejor forma de ganar vida.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v10",
+      "statement": "¿Por qué esa opinión no es científica?",
+      "context": "Una persona dice: \"Si una planta no se adapta rápido a la contaminación de la ciudad, es que no quiere vivir\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todas las plantas aman el humo",
+          "is_correct": false,
+          "feedback": "Al contrario, el humo bloquea sus poros y dificulta la fotosíntesis, enfermándolas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las plantas no tienen ojos para ver la ciudad",
+          "is_correct": false,
+          "feedback": "El problema no es de visión, sino de procesos biológicos de adaptación que no son voluntarios."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la adaptación tarda miles de años de evolución",
+          "is_correct": true,
+          "feedback": "Las plantas no \"deciden\" adaptarse; es un proceso natural lentísimo que no ocurre en una sola generación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las plantas no hablan nuestro idioma",
+          "is_correct": false,
+          "feedback": "La comunicación no tiene nada que ver con la capacidad biológica de resistir cambios ambientales bruscos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La adaptación no es un acto de voluntad. Es un proceso biológico donde solo los más aptos sobreviven y dejan hijos. Los cambios humanos (como la contaminación) son tan rápidos que muchas plantas no tienen tiempo de evolucionar y terminan desapareciendo.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v1",
+      "statement": "¿Qué gas vital producen las plantas y liberan al aire para que nosotros podamos vivir?",
+      "context": "En un video educativo, un científico explica que sin plantas, la atmósfera de la Tierra sería irrespirable para los animales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Este es el gas que las plantas absorben; si lo liberaran en exceso, sería dañino para nuestra respiración."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno",
+          "is_correct": true,
+          "feedback": "Las plantas son las grandes fábricas de oxígeno del planeta, un gas indispensable para la respiración de casi todos los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Humo de colores",
+          "is_correct": false,
+          "feedback": "Las plantas no producen humo; sus emisiones son gases naturales e invisibles que forman parte de la atmósfera saludable."
+        },
+        {
+          "letter": "D",
+          "text": "Vapor de gasolina",
+          "is_correct": false,
+          "feedback": "La gasolina es un combustible artificial; las plantas producen sustancias biológicas puras y necesarias para la vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La producción de oxígeno es el mayor regalo de las plantas. A través de la fotosíntesis, ellas renuevan el aire constantemente, permitiendo que la vida animal y humana pueda mantenerse a lo largo del tiempo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v2",
+      "statement": "¿Qué función importante cumplen las plantas para estos animales, además de alimentarlos?",
+      "context": "Muchos pájaros, insectos y hasta pequeños mamíferos como las ardillas viven dentro de los árboles de un bosque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les enseñan a cantar",
+          "is_correct": false,
+          "feedback": "El canto de las aves es un comportamiento instintivo o aprendido de sus padres, no una enseñanza de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Les sirven de refugio y hogar",
+          "is_correct": true,
+          "feedback": "Los árboles proporcionan seguridad contra depredadores y un lugar protegido para construir nidos y criar a sus hijos."
+        },
+        {
+          "letter": "C",
+          "text": "Les dan ropa para el frío",
+          "is_correct": false,
+          "feedback": "Los animales tienen su propio pelaje o plumas; las plantas solo ofrecen el entorno físico para vivir."
+        },
+        {
+          "letter": "D",
+          "text": "Les fabrican juguetes",
+          "is_correct": false,
+          "feedback": "Los animales usan elementos naturales para su actividad, pero las plantas no \"fabrican\" objetos para el entretenimiento animal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son los arquitectos de los ecosistemas. Un solo árbol puede ser el hogar de cientos de especies diferentes, ofreciéndoles sombra, protección contra la lluvia y un lugar seguro para dormir.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v3",
+      "statement": "¿Cómo se les llama a las plantas en la cadena alimentaria porque fabrican su propia energía?",
+      "context": "En la base de todas las cadenas alimentarias de la naturaleza siempre encontramos a las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores primarios",
+          "is_correct": false,
+          "feedback": "Los consumidores son los que comen a otros; las plantas no comen, ellas producen energía."
+        },
+        {
+          "letter": "B",
+          "text": "Productores",
+          "is_correct": true,
+          "feedback": "Se llaman productores porque son el primer eslabón que transforma la energía del sol en materia orgánica comestible."
+        },
+        {
+          "letter": "C",
+          "text": "Cazadores de luz",
+          "is_correct": false,
+          "feedback": "Aunque captan la luz, el término científico correcto para su papel en el ecosistema es productores."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores",
+          "is_correct": false,
+          "feedback": "Los descomponedores (hongos y bacterias) deshacen la materia muerta; las plantas crean materia viva nueva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin productores, no habría vida animal. Toda la carne que comen los carnívoros y toda la leche que tomamos proviene, al final, de la energía que una planta produjo originalmente usando el sol.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v4",
+      "statement": "¿Cómo ayudan los árboles a que el clima de un lugar sea más agradable?",
+      "context": "Un grupo de excursionistas nota que dentro del bosque hace mucho menos calor que en el potrero que no tiene árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque prenden ventiladores invisibles",
+          "is_correct": false,
+          "feedback": "Las plantas refrescan el aire mediante procesos biológicos naturales, no por mecanismos mecánicos."
+        },
+        {
+          "letter": "B",
+          "text": "Por la sombra y la liberación de vapor de agua",
+          "is_correct": true,
+          "feedback": "Las hojas bloquean el sol directo y su transpiración humedece y enfría el aire a su alrededor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el color verde es muy frío",
+          "is_correct": false,
+          "feedback": "La sensación térmica depende de la temperatura y humedad física, no del color visual de las hojas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque asustan al sol",
+          "is_correct": false,
+          "feedback": "El sol sigue brillando igual; las plantas simplemente absorben y gestionan su energía para nuestro beneficio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son reguladoras térmicas. En las ciudades, plantar árboles es la mejor forma de bajar la temperatura de las calles de forma natural, creando lo que se llama un microclima fresco y saludable.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v5",
+      "statement": "¿Qué trabajo de las raíces de las plantas faltó para evitar que la tierra se cayera?",
+      "context": "Después de una fuerte lluvia en una montaña pelada (sin plantas), el agua baja llena de lodo y causa un derrumbe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las raíces debían beberse toda la lluvia",
+          "is_correct": false,
+          "feedback": "Aunque absorben agua, su función estructural es la que evita los derrumbes masivos de tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Las raíces debían amarrar y sostener el suelo",
+          "is_correct": true,
+          "feedback": "Las raíces funcionan como una red que sujeta la tierra firme, evitando que el agua se la lleve fácilmente."
+        },
+        {
+          "letter": "C",
+          "text": "Las raíces debían empujar el agua hacia arriba",
+          "is_correct": false,
+          "feedback": "El agua baja por gravedad; la función de la raíz es de anclaje y sujeción del terreno."
+        },
+        {
+          "letter": "D",
+          "text": "Las raíces debían esconderse más profundo",
+          "is_correct": false,
+          "feedback": "No es cuestión de esconderse, sino de formar una estructura sólida que proteja la capa superficial del suelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas protegen el suelo (litósfera). Sin ellas, la lluvia y el viento erosionan la tierra rápidamente, convirtiendo lugares fértiles en desiertos y causando desastres naturales que afectan a las personas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v6",
+      "statement": "¿Por qué es importante conservar la biodiversidad de plantas en las selvas vírgenes?",
+      "context": "Las plantas medicinales han salvado millones de vidas humanas a lo largo de la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la selva se vea muy llena",
+          "is_correct": false,
+          "feedback": "La cantidad visual no es el motivo científico principal para la conservación biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque allí pueden estar las curas para nuevas enfermedades",
+          "is_correct": true,
+          "feedback": "Muchas medicinas modernas vienen de plantas selváticas que todavía estamos estudiando y descubriendo."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los animales no se aburran",
+          "is_correct": false,
+          "feedback": "La conservación busca mantener el equilibrio vital del planeta, no el entretenimiento de las especies."
+        },
+        {
+          "letter": "D",
+          "text": "Para que no crezcan edificios solos",
+          "is_correct": false,
+          "feedback": "Los edificios son construidos por humanos; la selva se conserva para proteger los recursos naturales del futuro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La selva es como una farmacia gigante. Cada vez que desaparece una especie de planta, podríamos estar perdiendo para siempre el ingrediente secreto para curar una enfermedad grave. Protegerlas es cuidar nuestra propia salud.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v7",
+      "statement": "¿Cómo se llama este beneficio mutuo donde las plantas y animales se ayudan a respirar?",
+      "context": "En un ciclo natural, las plantas toman el gas carbónico que nosotros exhalamos y nos devuelven el oxígeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pelea de gases",
+          "is_correct": false,
+          "feedback": "No es una competencia; es un proceso de colaboración natural perfectamente equilibrado."
+        },
+        {
+          "letter": "B",
+          "text": "Fábrica de humo blanco",
+          "is_correct": false,
+          "feedback": "Como ya dijimos, las plantas producen gases puros e invisibles, no humo de combustión."
+        },
+        {
+          "letter": "C",
+          "text": "Equilibrio ecológico de gases",
+          "is_correct": true,
+          "feedback": "Es la armonía que permite que la composición del aire se mantenga constante y saludable para todos."
+        },
+        {
+          "letter": "D",
+          "text": "Respiración artificial",
+          "is_correct": false,
+          "feedback": "Es un proceso 100% natural que ha ocurrido en la Tierra por millones de años sin intervención humana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este intercambio es la base de la ecología. Los animales y las plantas están conectados por el aire que comparten. Si eliminamos las plantas, el aire se llenaría de carbono y la vida animal se asfixiaría lentamente.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v8",
+      "statement": "¿Qué le pasaría a la calidad del agua en ese mundo sin plantas?",
+      "context": "Imagina un mundo cubierto totalmente de cemento y edificios, sin una sola mancha verde de césped o árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua sería más dulce y rica",
+          "is_correct": false,
+          "feedback": "Las plantas ayudan a mineralizar y limpiar el agua; sin ellas el agua perdería su calidad natural."
+        },
+        {
+          "letter": "B",
+          "text": "El agua se ensuciaría y se acabaría rápido",
+          "is_correct": true,
+          "feedback": "Las plantas filtran el agua y ayudan a que se guarde en el suelo (acuíferos); sin ellas, el agua se evaporaría o contaminaría fácil."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se volvería de color verde",
+          "is_correct": false,
+          "feedback": "El color verde viene de la clorofila de las plantas; sin plantas el agua se vería turbia por el lodo y suciedad."
+        },
+        {
+          "letter": "D",
+          "text": "El agua aprendería a correr sola",
+          "is_correct": false,
+          "feedback": "El movimiento del agua es físico; lo que cambia es su pureza y disponibilidad para los seres vivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son los filtros del agua. Sus raíces y el suelo orgánico que crean limpian las impurezas antes de que el agua llegue a los ríos y quebradas. Donde hay bosques, el agua siempre es más pura.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v9",
+      "statement": "¿Qué nos demuestra esta gran cantidad de productos que sacamos de las plantas?",
+      "context": "En la industria, usamos plantas para hacer papel, telas, perfumes y hasta llantas de caucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las plantas son máquinas",
+          "is_correct": false,
+          "feedback": "Las plantas son organismos vivos; nosotros hemos aprendido a aprovechar sus recursos biológicos."
+        },
+        {
+          "letter": "B",
+          "text": "Que podemos acabar con todas las plantas",
+          "is_correct": false,
+          "feedback": "Al contrario, dependemos tanto de ellas que debemos cuidarlas más para que nunca nos falten estos materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Que la economía humana depende de la salud de la naturaleza",
+          "is_correct": true,
+          "feedback": "Si las plantas desaparecen, muchas de nuestras fábricas y empleos también dejarían de existir."
+        },
+        {
+          "letter": "D",
+          "text": "Que el papel crece solo",
+          "is_correct": false,
+          "feedback": "El papel requiere un proceso industrial largo a partir de la fibra de madera de los árboles cultivados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas son el motor de la industria verde. Proporcionan materiales renovables que son mucho mejores para el planeta que los materiales artificiales como el plástico que viene del petróleo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v10",
+      "statement": "¿Cuál es la razón científica más importante para que el astronauta necesite las plantas en su base espacial?",
+      "context": "Un astronauta quiere llevar plantas a una base en la Luna para poder vivir allí mucho tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la base se vea decorada y bonita",
+          "is_correct": false,
+          "feedback": "Aunque ayuda al ánimo, en el espacio la prioridad es la supervivencia física inmediata."
+        },
+        {
+          "letter": "B",
+          "text": "Para reciclar el aire y producir comida fresca",
+          "is_correct": true,
+          "feedback": "Las plantas transformarían el CO2 de los astronautas en oxígeno y les darían nutrientes vitales."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las raíces sostengan la Luna",
+          "is_correct": false,
+          "feedback": "La Luna es un cuerpo celeste inmenso; la función de la planta es biológica para los humanos, no geológica para el satélite."
+        },
+        {
+          "letter": "D",
+          "text": "Para atraer lluvia a la Luna",
+          "is_correct": false,
+          "feedback": "La Luna no tiene atmósfera para que llueva; las plantas solo podrían vivir dentro de invernaderos protegidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Incluso para conquistar otros mundos, dependemos de las plantas. Ellas son nuestro soporte de vida natural: nos dan qué respirar y qué comer, demostrando que son nuestras compañeras indispensables en cualquier lugar del universo.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

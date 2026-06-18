@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.148Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v1",
+      "statement": "?Cual actividad economica se realiza en el campo?",
+      "context": "I.E. San Jose, Sincelejo. Actividades economicas del campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La agricultura: cultivar tierra para producir alimentos como cafe, arroz y frutas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Trabajar en un banco.",
+          "is_correct": false,
+          "feedback": "Actividad urbana."
+        },
+        {
+          "letter": "C",
+          "text": "C) Conducir un taxi.",
+          "is_correct": false,
+          "feedback": "Actividad urbana."
+        },
+        {
+          "letter": "D",
+          "text": "D) Atender una tienda en centro comercial.",
+          "is_correct": false,
+          "feedback": "Actividad urbana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La agricultura es la principal actividad del campo. Colombia produce cafe, arroz, maiz, papa, flores y frutas.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v2",
+      "statement": "?Que actividad cria vacas, ovejas y cerdos?",
+      "context": "I.E. Los Andes, Pasto. Ganaderia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ganaderia, en potreros y fincas del campo colombiano.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Mineria.",
+          "is_correct": false,
+          "feedback": "Extrae minerales, no cria animales."
+        },
+        {
+          "letter": "C",
+          "text": "C) Pesca.",
+          "is_correct": false,
+          "feedback": "Captura peces."
+        },
+        {
+          "letter": "D",
+          "text": "D) Albanileria.",
+          "is_correct": false,
+          "feedback": "Construye casas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ganaderia es fundamental. En la Costa Caribe y Llanos Orientales se crian vacas, ovejas, cerdos y cabras.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v3",
+      "statement": "?Por que la agricultura es importante para Colombia?",
+      "context": "I.E. La Salle, Cucuta. Importancia agricola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce alimentos, genera trabajo y sus productos se venden a otros paises.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo para que turistas tomen fotos.",
+          "is_correct": false,
+          "feedback": "Tiene proposito productivo."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque las plantas decoran.",
+          "is_correct": false,
+          "feedback": "La agricultura alimenta."
+        },
+        {
+          "letter": "D",
+          "text": "D) Porque los agricultores no trabajan.",
+          "is_correct": false,
+          "feedback": "Trabajan duro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cafe colombiano es mundialmente reconocido. Colombia exporta flores, banano y aguacate. Genera millones de empleos rurales.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v4",
+      "statement": "?Donde se realiza la pesca en Colombia?",
+      "context": "I.E. Clemente Zabala, Barranquilla. Pesca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las costas del Caribe y Pacifico, rios y lagunas de todo el pais.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) En centros comerciales.",
+          "is_correct": false,
+          "feedback": "No se pesca ahi."
+        },
+        {
+          "letter": "C",
+          "text": "C) En parques de diversiones.",
+          "is_correct": false,
+          "feedback": "No se pesca ahi."
+        },
+        {
+          "letter": "D",
+          "text": "D) En estacionamientos.",
+          "is_correct": false,
+          "feedback": "No se pesca ahi."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia tiene costas en dos oceanos y muchos rios y lagunas donde comunidades costeras practican la pesca.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v5",
+      "statement": "Desayuno con cafe, pan y leche. ?De que actividades vienen?",
+      "context": "I.E. La Presentacion, Pereira. Origen de alimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cafe y trigo de agricultura; leche de ganaderia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Todos de mineria.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "C) Cafe y leche de pesca; pan de agricultura.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Todos de construccion.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cafe es del Eje Cafetero, el pan del trigo agricola, la leche de ganaderia del Altiplano Cundiboyacense.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v6",
+      "statement": "Don Jose ordeña, ara y siembra maiz. ?Cual es su oficio?",
+      "context": "I.E. Tecnico Agropecuario, Sincelejo. Oficios del campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es campesino o agricultor: trabaja la tierra y cuida animales.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Profesor.",
+          "is_correct": false,
+          "feedback": "No ensena en aula."
+        },
+        {
+          "letter": "C",
+          "text": "C) Medico.",
+          "is_correct": false,
+          "feedback": "Su labor es agricola."
+        },
+        {
+          "letter": "D",
+          "text": "D) Bombero.",
+          "is_correct": false,
+          "feedback": "No apaga incendios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los campesinos trabajan la tierra, cuidan animales y producen los alimentos que llegan a la mesa.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v7",
+      "statement": "?Que dificultad enfrentan los campesinos para vender?",
+      "context": "I.E. San Carlos, Yopal. Desafios del campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caminos en mal estado desde veredas hasta mercados.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Tienen demasiados compradores.",
+          "is_correct": false,
+          "feedback": "El problema es encontrar compradores."
+        },
+        {
+          "letter": "C",
+          "text": "C) Les sobra dinero.",
+          "is_correct": false,
+          "feedback": "No es real."
+        },
+        {
+          "letter": "D",
+          "text": "D) Frutas crecen muy rapido.",
+          "is_correct": false,
+          "feedback": "Crecen a ritmo natural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las vias terciarias en mal estado dificultan sacar productos al mercado, causando perdidas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-v8",
+      "statement": "?Que ayudaria mas a los campesinos?",
+      "context": "I.E. Agricola, Granada Meta. Soluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mejorar vias de acceso y dar herramientas y capacitacion.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Cerrar carreteras al campo.",
+          "is_correct": false,
+          "feedback": "Los aislaria."
+        },
+        {
+          "letter": "C",
+          "text": "C) Quitarles la tierra.",
+          "is_correct": false,
+          "feedback": "Destruiria la produccion."
+        },
+        {
+          "letter": "D",
+          "text": "D) Obligarlos a mudarse a la ciudad.",
+          "is_correct": false,
+          "feedback": "Dejaria al pais sin alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mejorar vias terciarias y dar capacitacion permite a campesinos transportar productos a mejores precios.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W09-actividades-economicas-campo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

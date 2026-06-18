@@ -10,7 +10,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v1",
       "statement": "O que define uma sequência numérica na matemática?",
-      "context": "",
+      "context": "Um estudante em São Paulo está introduzindo o estudo de sequências numéricas e suas leis de formação.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.85,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v2",
       "statement": "Na Sequência de Fibonacci $(1, 1, 2, 3, 5, 8, ...)$, como é obtido cada termo a partir do terceiro?",
-      "context": "",
+      "context": "Em uma aula no Rio de Janeiro, o professor apresenta a famosa Sequência de Fibonacci, presente em diversos fenômenos da natureza.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.8,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v3",
       "statement": "Dada a lei de formação $a_n = 3n + 2$, qual é o quarto termo ($a_4$) desta sequência?",
-      "context": "",
+      "context": "Um analista de sistemas em Brasília cria uma sequência para gerar códigos de identificação de usuários.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.75,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v4",
       "statement": "Qual é a razão ($r$) da Progressão Aritmética (PA) definida pela sequência $(7, 12, 17, 22, ...)$?",
-      "context": "",
+      "context": "Um arquiteto em Curitiba projeta uma escadaria onde a altura dos degraus segue uma progressão simples.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.7,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v5",
       "statement": "Considere a Progressão Geométrica (PG) $(2, 6, 18, 54, ...)$. Qual é a razão ($q$) desta progressão?",
-      "context": "",
+      "context": "Um biólogo em Manaus estuda o crescimento de uma população de formigas que triplica a cada observação.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.65,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v6",
       "statement": "Seja uma sequência onde $a_1 = 5$ e $a_{n+1} = a_n - 3$. Qual é o terceiro termo desta sequência?",
-      "context": "",
+      "context": "Um programador em Belo Horizonte utiliza uma sequência definida recursivamente para controlar a animação de um objeto em um jogo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v7",
       "statement": "Numa PA de primeiro termo $a_1 = 10$ e razão $r = 4$, qual é o vigésimo termo ($a_{20}$)?",
-      "context": "",
+      "context": "Um engenheiro em Salvador projeta o empilhamento de tubos onde cada camada tem um número fixo de tubos a menos que a anterior.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v8",
       "statement": "Dada a PG $(5, 10, 20, ...)$, qual é o sétimo termo ($a_7$)?",
-      "context": "",
+      "context": "Um investidor em Goiânia aplica um capital em um regime onde o saldo cresce conforme uma PG de razão 2.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v9",
       "statement": "Quantos termos possui a PA finita $(-3, 1, 5, ..., 113)$?",
-      "context": "",
+      "context": "Um professor em Fortaleza desafia os alunos a encontrar o número de termos de uma sequência finita.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v10",
       "statement": "Qual é o próximo termo da sequência $(2, 5, 10, 17, 26, ...)$?",
-      "context": "",
+      "context": "Um arquiteto em Porto Alegre analisa as propriedades de uma sequência que não é nem PA nem PG, mas segue uma regra lógica clara.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v11",
       "statement": "Qual é a soma dos 10 primeiros termos da PA $(2, 5, 8, ...)$?",
-      "context": "",
+      "context": "Um estatístico em São Paulo utiliza a soma de progressões para calcular o total de eventos em um período determinado.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v12",
       "statement": "Determine a soma dos 6 primeiros termos da PG $(3, 6, 12, ...)$.",
-      "context": "",
+      "context": "Um matemático estuda a convergência de séries e a soma de termos de uma PG.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.35,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v13",
       "statement": "Se os números $(x, x+4, 3x)$ formam, nesta ordem, uma Progressão Aritmética, qual é o valor de $x$?",
-      "context": "",
+      "context": "Um pesquisador em Campinas investiga propriedades de sequências onde os termos dependem de parâmetros desconhecidos.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.3,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v14",
       "statement": "Considere a sequência infinita $(1, 1/2, 1/4, 1/8, ...)$. Qual é o limite da soma de todos os termos desta sequência (soma infinita)?",
-      "context": "",
+      "context": "Durante uma olimpíada de matemática, os estudantes devem analisar uma sequência de triângulos cujas áreas diminuem em progressão.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.25,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v15",
       "statement": "Seja $(a_n)$ uma PA tal que $a_1 = 2$ e $r = 3$. Seja $(b_n)$ uma PG tal que $b_1 = a_2$ e $b_2 = a_5$. Qual é o valor de $b_3$?",
-      "context": "",
+      "context": "No vestibular de uma universidade de elite, propõe-se um problema que une os conceitos de PA e PG.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v16",
       "statement": "Qual é o produto dos 5 primeiros termos da PG $(2, 4, 8, 16, 32)$?",
-      "context": "",
+      "context": "Um matemático investiga o produto dos termos de uma Progressão Geométrica finita.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v17",
       "statement": "Se a temperatura inicial é 100°C e cai 4°C por minuto, qual será a temperatura após 15 minutos?",
-      "context": "",
+      "context": "Em um laboratório de física, a temperatura de um objeto cai em progressão aritmética.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v18",
       "statement": "Insira dois meios geométricos entre 3 e 24. Qual é o valor do segundo termo da PG formada?",
-      "context": "",
+      "context": "Um matemático analisa a interpolação geométrica entre dois valores de pressão.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.35,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v19",
       "statement": "Uma aplicação de R\\$ 1.000,00 rende 10\\% ao mês. Qual é o montante acumulado após 3 meses?",
-      "context": "",
+      "context": "Um analista financeiro estuda o rendimento de um fundo com ganhos exponenciais.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.3,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v20",
       "statement": "Dada a PA (1, 3, 5), qual é a soma dos quadrados de seus termos?",
-      "context": "",
+      "context": "Um pesquisador investiga a soma dos quadrados dos termos de uma PA.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.25,
       "bundle_id": "BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

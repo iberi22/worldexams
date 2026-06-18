@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la característica principal que diferencia a una oración compuesta de una oración simple?",
-      "context": "",
+      "context": "En la clase de Lengua del Colegio San José en Barranquilla, los estudiantes empiezan a estudiar estructuras gramaticales más complejas para mejorar su escritura.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v2",
       "statement": "¿Cuántos verbos conjugados y cuántas proposiciones tiene la oración anterior?",
-      "context": "",
+      "context": "Valentina analiza la frase: \"Santiago estudia en el SENA y su hermana trabaja en una empresa de café\".",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v3",
       "statement": "En la oración: \"Llegué a casa; me bañé; me acosté a dormir\", ¿qué recurso se ha utilizado para unir las proposiciones?",
-      "context": "",
+      "context": "Existen tres formas principales de unir las proposiciones para formar una oración compuesta: coordinación, subordinación y yuxtaposición.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes es una oración compuesta por COORDINACIÓN?",
-      "context": "",
+      "context": "La coordinación une proposiciones que tienen independencia sintáctica, es decir, que podrían funcionar como oraciones simples por separado.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v5",
       "statement": "\"¿Vienes conmigo al Nevado del Ruiz o prefieres quedarte en Manizales?\". ¿Qué tipo de relación establece el nexo \"o\" en esta oración?",
-      "context": "",
+      "context": "Los nexos coordinantes se clasifican según el tipo de relación que establecen entre las ideas (suma, opción, oposición, etc.).",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v6",
       "statement": "En la oración: \"Deseo **que todos los niños de Colombia tengan acceso a internet**\", ¿por qué la parte resaltada es una proposición subordinada?",
-      "context": "",
+      "context": "A diferencia de la coordinación, en la subordinación una proposición depende de la otra para tener sentido completo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v7",
       "statement": "Identifica cuál de las siguientes opciones es una oración COMPUESTA YUXTAPUESTA.",
-      "context": "",
+      "context": "Camila analiza la estructura de los textos periodísticos colombianos y nota que el uso de oraciones compuestas ayuda a dar más información en menos espacio.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la principal ventaja de utilizar oraciones compuestas en un ensayo sobre la historia de Colombia?",
-      "context": "",
+      "context": "El uso excesivo de oraciones simples puede hacer que un texto parezca infantil o entrecortado.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v9",
       "statement": "Analiza la relación entre las dos proposiciones. ¿Qué tipo de nexo es \"aunque\" y qué efecto produce en el mensaje?",
-      "context": "",
+      "context": "Un texto dice: \"El café colombiano es el mejor del mundo **aunque otros países produzcan más cantidad**\".",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v10",
       "statement": "Identifica el error de concordancia en la siguiente oración compuesta: \"El grupo de estudiantes ganaron el premio y ellos celebrará en la pizzería\".",
-      "context": "",
+      "context": "Al escribir una oración compuesta, es fundamental que haya concordancia entre los sujetos y los verbos de todas las proposiciones.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",

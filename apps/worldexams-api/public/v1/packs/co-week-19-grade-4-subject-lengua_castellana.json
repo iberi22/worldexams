@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v1",
       "statement": "¿Cuál es el objetivo principal de una reseña?",
-      "context": "",
+      "context": "Un estudiante en Bogotá explica para qué sirve una reseña.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v2",
       "statement": "¿Qué información debe ir OBLIGATORIAMENTE en la ficha técnica o introducción de una reseña de libro?",
-      "context": "",
+      "context": "Identificando las partes de una reseña de un libro en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v3",
       "statement": "¿Qué tiene la **reseña** que NO tiene un simple resumen?",
-      "context": "",
+      "context": "La diferencia entre resumen y reseña en un salón de Cali.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v4",
       "statement": "¿Qué error cometerías si en la reseña de una película cuentas quién es el asesino o cómo termina la historia?",
-      "context": "",
+      "context": "Evitando el \"spoiler\" en una reseña de cine en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v5",
       "statement": "\"La música fue vibrante y los artistas conectaron muy bien con el público. **A pesar de la lluvia, fue una experiencia inolvidable que nadie debería perderse**\".\n¿Qué parte del texto es la valoración crítica?",
-      "context": "",
+      "context": "Identificando la valoración en un fragmento de una reseña sobre un concierto en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v6",
       "statement": "¿Cuál de estos adjetivos usarías en una reseña para decir que un libro es muy emocionante y no puedes dejar de leerlo?",
-      "context": "",
+      "context": "El uso de adjetivos en la reseña literaria en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v7",
       "statement": "Si dices que un videojuego es \"malo\", ¿cómo sería la forma más correcta de escribirlo en una reseña escolar?",
-      "context": "",
+      "context": "Dando razones en una reseña sobre un videojuego en Bucaramanga.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v8",
       "statement": "Si una reseña dice: **\"Este libro tiene letras muy grandes y muchos dibujos coloridos\"**, ¿a qué público va dirigido principalmente el libro reseñado?",
-      "context": "",
+      "context": "Identificando el público de una reseña en una revista infantil en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v9",
       "statement": "¿Puede un reseñador decir que no le gustó una película que a todo el mundo le encantó?",
-      "context": "",
+      "context": "Evaluando la honestidad del reseñador.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v10",
       "statement": "¿Cuál sería el cierre más inspirador para tu reseña?",
-      "context": "",
+      "context": "Quieres escribir el cierre (conclusión) de una reseña sobre tu libro favorito de Rafael Pombo.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

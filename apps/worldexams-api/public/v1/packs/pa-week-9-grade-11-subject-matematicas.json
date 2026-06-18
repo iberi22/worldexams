@@ -10,7 +10,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición fundamental de una función en el conjunto de los números reales?",
-      "context": "",
+      "context": "Un estudiante en David introduce el concepto de función matemática comparándolo con una máquina de procesamiento.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.9,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina al conjunto de todos los valores posibles de la variable independiente (x)?",
-      "context": "",
+      "context": "En una clase de matemáticas en Santiago, se identifican las partes de una función representadas por f(x) = y.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v3",
       "statement": "¿En qué consiste la prueba de la recta vertical para identificar una función en un plano?",
-      "context": "",
+      "context": "Un analista en Colón utiliza la prueba de la recta vertical para determinar la naturaleza de una gráfica de tráfico.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v4",
       "statement": "Si una función se define como f(x) = 7, ¿cuál es el valor resultante de f(25)?",
-      "context": "",
+      "context": "Un comerciante en Panamá evalúa una función de costos fijos para determinar el precio de sus productos.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el dominio de la función real f(x) = 5 / (x - 3)?",
-      "context": "",
+      "context": "Un estudiante en Penonomé calcula el dominio de una función racional simple para evitar errores.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v6",
       "statement": "Dada la función f(x) = x^2 - 4x + 1, halla el valor exacto de f(-2).",
-      "context": "",
+      "context": "Un ingeniero en David evalúa una función cuadrática que representa la trayectoria de un proyectil en un monitor.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v7",
       "statement": "Determina el dominio de la función real g(x) = sqrt(x + 4).",
-      "context": "",
+      "context": "Un meteorólogo en Panamá analiza el dominio de una función de humedad basada en una raíz cuadrada.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v8",
       "statement": "Sea f(x) = 2x si x <= 5; y f(x) = 3x - 1 si x > 5. Calcula el valor de f(6).",
-      "context": "",
+      "context": "Un economista en la Ciudad de Panamá utiliza una función por partes para modelar impuestos según ingresos.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v9",
       "statement": "Si el dominio de f(x) = 2x + 3 es el intervalo cerrado [0, 5], ¿cuál es el rango de la función?",
-      "context": "",
+      "context": "Un analista logístico en el Canal determina el rango de una función lineal en un intervalo de calado.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes funciones reales es de tipo inyectiva (uno a uno)?",
-      "context": "",
+      "context": "Un biólogo marino analiza la periodicidad de mareas y verifica si la relación es inyectiva.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v11",
       "statement": "Si f(x) = x + 2 y g(x) = x^2, ¿cuál es la expresión de la función compuesta (g o f)(x)?",
-      "context": "",
+      "context": "Un ingeniero de software en Panamá calcula la composición de dos funciones de procesamiento de datos.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.6,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el dominio de la función real h(x) = sqrt(x - 2) / (x - 5)?",
-      "context": "",
+      "context": "Un arquitecto determina el dominio de una función compleja que modela la curvatura de un techo en la Ciudad del Saber.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v13",
       "statement": "Si f(x) = 3x - 4, ¿cuál es la expresión de la función inversa correspondiente?",
-      "context": "",
+      "context": "Un experto en finanzas utiliza la función inversa para retroceder desde un monto final al capital invertido.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v14",
       "statement": "¿Cuál de las siguientes funciones posee una simetría de tipo PAR?",
-      "context": "",
+      "context": "Un astrónomo analiza una función simétrica para modelar el brillo estelar en el Observatorio de la UP.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v15",
       "statement": "Si la gráfica de y = f(x) se desplaza 3 unidades hacia arriba y 2 unidades a la derecha, ¿cuál es la ecuación nueva?",
-      "context": "",
+      "context": "Un diseñador de parques en Herrera utiliza traslaciones de funciones para posicionar elementos decorativos.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v16",
       "statement": "Halla el dominio de definición de la función real f(x) = sqrt(9 - x^2).",
-      "context": "",
+      "context": "Un investigador médico en Panamá determina el dominio de una función de concentración de un fármaco.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.45,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la forma simplificada del cociente incremental [f(x+h) - f(x)] / h para la función cuadrática f(x) = x^2?",
-      "context": "",
+      "context": "Un físico en el Canal calcula la razón de cambio promedio de una función de nivel de agua.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v18",
       "statement": "¿Cuáles son las asíntotas verticales de la función real f(x) = (2x + 1) / (x^2 - 4)?",
-      "context": "",
+      "context": "Un matemático en Ciudad de Panamá analiza una función racional para encontrar sus asíntotas verticales.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v19",
       "statement": "Dada f(x) = x / (x-1), ¿cuál es el resultado de la composición triple (f o f o f)(x)?",
-      "context": "",
+      "context": "Reto de alta complejidad sobre composición de funciones inversas en un concurso nacional.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.3,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el dominio de la función real definida por la expresión f(x) = ln(x^2 - 1)?",
-      "context": "",
+      "context": "Un experto determina el dominio de una función compuesta que involucra logaritmos de trinomios.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.25,
       "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

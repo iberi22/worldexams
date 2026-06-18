@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-19-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.152Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v1",
+      "statement": "Que colores tiene la bandera de Colombia?",
+      "context": "I.E. San Felipe, Bogota. Bandera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amarillo, azul y rojo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Verde, blanco y rojo.",
+          "is_correct": false,
+          "feedback": "Esa es la bandera de Mexico."
+        },
+        {
+          "letter": "C",
+          "text": "C) Rojo, blanco y azul.",
+          "is_correct": false,
+          "feedback": "Esa es la de Francia."
+        },
+        {
+          "letter": "D",
+          "text": "D) Azul, blanco y amarillo.",
+          "is_correct": false,
+          "feedback": "No es correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La bandera de Colombia tiene tres franjas: amarilla (arriba, ocupa la mitad), azul y roja.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v2",
+      "statement": "Que simbolo patrio tiene un condor en la parte superior?",
+      "context": "I.E. Los Andes, Pasto. Escudo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El escudo de Colombia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) La bandera.",
+          "is_correct": false,
+          "feedback": "La bandera no tiene condor."
+        },
+        {
+          "letter": "C",
+          "text": "C) El himno.",
+          "is_correct": false,
+          "feedback": "El himno es musical."
+        },
+        {
+          "letter": "D",
+          "text": "D) La escarapela.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El escudo de Colombia tiene un condor de los Andes posado sobre el, simbolo de libertad.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v3",
+      "statement": "Que representa el color amarillo de la bandera?",
+      "context": "I.E. INEM, Barranquilla. Significado colores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La riqueza del suelo colombiano, especialmente el oro.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) El cielo.",
+          "is_correct": false,
+          "feedback": "El azul representa eso."
+        },
+        {
+          "letter": "C",
+          "text": "C) La sangre de los heroes.",
+          "is_correct": false,
+          "feedback": "El rojo representa eso."
+        },
+        {
+          "letter": "D",
+          "text": "D) La paz.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El amarillo simboliza las riquezas del suelo colombiano. El azul los dos oceanos. El rojo la sangre de los heroes.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v4",
+      "statement": "Quien canta el himno nacional de Colombia?",
+      "context": "I.E. Fe y Alegria, Cali. Himno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los colombianos en actos civicos y eventos especiales.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo el presidente.",
+          "is_correct": false,
+          "feedback": "Todos lo cantan."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo los soldados.",
+          "is_correct": false,
+          "feedback": "Todos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo los ninos.",
+          "is_correct": false,
+          "feedback": "Todos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El himno nacional lo cantan todos los colombianos en ceremonias, actos civicos y eventos deportivos.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v5",
+      "statement": "En el colegio, izar la bandera y cantar el himno es:",
+      "context": "I.E. Tecnico, Pasto. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un acto civico que demuestra respeto por los simbolos patrios.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Una perdida de tiempo.",
+          "is_correct": false,
+          "feedback": "Es importante."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo una tradicion sin sentido.",
+          "is_correct": false,
+          "feedback": "Tiene significado patriotico."
+        },
+        {
+          "letter": "D",
+          "text": "D) Opcional.",
+          "is_correct": false,
+          "feedback": "Es obligatorio en colegios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los actos civicos en los colegios fomentan el respeto por los simbolos patrios.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v6",
+      "statement": "Como debemos comportarnos al escuchar el himno?",
+      "context": "I.E. Gabriel Garcia, Bogota. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En posicion firme, en silencio, con respeto y la mano derecha en el corazon.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Sentados y comiendo.",
+          "is_correct": false,
+          "feedback": "Falta de respeto."
+        },
+        {
+          "letter": "C",
+          "text": "C) Hablando por celular.",
+          "is_correct": false,
+          "feedback": "Falta de respeto."
+        },
+        {
+          "letter": "D",
+          "text": "D) Corriendo.",
+          "is_correct": false,
+          "feedback": "Falta de respeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Escuchar el himno en posicion firme y en silencio demuestra respeto por el pais.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v7",
+      "statement": "Por que los simbolos patrios son importantes?",
+      "context": "I.E. San Carlos, Medellin. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque representan la identidad, historia y soberania de Colombia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo decoran edificios.",
+          "is_correct": false,
+          "feedback": "Tienen significado profundo."
+        },
+        {
+          "letter": "C",
+          "text": "C) Son solo para fechas especiales.",
+          "is_correct": false,
+          "feedback": "Nos representan siempre."
+        },
+        {
+          "letter": "D",
+          "text": "D) No tienen importancia.",
+          "is_correct": false,
+          "feedback": "Si tienen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los simbolos patrios unen a los colombianos y representan la historia y valores del pais.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-v8",
+      "statement": "Un estudiante dice: \"Los simbolos patrios no significan nada\". Que opinas?",
+      "context": "I.E. La Presentacion, Tunja. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es correcto. Los simbolos patrios representan nuestra historia, cultura y soberania.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Tiene razon.",
+          "is_correct": false,
+          "feedback": "Si significan."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo importan deportistas.",
+          "is_correct": false,
+          "feedback": "Importan a todos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Son solo dibujos.",
+          "is_correct": false,
+          "feedback": "Son mucho mas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los simbolos patrios tienen un profundo significado historico y cultural para todos los colombianos.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W19-simbolos-patrios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

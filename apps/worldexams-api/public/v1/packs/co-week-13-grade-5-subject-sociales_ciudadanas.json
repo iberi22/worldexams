@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.208Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v1",
+      "statement": "Donde se desarrollo la cultura Tairona?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la Amazonia colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En la Sierra Nevada de Santa Marta",
+          "is_correct": true,
+          "feedback": "Correcto. Los Taironas habitaron las laderas de la Sierra Nevada."
+        },
+        {
+          "letter": "C",
+          "text": "En el altiplano cundiboyacense",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fue la region Muisca."
+        },
+        {
+          "letter": "D",
+          "text": "En el valle del Cauca",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas se establecieron en las laderas de la Sierra Nevada de Santa Marta, desde el nivel del mar hasta los 2.000 m de altitud.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v2",
+      "statement": "Como construian sus viviendas los Taironas?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Casas de madera sobre el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Casas de piedra con terrazas y caminos empedrados",
+          "is_correct": true,
+          "feedback": "Correcto. Construyeron terrazas, caminos de piedra y viviendas circulares."
+        },
+        {
+          "letter": "C",
+          "text": "Tiendas de cuero nomadas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Casas de barro en los arboles",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas construyeron terrazas de cultivo en las montanas, caminos empedrados que conectaban sus poblados y viviendas de piedra con techo de paja.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v3",
+      "statement": "Cual era la base de la economia Tairona?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mineria de carbon",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La agricultura, especialmente el maiz",
+          "is_correct": true,
+          "feedback": "Correcto. Cultivaban maiz, yuca, frijol, algodon y frutas."
+        },
+        {
+          "letter": "C",
+          "text": "La pesca industrial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La ganaderia extensiva",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas construyeron terrazas de cultivo en las laderas para sembrar maiz, yuca, frijol y algodon. Tambien intercambiaban productos con las costas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v4",
+      "statement": "Como se organizaba la sociedad Tairona?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un solo gran imperio",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En cacicazgos gobernados por un cacique",
+          "is_correct": true,
+          "feedback": "Correcto. Cada poblado tenia un cacique y un sacerdote."
+        },
+        {
+          "letter": "C",
+          "text": "Sin ninguna organizacion",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En una democracia moderna",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas se organizaban en cacicazgos. El cacique gobernaba y el sacerdote (mamo) dirigia los rituales. La sociedad era jerarquica.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v5",
+      "statement": "Que objeto fabricaban los Taironas con gran habilidad?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Automoviles",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Piezas de oro (orfebreria)",
+          "is_correct": true,
+          "feedback": "Correcto. Eran expertos orfebres."
+        },
+        {
+          "letter": "C",
+          "text": "Aviones de papel",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Barcos transatlanticos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas trabajaban el oro con gran maestria, creando figuras, mascaras, pectorales y adornos. Usaban la tecnica de la cera perdida.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v6",
+      "statement": "Por que los Taironas construian terrazas en las montanas?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para decorar el paisaje",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Para cultivar en las laderas empinadas",
+          "is_correct": true,
+          "feedback": "Correcto. Las terrazas evitaban la erosion y permitian el cultivo."
+        },
+        {
+          "letter": "C",
+          "text": "Para hacer caminos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Para jugar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las terrazas de cultivo eran escalones en las laderas que evitaban la erosion de la tierra y permitian cultivar en terrenos inclinados. Aun se ven restos en la Ciudad Perdida.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v7",
+      "statement": "Como se llama la ciudad sagrada Tairona descubierta en 1972?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Machu Picchu",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta en Peru (Incas)."
+        },
+        {
+          "letter": "B",
+          "text": "Ciudad Perdida (Teyuna)",
+          "is_correct": true,
+          "feedback": "Correcto. Es un antiguo centro ceremonial Tairona."
+        },
+        {
+          "letter": "C",
+          "text": "Chichen Itza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta en Mexico (Mayas)."
+        },
+        {
+          "letter": "D",
+          "text": "Teotihuacan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta en Mexico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ciudad Perdida (Teyuna) fue construida por los Taironas entre los siglos VII y XIV. Tiene terrazas, caminos, escaleras y plazas circulares.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v8",
+      "statement": "Que relacion tenian los Taironas con el mar?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tenian acceso al mar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Aprovechaban los recursos marinos y comerciaban con la costa",
+          "is_correct": true,
+          "feedback": "Correcto. Tenian contacto con el mar Caribe."
+        },
+        {
+          "letter": "C",
+          "text": "Navegaban hasta Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Vivian en el mar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas ocupaban desde la costa caribe hasta las altas montanas. Intercambiaban productos agricolas de la montana por pescado y conchas de la costa.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v9",
+      "statement": "Como influyo el relieve en el desarrollo de la cultura Tairona?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No influyo en nada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Las montanas escarpadas los aislaron y protegieron, e influyeron en su arquitectura de terrazas",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "El relieve plano facilito la construccion de ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Los rios fueron su unica fuente de alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El relieve montanoso de la Sierra Nevada obligo a los Taironas a innovar con terrazas de cultivo y caminos de piedra, y les dio proteccion natural.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v10",
+      "statement": "Compara los Taironas con los Muiscas: cual afirmacion es correcta?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas culturas vivian en la Sierra Nevada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Muiscas vivian en el altiplano."
+        },
+        {
+          "letter": "B",
+          "text": "Los Taironas vivian en la Sierra Nevada y los Muiscas en el altiplano",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas culturas eran nomadas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Los Taironas cultivaban papa y los Muiscas pescaban",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Taironas habitaron la Sierra Nevada de Santa Marta; los Muiscas, el altiplano cundiboyacense. Ambas eran culturas sedentarias y agricolas.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

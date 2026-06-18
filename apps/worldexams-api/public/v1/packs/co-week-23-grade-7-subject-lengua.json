@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el objetivo principal del discurso político?",
-      "context": "",
+      "context": "El discurso político es una herramienta de comunicación utilizada por líderes para influir en las opiniones y acciones de los ciudadanos.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes es una característica común de los discursos políticos?",
-      "context": "",
+      "context": "La retórica es el arte de hablar bien para deleitar, conmover o persuadir.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v3",
       "statement": "En la frase: \"Queridos compatriotas, hoy sembramos la semilla de una nueva Colombia donde la justicia sea el pan de cada día\", ¿qué figura retórica se está utilizando principalmente?",
-      "context": "",
+      "context": "En Colombia, los discursos políticos suelen apelar a la identidad nacional y a la esperanza de paz.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v4",
       "statement": "¿Por qué un líder político prefiere decir \"**Nosotros** cambiaremos el país\" en lugar de \"**Yo** cambiaré el país\"?",
-      "context": "",
+      "context": "El uso del pronombre \"nosotros\" es una estrategia de inclusión muy frecuente en la política.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v5",
       "statement": "Si un candidato presidencial en Colombia centra su discurso en la \"seguridad alimentaria\", ¿qué problemática social está intentando abordar?",
-      "context": "",
+      "context": "El contexto histórico y social determina el contenido de los discursos de los gobernantes.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v6",
       "statement": "En un debate, un político dice: \"Mi oponente propone reducir los impuestos, seguramente lo hace porque es amigo de los ricos y no le importa la gente humilde\". ¿Qué tipo de estrategia está usando?",
-      "context": "",
+      "context": "Los discursos políticos pueden contener falacias para descalificar al oponente o manipular la opinión pública.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v7",
       "statement": "Lee el siguiente fragmento de un discurso de un alcalde: \"No estamos aumentando los impuestos, estamos realizando un ajuste solidario para fortalecer el tejido social de nuestra ciudad\". ¿Cuál es la verdadera intención detrás de estas palabras?",
-      "context": "",
+      "context": "La intención comunicativa del discurso político suele estar oculta tras un lenguaje cargado de valores positivos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v8",
       "statement": "Si un líder político colombiano aparece en un video de campaña usando un sombrero vueltiao y camisas de lino en una zona rural, ¿qué mensaje **no verbal** está enviando?",
-      "context": "",
+      "context": "El discurso político también se manifiesta en imágenes y símbolos, no solo en palabras.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v9",
       "statement": "Analiza la famosa frase de Gaitán: \"Yo no soy un hombre, yo soy un pueblo\". ¿Cuál es la carga ideológica y persuasiva de esta afirmación?",
-      "context": "",
+      "context": "Jorge Eliécer Gaitán fue uno de los oradores políticos más importantes de la historia de Colombia.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle-v10",
       "statement": "Un candidato promete: \"Si gano, todos los colombianos tendrán casa propia y empleo garantizado en menos de un mes\". Desde un análisis crítico, ¿cómo clasificarías este discurso?",
-      "context": "",
+      "context": "Evaluar la ética del discurso político implica analizar si las promesas son realizables o si solo buscan manipular.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-7-2026-W23-discurso-politico-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",

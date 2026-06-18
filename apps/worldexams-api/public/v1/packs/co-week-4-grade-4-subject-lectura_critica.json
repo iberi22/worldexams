@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.591Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v1",
+      "statement": "*\"Había una vez un perro llamado Max que vivía en Santa Marta.\"* ¿Cómo se llama el perro?",
+      "context": "Nombre del personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rex.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Max.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Toby.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Luna.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar nombre.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v2",
+      "statement": "*\"La abuela de Camilo tiene el cabello blanco y usa gafas.\"* ¿Cómo es el cabello de la abuela?",
+      "context": "Característica física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Blanco.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Café.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rojo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar característica física.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v3",
+      "statement": "*\"Sofía siempre compartía su almuerzo con los que no traían.\"* ¿Cómo es Sofía?",
+      "context": "Personalidad del personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Egoísta.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Generosa.",
+          "is_correct": true,
+          "feedback": "Correcto. Compartir es una acción generosa."
+        },
+        {
+          "letter": "C",
+          "text": "Triste.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Perezosa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir personalidad por acciones.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v4",
+      "statement": "*\"Don Carlos arregla los dientes de las personas en su consultorio.\"* ¿Qué es Don Carlos?",
+      "context": "Profesión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Médico general.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Odontólogo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Veterinario.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Profesor.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar oficio.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v5",
+      "statement": "*\"Cuando María vio su nota, saltó de alegría y abrazó a su mamá.\"* ¿Cómo se sintió María?",
+      "context": "Sentimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triste.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Enojada.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Alegre.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Aburrida.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar emoción.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v6",
+      "statement": "*\"Pedro es alto, delgado y siempre ayuda a los demás.\"* ¿Cuál de las siguientes NO es una característica de Pedro?",
+      "context": "Describir personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alto.",
+          "is_correct": false,
+          "feedback": "Sí es característica."
+        },
+        {
+          "letter": "B",
+          "text": "Delgado.",
+          "is_correct": false,
+          "feedback": "Sí es característica."
+        },
+        {
+          "letter": "C",
+          "text": "Bajo.",
+          "is_correct": true,
+          "feedback": "El texto dice que es alto."
+        },
+        {
+          "letter": "D",
+          "text": "Ayudador.",
+          "is_correct": false,
+          "feedback": "Sí es característica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificar características.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v7",
+      "statement": "*\"Un niño llamado Tomás encontró un loro herido. El loro se llamaba Pepe. Tomás cuidó de Pepe hasta que sanó.\"* ¿Quién es el personaje principal?",
+      "context": "Distinguir personaje principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pepe el loro.",
+          "is_correct": false,
+          "feedback": "Es importante pero no principal."
+        },
+        {
+          "letter": "B",
+          "text": "Tomás.",
+          "is_correct": true,
+          "feedback": "Correcto. La historia gira en torno a él."
+        },
+        {
+          "letter": "C",
+          "text": "El veterinario.",
+          "is_correct": false,
+          "feedback": "No aparece."
+        },
+        {
+          "letter": "D",
+          "text": "La mamá.",
+          "is_correct": false,
+          "feedback": "No aparece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar personaje principal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v8",
+      "statement": "*\"Ana es tranquila y ordenada. Luis es inquieto y desordenado.\"* ¿Qué tienen en común?",
+      "context": "Comparar personajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ambos tienen una personalidad definida.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son inquietos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son ordenados.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar características compartidas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v9",
+      "statement": "*\"El texto dice que el personaje es generoso, pero no comparte sus juguetes.\"* ¿Hay coherencia?",
+      "context": "Evaluar coherencia del personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es normal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, hay contradicción entre lo que dice y lo que hace.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Da igual.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo a veces.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar coherencia de personaje.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v10",
+      "statement": "*\"La mamá de Juan cocina rico y siempre recibe a los invitados con sonrisa.\"* ¿Cuál de estos adjetivos la describe mejor?",
+      "context": "Describir con adjetivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antipática.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Acogedora y amable.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Perezosa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Triste.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir adjetivos apropiados.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

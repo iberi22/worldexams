@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.144Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v1",
+      "statement": "¿Cuál es la fuente de luz natural más importante para nuestro planeta Tierra?",
+      "context": "Al despertar por la mañana, Mariana abre las cortinas y la habitación se ilumina con la claridad que viene de afuera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Luna brillante",
+          "is_correct": false,
+          "feedback": "La Luna no produce luz propia; ella refleja la luz que recibe de otra fuente más potente."
+        },
+        {
+          "letter": "B",
+          "text": "Las bombillas LED",
+          "is_correct": false,
+          "feedback": "Estas son fuentes de luz artificial fabricadas por el hombre para iluminar en la oscuridad."
+        },
+        {
+          "letter": "C",
+          "text": "El Sol",
+          "is_correct": true,
+          "feedback": "El Sol es una estrella que produce su propia energía y luz, permitiendo la visión y la vida en la Tierra."
+        },
+        {
+          "letter": "D",
+          "text": "El fuego de la estufa",
+          "is_correct": false,
+          "feedback": "El fuego es una fuente de luz, pero es pequeña y local, no es la fuente global de luz natural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La luz es una forma de energía que viaja por el espacio. El Sol es nuestra gran central eléctrica y lumínica. Gracias a su luz, las plantas pueden alimentarse y nosotros podemos ver los colores de la naturaleza durante el día.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v2",
+      "statement": "¿Qué sentido utilizamos los seres humanos para percibir los sonidos a nuestro alrededor?",
+      "context": "En una fiesta de cumpleaños, un niño revienta un globo y todos escuchan un fuerte estallido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vista",
+          "is_correct": false,
+          "feedback": "La vista nos permite captar la luz y las imágenes, no las ondas de sonido que viajan por el aire."
+        },
+        {
+          "letter": "B",
+          "text": "El oído",
+          "is_correct": true,
+          "feedback": "Los oídos captan las vibraciones del aire y las envían al cerebro para que las identifique como sonidos."
+        },
+        {
+          "letter": "C",
+          "text": "El olfato",
+          "is_correct": false,
+          "feedback": "El olfato detecta sustancias químicas en el aire (olores), no movimientos físicos de vibración."
+        },
+        {
+          "letter": "D",
+          "text": "El gusto",
+          "is_correct": false,
+          "feedback": "El gusto percibe sabores en la lengua cuando entran en contacto con los alimentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sonido se produce cuando algo vibra. Esa vibración viaja por el aire hasta llegar a nuestras orejas, entra por el conducto auditivo y hace vibrar nuestro tímpano, permitiéndonos escuchar música, voces o ruidos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v3",
+      "statement": "¿Cómo viaja la luz normalmente desde su fuente hasta nuestros ojos?",
+      "context": "Un rayo de luz entra por un pequeño hueco en una pared oscura y se ve como una línea recta perfecta llena de polvo brillante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viaja dando vueltas en círculos",
+          "is_correct": false,
+          "feedback": "La luz no gira de forma natural; su comportamiento básico es diferente."
+        },
+        {
+          "letter": "B",
+          "text": "Viaja en línea recta y en todas las direcciones",
+          "is_correct": true,
+          "feedback": "La luz se propaga de forma recta desde la fuente, por eso se forman las sombras cuando algo se atraviesa."
+        },
+        {
+          "letter": "C",
+          "text": "Viaja solo hacia abajo por la gravedad",
+          "is_correct": false,
+          "feedback": "La gravedad afecta poco a la luz; ella viaja hacia donde sea que apunte la fuente (arriba, abajo, lados)."
+        },
+        {
+          "letter": "D",
+          "text": "Viaja saltando de nube en nube",
+          "is_correct": false,
+          "feedback": "Las nubes pueden tapar o reflejar la luz, pero ella viaja a través del aire vacío de forma continua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La luz es extremadamente rápida (lo más rápido que existe). Al viajar en línea recta, podemos predecir dónde caerán las sombras y cómo usar espejos para cambiar su dirección.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v4",
+      "statement": "¿Por qué se forma una sombra cuando Mariana pone su mano frente a la luz?",
+      "context": "Mariana pone su mano frente a una linterna encendida y nota que en la pared del fondo aparece una mancha oscura con la forma de su mano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la mano apaga la linterna",
+          "is_correct": false,
+          "feedback": "La linterna sigue encendida; la mano solo se atraviesa en el camino del rayo de luz."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la mano es un objeto opaco que bloquea el paso de la luz",
+          "is_correct": true,
+          "feedback": "La luz no puede atravesar los objetos sólidos (opacos), por lo que la zona detrás queda a oscuras."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la pared está sucia",
+          "is_correct": false,
+          "feedback": "La sombra es un fenómeno de luz y obstáculos, no depende de la limpieza de la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol se ocultó en ese momento",
+          "is_correct": false,
+          "feedback": "La linterna es una fuente de luz independiente; la sombra aparece por la interrupción de sus rayos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen materiales transparentes (dejan pasar toda la luz), translúcidos (pasa un poco) y opacos (no pasa nada). Nuestra piel es opaca, por eso siempre producimos sombras cuando nos ilumina una fuente de luz.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v5",
+      "statement": "¿Cuál de estos objetos es una fuente de luz natural que es un ser vivo?",
+      "context": "Tienes una lista de objetos: 1. El Sol, 2. Una luciérnaga, 3. Una bombilla encendida, 4. Una vela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sol",
+          "is_correct": false,
+          "feedback": "El Sol es una estrella, un objeto astronómico inmenso pero no es un ser vivo biológico."
+        },
+        {
+          "letter": "B",
+          "text": "La luciérnaga",
+          "is_correct": true,
+          "feedback": "Algunos seres vivos producen su propia luz mediante procesos químicos en su cuerpo (bioluminiscencia)."
+        },
+        {
+          "letter": "C",
+          "text": "La bombilla encendida",
+          "is_correct": false,
+          "feedback": "Es una fuente de luz artificial fabricada con vidrio y electricidad por los humanos."
+        },
+        {
+          "letter": "D",
+          "text": "La vela",
+          "is_correct": false,
+          "feedback": "La vela es un objeto fabricado; el fuego es una reacción química, no un organismo vivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La naturaleza es asombrosa. Algunos animales (como luciérnagas y peces abisales) y hongos pueden producir luz propia. Esto les sirve para comunicarse, atraer pareja o cazar en la oscuridad.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v6",
+      "statement": "¿Cómo se le llama al movimiento rápido de las cuerdas que produce el sonido?",
+      "context": "Si tocas suavemente las cuerdas de una guitarra, verás que se mueven muy rápido y se escuchan notas musicales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiración de la cuerda",
+          "is_correct": false,
+          "feedback": "Los objetos inertes como las cuerdas no respiran; ese es un proceso de los seres vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Vibración",
+          "is_correct": true,
+          "feedback": "Todo sonido nace de una vibración; si el objeto deja de vibrar, el sonido desaparece de inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "Crecimiento sonoro",
+          "is_correct": false,
+          "feedback": "Las cuerdas no aumentan de tamaño al sonar; solo se mueven de un lado a otro muy velozmente."
+        },
+        {
+          "letter": "D",
+          "text": "Fotosíntesis musical",
+          "is_correct": false,
+          "feedback": "La fotosíntesis usa luz, no movimiento físico de cuerdas para generar energía o sonido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sonido es energía en movimiento. Al rasguear la guitarra, obligamos a las cuerdas a vibrar. Ese movimiento empuja las partículas del aire creando una onda que viaja hasta nuestros oídos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v7",
+      "statement": "¿A través de cuál de estos materiales el sonido viaja más rápido porque sus partículas están muy unidas?",
+      "context": "El sonido viaja por el aire, pero también puede viajar a través de otros materiales como el agua o los muros de una casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A través del aire invisible",
+          "is_correct": false,
+          "feedback": "En los gases las partículas están lejos, por lo que el sonido viaja pero no es el medio más rápido."
+        },
+        {
+          "letter": "B",
+          "text": "A través del vapor de agua",
+          "is_correct": false,
+          "feedback": "Al ser un gas, el sonido tiene el mismo reto que en el aire para transmitirse rápido."
+        },
+        {
+          "letter": "C",
+          "text": "A través de los metales sólidos (como el acero)",
+          "is_correct": true,
+          "feedback": "En los sólidos las partículas están pegadas, permitiendo que la vibración pase a gran velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "El sonido no puede viajar por sólidos",
+          "is_correct": false,
+          "feedback": "Falso; si golpeas una puerta, el sonido viaja por la madera perfectamente hasta el otro lado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es una curiosidad científica: escuchamos mejor debajo del agua que en el aire, y mucho más rápido a través de un riel de tren o un muro. El sonido necesita \"algo\" que vibrar; entre más duro sea ese algo, mejor viaja.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v8",
+      "statement": "¿Qué nos enseña este fenómeno sobre la velocidad de la luz comparada con la del sonido?",
+      "context": "Durante una tormenta eléctrica, Mariana ve primero el destello del rayo y varios segundos después escucha el trueno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la luz viaja mucho más rápido que el sonido",
+          "is_correct": true,
+          "feedback": "La luz recorre el espacio casi instantáneamente; el sonido es mucho más lento y tarda tiempo en llegar."
+        },
+        {
+          "letter": "B",
+          "text": "Que el sonido es más rápido que la luz",
+          "is_correct": false,
+          "feedback": "Si fuera así, escucharíamos el trueno antes de ver el rayo, lo cual no ocurre nunca."
+        },
+        {
+          "letter": "C",
+          "text": "Que viajan a la misma velocidad",
+          "is_correct": false,
+          "feedback": "La diferencia de tiempo entre ver y oír demuestra que sus velocidades son totalmente diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que la luz tiene miedo del ruido",
+          "is_correct": false,
+          "feedback": "Las leyes de la física de ondas no dependen de emociones, sino de constantes universales de velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La luz es la campeona de la velocidad. Nada le gana. Por eso, aunque el rayo y el trueno ocurren al mismo tiempo, la noticia visual llega de inmediato y la noticia sonora viene \"a pie\" y tarda un rato.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v9",
+      "statement": "¿Cómo se llama el fenómeno del sonido que rebota en una superficie dura y vuelve a nuestros oídos?",
+      "context": "Si gritas frente a una montaña grande y vacía, tu voz parece regresar a ti unos segundos después.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sombra sonora",
+          "is_correct": false,
+          "feedback": "La sombra es para la luz; el sonido no se bloquea de la misma forma, sino que rebota o atraviesa."
+        },
+        {
+          "letter": "B",
+          "text": "Eco",
+          "is_correct": true,
+          "feedback": "El eco es la reflexión del sonido al chocar con un obstáculo lejano, permitiendo escucharlo de nuevo."
+        },
+        {
+          "letter": "C",
+          "text": "Respiración de montaña",
+          "is_correct": false,
+          "feedback": "Las montañas son inanimadas; el fenómeno es físico-acústico y no biológico."
+        },
+        {
+          "letter": "D",
+          "text": "Silencio total",
+          "is_correct": false,
+          "feedback": "El eco es lo opuesto al silencio; es la repetición de un sonido ya producido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El eco es como el reflejo de un espejo, pero para los oídos. Las ondas de sonido chocan contra la piedra dura de la montaña y, como si fueran balones, rebotan de vuelta hacia nosotros.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v10",
+      "statement": "¿Podrá el astronauta escuchar el sonido del choque de las rocas en el espacio vacío?",
+      "context": "Un astronauta está en el espacio exterior (donde no hay aire) y ve que una roca choca contra otra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la luz de las estrellas ayuda",
+          "is_correct": false,
+          "feedback": "La luz y el sonido son formas de energía diferentes; la luz no transporta las vibraciones del sonido."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el sonido necesita aire u otro material para viajar",
+          "is_correct": true,
+          "feedback": "En el vacío absoluto no hay partículas que vibren, por lo tanto el sonido no puede existir ni propagarse."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque los astronautas tienen superoído",
+          "is_correct": false,
+          "feedback": "Los humanos mantienen sus límites biológicos en el espacio; el problema es la falta de medio de transporte para el sonido."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si el choque es de color rojo",
+          "is_correct": false,
+          "feedback": "El color no influye en la capacidad física de propagación del sonido en el vacío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una gran diferencia: la luz SÍ puede viajar por el vacío (por eso vemos el sol y las estrellas), pero el sonido es \"tímido\" y necesita materia (aire, agua, metal) para poder moverse. En el espacio reina el silencio absoluto.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v1",
+      "statement": "¿Cómo se llaman los materiales que dejan pasar casi toda la luz y permiten ver claramente a través de ellos?",
+      "context": "Mariana mira a través de una ventana de vidrio limpio y puede ver claramente el jardín que está afuera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Materiales opacos",
+          "is_correct": false,
+          "feedback": "Los materiales opacos bloquean la luz por completo; el vidrio limpio hace lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Materiales transparentes",
+          "is_correct": true,
+          "feedback": "Los materiales transparentes, como el aire o el vidrio limpio, permiten el paso de la luz sin distorsionar la imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Materiales metálicos",
+          "is_correct": false,
+          "feedback": "La mayoría de los metales son opacos y no permiten ver a través de ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Materiales de madera",
+          "is_correct": false,
+          "feedback": "La madera es un material opaco que bloquea totalmente el paso de la luz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transparencia es una propiedad física que permite que los rayos de luz atraviesen el material. Esto es fundamental para fabricar objetos como lentes, gafas y las ventanas de nuestras casas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v2",
+      "statement": "¿Qué nombre reciben los materiales que dejan pasar la luz de forma difusa o borrosa?",
+      "context": "El papel pergamino o un vidrio esmerilado dejan pasar algo de luz, pero no permiten ver con claridad lo que hay al otro lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transparentes totales",
+          "is_correct": false,
+          "feedback": "Los transparentes permiten una visión perfecta; estos materiales la vuelven borrosa."
+        },
+        {
+          "letter": "B",
+          "text": "Translúcidos",
+          "is_correct": true,
+          "feedback": "Los materiales translúcidos dejan pasar parte de la luz pero dispersan los rayos, impidiendo ver detalles claros."
+        },
+        {
+          "letter": "C",
+          "text": "Invisibles",
+          "is_correct": false,
+          "feedback": "El material se puede ver claramente, lo que no se ve es lo que está detrás de él."
+        },
+        {
+          "letter": "D",
+          "text": "Espejos oscuros",
+          "is_correct": false,
+          "feedback": "Los espejos reflejan la luz; los materiales translúcidos la dejan pasar pero de forma incompleta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los materiales translúcidos se usan cuando queremos que entre luz a una habitación pero conservando la privacidad, como en las ventanas de algunos baños o en las cortinas delgadas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v3",
+      "statement": "¿Cómo se clasifican los materiales que bloquean totalmente el paso de la luz?",
+      "context": "Si intentas ver a través de una pared de ladrillo o una puerta de madera gruesa, notarás que no pasa nada de luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Translúcidos claros",
+          "is_correct": false,
+          "feedback": "Como ya vimos, los translúcidos sí dejan pasar algo de luz; el ladrillo no deja pasar nada."
+        },
+        {
+          "letter": "B",
+          "text": "Transparentes oscuros",
+          "is_correct": false,
+          "feedback": "No existe esa categoría; si bloquea la luz, ya no puede considerarse transparente."
+        },
+        {
+          "letter": "C",
+          "text": "Opacos",
+          "is_correct": true,
+          "feedback": "Los objetos opacos absorben o reflejan la luz pero no permiten que esta pase a través de su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Gaseosos",
+          "is_correct": false,
+          "feedback": "Muchos gases (como el aire) son transparentes; la opacidad depende del material y no solo del estado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mayoría de los objetos sólidos a nuestro alrededor son opacos. Estos materiales son los responsables de que existan las sombras, ya que la luz choca con ellos y se detiene.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v4",
+      "statement": "¿En qué vaso la luz quedará totalmente bloqueada y se formará una sombra más oscura?",
+      "context": "Juan tiene tres vasos: uno de vidrio transparente, uno de plástico de color azul claro y uno de cerámica negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el de vidrio",
+          "is_correct": false,
+          "feedback": "El vidrio dejará pasar la luz casi totalmente, produciendo una sombra muy tenue o inexistente."
+        },
+        {
+          "letter": "B",
+          "text": "En el de plástico azul",
+          "is_correct": false,
+          "feedback": "Al ser de color claro, probablemente sea translúcido y deje pasar algo de claridad."
+        },
+        {
+          "letter": "C",
+          "text": "En el de cerámica negra",
+          "is_correct": true,
+          "feedback": "La cerámica gruesa es un material opaco que no permite el paso de ningún rayo de luz."
+        },
+        {
+          "letter": "D",
+          "text": "En ninguno, la luz pasa por todo",
+          "is_correct": false,
+          "feedback": "Falso; la capacidad de pasar de la luz depende estrictamente del tipo de material del objeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oscuridad de una sombra depende de qué tan opaco sea el objeto. Entre más luz bloquee el material, más oscura y definida será la sombra que proyecte sobre la superficie de atrás.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v5",
+      "statement": "¿Qué tipo de material sería el más adecuado para fabricar una pantalla de lámpara?",
+      "context": "Tienes que elegir un material para cubrir un bombillo y que la luz no moleste a los ojos, pero que la habitación siga iluminada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un material opaco grueso",
+          "is_correct": false,
+          "feedback": "Si fuera opaco, la luz no saldría de la lámpara y la habitación quedaría a oscuras."
+        },
+        {
+          "letter": "B",
+          "text": "Un material totalmente transparente",
+          "is_correct": false,
+          "feedback": "El vidrio transparente no filtraría la luz y el bombillo seguiría molestando la vista."
+        },
+        {
+          "letter": "C",
+          "text": "Un material translúcido como tela o papel delgado",
+          "is_correct": true,
+          "feedback": "El translúcido suaviza la luz, dejándola pasar para iluminar pero protegiendo nuestros ojos."
+        },
+        {
+          "letter": "D",
+          "text": "Un espejo de metal",
+          "is_correct": false,
+          "feedback": "El espejo reflejaría la luz hacia adentro o hacia un solo punto, no iluminaría la sala parejo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las pantallas de lámparas son aplicaciones prácticas de los materiales translúcidos. Permiten que la energía lumínica se distribuya de forma suave y agradable por todo el espacio.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v6",
+      "statement": "¿En qué tipo de \"material\" se convierte el aire cuando hay una niebla muy espesa?",
+      "context": "En un día de mucha niebla en la carretera, los conductores deben prender las luces y manejar despacio porque no ven bien los otros carros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un material transparente",
+          "is_correct": false,
+          "feedback": "Si fuera transparente, los conductores verían perfectamente como en un día soleado."
+        },
+        {
+          "letter": "B",
+          "text": "En un material translúcido",
+          "is_correct": true,
+          "feedback": "Las gotitas de agua en el aire dispersan la luz, haciendo que todo se vea borroso y sin detalles."
+        },
+        {
+          "letter": "C",
+          "text": "En un material opaco como piedra",
+          "is_correct": false,
+          "feedback": "Si fuera opaco, no entraría nada de claridad y se vería todo negro incluso con luces."
+        },
+        {
+          "letter": "D",
+          "text": "En un material de fuego",
+          "is_correct": false,
+          "feedback": "La niebla es agua fría condensada, no tiene ninguna relación con procesos de combustión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La niebla es un ejemplo natural de fenómeno translúcido. El vapor de agua se ha condensado en billones de gotas diminutas que, aunque dejan pasar la luz, impiden que veamos las formas de los objetos lejanos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v7",
+      "statement": "¿Cómo clasificarías el material de los lentes de unas gafas de sol de buena calidad?",
+      "context": "Las gafas de sol son oscuras para proteger nuestros ojos, pero aun así podemos ver a través de ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Totalmente opaco",
+          "is_correct": false,
+          "feedback": "Si fueran opacas, no veríamos nada y nos chocaríamos al caminar con ellas puestas."
+        },
+        {
+          "letter": "B",
+          "text": "Transparente con tinte",
+          "is_correct": true,
+          "feedback": "Sigue siendo transparente porque permite ver formas claras, pero el color absorbe parte de la luz molesta."
+        },
+        {
+          "letter": "C",
+          "text": "Translúcido borroso",
+          "is_correct": false,
+          "feedback": "Unas gafas translúcidas harían que viéramos todo desenfocado, lo cual sería peligroso para caminar."
+        },
+        {
+          "letter": "D",
+          "text": "Material sólido de roca",
+          "is_correct": false,
+          "feedback": "Las lentes son de polímeros o vidrio especial; la roca no permite el paso de la visión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No hay que confundir oscuridad con falta de transparencia. Un material puede ser de color oscuro (como las gafas de sol o el vidrio de una botella de cerveza) y seguir siendo transparente si deja ver las formas sin distorsionarlas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v8",
+      "statement": "¿Qué nos demuestra este experimento sobre la piel y los tejidos de nuestro cuerpo?",
+      "context": "Mariana pone una linterna debajo de su mano cerrada y nota que el borde de sus dedos se ve de un color rojizo brillante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que somos totalmente transparentes",
+          "is_correct": false,
+          "feedback": "No somos transparentes; si lo fuéramos, se verían nuestros huesos y órganos claramente."
+        },
+        {
+          "letter": "B",
+          "text": "Que somos totalmente opacos",
+          "is_correct": false,
+          "feedback": "Si fuéramos 100% opacos, ninguna claridad pasaría a través de los dedos al poner la linterna."
+        },
+        {
+          "letter": "C",
+          "text": "Que somos ligeramente translúcidos en partes delgadas",
+          "is_correct": true,
+          "feedback": "La piel y los tejidos dejan pasar un poco de luz (especialmente la roja) si la fuente es muy potente."
+        },
+        {
+          "letter": "D",
+          "text": "Que nuestra piel está hecha de plástico",
+          "is_correct": false,
+          "feedback": "La piel es tejido biológico vivo; el fenómeno se debe a sus propiedades físicas de paso de luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Nada es 100% una sola cosa en la naturaleza. Nuestra mano es mayormente opaca, pero en los bordes delgados, la luz logra filtrarse un poco, demostrando que la opacidad también depende del grosor del objeto.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v9",
+      "statement": "¿Por qué el agua, que es transparente en un vaso, se vuelve \"opaca\" en el fondo del océano?",
+      "context": "En el fondo del mar, a mucha profundidad, el agua sigue siendo líquida pero todo se ve totalmente oscuro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua del fondo es de color negro",
+          "is_correct": false,
+          "feedback": "El agua es la misma; el fenómeno se debe a la cantidad de material que la luz debe atravesar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el espesor de miles de metros de agua absorbe toda la luz",
+          "is_correct": true,
+          "feedback": "Aunque sea transparente, una capa de agua muy gruesa termina deteniendo todos los rayos del sol."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los peces apagan la luz",
+          "is_correct": false,
+          "feedback": "Los animales no controlan la luz solar; el fenómeno es físico de absorción lumínica en líquidos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol no llega al mar",
+          "is_correct": false,
+          "feedback": "El sol ilumina la superficie, pero la luz no tiene fuerza suficiente para bajar kilómetros bajo el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transparencia tiene un límite. Incluso el material más transparente, si es muy, muy grueso, termina bloqueando la luz. En el océano, después de los 200 metros de profundidad, la luz ya no puede pasar y reina la oscuridad.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v10",
+      "statement": "¿Cuál sería el mayor peligro de tener una nave totalmente transparente en el espacio exterior?",
+      "context": "Un constructor de naves espaciales dice: \"Voy a hacer todas las paredes de la nave de vidrio transparente para que los astronautas vean las estrellas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el vidrio se rompa con el viento",
+          "is_correct": false,
+          "feedback": "En el espacio no hay aire; por lo tanto no hay viento que pueda romper nada."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de calor y radiación del sol sin protección",
+          "is_correct": true,
+          "feedback": "Las paredes opacas de las naves sirven para bloquear los rayos peligrosos que el vidrio dejaría pasar."
+        },
+        {
+          "letter": "C",
+          "text": "Que los astronautas no puedan dormir de día",
+          "is_correct": false,
+          "feedback": "El sueño es importante, pero el riesgo de muerte por radiación es mucho más grave y urgente."
+        },
+        {
+          "letter": "D",
+          "text": "Que se pierda la nave en el cielo",
+          "is_correct": false,
+          "feedback": "La visibilidad de la nave depende de radares y comunicaciones, no de la transparencia de sus muros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Necesitamos materiales opacos para protegernos. En la Tierra, la atmósfera hace ese trabajo, pero en el espacio, las paredes de la nave deben actuar como el suelo y los muros de una casa, bloqueando las energías dañinas del sol.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.153Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v1",
+      "statement": "Que es una profesion?",
+      "context": "I.E. San Bartolome, Bogota. Profesiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ocupacion que requiere estudios universitarios o formacion especializada.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Un oficio cualquiera.",
+          "is_correct": false,
+          "feedback": "Requiere estudios especializados."
+        },
+        {
+          "letter": "C",
+          "text": "C) Un pasatiempo.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Un deporte.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las profesiones requieren formacion academica en universidades o instituciones de educacion superior.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v2",
+      "statement": "Que hace un medico por la sociedad?",
+      "context": "I.E. La Candelaria, Medellin. Medicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuida la salud de las personas, diagnostica enfermedades y receta tratamientos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Ensena matematicas.",
+          "is_correct": false,
+          "feedback": "Eso es el profesor."
+        },
+        {
+          "letter": "C",
+          "text": "C) Construye edificios.",
+          "is_correct": false,
+          "feedback": "Eso es el ingeniero."
+        },
+        {
+          "letter": "D",
+          "text": "D) Defiende en juicios.",
+          "is_correct": false,
+          "feedback": "Eso es el abogado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El medico es un profesional que protege la salud y salva vidas.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v3",
+      "statement": "Por que los profesores son importantes?",
+      "context": "I.E. INEM, Cali. Profesores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque educan y forman a las personas, transmitiendo conocimientos y valores.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo dan tareas.",
+          "is_correct": false,
+          "feedback": "Educan integralmente."
+        },
+        {
+          "letter": "C",
+          "text": "C) No son importantes.",
+          "is_correct": false,
+          "feedback": "Si son fundamentales."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo cuidan ninos.",
+          "is_correct": false,
+          "feedback": "Educan y forman."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los profesores forman a las nuevas generaciones, transmitiendo conocimientos y valores.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v4",
+      "statement": "Que hacen los bomberos por la comunidad?",
+      "context": "I.E. Fe y Alegria, Bogota. Bomberos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apagan incendios, rescatan personas en emergencias y previenen accidentes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Cobran impuestos.",
+          "is_correct": false,
+          "feedback": "Eso es el gobierno."
+        },
+        {
+          "letter": "C",
+          "text": "C) Juzgan delincuentes.",
+          "is_correct": false,
+          "feedback": "Eso son los jueces."
+        },
+        {
+          "letter": "D",
+          "text": "D) Construyen carreteras.",
+          "is_correct": false,
+          "feedback": "Ingenieros civiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los bomberos son heroes que arriesgan su vida para proteger a la comunidad en emergencias.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v5",
+      "statement": "Un nino se enferma y necesita atencion. A que profesional deben llevar?",
+      "context": "I.E. Tecnico, Pasto. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un medico o pediatra.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) A un abogado.",
+          "is_correct": false,
+          "feedback": "No atiende enfermos."
+        },
+        {
+          "letter": "C",
+          "text": "C) A un contador.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) A un arquitecto.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando alguien se enferma, debe acudir al medico, que es el profesional de la salud.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v6",
+      "statement": "La profesora de grado 3 ensena a leer y escribir. Que aporte hace a la sociedad?",
+      "context": "I.E. Simon Bolivar, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forma personas educadas que podran tener un mejor futuro.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Construye edificios.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "C) Hace pan.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Disena ropa.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los profesores forman ciudadanos preparados para contribuir a la sociedad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v7",
+      "statement": "Por que necesitamos policias en Colombia?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para proteger a los ciudadanos, hacer cumplir las leyes y mantener el orden.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Para multar a todos.",
+          "is_correct": false,
+          "feedback": "Protegen y orientan."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo para atrapar criminales.",
+          "is_correct": false,
+          "feedback": "Tambien previenen."
+        },
+        {
+          "letter": "D",
+          "text": "D) No los necesitamos.",
+          "is_correct": false,
+          "feedback": "Si los necesitamos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La policia es una institucion fundamental para la seguridad y convivencia ciudadana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-v8",
+      "statement": "Que pasaria si no hubiera medicos en una ciudad?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las personas enfermarian gravemente y muchas moririan sin atencion.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No pasaria nada.",
+          "is_correct": false,
+          "feedback": "Si pasaria."
+        },
+        {
+          "letter": "C",
+          "text": "C) Los maestros los reemplazarian.",
+          "is_correct": false,
+          "feedback": "No tienen formacion medica."
+        },
+        {
+          "letter": "D",
+          "text": "D) Las enfermedades desaparecerian.",
+          "is_correct": false,
+          "feedback": "No desaparecen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medicos son esenciales para la salud y supervivencia de la poblacion.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W22-profesiones-aporte-sociedad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

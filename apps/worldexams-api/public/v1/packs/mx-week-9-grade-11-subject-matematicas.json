@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes condiciones es obligatoria para que una función sea considerada un polinomio?",
-      "context": "",
+      "context": "En una preparatoria de Campeche, se introducen las funciones de grado superior.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Definición de función polinomial",
+      "expected_success": 0.9,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v2",
       "statement": "Dada la función $f(x) = 4x^2 - 5x^5 + 2x - 7$, ¿cuál es el grado del polinomio y cuál es su coeficiente principal?",
-      "context": "",
+      "context": "Un estudiante en la Ciudad de México está clasificando funciones en su cuaderno de apuntes.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grado de un polinomio",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v3",
       "statement": "En cualquier función polinomial $P(x)$, ¿qué representa físicamente el término independiente $a_0$ en la gráfica de la función?",
-      "context": "",
+      "context": "Se analiza el comportamiento de una función de costos a largo plazo representada por un polinomio de tercer grado.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Término independiente",
+      "expected_success": 0.88,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el comportamiento de los extremos de una función polinomial de grado impar con coeficiente principal positivo cuando $x$ tiende a infinito positivo y a infinito negativo?",
-      "context": "",
+      "context": "Un estudiante observa que la gráfica de $f(x) = x^3$ sube hacia la derecha y baja hacia la izquierda.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comportamiento final (End behavior)",
+      "expected_success": 0.82,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el valor de la presión a los 3 segundos ($t = 3$)?",
-      "context": "",
+      "context": "Un laboratorio en Tabasco utiliza la función $P(t) = t^3 - 4t^2 + 6$ para medir la presión de un gas.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluación de polinomios",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v6",
       "statement": "Al evaluar $P(2)$ en la función $P(x) = x^3 - 5x + 2$, ¿cuál es el residuo obtenido y qué significa?",
-      "context": "",
+      "context": "Se desea saber si $(x - 2)$ es un factor del polinomio $P(x) = x^3 - 5x + 2$ utilizando el Teorema del Residuo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "División sintética / Teorema del residuo",
+      "expected_success": 0.72,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v7",
       "statement": "¿Cuáles son las raíces reales de la función polinomial $f(x) = (x + 3)(x - 1)(x - 4)$?",
-      "context": "",
+      "context": "Un estudiante observa la función factorizada $f(x) = (x + 3)(x - 1)(x - 4)$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de raíces por inspección",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v8",
       "statement": "Si una función polinomial tiene un factor de la forma $(x - 2)^2$, ¿cómo se comporta la gráfica de la función al pasar por el punto $x = 2$?",
-      "context": "",
+      "context": "En una gráfica se observa que la curva \"rebota\" en el eje X en el punto $x = 2$ sin cruzarlo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Multiplicidad de las raíces",
+      "expected_success": 0.78,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el grado mínimo que debe tener un polinomio para poder tener 4 raíces reales distintas?",
-      "context": "",
+      "context": "Un profesor en Coahuila dibuja una gráfica que cruza el eje X en 4 puntos diferentes.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Determinación del grado a partir de raíces",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la función resultante de sumar $f(x)$ y $g(x)$?",
-      "context": "",
+      "context": "Se tienen dos funciones que representan ingresos en dos sucursales: $f(x) = 2x^3 - 5x + 10$ y $g(x) = x^3 + 4x^2 - 2$.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Suma y resta de polinomios",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es el cociente y el residuo de dividir $(x^3 - 2x^2 + 5)$ entre $(x - 1)$?",
-      "context": "",
+      "context": "En un examen de admisión, se pide dividir $x^3 - 2x^2 + 0x + 5$ entre $x - 1$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "División de polinomios (Larga)",
+      "expected_success": 0.62,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v12",
       "statement": "¿Cuál de las siguientes funciones podría corresponder a una parábola (grado 2) que cruza el eje X en $-2$ y \\$3$, y abre hacia arriba?",
-      "context": "",
+      "context": "Un analista observa que una función polinomial es negativa entre sus raíces $x = -2$ y $x = 3$, y positiva fuera de ese intervalo.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de la gráfica por ceros y signo",
+      "expected_success": 0.58,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v13",
       "statement": "Si se sabe que \\$3 + 2i$ es una raíz de la función polinomial $P(x)$ con coeficientes reales, ¿qué otra raíz debe tener obligatoriamente dicha función?",
-      "context": "",
+      "context": "Un estudiante de preparatoria en Sonora encuentra que una raíz de un polinomio con coeficientes reales es \\$3 + 2i$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Raíces complejas conjugadas",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la expresión polinomial simplificada que representa el área de este rectángulo?",
-      "context": "",
+      "context": "Un área rectangular tiene un largo de $(x^2 + 3)$ y un ancho de $(2x - 5)$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Multiplicación de polinomios",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el número máximo de puntos de retorno (máximos o mínimos locales) que puede tener una función polinomial de grado 4?",
-      "context": "",
+      "context": "Se analiza la gráfica de un polinomio de grado 4 que parece una letra \"W\".",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Máximos y mínimos locales (Concepto)",
+      "expected_success": 0.56,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v16",
       "statement": "De acuerdo con el Teorema Fundamental del Álgebra, si un polinomio de grado 6 tiene 2 raíces reales y 4 raíces complejas, ¿cuál es el número total de raíces (contando multiplicidad)?",
-      "context": "",
+      "context": "Un matemático en la UNAM afirma que un polinomio de grado 6 tiene exactamente 6 raíces en el campo de los números complejos.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Teorema fundamental del álgebra",
+      "expected_success": 0.52,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el dominio físico (valores de $x$ que tienen sentido en la realidad) para la función de volumen $V(x) = x(10 - 2x)^2$?",
-      "context": "",
+      "context": "Se diseña una caja sin tapa a partir de una cartulina de 10x10 cm, cortando cuadrados de lado $x$ en las esquinas. La función de volumen es $V(x) = x(10 - 2x)^2$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelación de volumen máximo",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v18",
       "statement": "Si un polinomio de grado mínimo con coeficientes reales tiene raíces en $x = 0$ y $x = 2 + i$, ¿cuál es la expresión de dicho polinomio?",
-      "context": "",
+      "context": "Un ingeniero electrónico en Guadalajara requiere un polinomio que tenga raíces en $x = 0$ y $x = 2 + i$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reconstrucción de polinomios complejos",
+      "expected_success": 0.42,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v19",
       "statement": "De acuerdo con la Regla de los Signos de Descartes, ¿cuál es el número máximo de raíces reales positivas que puede tener el polinomio $P(x) = x^4 - 3x^3 + 2x^2 + x - 5$?",
-      "context": "",
+      "context": "Se analiza el polinomio $P(x) = x^4 - 3x^3 + 2x^2 + x - 5$ para estimar el número de raíces positivas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Regla de los signos de Descartes",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el comportamiento final de la función $P(x) = -2x^5 + 3x^2 - 1$ cuando $x \\to \\infty$ y cuando $x \\to -\\infty$?",
-      "context": "",
+      "context": "Se presenta una función polinomial de grado 5 con coeficiente principal negativo.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis de gráficas complejas",
+      "expected_success": 0.38,
       "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

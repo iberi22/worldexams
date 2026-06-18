@@ -42,6 +42,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -82,6 +84,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -122,6 +126,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -162,6 +168,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -202,6 +210,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -242,6 +252,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -282,6 +294,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -322,6 +336,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -362,6 +378,8 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -402,7 +420,429 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-ING-6-2026-W20-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v1",
+      "statement": "\"Bandeja paisa\" is a typical dish from ___.",
+      "context": "In Bogotá, review food.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia",
+          "is_correct": true,
+          "feedback": "Correcto. Bandeja paisa es colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "Mexico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Peru",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ceviche es peruano."
+        },
+        {
+          "letter": "D",
+          "text": "Argentina",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bandeja paisa: typical Colombian dish from Antioquia region: rice, beans, meat, avocado, plantain, egg, arepa.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v2",
+      "statement": "\"Lunch\" in Spanish is ___.",
+      "context": "In Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "almuerzo",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "desayuno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desayuno = breakfast."
+        },
+        {
+          "letter": "C",
+          "text": "cena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cena = dinner."
+        },
+        {
+          "letter": "D",
+          "text": "merienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Merienda = snack."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Meals: breakfast (desayuno), lunch (almuerzo), dinner (cena).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v3",
+      "statement": "\"He likes chicken ___ he doesn't like fish.\"",
+      "context": "In Cali, like/don't like.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "but",
+          "is_correct": true,
+          "feedback": "Correcto. But = pero (contraste)."
+        },
+        {
+          "letter": "B",
+          "text": "and",
+          "is_correct": false,
+          "feedback": "Incorrecto. And = y."
+        },
+        {
+          "letter": "C",
+          "text": "or",
+          "is_correct": false,
+          "feedback": "Incorrecto. Or = o."
+        },
+        {
+          "letter": "D",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrecto. So = entonces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "But for contrast: \"He likes chicken but he doesn't like fish.\"\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v4",
+      "statement": "\"Would you like ___ water?\"",
+      "context": "In Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some",
+          "is_correct": true,
+          "feedback": "Correcto. Some en ofrecimientos."
+        },
+        {
+          "letter": "B",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Posible pero some es más cortés."
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Water incontable."
+        },
+        {
+          "letter": "D",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Some en ofrecimientos y solicitudes: \"Would you like some water?\" \"Can I have some water?\"\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v5",
+      "statement": "\"I like ___.\" (nadar)",
+      "context": "In Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "swimming",
+          "is_correct": true,
+          "feedback": "Correcto. Like + verb-ing."
+        },
+        {
+          "letter": "B",
+          "text": "swim",
+          "is_correct": false,
+          "feedback": "Incorrecto. Like swim no."
+        },
+        {
+          "letter": "C",
+          "text": "swims",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "swam",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Like + -ing: I like swimming, I like reading, I like cooking.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v6",
+      "statement": "\"___ your favorite food?\" \"Pizza.\"",
+      "context": "In Cartagena, preferences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What's",
+          "is_correct": true,
+          "feedback": "Correcto. What's your favorite food?"
+        },
+        {
+          "letter": "B",
+          "text": "Who's",
+          "is_correct": false,
+          "feedback": "Incorrecto. Who's = quien es."
+        },
+        {
+          "letter": "C",
+          "text": "How's",
+          "is_correct": false,
+          "feedback": "Incorrecto. How's = cómo está."
+        },
+        {
+          "letter": "D",
+          "text": "Where's",
+          "is_correct": false,
+          "feedback": "Incorrecto. Where's = dónde está."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"What's your favorite food?\" = ¿Cuál es tu comida favorita?\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v7",
+      "statement": "\"For lunch, my mother ___ fish with rice.\"",
+      "context": "In Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cooks",
+          "is_correct": true,
+          "feedback": "Correcto. She cooks = ella cocina."
+        },
+        {
+          "letter": "B",
+          "text": "cook",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tercera persona."
+        },
+        {
+          "letter": "C",
+          "text": "is cooking",
+          "is_correct": false,
+          "feedback": "Posible pero no presente simple."
+        },
+        {
+          "letter": "D",
+          "text": "cooked",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Daily routines: My mother cooks lunch. My father prepares dinner.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v8",
+      "statement": "\"There ___ some apples on the table.\"",
+      "context": "In Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correcto. Apples = plural → are."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrecto. There is + singular."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "There is + singular/uncountable: there is some milk. There are + plural: there are some apples.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v9",
+      "statement": "\"I like fruit, vegetables and water. I don't like soda or candy.\" What is TRUE?",
+      "context": "In Cúcuta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He likes healthy food.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "He likes candy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No le gusta."
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't like fruit.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "He likes soda.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading: identify what the person likes and dislikes.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W20-food-review-001-MASTERY-v10",
+      "statement": "\"For a healthy breakfast, you should eat ___.\"",
+      "context": "In Ibagué, meal planning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fruit and cereal",
+          "is_correct": true,
+          "feedback": "Correcto. Healthy breakfast."
+        },
+        {
+          "letter": "B",
+          "text": "candy and soda",
+          "is_correct": false,
+          "feedback": "Incorrecto. No saludable."
+        },
+        {
+          "letter": "C",
+          "text": "only coffee",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo alimento."
+        },
+        {
+          "letter": "D",
+          "text": "chips",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es saludable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Healthy breakfast: fruit, cereal, eggs, milk, bread. Avoid: candy, soda, chips.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-ING-6-2026-W20-food-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v1",
       "statement": "¿Qué es un párrafo?",
-      "context": "",
+      "context": "Un niño en Tunja organiza su tarea de Lengua Castellana.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v2",
       "statement": "¿Cómo podemos reconocer visualmente dónde termina un párrafo y empieza otro?",
-      "context": "",
+      "context": "Identificando las marcas visuales de un párrafo en un libro de texto.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v3",
       "statement": "¿Qué función cumple la **idea principal** dentro de un párrafo?",
-      "context": "",
+      "context": "Analizando la estructura interna de un párrafo sobre la ballena jorobada.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v4",
       "statement": "¿Para qué sirven las ideas secundarias en un párrafo?",
-      "context": "",
+      "context": "El papel de las **ideas secundarias** en un párrafo sobre Medellín.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v5",
       "statement": "¿Cuál de estos conectores usarías para añadir información en un párrafo?\n\"El Quindío tiene hermosos paisajes, __________ es famoso por su café\".",
-      "context": "",
+      "context": "Usando conectores lógicos en un párrafo sobre el Eje Cafetero.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v6",
       "statement": "\"Los ciclistas colombianos son reconocidos en todo el mundo. Han ganado las carreras más importantes en Europa. Gracias a su esfuerzo en las montañas, dejan el nombre del país en alto\".\n¿Cuál es la idea principal?",
-      "context": "",
+      "context": "Identificando la idea principal en un párrafo sobre el deporte en Colombia.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v7",
       "statement": "¿Cuál es el orden más lógico para estas oraciones en un párrafo?\n1. Por eso, debemos comer frutas todos los días.\n2. Las frutas nos aportan vitaminas esenciales.\n3. Una buena alimentación es clave para la salud.",
-      "context": "",
+      "context": "Ordenando oraciones para formar un párrafo coherente sobre la alimentación en Cali.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v8",
       "statement": "¿Cuál de estas oraciones NO debería estar en un párrafo sobre los delfines rosados del Amazonas?",
-      "context": "",
+      "context": "Detectando errores de unidad temática en un párrafo sobre el Amazonas.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v9",
       "statement": "¿Por qué el siguiente párrafo es de MALA calidad?\n\"Cartagena es bonita. El mar es azul. Hace calor siempre. Los turistas vienen mucho. La comida es rica.\"",
-      "context": "",
+      "context": "Evaluando la calidad de un párrafo descriptivo sobre Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v10",
       "statement": "¿Cuál sería la mejor oración para iniciar tu párrafo y presentar el tema?",
-      "context": "",
+      "context": "Quieres escribir el primer párrafo de una historia sobre un viaje a la Luna.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

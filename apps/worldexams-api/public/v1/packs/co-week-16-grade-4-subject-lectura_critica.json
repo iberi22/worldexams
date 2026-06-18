@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-16-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.595Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v1",
+      "statement": "*\"El loro tiene plumas verdes y amarillas.\"* ¿De qué color?",
+      "context": "Caract. física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Azules.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Verdes y amarillas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Rojas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Negras.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Color.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v2",
+      "statement": "*\"El tigrillo es un felino pequeño que vive en la selva colombiana.\"* ¿Qué animal?",
+      "context": "Animal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "León.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tigrillo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Perro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Oso.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Animal.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v3",
+      "statement": "*\"La señora Lucía es alta, de cabello largo y siempre sonríe.\"* ¿Cómo es?",
+      "context": "Describir persona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Baja.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Alta y sonriente.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Triste.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Joven.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Descripción.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v4",
+      "statement": "*\"El perro de la finca es peludo y juguetón.\"* ¿Qué adjetivos describen al perro?",
+      "context": "Adjetivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flaco y serio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Peludo y juguetón.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Grande y bravo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rápido y silencioso.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adjetivos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v5",
+      "statement": "*\"La jirafa es alta. El ratón es...\"*",
+      "context": "Opuestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pequeño.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Mediano.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Grande.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Opuestos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v6",
+      "statement": "*\"La abuela prepara arepas deliciosas y abraza fuerte.\"* ¿Cómo es?",
+      "context": "Inferir adjetivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Floja.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cariñosa y buena cocinera.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Enojada.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Silenciosa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir adjetivo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v7",
+      "statement": "*\"Primero dice el color, luego el tamaño, luego la textura.\"* ¿Orden?",
+      "context": "Orden descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Color, tamaño, textura.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Textura, color, tamaño.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tamaño, textura, color.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tamaño, color, textura.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Orden descriptivo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v8",
+      "statement": "*\"Perro: peludo. Gato: suave.\"* ¿Qué hacen?",
+      "context": "Comparar descripciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir textura de ambos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Describir color.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Describir tamaño.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Describir sonido.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar descripción.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v9",
+      "statement": "*\"Describe a tu mejor amigo: ‘Es alto y juega fútbol’.\"* ¿Es buena descripción?",
+      "context": "Evaluar descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, da características.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "No, muy corta.",
+          "is_correct": false,
+          "feedback": "No importa extensión."
+        },
+        {
+          "letter": "C",
+          "text": "Solo juega fútbol.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Mala.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar descripción.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-v10",
+      "statement": "*\"¿Qué adjetivos usarías para describir un día soleado?\"*",
+      "context": "Adjetivos apropiados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caluroso, brillante.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Frío, oscuro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lluvioso, nublado.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ventoso, helado.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seleccionar adjetivos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W16-textos-descriptivos-personas-animales-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
