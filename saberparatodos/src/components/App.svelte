@@ -296,7 +296,11 @@
 
     // 🆕 FORCE English Diagnostic Mode (Grade 0) if subject matches
     // This overrides potential "Grade 11" default from modal if 0 wasn't in list
-    if (config.subject && config.subject.includes('Diagnostico')) {
+    // FIX: Normalize accents before checking — 'Diagnóstico' (with accent) was not matching 'Diagnostico'
+    const _subjectNorm = config.subject
+      ? config.subject.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+      : '';
+    if (_subjectNorm.includes('diagnostico') || _subjectNorm.includes('ingles diagnostico')) {
         selectedGrade = 0;
         console.log('🇬🇧 Enforcing English Diagnostic Mode (Grade 0)');
     }
