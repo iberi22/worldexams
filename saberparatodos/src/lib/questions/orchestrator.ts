@@ -26,6 +26,22 @@ export async function prepareSoloExamQuestions(
   let pool = [...currentPool];
   const isPreuMode = String(request.subject || '').toLowerCase() === 'preuniversitario';
 
+  // DEFENSIVE FIX: Detect English Diagnostic from subject string if flag wasn't set.
+  // 'Inglés Diagnóstico' (with accents) may not match a plain-text check in the UI layer.
+  const _subjectNormLower = String(request.subject || '')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase();
+  const isImplicitEnglishDiagnostic =
+    !request.englishDiagnostic &&
+    _subjectNormLower.includes('ingles') &&
+    _subjectNormLower.includes('diagnost');
+  if (isImplicitEnglishDiagnostic) {
+    console.warn('[Orchestrator] Detected English Diagnostic from subject string — overriding englishDiagnostic=true.');
+    warnings.push('Modo diagnóstico de inglés detectado por nombre de materia.');
+    request = { ...request, englishDiagnostic: true, grade: request.grade === 0 ? 0 : request.grade };
+  }
+
   if (!request.englishDiagnostic) {
     pool = await ensureBasePool({
       repository: deps.repository,
