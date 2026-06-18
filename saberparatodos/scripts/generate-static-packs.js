@@ -314,6 +314,11 @@ for (const file of allFiles) {
     const protocol = parseProtocol(data, file);
     if (!protocol || protocol < 3) continue;
 
+    if (content.includes("Distractor 1") || content.includes("Opcion correcta")) {
+      console.log(`Skipping dummy placeholder file: ${file}`);
+      continue;
+    }
+
     const questions = parseQuestions(content);
     if (questions.length === 0) continue;
 
