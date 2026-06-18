@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el resultado de la operación $a^m \\cdot a^n$ para cualquier número real $a \\neq 0$?",
-      "context": "",
+      "context": "Un estudiante de 1º de Bachillerato en Valencia repasa las propiedades básicas de las potencias antes de entrar en temas de análisis.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se expresa la raíz $n$-ésima de un número $a$ en forma de potencia?",
-      "context": "",
+      "context": "En un taller de diseño en Barcelona, se utilizan escalas de potencias para representar crecimientos exponenciales de superficies.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el área exacta de dicho cuadrado?",
-      "context": "",
+      "context": "Un carpintero en Toledo necesita calcular el área de un cuadrado cuyo lado mide $\\sqrt{5}$ metros.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v4",
       "statement": "¿En qué caso la raíz $\\sqrt[n]{a}$ NO tiene solución dentro del conjunto de los números reales?",
-      "context": "",
+      "context": "Un estudiante en Sevilla revisa las condiciones de existencia de las raíces de números negativos.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v5",
       "statement": "Simplifica la expresión $(2^3)^2 \\cdot 2^{-4}$.",
-      "context": "",
+      "context": "Un informático en Málaga analiza la capacidad de almacenamiento, que suele crecer en potencias de 2.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el volumen del cubo?",
-      "context": "",
+      "context": "Un arquitecto en Zaragoza calcula el volumen de un cubo de $\\sqrt[3]{2}$ metros de arista.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.73,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v7",
       "statement": "Simplifica la expresión $\\sqrt{32} + \\sqrt{2}$.",
-      "context": "",
+      "context": "Un estudiante de ciencias en Granada simplifica expresiones con radicales para un experimento de física.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la representación correcta en notación científica?",
-      "context": "",
+      "context": "Se requiere expresar el número 0,000000045 en notación científica para un informe técnico.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v9",
       "statement": "¿Cómo se puede comparar el valor de $\\sqrt{2}$ y $\\sqrt[3]{3}$ de forma analítica?",
-      "context": "",
+      "context": "Un estudiante compara dos números reales expresados con radicales de distinto índice.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v10",
       "statement": "Si la fórmula del volumen es $V = \\frac{4}{3}\\pi r^3$, ¿cuál es el volumen de la perla?",
-      "context": "",
+      "context": "Un joyero en Córdoba calcula el volumen de una perla esférica cuyo radio es $\\sqrt[3]{3}$ cm.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v11",
       "statement": "Racionaliza la expresión $\\frac{6}{\\sqrt{3}}$. ¿Cuál es el resultado simplificado?",
-      "context": "",
+      "context": "Un estudiante de 1º de Bachillerato en Madrid se enfrenta a la racionalización de expresiones algebraicas.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v12",
       "statement": "Simplifica la expresión resultante en términos de una potencia de $a$.",
-      "context": "",
+      "context": "Un ingeniero civil calcula la resistencia de un material usando la expresión $\\sqrt[3]{a^2} \\cdot \\sqrt[3]{a^4}$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el factor racionalizante adecuado para la expresión $\\frac{1}{\\sqrt{5} - \\sqrt{2}}$?",
-      "context": "",
+      "context": "Un estudiante estudia la racionalización de denominadores con sumas de raíces.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v14",
       "statement": "Simplifica la expresión (asume $x > 0$).",
-      "context": "",
+      "context": "Un físico en Cantabria trabaja con partículas y necesita calcular la raíz cuarta de una potencia: $\\sqrt[4]{16x^8}$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v15",
       "statement": "Simplifica la expresión $\\sqrt{x\\sqrt{x}}$.",
-      "context": "",
+      "context": "Un estudiante analiza la simplificación de radicales anidados en un ejercicio de olimpiada matemática.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es el valor simplificado de $\\sqrt{500}$?",
-      "context": "",
+      "context": "Un agrónomo en Murcia mide una parcela de $500$ m² y quiere saber el lado de un cuadrado equivalente en forma de radical simplificado.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v17",
       "statement": "Si $3^{x+1} = \\sqrt{27}$, ¿cuál es el valor de $x$?",
-      "context": "",
+      "context": "Un estudiante avanzado resuelve una ecuación exponencial sencilla basada en potencias.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v18",
       "statement": "¿Cuál de los siguientes números es el mayor?",
-      "context": "",
+      "context": "Se plantea una comparación compleja entre potencias con bases distintas.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v19",
       "statement": "Simplifica la expresión $\\frac{\\sqrt[3]{a} \\cdot \\sqrt{a}}{\\sqrt[6]{a^5}}$.",
-      "context": "",
+      "context": "Un diseño geométrico fractal en un museo de Bilbao usa la repetición de raíces para definir distancias.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelización y Resolución de Problemas",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor de $\\sqrt[3]{-8^2}$?",
-      "context": "",
+      "context": "Un reto de cálculo numérico sobre la simplificación de raíces de raíces.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

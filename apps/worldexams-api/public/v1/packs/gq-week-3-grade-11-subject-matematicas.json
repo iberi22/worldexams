@@ -10,7 +10,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v1",
       "statement": "¿Cual es la definicion correcta de un logaritmo de base $b$ del numero $a$?",
-      "context": "",
+      "context": "Un estudiante del Instituto Modesto Gené Roig de Malabo estudia la relacion entre las potencias y los logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v2",
       "statement": "En el conjunto de los numeros reales, ¿que condiciones deben cumplir la base $b$ y el argumento $a$ de un logaritmo $\\log_b(a)$?",
-      "context": "",
+      "context": "Un profesor en la UNGE (Universidad Nacional de Guinea Ecuatorial) explica las restricciones de las bases de los logaritmos reales.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v3",
       "statement": "¿Cual es el valor de $\\log_{10}(1000)$ basandose en la definicion de logaritmo?",
-      "context": "",
+      "context": "Un tecnico en Bata realiza calculos de decibelios y utiliza logaritmos en base 10.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v4",
       "statement": "¿Cual de las siguientes expresiones representa la propiedad del logaritmo de un producto?",
-      "context": "",
+      "context": "Un estudiante de Ebebiyin repasa las propiedades que permiten simplificar el producto de numeros grandes.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.78,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v5",
       "statement": "¿Que base utiliza el logaritmo natural, denotado comunmente como $\\ln(x)$?",
-      "context": "",
+      "context": "Un analista de datos en Malabo utiliza logaritmos naturales para modelar el crecimiento de la economia local.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.72,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v6",
       "statement": "Si la concentracion de iones de hidrogeno $[H^+]$ es $10^{-5}$, ¿cual es el pH de la muestra?",
-      "context": "",
+      "context": "En un laboratorio en Annobon, se mide el pH de una muestra de agua. El pH se define como $pH = -\\log_{10}[H^+]$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v7",
       "statement": "¿Cual es el valor simplificado de la expresion $\\log_2(8^5)$?",
-      "context": "",
+      "context": "Un estudiante de Luba simplifica una expresion logaritmica usando la propiedad de la potencia: $\\log_2(8^5)$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.68,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v8",
       "statement": "Si el cociente $I/I_0$ es igual a $100$, ¿cuantos decibelios ($L$) marca el medidor?",
-      "context": "",
+      "context": "Un ingeniero civil en Bata utiliza la formula $L = 10 \\cdot \\log(I/I_0)$ para medir la intensidad sonora en una obra.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v9",
       "statement": "¿Cual es el valor de la base $x$ en la ecuacion $\\log_x(25) = 2$?",
-      "context": "",
+      "context": "Un estudiante en Evinayong resuelve la ecuacion $\\log_x(25) = 2$ para hallar la base desconocida.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.62,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v10",
       "statement": "¿Cual es el valor de $\\log_b(1)$ para cualquier base valida $b$?",
-      "context": "",
+      "context": "Un profesor en Mongomo explica que $\\log_b(1)$ siempre tiene el mismo valor independientemente de la base.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.64,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v11",
       "statement": "¿Cual es la formula correcta para cambiar la base de un logaritmo $\\log_a(x)$ a una nueva base $b$?",
-      "context": "",
+      "context": "Un ingeniero forestal en Mongomo necesita convertir un logaritmo de base 2 a base 10 para usar su calculadora estandar.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v12",
       "statement": "¿Cual es el valor de $x$ que satisface la ecuacion $\\log_3(x) + \\log_3(x - 2) = 1$?",
-      "context": "",
+      "context": "Un estudiante de bachillerato en Guinea Ecuatorial resuelve la ecuacion $\\log_3(x) + \\log_3(x - 2) = 1$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.58,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v13",
       "statement": "¿Cual es la expansion correcta de $\\log\\left(\\frac{a^2 \\cdot b}{\\sqrt{c}}\\right)$ usando las propiedades de los logaritmos?",
-      "context": "",
+      "context": "En un taller de matematicas en Bata, se pide expandir la expresion $\\log\\left(\\frac{a^2 \\cdot b}{\\sqrt{c}}\\right)$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v14",
       "statement": "Si un terremoto de magnitud 6 libera $E$ julios de energia, y la formula es $M = \\frac{2}{3}\\log_{10}(\\frac{E}{E_0})$, ¿cuanta mas energia libera un terremoto de magnitud 8 comparado con uno de magnitud 6?",
-      "context": "",
+      "context": "Un fisico analiza la intensidad de un terremoto en la escala de Richter, que es logaritmica.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.52,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v15",
       "statement": "¿Cual es el valor simplificado de $e^{\\ln(5x)}$ para $x > 0$?",
-      "context": "",
+      "context": "En la UNGE se pide simplificar la expresion $e^{\\ln(5x)}$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.48,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v16",
       "statement": "¿Cual es el valor de $x$ que satisface la ecuacion $\\log(x) - \\log(2) = \\log(5)$?",
-      "context": "",
+      "context": "Un estudiante de Luba resuelve la ecuacion $\\log(x) - \\log(2) = \\log(5)$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.45,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v17",
       "statement": "¿Cual de las siguientes afirmaciones describe mejor la relacion grafica entre $f(x) = b^x$ y $g(x) = \\log_b(x)$?",
-      "context": "",
+      "context": "Un estudiante avanzado investiga la relacion entre las graficas de las funciones exponenciales y logaritmicas.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v18",
       "statement": "¿Cual es el valor de la expresion $b^{\\log_b(x)}$ para cualquier $x > 0$ y $b > 0, b \\neq 1$?",
-      "context": "",
+      "context": "Se plantea un problema de simplificacion extrema para un concurso de talentos matematicos en Malabo.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v19",
       "statement": "¿Cual es la solucion exacta para $x$ en la ecuacion $5^x = 20$?",
-      "context": "",
+      "context": "Un ingeniero en Guinea Ecuatorial debe resolver una ecuacion donde la incognita esta en el exponente: $5^x = 20$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.38,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v20",
       "statement": "¿Como es el comportamiento de crecimiento de la funcion logaritmica cuando su base $b$ cumple que $0 < b < 1$?",
-      "context": "",
+      "context": "Se analiza el comportamiento de la funcion $f(x) = \\log_b(x)$ cuando la base $b$ esta entre 0 y 1 ($0 < b < 1$).",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.32,
       "bundle_id": "GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

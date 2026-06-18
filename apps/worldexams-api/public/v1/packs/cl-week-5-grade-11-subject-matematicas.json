@@ -10,7 +10,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el valor de $x$ que satisface la ecuación $x + 12 = 30$?",
-      "context": "",
+      "context": "Martina resuelve una ecuación simple en su clase de matemáticas en Santiago.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.85,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el primer paso recomendado para resolver la ecuación $3(x - 5) = 12$?",
-      "context": "",
+      "context": "Un estudiante de Antofagasta identifica los pasos para resolver una ecuación.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.8,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v3",
       "statement": "Resuelva la ecuación: $2x - 8 = 10$",
-      "context": "",
+      "context": "Se busca el valor de una incógnita en una ecuación con resta.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.75,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v4",
       "statement": "\"El doble de un número aumentado en 5 es igual a 21\". ¿Qué ecuación representa esta frase?",
-      "context": "",
+      "context": "Camila analiza el lenguaje algebraico aplicado a la vida diaria.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.7,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v5",
       "statement": "Resuelva para $x$: $5x + 3 = 2x + 15$",
-      "context": "",
+      "context": "Un técnico en Puerto Montt calcula la temperatura final de un sistema.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la solución de $\\frac{x}{3} + 4 = 10$?",
-      "context": "",
+      "context": "Se plantea una ecuación que contiene fracciones simples.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Representación",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v7",
       "statement": "La cuenta de luz tiene un cargo fijo de \\$2.500 y cada kWh cuesta \\$120. Si Benjamín pagó \\$16.900, ¿cuántos kWh consumió?",
-      "context": "",
+      "context": "Benjamín paga una cuenta de luz que incluye un cargo fijo y un costo por kWh.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v8",
       "statement": "¿Cuánto mide la parte más corta?",
-      "context": "",
+      "context": "Un sastre en Iquique necesita cortar una cinta de $100 \\text{ cm}$ en dos partes, de modo que una sea $20 \\text{ cm}$ más larga que la otra.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.55,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v9",
       "statement": "Si la pelota de fútbol cuesta \\$9.000, ¿cuál es el precio de una pelota de tenis?",
-      "context": "",
+      "context": "En una tienda de deportes de La Serena, 3 pelotas de tenis y una de fútbol cuestan \\$15.000.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v10",
       "statement": "¿Qué ocurre al intentar resolver la ecuación $2x + 5 = 2x + 10$?",
-      "context": "",
+      "context": "Se analiza una ecuación que no tiene solución.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.5,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es ese número?",
-      "context": "",
+      "context": "Se busca un número tal que sus tres cuartas partes sumadas con 10 den 40.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.45,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v12",
       "statement": "Resuelva: $4(x - 2) - 3(x + 1) = 5$",
-      "context": "",
+      "context": "Un estudiante en Temuco resuelve una ecuación con paréntesis anidados.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el número mayor de los tres?",
-      "context": "",
+      "context": "Se analiza el resultado de tres números enteros consecutivos cuya suma es 72.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v14",
       "statement": "Despeje $x$ en la ecuación $ax + b = c$.",
-      "context": "",
+      "context": "Un grupo de estudio discute la solución de una ecuación literal.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.3,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v15",
       "statement": "Resuelva: $\\frac{2}{x} = \\frac{5}{x + 6}$",
-      "context": "",
+      "context": "Se pide encontrar la solución de una ecuación con términos en el denominador.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Representación",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v16",
       "statement": "¿Cuántos litros había al principio?",
-      "context": "",
+      "context": "Un depósito contiene cierta cantidad de agua. Si se retiran 15 litros, queda la tercera parte de lo que había inicialmente.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelación",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v17",
       "statement": "¿Cuáles son las soluciones para $|x - 4| = 7$?",
-      "context": "",
+      "context": "Se analiza una ecuación con valor absoluto.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.25,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v18",
       "statement": "Resuelva: $\\frac{x}{x-2} = \\frac{2}{x-2} + 5$",
-      "context": "",
+      "context": "Un estudiante en Valparaíso resuelve una ecuación con variables en el denominador que requiere cuidado con el dominio.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.2,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la solución de $3^{x+1} = 27$?",
-      "context": "",
+      "context": "En un examen avanzado, se pide hallar el valor de $x$ en una ecuación con potencias.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.15,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle-v20",
       "statement": "¿Cuál de las siguientes afirmaciones es correcta respecto a la ecuación $x = 4$?",
-      "context": "",
+      "context": "Un profesor en Concepción pregunta sobre la interpretación geométrica de una ecuación lineal.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.1,
       "bundle_id": "CL-MAT-11-2026-W05-ecuaciones-lineales-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

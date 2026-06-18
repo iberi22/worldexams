@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se define el logaritmo de un número $x$ en base $b$? $\\log_b(x) = y$.",
-      "context": "",
+      "context": "Un estudiante de preparatoria en la CDMX repasa la definición básica de logaritmo como la operación inversa de la potenciación.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.95,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la condición necesaria para el argumento $x$ en un logaritmo $\\log_b(x)$?",
-      "context": "",
+      "context": "Se presentan las restricciones de dominio de la función logarítmica en un curso de matemáticas.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.9,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor de $\\log_b(1)$ para cualquier base $b$ válida?",
-      "context": "",
+      "context": "Un joven en Guadalajara identifica los valores especiales de los logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la base del Logaritmo Natural, denotado como $\\ln(x)$?",
-      "context": "",
+      "context": "Se introduce el concepto de logaritmo natural en un estudio de procesos biológicos.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v5",
       "statement": "Según las propiedades de los logaritmos, ¿a qué es igual $\\log_b(M \\cdot N)$?",
-      "context": "",
+      "context": "Un estudiante aplica la propiedad del producto para simplificar una expresión logarítmica.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v6",
       "statement": "Identifique la propiedad correcta para el logaritmo de un cociente: $\\log_b(\\frac{M}{N})$.",
-      "context": "",
+      "context": "Se utiliza la propiedad del cociente para resolver un problema de decaimiento radiactivo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v7",
       "statement": "¿Cómo se puede reescribir la expresión $\\log_b(x^n)$?",
-      "context": "",
+      "context": "Un técnico en acústica en Monterrey utiliza la propiedad de la potencia para calcular niveles de decibeles.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la fórmula del \"Cambio de Base\" para calcular $\\log_b(x)$ usando una base diferente $a$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería utiliza una calculadora que solo tiene base 10 para hallar un logaritmo en base 2.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v9",
       "statement": "¿A qué es igual $\\log_b(\\sqrt{x})$ aplicando las propiedades conocidas?",
-      "context": "",
+      "context": "Se requiere simplificar una expresión que involucra una raíz cuadrada dentro de un logaritmo.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v10",
       "statement": "Simplifique a un solo logaritmo: $\\log(4) + \\log(25)$. (Nota: si no hay base escrita, se asume base 10).",
-      "context": "",
+      "context": "Un estudiante simplifica una suma de logaritmos con la misma base en un taller de matemáticas en Puebla.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es el valor exacto de $\\log_2(32)$?",
-      "context": "",
+      "context": "Un analista de sistemas utiliza logaritmos en base 2 para calcular la profundidad de un árbol binario.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v12",
       "statement": "Determine el valor de $\\log(0.001)$.",
-      "context": "",
+      "context": "Un estudiante de química calcula el pH de una solución usando logaritmos decimales.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v13",
       "statement": "Calcule el valor simplificado de la expresión $e^{\\ln(5)}$.",
-      "context": "",
+      "context": "Un investigador utiliza la base natural para resolver una ecuación de interés continuo.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v14",
       "statement": "Expanda la siguiente expresión usando propiedades: $\\log_b(\\frac{x^2 y}{z^3})$.",
-      "context": "",
+      "context": "Un estudiante en la UNAM expande una expresión logarítmica compleja en sus componentes básicos.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el valor de $\\log_{1/2}(8)$?",
-      "context": "",
+      "context": "Se analiza el comportamiento de una función logarítmica con base fraccionaria.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v16",
       "statement": "Simplifique a un solo logaritmo: $2\\log_b(x) - \\log_b(x^2 - 1)$.",
-      "context": "",
+      "context": "Un estudiante simplifica una resta de logaritmos que involucra una potencia.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v17",
       "statement": "Calcule el valor de $\\log_4(2)$.",
-      "context": "",
+      "context": "Un matemático de la BUAP demuestra un valor logarítmico que involucra raíces de la base.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v18",
       "statement": "Si $\\log_b(2) = 0.30$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$.",
-      "context": "",
+      "context": "Se resuelve un problema complejo que requiere el uso de múltiples propiedades simultáneamente.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.25,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v19",
       "statement": "Simplifique la expresión: $\\log_2(3) \\cdot \\log_3(4) \\cdot \\log_4(8)$.",
-      "context": "",
+      "context": "Un estudiante avanzado analiza la relación entre logaritmos de diferentes bases.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.2,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v20",
       "statement": "¿A qué es equivalente la expresión $b^{\\log_a(c)}$ según las propiedades avanzadas de los logaritmos?",
-      "context": "",
+      "context": "Un investigador del Cinvestav estudia una identidad logarítmica compleja.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.15,
       "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",

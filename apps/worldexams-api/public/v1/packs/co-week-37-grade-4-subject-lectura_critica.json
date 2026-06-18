@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.602Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v1",
+      "statement": "*\"¿Qué significa reflexionar sobre un texto?\"*",
+      "context": "Reflexionar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer rápido.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pensar y opinar sobre lo leído.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Memorizar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Copiar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definir.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v2",
+      "statement": "*\"Después de leer un cuento, te preguntan ¿te gustó?. ¿Qué das?\"*",
+      "context": "Opinión personal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un hecho.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión personal.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un dato.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una definición.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Opinión.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v3",
+      "statement": "*\"El cuento habla de compartir. ¿Tú compartes en tu vida?\"* ¿Tipo de pregunta?\"*",
+      "context": "Relacionar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De reflexión personal.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "De comprensión literal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "De vocabulario.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "De gramática.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reflexión.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v4",
+      "statement": "*\"La fábula enseña a no mentir. ¿Cómo aplicas esto?\"* ¿Qué tipo de pregunta?\"*",
+      "context": "Aplicar a la vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De memoria.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "De reflexión y aplicación.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "De verdadero/falso.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "De selección.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v5",
+      "statement": "*\"¿Crees que el personaje actuó correctamente? ¿Por qué?\"* ¿Qué se pide?\"*",
+      "context": "Valorar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un resumen.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una valoración personal.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Un dibujo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valorar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v6",
+      "statement": "*\"¿Por qué crees que el personaje hizo lo correcto?\"* ¿Qué debes hacer?\"*",
+      "context": "Justificar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adivinar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dar argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar del texto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No responder.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Justificar.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v7",
+      "statement": "*\"¿En qué se parece esta historia a algo que te haya pasado?\"* ¿Qué se pide?\"*",
+      "context": "Conectar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desconectar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Conectar con experiencia personal.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Memorizar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conectar.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v8",
+      "statement": "*\"¿Por qué el autor eligió ese final? ¿Qué otra opción habría?\"* ¿Tipo?\"*",
+      "context": "Analizar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Literal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Analítica y reflexiva.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "De vocabulario.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "De ortografía.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v9",
+      "statement": "*\"¿Recomendarías este libro a un amigo? ¿Por qué?\"* ¿Qué se pide?\"*",
+      "context": "Evaluar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo sí o no.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión razonada.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una copia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Un resumen.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recomendar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v10",
+      "statement": "*\"¿Qué aprendiste con esta lectura? ¿Cambió tu forma de pensar?\"* ¿Tipo?\"*",
+      "context": "Meta-reflexión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorística.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reflexiva y metacognitiva.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Literal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "De datos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Meta-reflexión.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

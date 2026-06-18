@@ -10,7 +10,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la propiedad que establece que el orden de los sumandos no altera la suma ($a + b = b + a$)?",
-      "context": "",
+      "context": "Un estudiante en Santo Domingo repasa las propiedades básicas de los números reales para su examen de Pruebas Nacionales.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.9,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina al número 1 en la operación de multiplicación en los números reales?",
-      "context": "",
+      "context": "En una ferretería de Santiago, se manejan inventarios donde el número 1 juega un papel especial en las multiplicaciones de precios.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v3",
       "statement": "¿Qué propiedad de los números reales se está aplicando al multiplicar un número por su recíproco para obtener 1?",
-      "context": "",
+      "context": "Un estudiante analiza por qué al multiplicar $5 \\cdot (1/5)$ el resultado es exactamente 1.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.8,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v4",
       "statement": "Al transformar $2(x + 3)$ en $2x + 6$, ¿qué propiedad se ha utilizado?",
-      "context": "",
+      "context": "Simplificando la expresión $2(x + 3)$ en un cuaderno de matemáticas.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la distancia total en grados entre ambas mediciones en la recta numérica?",
-      "context": "",
+      "context": "En un laboratorio en San Cristóbal, se miden temperaturas extremas de $-15.5$ °C y $22.3$ °C.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.75,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v6",
       "statement": "Si el radio es de 10 metros, ¿cuál es el área aproximada ($A = \\pi r^2$)?",
-      "context": "",
+      "context": "Un agrimensor en La Romana calcula el área de un terreno circular usando la aproximación racional de $\\pi \\approx 3.14$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.7,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de los siguientes números se encuentra entre $1/2$ y $3/4$?",
-      "context": "",
+      "context": "Se discute la densidad de los números reales en un aula de Puerto Plata.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.7,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v8",
       "statement": "¿A qué descuento único real equivale aplicar dos veces el 10%?",
-      "context": "",
+      "context": "Un comerciante en el mercado de San Francisco de Macorís aplica dos descuentos sucesivos del 10%.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.65,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v9",
       "statement": "¿Qué propiedad de los números reales garantiza que no hay \"espacios vacíos\" en la recta numérica?",
-      "context": "",
+      "context": "Análisis de la recta numérica en un liceo de Baní.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la longitud de la diagonal ($d = \\sqrt{a^2 + b^2}$)?",
-      "context": "",
+      "context": "Un arquitecto en Higüey necesita calcular la diagonal de una habitación de 3m por 4m.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.6,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v11",
       "statement": "¿Para qué valores de $x$ se cumple que $|x| = -x$?",
-      "context": "",
+      "context": "Un estudiante evalúa la validez de operaciones con valor absoluto.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el resultado simplificado?",
-      "context": "",
+      "context": "Simplificación de la expresión $(2 + \\sqrt{2}) - (1 - \\sqrt{2})$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.55,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el valor final de la expresión?",
-      "context": "",
+      "context": "Un estudiante en Moca simplifica potencias de base negativa: $(-2)^3 + (-2)^2$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.5,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v14",
       "statement": "¿Cuál de las siguientes desigualdades es verdadera?",
-      "context": "",
+      "context": "Se analiza el orden de los números reales en San Juan de la Maguana.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.45,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el resultado siguiendo la jerarquía?",
-      "context": "",
+      "context": "Un estudiante resuelve la operación: $10 - [2 \\cdot (-3) + 4]$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución",
+      "expected_success": 0.45,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v16",
       "statement": "¿Qué conjunto es una extensión de los reales para incluir raíces de negativos?",
-      "context": "",
+      "context": "Análisis de conjuntos infinitos.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v17",
       "statement": "¿Qué afirma la propiedad arquimediana de los reales?",
-      "context": "",
+      "context": "Análisis avanzado en la UASD sobre la propiedad de Arquímedes.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.35,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v18",
       "statement": "Si $a \\cdot b = 0$, ¿qué propiedad de los reales nos permite concluir algo sobre $a$ o $b$?",
-      "context": "",
+      "context": "Reflexión sobre la multiplicación por cero.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.35,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v19",
       "statement": "¿Hacia qué número real converge la sucesión $1, 0.1, 0.01, 0.001, ...$?",
-      "context": "",
+      "context": "Un problema de límites: ¿A qué valor se acerca $1/n$ cuando $n$ crece mucho?",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución",
+      "expected_success": 0.3,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v20",
       "statement": "¿Por qué $\\sqrt{2}$ se considera un número real si no es una fracción exacta?",
-      "context": "",
+      "context": "¿Es $\\sqrt{2}$ un número real?",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.3,
       "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

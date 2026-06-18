@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v1",
       "statement": "¿Qué es una sílaba?",
-      "context": "",
+      "context": "Un niño aplaude mientras dice su nombre en un colegio de Tunja.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v2",
       "statement": "¿Cuál es la separación silábica correcta de la palabra **\"tigre\"**?",
-      "context": "",
+      "context": "Separando la palabra que nombra a un animal de la selva colombiana.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v3",
       "statement": "¿Cómo se llaman las palabras que tienen una sola sílaba, como **\"sol\"** o **\"pan\"**?",
-      "context": "",
+      "context": "Clasificando palabras según su número de sílabas en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v4",
       "statement": "¿Cuál de estas palabras es **trisílaba**?",
-      "context": "",
+      "context": "Buscando una palabra de tres sílabas (trisílaba) sobre comida típica.",
       "options": [
         {
           "letter": "A",
@@ -168,6 +177,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -176,7 +188,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v5",
       "statement": "En la palabra **\"Castillo\"**, ¿cuál es la sílaba que suena más fuerte (sílaba tónica)?",
-      "context": "",
+      "context": "Identificando la sílaba tónica en una palabra de Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -208,6 +220,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -216,7 +231,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v6",
       "statement": "¿Cuál es la separación correcta de la palabra **\"ciudad\"**?",
-      "context": "",
+      "context": "Separando palabras con diptongo en un colegio de Medellín.",
       "options": [
         {
           "letter": "A",
@@ -248,6 +263,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -256,7 +274,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v7",
       "statement": "¿Cómo se separa correctamente la palabra **\"biodiversidad\"**?",
-      "context": "",
+      "context": "Separando una palabra muy larga en un libro sobre el Amazonas.",
       "options": [
         {
           "letter": "A",
@@ -288,6 +306,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -296,7 +317,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v8",
       "statement": "En la palabra **\"computador\"**, ¿cuántas sílabas **átonas** (las que no suenan fuerte) hay?",
-      "context": "",
+      "context": "Diferenciando sílabas tónicas y átonas en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -328,6 +349,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -336,7 +360,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v9",
       "statement": "Si al final de un renglón no cabe la palabra **\"mariposa\"**, ¿cuál es una forma CORRECTA de dividirla usando el guion?",
-      "context": "",
+      "context": "Analizando la división silábica al final de un renglón en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -368,6 +392,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -376,7 +403,7 @@
     {
       "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v10",
       "statement": "Si inventas la palabra **\"saltarilón\"**, ¿cómo se separa en sílabas?",
-      "context": "",
+      "context": "Quieres inventar una palabra divertida que rime con \"canción\" y tenga 4 sílabas.",
       "options": [
         {
           "letter": "A",
@@ -414,6 +441,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v1",
       "statement": "Qual é a forma geral de uma função afim (ou função do 1º grau)?",
-      "context": "",
+      "context": "Um motorista de táxi em São Paulo cobra uma bandeirada fixa mais um valor por quilômetro rodado, o que caracteriza uma função afim.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.85,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v2",
       "statement": "Na função afim $f(x) = ax + b$, o coeficiente $b$ representa o ponto onde a reta intercepta qual eixo do plano cartesiano?",
-      "context": "",
+      "context": "Em uma aula de geometria analítica no Rio de Janeiro, o professor explica o significado geométrico dos coeficientes da reta.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.8,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v3",
       "statement": "Dada a função $f(x) = -2x + 10$, qual é a raiz (ou zero) desta função?",
-      "context": "",
+      "context": "Um analista financeiro em Curitiba observa que o lucro de uma pequena empresa cresce de forma constante a cada mês.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.75,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v4",
       "statement": "Sobre a função $f(x) = 3x - 4$, é correto afirmar que ela é:",
-      "context": "",
+      "context": "Um arquiteto em Brasília projeta o telhado de uma casa e precisa garantir que a inclinação seja constante.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.7,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v5",
       "statement": "Uma reta passa pelos pontos $A(1, 5)$ e $B(3, 9)$. Qual é o coeficiente angular desta reta?",
-      "context": "",
+      "context": "Um técnico de laboratório em Campinas registra a variação de temperatura de uma substância que resfria uniformemente ao longo do tempo.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.65,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v6",
       "statement": "O custo mensal $C$ de um plano de celular é dado por $C(x) = 35 + 0,50x$, onde $x$ é o número de minutos utilizados. Se um cliente usou 100 minutos em um mês, quanto ele pagará?",
-      "context": "",
+      "context": "Uma empresa de telefonia em Belo Horizonte oferece um plano com taxa mensal fixa e um custo por minuto de ligação.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v7",
       "statement": "Um tanque contém 5000 litros de água e é esvaziado à razão de 200 litros por hora. Qual função representa o volume $V$ de água no tanque em função do tempo $t$ (em horas)?",
-      "context": "",
+      "context": "Um reservatório de água em uma fazenda no Mato Grosso está sendo esvaziado a uma taxa constante para irrigação.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.6,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v8",
       "statement": "A posição de um objeto em movimento é dada por $S(t) = 12 + 4t$ (unidades no SI). Em que instante $t$ o objeto atingirá a posição $S = 40$ metros?",
-      "context": "",
+      "context": "Em um experimento de física em Salvador, analisa-se o movimento retilíneo uniforme de um carrinho em um trilho.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.55,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v9",
       "statement": "O lucro $L$ de um evento é dado por $L(x) = 40x - 2000$, onde $x$ é a quantidade de ingressos vendidos. Qual é o número mínimo de ingressos que devem ser vendidos para que não haja prejuízo (lucro zero)?",
-      "context": "",
+      "context": "Um produtor de eventos em Recife está calculando o lucro de um show baseado no número de ingressos vendidos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.55,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v10",
       "statement": "Determine a lei da função afim cujo gráfico passa pelos pontos $(0, 3)$ e $(2, 7)$.",
-      "context": "",
+      "context": "Um topógrafo em Manaus determina a altitude de um terreno que sobe de forma constante à medida que se afasta do rio.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v11",
       "statement": "Duas retas no plano cartesiano, representadas pelas funções $f(x) = 2x + 5$ e $g(x) = -x + 11$, interceptam-se em qual ponto?",
-      "context": "",
+      "context": "Um engenheiro civil analisa a dilatação de uma barra metálica em São Paulo sob variações de temperatura.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.5,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v12",
       "statement": "Uma função afim é tal que $f(1) = 4$ e $f(-2) = 10$. Qual é o valor de $f(0)$?",
-      "context": "",
+      "context": "Um analista de sistemas em Florianópolis desenvolve um algoritmo para calcular o imposto de renda simplificado.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v13",
       "statement": "Se o gráfico de uma função afim $f(x) = ax + b$ corta o eixo $x$ em um valor positivo e o eixo $y$ em um valor negativo, o que podemos afirmar sobre os sinais de $a$ e $b$?",
-      "context": "",
+      "context": "Um professor em Fortaleza desafia seus alunos a interpretar o gráfico de uma função afim sem valores numéricos explícitos nos eixos.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.45,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v14",
       "statement": "O fundo A cobra R\\$ 100,00 de taxa fixa mais 1\\% do valor investido. O fundo B cobra R\\$ 50,00 de taxa fixa mais 2\\% do valor investido. Para qual valor de investimento $x$ as taxas totais serão iguais?",
-      "context": "",
+      "context": "Um investidor em Porto Alegre compara dois fundos de investimento com taxas de administração diferentes.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v15",
       "statement": "Sabendo que $0^\\circ$C corresponde a $32^\\circ$F e $100^\\circ$C corresponde a $212^\\circ$F, qual é a função afim que converte Celsius ($C$) para Fahrenheit ($F$)?",
-      "context": "",
+      "context": "Um físico estuda a relação linear entre as escalas de temperatura Celsius ($^\\circ$C) e Fahrenheit ($^\\circ$F).",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.4,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v16",
       "statement": "Se a função demanda de um produto é $D(p) = 400 - 5p$, onde $p$ é o preço, qual é o preço máximo que pode ser cobrado para que ainda exista demanda (demanda maior que zero)?",
-      "context": "",
+      "context": "Em um curso de economia em São Paulo, os alunos analisam a função demanda de um produto.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.35,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v17",
       "statement": "Considere $f(x) = ax + b$. Se $f(f(x)) = 4x + 9$, quais são os possíveis valores para os coeficientes $a$ e $b$?",
-      "context": "",
+      "context": "Um matemático em Campinas estuda a composição de funções afins e suas propriedades algébricas.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.3,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v18",
       "statement": "A função $f(x)$ é linear e satisfaz $\\sum_{i=1}^{3} f(i) = 15$. Se o coeficiente angular é $a = 2$, qual é o valor do coeficiente linear $b$?",
-      "context": "",
+      "context": "Um analista de dados em Vitória avalia a eficácia de dois modelos lineares de regressão para prever vendas.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.25,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v19",
       "statement": "Qual é a área da região triangular limitada pelo gráfico da função $f(x) = -2x + 8$ e pelos eixos coordenados $x$ e $y$?",
-      "context": "",
+      "context": "Em uma competição de matemática em São Paulo, propõe-se um problema sobre a área de figuras formadas por funções afins.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v20",
       "statement": "Considere a família de funções $f_k(x) = (k-1)x + 2k + 3$. Qual é o ponto comum a todas as retas representadas por essa função, independentemente do valor de $k$?",
-      "context": "",
+      "context": "Um matemático investiga propriedades de famílias de retas que passam por um ponto fixo no plano cartesiano.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Funções e Álgebra",
+      "expected_success": 0.2,
       "bundle_id": "BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

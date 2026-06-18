@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-31-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.158Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v1",
+      "statement": "Que determina el clima en las diferentes zonas de Colombia?",
+      "context": "I.E. San Felipe, Bogota. Pisos termicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La altura sobre el nivel del mar (pisos termicos).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) La hora del dia.",
+          "is_correct": false,
+          "feedback": "Es la altura."
+        },
+        {
+          "letter": "C",
+          "text": "C) El mes del ano.",
+          "is_correct": false,
+          "feedback": "Es la altura."
+        },
+        {
+          "letter": "D",
+          "text": "D) La cantidad de arboles.",
+          "is_correct": false,
+          "feedback": "Es la altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los pisos termicos son zonas determinadas por la altura: calido (0-1000m), templado (1000-2000m) y frio (2000-3000m).",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v2",
+      "statement": "Donde encontramos clima calido en Colombia?",
+      "context": "I.E. Los Andes, Pasto. Clima calido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las costas del Caribe y Pacifico, y en los llanos orientales.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) En Bogota.",
+          "is_correct": false,
+          "feedback": "Bogota tiene clima frio."
+        },
+        {
+          "letter": "C",
+          "text": "C) En el Nevado del Ruiz.",
+          "is_correct": false,
+          "feedback": "Es clima frio."
+        },
+        {
+          "letter": "D",
+          "text": "D) En Tunja.",
+          "is_correct": false,
+          "feedback": "Es clima frio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima calido predomina en zonas bajas como costas, llanos y valles interandinos.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v3",
+      "statement": "Que caracteriza al clima templado?",
+      "context": "I.E. INEM, Medellin. Clima templado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperatura agradable, entre 18 y 24 grados, en zonas de altura media.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Mucho calor todo el ano.",
+          "is_correct": false,
+          "feedback": "Eso es calido."
+        },
+        {
+          "letter": "C",
+          "text": "C) Frio intenso y nieve.",
+          "is_correct": false,
+          "feedback": "Eso es frio."
+        },
+        {
+          "letter": "D",
+          "text": "D) Lluvia todo el dia.",
+          "is_correct": false,
+          "feedback": "No es exclusivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima templado se encuentra entre 1000 y 2000 metros de altura. Ciudades como Medellin y Cali tienen clima templado.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v4",
+      "statement": "Donde encontramos clima frio en Colombia?",
+      "context": "I.E. Fe y Alegria, Cali. Clima frio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ciudades de alta montana como Bogota, Tunja y Pasto.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) En la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Es calido."
+        },
+        {
+          "letter": "C",
+          "text": "C) En Leticia.",
+          "is_correct": false,
+          "feedback": "Es calido."
+        },
+        {
+          "letter": "D",
+          "text": "D) En Barranquilla.",
+          "is_correct": false,
+          "feedback": "Es calido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima frio predomina en ciudades ubicadas a mas de 2000 metros sobre el nivel del mar.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v5",
+      "statement": "La familia Perez vive en Bogota. Que tipo de ropa debe usar normalmente?",
+      "context": "I.E. Tecnico, Ibague. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ropa abrigada: chaqueta, buzo y pantalon largo, porque el clima es frio.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Ropa de bano.",
+          "is_correct": false,
+          "feedback": "Bogota no es caliente."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo camiseta.",
+          "is_correct": false,
+          "feedback": "Hace frio."
+        },
+        {
+          "letter": "D",
+          "text": "D) Traje de bano.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bogota tiene clima frio (aproximadamente 14 grados promedio), por lo que se necesita ropa abrigada.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v6",
+      "statement": "En Santa Marta hace calor casi todo el ano. Que clima tiene?",
+      "context": "I.E. Simon Bolivar, Santa Marta. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clima calido, porque esta a nivel del mar en la costa Caribe.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Clima frio.",
+          "is_correct": false,
+          "feedback": "Costa Caribe es calida."
+        },
+        {
+          "letter": "C",
+          "text": "C) Clima templado.",
+          "is_correct": false,
+          "feedback": "Es calido."
+        },
+        {
+          "letter": "D",
+          "text": "D) Clima polar.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Santa Marta esta a nivel del mar, por lo que tiene clima calido todo el ano.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v7",
+      "statement": "Por que Colombia tiene variedad de climas?",
+      "context": "I.E. Manuelita, Neiva. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene diferentes altitudes: desde el nivel del mar hasta nevados de mas de 5000 metros.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Porque cambia el clima cada dia.",
+          "is_correct": false,
+          "feedback": "Por las altitudes."
+        },
+        {
+          "letter": "C",
+          "text": "C) Porque esta cerca del sol.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Porque llueve mucho.",
+          "is_correct": false,
+          "feedback": "Es por altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variedad de altitudes en Colombia crea diferentes pisos termicos y por tanto climas diversos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-v8",
+      "statement": "Como influye el clima en las actividades de las personas?",
+      "context": "I.E. San Jose, Palmira. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Determina el tipo de ropa, cultivos, vivienda y actividades economicas de cada region.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) No influye.",
+          "is_correct": false,
+          "feedback": "Si influye mucho."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo en la ropa.",
+          "is_correct": false,
+          "feedback": "Tambien en cultivos y economia."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo en vacaciones.",
+          "is_correct": false,
+          "feedback": "En todo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima influye en casi todos los aspectos de la vida: agricultura, vestimenta, vivienda y economia.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W31-climas-de-colombia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v1",
       "statement": "Una población de bacterias se duplica cada hora. Si inicialmente hay 100 bacterias, la secuencia es: 100, 200, 400, 800... ¿Cuál es el valor de la razón común ($r$) de esta sucesión?",
-      "context": "",
+      "context": "Crecimiento poblacional simple de bacterias.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes sucesiones es una progresión geométrica?",
-      "context": "",
+      "context": "Identificación de tipos de sucesiones.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v3",
       "statement": "Una moneda de colección vale $500 pesos y su valor aumenta un 10% cada año (se multiplica por 1.1). ¿Cuál será su valor al inicio del cuarto año?",
-      "context": "",
+      "context": "Valor de una moneda de colección.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v4",
       "statement": "Una pelota rebota hasta los 2/3 de la altura desde la cual cae. Si se deja caer desde 27 metros, ¿cuál es la altura alcanzada en el segundo rebote?",
-      "context": "",
+      "context": "Rebotes de una pelota.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.82,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v5",
       "statement": "Dada la sucesión geométrica $2, -6, 18, -54...$, ¿cuál es la expresión del término general $a_n$?",
-      "context": "",
+      "context": "Término general de una sucesión.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v6",
       "statement": "Calcula la suma de los primeros 6 términos de la sucesión: 1, 2, 4, 8...",
-      "context": "",
+      "context": "Suma de términos finitos.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.72,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v7",
       "statement": "En una sucesión geométrica de términos positivos, el segundo término es 6 y el cuarto es 54. ¿Cuál es el valor de la razón común ($r$)?",
-      "context": "",
+      "context": "Cálculo de la razón a partir de términos no consecutivos.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.65,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v8",
       "statement": "Una tienda en Monterrey aplica un descuento del 20% sobre el precio ya rebajado cada mes. Si un artículo cuesta inicialmente $1,000, ¿cuál es la razón común ($r$) de la sucesión de precios?",
-      "context": "",
+      "context": "Descuentos sucesivos.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la suma de la serie geométrica infinita $16, 8, 4, 2...$?",
-      "context": "",
+      "context": "Suma infinita de una serie geométrica.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v10",
       "statement": "En la sucesión geométrica $1/3, x, 3, 9...$ ¿Cuál es el valor de $x$?",
-      "context": "",
+      "context": "Términos faltantes en una secuencia.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v11",
       "statement": "Una persona invierte $10,000 pesos en una cuenta que paga el 5% de interés anual compuesto. ¿Cuál es el valor de la inversión después de 10 años? (Usa $(1.05)^{10} \\approx 1.628$)",
-      "context": "",
+      "context": "Problema de interés compuesto.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v12",
       "statement": "Interpolar dos medios geométricos entre 3 y 192. ¿Cuáles son los dos números?",
-      "context": "",
+      "context": "Medios geométricos.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v13",
       "statement": "El número decimal periódico $0.777...$ puede verse como una suma infinita: $0.7 + 0.07 + 0.007...$ ¿Cuál es su valor en forma de fracción?",
-      "context": "",
+      "context": "Conversión de número decimal periódico a fracción.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v14",
       "statement": "Si $\\log(x), \\log(x^2), \\log(x^4)...$ es una sucesión, ¿cuál de las siguientes afirmaciones es correcta?",
-      "context": "",
+      "context": "Términos de una sucesión con logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v15",
       "statement": "Calcula la suma infinita de la serie: $1 - 1/3 + 1/9 - 1/27...$",
-      "context": "",
+      "context": "Suma de una serie alternada.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.48,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v16",
       "statement": "Una maquinaria de $200,000 pesos pierde el 15% de su valor cada año. ¿Cuál es la expresión para su valor $V$ después de $n$ años?",
-      "context": "",
+      "context": "Problema de depreciación acelerada.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.52,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v17",
       "statement": "En una sucesión geométrica de 5 términos, el tercer término es 4. ¿Cuál es el producto de los 5 términos de la sucesión?",
-      "context": "",
+      "context": "Producto de los términos de una sucesión.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.32,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v18",
       "statement": "Si $x-2, x+2, x+10$ son los tres primeros términos de una progresión geométrica, ¿cuál es el valor de $x$?",
-      "context": "",
+      "context": "Sucesiones geométricas con variables.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.28,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v19",
       "statement": "En un cuadrado de área 1, se sombrea la mitad. En la mitad no sombreada, se sombrea nuevamente la mitad, y así sucesivamente. ¿A qué valor tiende el área total sombreada después de infinitos pasos?",
-      "context": "",
+      "context": "Fracciones de área (Fractales).",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v20",
       "statement": "Si $a, b, c$ forman una progresión aritmética de diferencia 2, y $a, b, c+1$ forman una progresión geométrica, ¿cuál es el valor de $a$?",
-      "context": "",
+      "context": "Relación entre sucesiones aritméticas y geométricas.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Matemático",
+      "expected_success": 0.3,
       "bundle_id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",

@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-16-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.135Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes es una necesidad básica de toda mascota para vivir con bienestar?",
+      "context": "En un refugio de animales en Bogotá, los voluntarios explican qué necesita un perro para estar sano y feliz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener muchos juguetes de plástico costosos",
+          "is_correct": false,
+          "feedback": "Los juguetes ayudan, pero no son la base de la supervivencia o salud biológica del animal."
+        },
+        {
+          "letter": "B",
+          "text": "Recibir alimento balanceado, agua limpia y salud",
+          "is_correct": true,
+          "feedback": "La nutrición y la atención médica son los pilares fundamentales para que un animal doméstico viva dignamente."
+        },
+        {
+          "letter": "C",
+          "text": "Estar amarrado todo el día en el patio",
+          "is_correct": false,
+          "feedback": "El maltrato y la falta de movimiento afectan gravemente la salud física y mental de los animales domésticos."
+        },
+        {
+          "letter": "D",
+          "text": "Comer sobras de comida muy condimentada",
+          "is_correct": false,
+          "feedback": "La comida humana con mucha sal o condimentos puede enfermar gravemente el sistema digestivo de perros y gatos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tenencia responsable implica entender que las mascotas dependen 100% de nosotros. Darles un lugar limpio, comida adecuada a su especie y llevarlos al veterinario cuando se enferman es el compromiso que adquirimos al tener un animal doméstico.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v2",
+      "statement": "¿Por qué es una falta de respeto hacia la naturaleza tocar o bajar los nidos de las aves?",
+      "context": "Un niño ve un nido de pájaros en el parque y quiere bajarlo para ver los huevos de cerca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los padres pueden abandonar el nido por el olor humano",
+          "is_correct": true,
+          "feedback": "Las aves son muy sensibles; si sienten el nido manipulado, podrían dejar de cuidar los huevos por miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los huevos se vuelven de piedra",
+          "is_correct": false,
+          "feedback": "Los procesos biológicos no cambian la materia viva en inanimada por el simple contacto físico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el árbol se pone triste",
+          "is_correct": false,
+          "feedback": "Aunque es un daño al ecosistema, el riesgo biológico inmediato es la muerte de los polluelos o el abandono del nido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los pájaros no dejan ver los huevos",
+          "is_correct": false,
+          "feedback": "El respeto a la fauna silvestre implica no interferir en sus ciclos de vida sin importar nuestra curiosidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Respetar la fauna silvestre significa \"ver pero no tocar\". Los nidos son hogares sagrados para las aves donde se desarrolla la siguiente generación. Cualquier intervención humana puede causar que las crías mueran antes de nacer.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v3",
+      "statement": "¿Cómo se le llama a la acción de proteger a los animales para que no se extingan y vivan tranquilos?",
+      "context": "En Colombia, las autoridades ambientales piden a las personas que no compren animales como tortugas hicoteas o micos en las carreteras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cacería deportiva",
+          "is_correct": false,
+          "feedback": "La cacería es lo opuesto a la protección; implica matar animales por diversión o comida, afectando el equilibrio."
+        },
+        {
+          "letter": "B",
+          "text": "Conservación de la fauna",
+          "is_correct": true,
+          "feedback": "Es el conjunto de esfuerzos para proteger las especies animales y sus hábitats naturales de las amenazas humanas."
+        },
+        {
+          "letter": "C",
+          "text": "Tráfico ilegal",
+          "is_correct": false,
+          "feedback": "El tráfico es el negocio criminal de vender animales silvestres, lo que causa su muerte y desaparición."
+        },
+        {
+          "letter": "D",
+          "text": "Construcción de ciudades",
+          "is_correct": false,
+          "feedback": "La construcción desmedida suele destruir las casas de los animales, no protegerlas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia es uno de los países con más especies del mundo. Conservar la fauna no es solo una opción, es una necesidad para que la naturaleza siga dándonos agua, aire puro y bosques sanos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v4",
+      "statement": "¿Es esta una verdadera forma de respeto y amor hacia un animal silvestre como el tigre?",
+      "context": "Una persona afirma: \"Yo amo a los animales, por eso tengo un tigre en una jaula muy grande en mi casa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque el tigre no tiene que buscar comida",
+          "is_correct": false,
+          "feedback": "Quitarle la autonomía de cazar a un depredador es anular su naturaleza biológica fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, siempre que la jaula sea de oro",
+          "is_correct": false,
+          "feedback": "El material de la jaula no compensa la pérdida de libertad y el sufrimiento de estar encerrado."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el tigre necesita vivir libre en su hábitat natural",
+          "is_correct": true,
+          "feedback": "El verdadero amor por la fauna silvestre es permitirles vivir donde pertenecen, sin dueños ni rejas."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el tigre come mucho",
+          "is_correct": false,
+          "feedback": "El costo de la alimentación no es la razón ética; la razón es el derecho del animal a su libertad natural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Confundir la posesión con el amor es un error común. Los animales silvestres no son trofeos ni adornos. Su bienestar solo se logra en la libertad de su ecosistema, cumpliendo el papel para el que evolucionaron.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v5",
+      "statement": "¿Cuál es la acción más responsable que pueden tomar los niños para ayudar a este animal silvestre?",
+      "context": "Un grupo de niños encuentra una zarigüeya (chucha) herida en el borde de una carretera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevarla a la casa y curarla con remedios humanos",
+          "is_correct": false,
+          "feedback": "Los animales silvestres necesitan medicinas y cuidados especializados que solo un experto conoce."
+        },
+        {
+          "letter": "B",
+          "text": "Llamar a una autoridad ambiental o a un veterinario de fauna",
+          "is_correct": true,
+          "feedback": "Los expertos saben cómo manejar el estrés del animal y qué tratamiento médico necesita para recuperarse."
+        },
+        {
+          "letter": "C",
+          "text": "Dejarla ahí y no avisarle a nadie",
+          "is_correct": false,
+          "feedback": "Ignorar a un animal herido no es una actitud de respeto o cuidado por la vida."
+        },
+        {
+          "letter": "D",
+          "text": "Darle dulces para que se sienta mejor",
+          "is_correct": false,
+          "feedback": "El azúcar y los químicos de los dulces pueden ser veneno para el delicado sistema digestivo de una zarigüeya."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ayudar a la fauna requiere profesionalismo. En Colombia, instituciones como las corporaciones autónomas (CAR) se encargan de rescatar y rehabilitar a estos animales para que puedan volver a su hogar natural.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v6",
+      "statement": "¿Qué beneficio trae este cambio de actitud para la comunidad y el animal?",
+      "context": "En un pueblo, la gente decidió dejar de cazar a los jaguares y en su lugar cuidar el bosque donde viven para que los turistas los vean desde lejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El jaguar vive tranquilo y el pueblo tiene empleo cuidándolo",
+          "is_correct": true,
+          "feedback": "Se llama ecoturismo; es una forma en que humanos y animales ganan al convivir en respeto."
+        },
+        {
+          "letter": "B",
+          "text": "El jaguar se vuelve doméstico y entra a las casas",
+          "is_correct": false,
+          "feedback": "Un jaguar nunca dejará de ser un depredador silvestre; el respeto implica mantener una distancia segura."
+        },
+        {
+          "letter": "C",
+          "text": "El bosque se vuelve de cemento",
+          "is_correct": false,
+          "feedback": "Al contrario, para que el jaguar viva, el bosque debe mantenerse natural y muy bien protegido."
+        },
+        {
+          "letter": "D",
+          "text": "Ya no hay necesidad de que el jaguar coma",
+          "is_correct": false,
+          "feedback": "Todos los animales siguen necesitando alimento; el cambio es que ahora se protege su cadena alimentaria natural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conservación puede ser un motor de desarrollo. Cuando entendemos que un animal vivo vale más que uno muerto, empezamos a proteger los ecosistemas, lo que al final nos da agua limpia y aire puro a todos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v7",
+      "statement": "¿Cuál de estos comportamientos es considerado maltrato animal y debe ser denunciado?",
+      "context": "Los animales de compañía (perros, gatos) tienen derechos que están protegidos por leyes en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar al perro a caminar con collar y correa",
+          "is_correct": false,
+          "feedback": "Esto es seguridad para el animal y la comunidad en espacios públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar a un animal sin agua y bajo el sol por días",
+          "is_correct": true,
+          "feedback": "Privar a un ser vivo de sus necesidades básicas es una crueldad que le causa dolor y posible muerte."
+        },
+        {
+          "letter": "C",
+          "text": "Cepillarle el pelo al gato con suavidad",
+          "is_correct": false,
+          "feedback": "El aseo y el contacto suave son formas de cuidado y fortalecimiento del vínculo."
+        },
+        {
+          "letter": "D",
+          "text": "Jugar a lanzarle la pelota a un perro",
+          "is_correct": false,
+          "feedback": "El juego es una actividad saludable que estimula la mente y el cuerpo del animal doméstico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El maltrato no es solo golpear. El abandono, la falta de alimento o no darles refugio contra el clima también son formas de violencia. Los animales sienten dolor y miedo, por lo que su protección es una obligación legal y ética.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v8",
+      "statement": "¿Qué mensaje debería dar Mariana a sus compañeros en una cartelera sobre el respeto animal?",
+      "context": "Mariana quiere ser una \"Ciudadana Defensora de la Naturaleza\" en su colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los animales son nuestros juguetes favoritos\"",
+          "is_correct": false,
+          "feedback": "Los animales son seres sintientes, no objetos para nuestra diversión sin límites."
+        },
+        {
+          "letter": "B",
+          "text": "\"Respetar la vida animal es proteger el equilibrio de la Tierra\"",
+          "is_correct": true,
+          "feedback": "Este mensaje reconoce que cada animal tiene un valor importante para todo el planeta."
+        },
+        {
+          "letter": "C",
+          "text": "\"Todos los animales deben vivir en jaulas limpias\"",
+          "is_correct": false,
+          "feedback": "Las jaulas solo son para casos médicos o transporte; la meta es la libertad o la vida en hogar digno."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los animales no sienten nada porque no hablan\"",
+          "is_correct": false,
+          "feedback": "Aunque no hablen lenguaje humano, los animales tienen sistema nervioso y sienten dolor, hambre y alegría."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La educación es la herramienta más fuerte contra el maltrato. Si los niños aprenden a respetar a una hormiga o a un perro, serán adultos que cuidarán los ríos y los bosques con conciencia.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v9",
+      "statement": "¿Qué nos dice esta situación sobre la relación entre el hábitat y el respeto animal?",
+      "context": "Muchos animales silvestres huyen de sus bosques cuando hay incendios o deforestación y terminan en las calles de las ciudades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que a los animales les gusta vivir en el asfalto",
+          "is_correct": false,
+          "feedback": "Los animales llegan a las ciudades por desesperación y falta de hogar, no por preferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que proteger su casa es la mejor forma de respetarlos",
+          "is_correct": true,
+          "feedback": "Sin un hábitat sano, los animales no tienen dónde vivir y terminan muriendo en lugares extraños."
+        },
+        {
+          "letter": "C",
+          "text": "Que los animales quieren ser humanos",
+          "is_correct": false,
+          "feedback": "Los animales mantienen su identidad biológica; lo que necesitan es recursos naturales para sobrevivir."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ciudad es un nuevo bosque mejorado",
+          "is_correct": false,
+          "feedback": "La ciudad es peligrosa (carros, ruido, falta de comida natural) para la fauna silvestre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No podemos decir que respetamos a los animales si destruimos sus bosques. El respeto integral incluye cuidar la tierra, el agua y las plantas que ellos necesitan para ser libres y estar sanos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v10",
+      "statement": "¿Por qué el trato a los animales es una señal de avance de una sociedad?",
+      "context": "Un científico dice: \"La grandeza de una nación se mide por cómo trata a sus animales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así los animales nos dan dinero",
+          "is_correct": false,
+          "feedback": "El respeto no se basa en el beneficio económico, sino en el valor intrínseco de la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los animales votarán en las elecciones",
+          "is_correct": false,
+          "feedback": "Los animales no participan en la política humana; la razón es ética y de compasión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque demuestra empatía y responsabilidad por los más débiles",
+          "is_correct": true,
+          "feedback": "Una sociedad que respeta a los seres que no pueden defenderse es una sociedad más justa y pacífica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los animales son más inteligentes que los humanos",
+          "is_correct": false,
+          "feedback": "La inteligencia es diferente en cada especie; el respeto se debe a la capacidad de sentir, no al nivel de inteligencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El respeto animal es una cuestión de ética humana. Reconocer que otros seres vivos comparten el planeta con nosotros y tienen derecho a no sufrir es el nivel más alto de conciencia que podemos alcanzar como especie.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v1",
+      "statement": "¿Cómo se llaman los animales que han sido criados por el hombre y pueden vivir cerca de nosotros?",
+      "context": "En una finca en Antioquia, Pedro tiene perros, gallinas y una vaca. Estos animales dependen de él para comer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Animales feroces",
+          "is_correct": false,
+          "feedback": "Muchos animales domésticos son muy mansos; \"feroz\" no es una categoría de convivencia, sino de comportamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Animales domésticos",
+          "is_correct": true,
+          "feedback": "Los animales domésticos son aquellos que se han adaptado a vivir con los seres humanos, brindándonos compañía, alimento o trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Animales selváticos",
+          "is_correct": false,
+          "feedback": "Los animales de la selva viven lejos de los humanos y no dependen de nosotros para su alimentación diaria."
+        },
+        {
+          "letter": "D",
+          "text": "Animales de juguete",
+          "is_correct": false,
+          "feedback": "Aunque los peluches imitan animales, los seres vivos domésticos son organismos biológicos reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales domésticos han convivido con los humanos por miles de años. Dependen de nosotros para su refugio, salud y comida, y a cambio nos ayudan en muchas tareas o nos dan su afecto.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v2",
+      "statement": "¿A qué grupo pertenece el oso de anteojos, que vive libre en las montañas y busca su propia comida?",
+      "context": "Durante una caminata por el Parque Nacional Natural Chingaza, un guía nos muestra un oso de anteojos a lo lejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Animales de granja",
+          "is_correct": false,
+          "feedback": "Los animales de granja viven en espacios controlados por humanos; el oso vive en total libertad natural."
+        },
+        {
+          "letter": "B",
+          "text": "Animales silvestres",
+          "is_correct": true,
+          "feedback": "Son aquellos que viven en su hábitat natural sin intervención humana, cazando o recolectando su propio alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Animales de circo",
+          "is_correct": false,
+          "feedback": "Los circos son lugares de cautiverio; el estado natural y correcto de un animal silvestre es la libertad en el bosque."
+        },
+        {
+          "letter": "D",
+          "text": "Animales domésticos grandes",
+          "is_correct": false,
+          "feedback": "El oso no es doméstico porque no puede convivir con humanos ni depende de ellos para sobrevivir sanamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales silvestres (o salvajes) son fundamentales para el equilibrio de la naturaleza. Cada uno cumple una función en su ecosistema, como dispersar semillas o controlar poblaciones de otros animales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v3",
+      "statement": "¿Por qué es dañino para un animal silvestre, como un loro, ser sacado de su hábitat?",
+      "context": "Una persona intenta llevarse un loro de la selva para tenerlo en una jaula dentro de su apartamento en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en la jaula tiene más espacio",
+          "is_correct": false,
+          "feedback": "Al contrario, el animal pierde su libertad de volar y moverse por grandes extensiones de selva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se enferma, se deprime y deja de cumplir su función natural",
+          "is_correct": true,
+          "feedback": "Los animales silvestres sufren mucho en cautiverio porque les falta su comida natural y el contacto con su especie."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el loro prefiere ver televisión",
+          "is_correct": false,
+          "feedback": "Los animales no tienen intereses tecnológicos; sus necesidades son puramente biológicas y ambientales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así no puede conocer gente",
+          "is_correct": false,
+          "feedback": "El contacto con humanos suele ser estresante para los animales silvestres; ellos prefieren estar con otros de su clase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extraer animales de la naturaleza se llama tráfico de fauna y es un delito. Los animales silvestres no son mascotas; ellos necesitan su entorno para estar sanos y para ayudar a que el bosque siga vivo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v4",
+      "statement": "¿Cuál es la clasificación correcta de estos animales?",
+      "context": "Tienes que clasificar esta lista en dos grupos: Tigre, Perro, Delfín, Oveja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos son domésticos",
+          "is_correct": false,
+          "feedback": "El tigre y el delfín no viven con los humanos ni dependen de nosotros para comer en su estado natural."
+        },
+        {
+          "letter": "B",
+          "text": "Perro y Oveja son domésticos; Tigre y Delfín son silvestres",
+          "is_correct": true,
+          "feedback": "El perro y la oveja viven en casas o granjas; el tigre y el delfín viven libres en selvas u océanos."
+        },
+        {
+          "letter": "C",
+          "text": "Todos son silvestres",
+          "is_correct": false,
+          "feedback": "Los perros han sido seleccionados por humanos hace milenios para vivir en nuestros hogares, no son silvestres."
+        },
+        {
+          "letter": "D",
+          "text": "Tigre y Oveja son iguales",
+          "is_correct": false,
+          "feedback": "Biológicamente son muy diferentes (carnívoro vs herbívoro) y socialmente también (silvestre vs doméstico)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aprender a distinguir estos grupos nos ayuda a saber cómo actuar frente a ellos. A los domésticos debemos darles cariño y cuidado médico; a los silvestres debemos respetarlos y dejarlos tranquilos en su hogar natural.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v5",
+      "statement": "¿Cuál es la diferencia más importante en la función de nutrición de estos dos animales?",
+      "context": "Un gato de casa tiene siempre su plato lleno de concentrado. Un gato montés en la selva tiene que acechar y cazar lagartijas para almorzar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gato de casa no necesita comer",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos necesitan energía; la diferencia es quién les provee el alimento."
+        },
+        {
+          "letter": "B",
+          "text": "El doméstico depende del hombre; el silvestre es autónomo",
+          "is_correct": true,
+          "feedback": "El animal doméstico moriría de hambre sin el humano, mientras el silvestre tiene las habilidades para conseguir su propia comida."
+        },
+        {
+          "letter": "C",
+          "text": "El gato montés come chocolate",
+          "is_correct": false,
+          "feedback": "Ningún felino puede comer chocolate, es tóxico para ellos; ambos comen carne pero de diferente origen."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ninguna diferencia",
+          "is_correct": false,
+          "feedback": "La dependencia del ser humano es la diferencia fundamental que define a un animal doméstico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La domesticación cambia el comportamiento. Un perro o gato de casa ha perdido parte de su instinto de caza y ya no sabe cómo sobrevivir solo en la naturaleza, por eso es nuestra responsabilidad cuidarlos siempre.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v6",
+      "statement": "¿Qué debemos hacer si nos encontramos con un animal silvestre cerca de nuestra casa de campo?",
+      "context": "En Colombia, muchas personas tienen \"fincas de recreo\" donde a veces aparecen serpientes o zarigüeyas que viven en los alrededores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tratar de atraparlo para que sea nuestra mascota",
+          "is_correct": false,
+          "feedback": "Ya aprendimos que los animales silvestres sufren y mueren en cautiverio; no debemos atraparlos."
+        },
+        {
+          "letter": "B",
+          "text": "Observarlo con respeto desde lejos y dejarlo que siga su camino",
+          "is_correct": true,
+          "feedback": "La mejor forma de cuidar a la fauna silvestre es no molestarla y permitir que cumpla su ciclo de vida libre."
+        },
+        {
+          "letter": "C",
+          "text": "Darle galletas y dulces humanos",
+          "is_correct": false,
+          "feedback": "Nuestra comida les hace daño; los animales silvestres tienen dietas naturales muy específicas."
+        },
+        {
+          "letter": "D",
+          "text": "Gritar y tratar de asustarlo con piedras",
+          "is_correct": false,
+          "feedback": "El maltrato animal es incorrecto; debemos convivir en paz con la naturaleza que nos rodea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La convivencia con la fauna silvestre requiere paciencia. Muchos animales, como las zarigüeyas (chuchas), ayudan a controlar insectos y ratones. Si los dejamos en paz, ellos seguirán haciendo su trabajo ecológico gratis para nosotros.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v7",
+      "statement": "¿Por qué algunos de estos animales rescatados nunca pueden volver a vivir libres en la selva?",
+      "context": "Un zoológico moderno rescata animales que han sido maltratados en circos o casas y trata de curarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se volvieron demasiado grandes",
+          "is_correct": false,
+          "feedback": "El tamaño no es el impedimento; animales gigantes como elefantes podrían vivir libres si supieran cómo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque olvidaron cómo cazar y perdieron el miedo a los humanos",
+          "is_correct": true,
+          "feedback": "Al vivir con humanos, pierden sus instintos de defensa y supervivencia, lo que los hace vulnerables en la selva."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en la selva no hay televisión",
+          "is_correct": false,
+          "feedback": "De nuevo, las necesidades de los animales son biológicas, no culturales o tecnológicas humanas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los otros animales no los dejan entrar",
+          "is_correct": false,
+          "feedback": "El problema no es social, es de capacidad biológica individual para sobrevivir por su propia cuenta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando un animal silvestre se acostumbra a los humanos (improntación), pierde su capacidad de ser libre. Es muy triste porque ese animal ya no pertenece ni al mundo humano ni al mundo silvestre, por eso nunca debemos tener fauna salvaje en casa.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v8",
+      "statement": "¿Cuál de estas acciones ayuda más a la conservación de los animales silvestres?",
+      "context": "Imagina que quieres ayudar a proteger a los animales de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar una tortuga en la carretera para salvarla",
+          "is_correct": false,
+          "feedback": "Al comprarla, le estás dando dinero al traficante para que atrape y mate a muchas más tortugas."
+        },
+        {
+          "letter": "B",
+          "text": "No comprar animales silvestres y proteger sus bosques",
+          "is_correct": true,
+          "feedback": "Si no hay compradores, el negocio del tráfico se acaba y los animales pueden vivir felices en sus hábitats."
+        },
+        {
+          "letter": "C",
+          "text": "Ponerles collares con cascabeles en el bosque",
+          "is_correct": false,
+          "feedback": "Eso los haría presa fácil para los depredadores al no poder esconderse en silencio."
+        },
+        {
+          "letter": "D",
+          "text": "Llevar a nuestros perros a cazar al monte",
+          "is_correct": false,
+          "feedback": "Los perros domésticos pueden transmitir enfermedades a la fauna silvestre o lastimar el equilibrio natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mejor ayuda es el respeto. No comprar fauna silvestre es la acción más poderosa que un niño puede hacer. Además, sembrar árboles ayuda a que los animales tengan más casas naturales donde vivir.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v9",
+      "statement": "¿Cuál es la principal diferencia de comportamiento entre un perro doméstico y un lobo silvestre?",
+      "context": "Los perros y los lobos son parientes muy cercanos, pero se comportan de forma totalmente diferente frente a una persona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El perro no tiene dientes",
+          "is_correct": false,
+          "feedback": "Los perros tienen dientes muy similares a los lobos porque ambos son descendientes de carnívoros cazadores."
+        },
+        {
+          "letter": "B",
+          "text": "El perro busca al humano; el lobo huye del humano",
+          "is_correct": true,
+          "feedback": "La domesticación ha hecho que el perro confíe en nosotros, mientras que el lobo mantiene su instinto de precaución."
+        },
+        {
+          "letter": "C",
+          "text": "El lobo es de color rosado",
+          "is_correct": false,
+          "feedback": "Los lobos suelen ser de colores grises, cafés o blancos para camuflarse; el color rosa no es natural en ellos."
+        },
+        {
+          "letter": "D",
+          "text": "El perro no necesita dormir",
+          "is_correct": false,
+          "feedback": "Todos los mamíferos necesitan dormir para recuperar energía; el perro y el lobo comparten esta necesidad biológica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La domesticación es un cambio en la mente del animal. El perro ve al humano como su familia (su \"manada\"), mientras que el animal silvestre ve al humano como un peligro potencial del que debe alejarse.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v10",
+      "statement": "¿Es correcto el cuidado que el niño le da a su mascota doméstica?",
+      "context": "Un niño dice: \"Yo cuido mucho a mi hámster, por eso le doy pizza y lo dejo dormir en mi cama\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la pizza tiene muchos nutrientes",
+          "is_correct": false,
+          "feedback": "La pizza tiene mucha grasa, sal y condimentos que pueden enfermar gravemente al sistema digestivo del hámster."
+        },
+        {
+          "letter": "B",
+          "text": "No, debe darle comida especial para su especie y un lugar seguro",
+          "is_correct": true,
+          "feedback": "Cuidar un animal doméstico significa respetar sus necesidades biológicas naturales aunque viva en nuestra casa."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque los amigos comparten la comida",
+          "is_correct": false,
+          "feedback": "La amistad humana es diferente a la responsabilidad biológica; lo que es rico para nosotros es veneno para ellos."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los hámsteres deben vivir en el Polo Norte",
+          "is_correct": false,
+          "feedback": "Los hámsteres domésticos son de climas templados; el problema aquí es la dieta y el manejo inadecuado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tener una mascota es un compromiso serio. Significa estudiar qué come, cuánto ejercicio necesita y qué cosas le hacen daño. El amor por un animal se demuestra dándole lo que su cuerpo necesita para estar sano.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

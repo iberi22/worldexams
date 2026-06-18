@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.592Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v1",
+      "statement": "*\"Bogotá y Medellín son ciudades grandes de Colombia.\"* ¿Semejanza?",
+      "context": "Semejanza explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son pequeñas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Son ciudades grandes.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen mar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Capitales de país.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Semejanza.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v2",
+      "statement": "*\"Bogotá: capital de Colombia. Medellín: capital de Antioquia.\"* ¿Diferencia?",
+      "context": "Diferencia explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá más pequeña.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Capital del país vs capital de depto.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Medellín es capital del país.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Son iguales.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferencia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v3",
+      "statement": "*\"Cóndor: alas grandes. Colibrí: alas pequeñas.\"* ¿Diferencia?",
+      "context": "Comparar animales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos aves.",
+          "is_correct": false,
+          "feedback": "Semejanza."
+        },
+        {
+          "letter": "B",
+          "text": "Alas grandes vs pequeñas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos vuelan.",
+          "is_correct": false,
+          "feedback": "Semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos Colombia.",
+          "is_correct": false,
+          "feedback": "Semejanza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Contrastar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v4",
+      "statement": "*\"Costa Caribe: calor. Bogotá: frío nocturno.\"* ¿Semejanza?",
+      "context": "Comparar climas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos fríos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ambos tienen clima definido.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos calurosos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ambos costa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Semejanza.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v5",
+      "statement": "*\"A diferencia del café, el arroz se cultiva en zonas planas.\"* ¿Conector?",
+      "context": "Conector contraste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "café",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "a diferencia de",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "arroz",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "cultiva",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conector contraste.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v6",
+      "statement": "*\"Colombia: 32 deptos. Ecuador: 24 provincias.\"* ¿Qué país tiene más?",
+      "context": "Comparar datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ecuador.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Iguales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No se sabe.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar números.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v7",
+      "statement": "*\"Ana: alta, tranquila, lee. Luis: bajo, activo, deporte.\"* ¿Qué comparten?",
+      "context": "Comparar personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La altura.",
+          "is_correct": false,
+          "feedback": "Diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen gustos y caract. definidas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tranquilos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ambos activos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Categoría común.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v8",
+      "statement": "*\"Guanábana: dulce. Limón: ácido.\"* ¿Clasificación correcta?",
+      "context": "Organizar comparación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semejanza: ambos ácidos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Semejanza: frutas. Diferencia: sabor.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Diferencia: ambos dulces.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Semejanza: ambos tropicales.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Organizar comparación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v9",
+      "statement": "*\"Comparar tucán (pico grande) con guacamaya (plumas coloridas).\"* ¿Buena?",
+      "context": "Evaluar comparación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, compara dos aves.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "No, diferentes.",
+          "is_correct": false,
+          "feedback": "Válido comparar diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si iguales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No se comparan aves.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar comparación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-v10",
+      "statement": "*\"Colombia tiene ríos. Perú también.\"* ¿Conclusión?",
+      "context": "Concluir comparación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo Colombia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ambos tienen ríos importantes.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Perú tiene más.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Concluir.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W08-comparar-contrastar-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el valor de la expresión $3^0 + 3^1 + 3^2$?",
-      "context": "",
+      "context": "Martina está repasando las propiedades de las potencias para una prueba en su liceo.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.85,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes potencias equivale a la expresión $\\sqrt[3]{x^2}$?",
-      "context": "",
+      "context": "Un estudiante de Antofagasta analiza la relación entre raíces y potencias.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.8,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v3",
       "statement": "Simplifique la expresión: $\\frac{5^7 \\cdot 5^4}{5^9}$",
-      "context": "",
+      "context": "Se requiere simplificar una expresión con potencias de igual base.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.75,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes afirmaciones es correcta respecto a $(-2)^4$ y $-2^4$?",
-      "context": "",
+      "context": "Camila analiza el comportamiento de las potencias con base negativa.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.7,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v5",
       "statement": "Si hoy el hongo mide $9 \\text{ mm}$, ¿cuál será su medida en $3$ días más, expresada como una potencia de base 3?",
-      "context": "",
+      "context": "Un biólogo en Puerto Montt estudia el crecimiento de un hongo que triplica su tamaño cada día.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el resultado de racionalizar $\\frac{3}{\\sqrt{3}}$?",
-      "context": "",
+      "context": "Se solicita racionalizar una expresión que contiene una raíz en el denominador.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Representación",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v7",
       "statement": "¿A qué expresión equivale $2\\sqrt{18}$?",
-      "context": "",
+      "context": "Benjamín simplifica raíces para resolver un problema de geometría.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v8",
       "statement": "Si $g = 10 \\text{ m/s}^2$ y $h = 5 \\text{ m}$, ¿cuál es la velocidad $v$ en $\\text{m/s}$?",
-      "context": "",
+      "context": "Un ingeniero hidráulico calcula la velocidad de salida de agua usando la fórmula de Torricelli $v = \\sqrt{2gh}$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.55,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v9",
       "statement": "Simplifique la expresión: $\\sqrt[3]{8x^6y^3}$",
-      "context": "",
+      "context": "En un taller mecánico en Iquique, se trabaja con piezas cuyas dimensiones están en milímetros.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v10",
       "statement": "¿Para qué valores de $x$ la expresión $\\sqrt{x - 4}$ representa un número real?",
-      "context": "",
+      "context": "Se plantea una pregunta sobre el dominio de las raíces en los números reales.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.5,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la medida del radio del círculo en $\\text{cm}$?",
-      "context": "",
+      "context": "El área de un círculo es $75\\pi \\text{ cm}^2$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.45,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v12",
       "statement": "Simplifique la expresión: $\\frac{(2^3)^2 \\cdot 4^2}{2^{10}}$",
-      "context": "",
+      "context": "Un estudiante en Temuco opera con potencias de potencias y bases distintas.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el resultado de $\\sqrt{12} + \\sqrt{27} - \\sqrt{48}$?",
-      "context": "",
+      "context": "Se analiza el resultado de una suma de raíces de distinto argumento.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v14",
       "statement": "¿Cuál de las siguientes igualdades es FALSA para números reales positivos?",
-      "context": "",
+      "context": "Un grupo de estudio en Valparaíso discute sobre las propiedades de las raíces.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.3,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el orden de mayor a menor?",
-      "context": "",
+      "context": "Se pide ordenar de mayor a menor tres números: $a = 3\\sqrt{2}$, $b = 2\\sqrt{5}$ y $c = 4$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Representación",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v16",
       "statement": "Si la diagonal de un rectángulo de lados $a$ y $b$ es $d = \\sqrt{a^2 + b^2}$, ¿cuál es su valor?",
-      "context": "",
+      "context": "Un arquitecto calcula la diagonal de una habitación de $4 \\text{ m}$ de largo por $3 \\text{ m}$ de ancho.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelación",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el valor de $16^{-3/4}$?",
-      "context": "",
+      "context": "Se analiza el comportamiento de potencias con exponentes negativos y fraccionarios.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.25,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v18",
       "statement": "Si $x^2 = \\sqrt{81}$, ¿cuáles son los posibles valores reales de $x$?",
-      "context": "",
+      "context": "Se requiere resolver una ecuación que involucra una potencia y una raíz.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.2,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v19",
       "statement": "¿A qué equivale la expresión $\\sqrt{x\\sqrt{x}}$ para $x > 0$?",
-      "context": "",
+      "context": "Se pide simplificar una expresión compleja con raíces anidadas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.15,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v20",
       "statement": "¿Cuál de las siguientes igualdades es correcta para cualquier número real $a$?",
-      "context": "",
+      "context": "Un profesor en Concepción desafía a sus alumnos a encontrar el error en una demostración sobre potencias.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.1,
       "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.206Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v1",
+      "statement": "Cuál de los siguientes NO es un accidente del relieve colombiano?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cordillera Occidental",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí es parte del relieve colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "Llanura del Amazonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí es parte del relieve."
+        },
+        {
+          "letter": "C",
+          "text": "Monte Everest",
+          "is_correct": true,
+          "feedback": "Correcto. Está en la cordillera del Himalaya en Asia."
+        },
+        {
+          "letter": "D",
+          "text": "Valle del Magdalena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí es parte del relieve."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Monte Everest (8.848 msnm) está en Nepal. Colombia tiene las tres cordilleras de los Andes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v2",
+      "statement": "Qué río nace en el Macizo Colombiano y desemboca en el mar Caribe?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Río Cauca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desemboca en el Magdalena."
+        },
+        {
+          "letter": "B",
+          "text": "Río Magdalena",
+          "is_correct": true,
+          "feedback": "Correcto. Nace en el Macizo y desemboca en Bocas de Ceniza."
+        },
+        {
+          "letter": "C",
+          "text": "Río Atrato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nace en la Serranía del Baudó."
+        },
+        {
+          "letter": "D",
+          "text": "Río Amazonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nace en Perú."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Magdalena recorre Colombia de sur a norte. Es la principal arteria fluvial del país.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v3",
+      "statement": "Cuáles son los cinco pisos térmicos de Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cálido, templado, frío, páramo y glacial",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Tropical, subtropical, desértico, polar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Alto, medio, bajo, costero, montañoso",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Cálido, semicálido, frío, helado",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pisos: cálido (0-1.000 m, >24°C), templado (1.000-2.000 m, 18-24°C), frío (2.000-3.000 m, 12-18°C), páramo (3.000-4.000 m, 6-12°C), glacial (>4.000 m, <6°C).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v4",
+      "statement": "Cuál es la región natural más poblada de Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la segunda más poblada."
+        },
+        {
+          "letter": "B",
+          "text": "Región Pacífica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Región Andina",
+          "is_correct": true,
+          "feedback": "Correcto. Concentra más del 70% de la población."
+        },
+        {
+          "letter": "D",
+          "text": "Región Orinoquía",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La región Andina tiene las principales ciudades: Bogotá, Medellín, Cali, Bucaramanga.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v5",
+      "statement": "La cuenca hidrográfica más grande de Colombia es la del…",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la más pequeña."
+        },
+        {
+          "letter": "B",
+          "text": "Caribe",
+          "is_correct": true,
+          "feedback": "Correcto. Recibe las aguas del Magdalena, Cauca, Sinú y Atrato."
+        },
+        {
+          "letter": "C",
+          "text": "Orinoco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cubre los Llanos Orientales."
+        },
+        {
+          "letter": "D",
+          "text": "Amazonas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aproximadamente el 65% del territorio drena hacia el mar Caribe.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v6",
+      "statement": "Qué relación existe entre la altitud y la temperatura en Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A mayor altitud, mayor temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "A menor altitud, menor temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "A mayor altitud, menor temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. La temperatura baja 6°C por cada 1.000 m."
+        },
+        {
+          "letter": "D",
+          "text": "La altitud no afecta la temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta relación crea los pisos térmicos, dando gran diversidad de climas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v7",
+      "statement": "Cuántas regiones naturales tiene Colombia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Andina, Caribe, Pacífica, Orinoquía, Amazonía e Insular."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada región tiene características únicas de relieve, clima, vegetación y cultura.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v8",
+      "statement": "El río Magdalena atraviesa principalmente qué región natural?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la parte final."
+        },
+        {
+          "letter": "B",
+          "text": "Región Andina",
+          "is_correct": true,
+          "feedback": "Correcto. Recorre entre la Central y la Oriental."
+        },
+        {
+          "letter": "C",
+          "text": "Región Pacífica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Región Orinoquía",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Magdalena recorre los departamentos de la región Andina: Huila, Tolima, Cundinamarca, Boyacá, Santander.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v9",
+      "statement": "Por qué Colombia no tiene estaciones climáticas marcadas como en Europa?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque está cerca del Ecuador y recibe luz solar constante",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque está en el hemisferio sur",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es muy pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tiene muchos volcanes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el Ecuador la duración del día y la noche es casi igual todo el año.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v10",
+      "statement": "Si la cordillera Central está entre la Occidental y la Oriental, ¿entre qué ríos se encuentra?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre el Cauca y el Magdalena",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Entre el Atrato y el Sinú",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Entre el Amazonas y el Caquetá",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Entre el Meta y el Guaviare",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cordillera Central está entre los valles del Cauca (occidente) y el Magdalena (oriente).\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W10-repaso-p2-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

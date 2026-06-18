@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición matemática de una función racional?",
-      "context": "",
+      "context": "En una clase de matemáticas en Colima, los estudiantes exploran funciones que se representan como el cociente de dos polinomios.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Definición de función racional",
+      "expected_success": 0.9,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v2",
       "statement": "¿Por qué el valor $x = 0$ se excluye del dominio de la función $f(x) = \\frac{1}{x}$?",
-      "context": "",
+      "context": "Un estudiante en la Ciudad de México analiza la función $f(x) = \\frac{1}{x}$. Sabe que no puede dividir entre cero.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Restricciones del dominio",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v3",
       "statement": "¿Cómo se le denomina a la recta vertical a la cual la gráfica de una función racional se aproxima indefinidamente pero nunca llega a tocar?",
-      "context": "",
+      "context": "Se estudia el comportamiento de una función cuando los valores de $x$ se acercan a un valor prohibido en el dominio.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Concepto de asíntota vertical",
+      "expected_success": 0.88,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la intersección con el eje $y$ de la función $C(x) = \\frac{2x + 10}{x + 2}$?",
-      "context": "",
+      "context": "Un analista químico en un laboratorio de Veracruz utiliza la función $C(x) = \\frac{2x + 10}{x + 2}$ para medir la concentración de una sustancia.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Intersección con el eje Y",
+      "expected_success": 0.82,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v5",
       "statement": "¿Cuáles son las ecuaciones de las asíntotas verticales de la función $f(x) = \\frac{x + 4}{x^2 - 9}$?",
-      "context": "",
+      "context": "En un examen simulacro EXANI-II, se pide identificar las líneas divisorias de la función $f(x) = \\frac{x + 4}{x^2 - 9}$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Determinación de asíntotas verticales",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la ecuación de la asíntota horizontal de la función $V(t) = \\frac{6t - 2}{2t + 5}$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería en el IPN analiza el comportamiento a largo plazo de un circuito eléctrico modelado por $V(t) = \\frac{6t - 2}{2t + 5}$.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Asíntotas horizontales (Grados iguales)",
+      "expected_success": 0.72,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v7",
       "statement": "¿En qué valores de $x$ la función $g(x) = \\frac{x^2 - 16}{x + 5}$ interseca al eje de las abscisas?",
-      "context": "",
+      "context": "En un curso de cálculo en Michoacán, se pide hallar los puntos donde la gráfica de $g(x) = \\frac{x^2 - 16}{x + 5}$ cruza el eje horizontal.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Intersecciones con el eje X",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la asíntota horizontal de la función $f(x) = \\frac{10}{x^2 + 1}$?",
-      "context": "",
+      "context": "Se observa la función $f(x) = \\frac{10}{x^2 + 1}$. Un estudiante nota que para valores muy grandes de $x$, el resultado de la función es casi cero.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Asíntota horizontal (Grado denominador mayor)",
+      "expected_success": 0.78,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el costo promedio por libreta si se producen 500 unidades?",
-      "context": "",
+      "context": "El costo promedio de producir $n$ libretas en una papelería de Guadalajara es $P(n) = \\frac{5n + 1000}{n}$, donde 1000 representa el costo fijo y 5 el costo por libreta.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluación en situaciones reales",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v10",
       "statement": "¿Hacia dónde se desplazó la gráfica de $f(x)$ y dónde se encuentran ahora sus asíntotas?",
-      "context": "",
+      "context": "Partiendo de la función básica $f(x) = \\frac{1}{x}$, un estudiante aplica transformaciones para obtener $g(x) = \\frac{1}{x - 5} + 2$.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Transformaciones de la función recíproca",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v11",
       "statement": "¿Qué ocurre en la gráfica de la función $f(x) = \\frac{x^2 - 1}{x - 1}$ en el valor $x = 1$?",
-      "context": "",
+      "context": "Un estudiante analiza la función $f(x) = \\frac{x^2 - 1}{x - 1}$. Nota que el numerador puede factorizarse.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discontinuidades removibles (Huecos)",
+      "expected_success": 0.62,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v12",
       "statement": "¿Cuál de las siguientes expresiones podría representar a la función descrita con asíntotas en $x = 1, x = -1$ e $y = 0$?",
-      "context": "",
+      "context": "Se presenta una gráfica con dos asíntotas verticales en $x = 1$ y $x = -1$, y una horizontal en $y = 0$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de funciones racionales complejas",
+      "expected_success": 0.58,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v13",
       "statement": "¿En qué intervalo de valores de $x$ la función $f(x) = \\frac{x - 3}{x + 2}$ arroja resultados **negativos** ($f(x) < 0$)?",
-      "context": "",
+      "context": "Un investigador estudia el signo de la función $f(x) = \\frac{x - 3}{x + 2}$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Signo de la función en intervalos",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v14",
       "statement": "¿Qué tipo de asíntota presenta la función $h(x) = \\frac{x^2 + 1}{x - 1}$ además de su asíntota vertical?",
-      "context": "",
+      "context": "En un curso avanzado en Nuevo León, se analiza la función $h(x) = \\frac{x^2 + 1}{x - 1}$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Asíntota oblicua (Concepto)",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el dominio de la función real $k(x) = \\frac{5}{x^2 + 4}$?",
-      "context": "",
+      "context": "Se presenta la función $k(x) = \\frac{5}{x^2 + 4}$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dominio con expresiones cuadráticas en el denominador",
+      "expected_success": 0.56,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la forma simplificada de la expresión $\\frac{2x^2 - 8}{x + 2}$ para valores de $x \\neq -2$?",
-      "context": "",
+      "context": "Un estudiante de preparatoria técnica debe simplificar $\\frac{2x^2 - 8}{x + 2}$ para facilitar su graficación.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Simplificación de expresiones racionales",
+      "expected_success": 0.52,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la función $T(v)$ que representa el tiempo total de ida y vuelta en términos de la velocidad de ida $v$?",
-      "context": "",
+      "context": "Un mensajero viaja de CDMX a Puebla (120 km) a una velocidad $v$ y regresa a una velocidad $v + 20$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelado de velocidad promedio",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v18",
       "statement": "¿Cuál de las siguientes funciones cumple simultáneamente con tener asíntotas verticales en $x = 2, x = 4$ y horizontal en $y = 3$?",
-      "context": "",
+      "context": "Se requiere diseñar una función racional con asíntotas verticales en $x = 2$ y $x = 4$, y una asíntota horizontal en $y = 3$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Construcción de funciones con condiciones dadas",
+      "expected_success": 0.42,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v19",
       "statement": "¿Hacia qué valor tiende $f(x) = \\frac{5x - 1}{x - 2}$ cuando $x$ se aproxima a 2 por valores ligeramente mayores (por la derecha)?",
-      "context": "",
+      "context": "Se analiza el comportamiento de $f(x) = \\frac{5x - 1}{x - 2}$ cuando $x$ se acerca a 2 por la derecha ($x \\to 2^+$).",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis de límites infinitos",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el rango de la función $f(x) = \\frac{4x + 1}{x - 3}$?",
-      "context": "",
+      "context": "Un estudiante busca el rango de la función $f(x) = \\frac{4x + 1}{x - 3}$. Sabe que el rango suele ser todo $\\mathbb{R}$ excepto el valor de la asíntota horizontal.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis de rango en funciones racionales simples",
+      "expected_success": 0.38,
       "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

@@ -10,7 +10,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1",
       "statement": "En el término algebraico $-5x^3y^2$, ¿cuál es el coeficiente numérico?",
-      "context": "",
+      "context": "En una clase de álgebra en Santiago, se definen los elementos de un término algebraico.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.85,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de los siguientes términos es semejante a $3ab^2$?",
-      "context": "",
+      "context": "Un estudiante identifica términos semejantes para simplificar una expresión.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Representación",
+      "expected_success": 0.8,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3",
       "statement": "Reduzca la siguiente expresión: $5x + 3y - 2x + 4y$",
-      "context": "",
+      "context": "Se requiere reducir términos semejantes en un polinomio.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.75,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el grado del polinomio $P(x) = 4x^5 - 2x^2 + 7$?",
-      "context": "",
+      "context": "Diego analiza el grado de un polinomio.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.7,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5",
       "statement": "Si $a = 2$ y $b = -3$, ¿cuál es el valor de $a^2 - 2b$?",
-      "context": "",
+      "context": "Valentina evalúa una expresión algebraica para un valor determinado.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6",
       "statement": "¿A qué expresión equivale $3x(2x - 5)$?",
-      "context": "",
+      "context": "Se aplica la propiedad distributiva para multiplicar un monomio por un binomio.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Representación",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7",
       "statement": "Desarrolle la expresión $(x + 4)^2$.",
-      "context": "",
+      "context": "Matías resuelve un producto notable: el cuadrado de un binomio.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.65,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8",
       "statement": "Si el ancho se representa por $x$, ¿cuál es la expresión para el área de la habitación?",
-      "context": "",
+      "context": "Un arquitecto diseña una habitación rectangular cuyo largo es el doble del ancho más 3 metros.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.55,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9",
       "statement": "Simplifique la expresión $\\frac{10a^3b^2}{5ab^2}$ para $a, b \\neq 0$.",
-      "context": "",
+      "context": "En un laboratorio, se simplifica una fracción algebraica.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.6,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el resultado de $(3x - 2)(3x + 2)$?",
-      "context": "",
+      "context": "Camila analiza el producto de una suma por su diferencia.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.5,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11",
       "statement": "Factorice completamente la expresión $6x^2y - 9xy^2$.",
-      "context": "",
+      "context": "Se busca factorizar una expresión usando factor común.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelación",
+      "expected_success": 0.45,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la factorización de $x^2 - 5x + 6$?",
-      "context": "",
+      "context": "Un estudiante factoriza un trinomio de la forma $x^2 + bx + c$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13",
       "statement": "Reste $(2a^2 - 3a + 5)$ de $(5a^2 + a - 2)$.",
-      "context": "",
+      "context": "Se analiza el resultado de una resta de polinomios con paréntesis.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la factorización de $4x^2 - 25$?",
-      "context": "",
+      "context": "Un grupo de estudio discute la validez de una factorización por diferencia de cuadrados.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.3,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la expresión para el área del cuadrado?",
-      "context": "",
+      "context": "Se pide expresar el área de un cuadrado cuyo lado mide $(2x - 3) \\text{ cm}$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Representación",
+      "expected_success": 0.35,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16",
       "statement": "Si $v = 5$, $a = 2$ y $t = x$, ¿cuál es la expresión algebraica para la distancia $d$?",
-      "context": "",
+      "context": "En un problema de física en Concepción, se utiliza la fórmula $d = vt + \\frac{1}{2}at^2$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelación",
+      "expected_success": 0.4,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17",
       "statement": "Simplifique la expresión $\\frac{x^2 - 9}{x^2 + 6x + 9}$ para $x \\neq -3$.",
-      "context": "",
+      "context": "Un estudiante analiza la simplificación de una fracción algebraica compleja.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.25,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18",
       "statement": "¿Qué valor debe tener $k$ en la expresión $x^2 + 10x + k$ para que sea un cuadrado de binomio?",
-      "context": "",
+      "context": "Se requiere encontrar el valor de $k$ para que un trinomio sea un cuadrado perfecto.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.2,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es el resultado de desarrollar $(x - 2)^3$?",
-      "context": "",
+      "context": "Se pide resolver el producto notable de cubos.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolución de problemas",
+      "expected_success": 0.15,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la factorización correcta de $x^3 + 27$?",
-      "context": "",
+      "context": "Un profesor en Puerto Montt pregunta sobre la factorización de una suma de cubos.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.1,
       "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

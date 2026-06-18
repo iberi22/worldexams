@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-7-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.592Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v1",
+      "statement": "*\"No estudió, por eso sacó nota baja.\"* ¿Consecuencia?",
+      "context": "Consecuencia explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nota alta.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nota baja.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Premio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Felicitaciones.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Consecuencia explícita.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v2",
+      "statement": "*\"Llovió toda la noche, el río creció y calles se inundaron.\"* ¿Consecuencia?",
+      "context": "Consecuencia lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hizo sol.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Río creció y calles se inundaron.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Niños jugaron.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Paseo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Consecuencia explícita.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v3",
+      "statement": "*\"Sembraron árboles, hubo menos deslizamientos.\"* ¿Consecuencia?",
+      "context": "Consecuencia positiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Más deslizamientos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Menos deslizamientos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Árboles se secaron.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Consecuencia positiva.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v4",
+      "statement": "*\"Recogieron basura del patio. Colegio limpio.\"* ¿Consecuencia?",
+      "context": "Consecuencia limpieza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colegio sucio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Colegio limpio.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiantes se fueron.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Llegó basura.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Consecuencia positiva.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v5",
+      "statement": "*\"El volcán hizo erupción, por lo tanto ceniza cubrió cultivos.\"* ¿Conector?",
+      "context": "Conector consecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "volcán",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "erupción",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "por lo tanto",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "cultivos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Conector de consecuencia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v6",
+      "statement": "*\"Doña Marta dejó la olla en el fogón encendido y salió.\"* ¿Qué podría pasar?",
+      "context": "Predecir peligro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comida se enfrió.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Podría quemarse y causar incendio.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Nada grave.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Llegaron visitas.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Predecir consecuencia peligrosa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v7",
+      "statement": "*\"Niños jugaron con arena mojada y se ensuciaron. Mamá estricta.\"* ¿Qué pasa?",
+      "context": "Consecuencia lógica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los felicitó.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Les llamó la atención.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "No se dio cuenta.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Compró ropa nueva.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir consecuencia lógica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v8",
+      "statement": "*\"No desayunó. En ed. física se sintió débil.\"* ¿Cadena?",
+      "context": "Cadena de consecuencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No desayunar -> débil -> bajo rendimiento.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Ed.física -> no desayunar.",
+          "is_correct": false,
+          "feedback": "Invertido."
+        },
+        {
+          "letter": "C",
+          "text": "Débil -> no desayunar.",
+          "is_correct": false,
+          "feedback": "Invertido."
+        },
+        {
+          "letter": "D",
+          "text": "No hay relación.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cadena causal.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v9",
+      "statement": "*\"Golpearon ventana con piedra y el vidrio se rompió.\"* ¿CONSECUENCIA?",
+      "context": "Causa vs consecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Golpearon con piedra.",
+          "is_correct": false,
+          "feedback": "Causa."
+        },
+        {
+          "letter": "B",
+          "text": "Vidrio se rompió.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Piedra era grande.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ventana frágil.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v10",
+      "statement": "*\"En la Guajira no ha llovido en 6 meses.\"* ¿Consecuencia posible?",
+      "context": "Consecuencia sequía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cultivos crecieron.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Escasez de agua, cultivos se secan.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ríos crecieron.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hace frío.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Consecuencia de sequía.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

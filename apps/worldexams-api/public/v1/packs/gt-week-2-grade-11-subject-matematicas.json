@@ -10,7 +10,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se define matemáticamente la relación entre dos cantidades que se comparan por medio de un cociente?",
-      "context": "",
+      "context": "En una tienda de abarrotes en Antigua Guatemala, el dueño compara la cantidad de arroz y frijol que vende en un día.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la razón de leche a agua según la receta mencionada?",
-      "context": "",
+      "context": "Una receta para preparar atol de elote en Quetzaltenango indica que se deben usar 3 tazas de agua por cada taza de leche.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v3",
       "statement": "En una proporción de la forma $a/b = c/d$, ¿cuál es la propiedad fundamental que permite verificar si es correcta?",
-      "context": "",
+      "context": "Un estudiante revisa las propiedades de las proporciones para resolver problemas de escala en mapas de Guatemala.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.85,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v4",
       "statement": "¿Qué tipo de relación existe entre el número de tejedores (trabajando al mismo ritmo) y el tiempo necesario para terminar un pedido grande?",
-      "context": "",
+      "context": "Un artesano textil en Sololá observa que el tiempo que tarda en tejer un huipil depende de su complejidad.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.8,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v5",
       "statement": "Si el agricultor necesita usar 25 kg de fósforo, ¿cuántos kg de nitrógeno debe agregar para mantener la proporción?",
-      "context": "",
+      "context": "Una finca de café en Cobán utiliza una mezcla específica de fertilizante. Se mezclan 4 kg de nitrógeno por cada 10 kg de fósforo.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v6",
       "statement": "Si un artículo tiene un $25\\%$ de descuento, ¿qué fracción del precio original representa el ahorro?",
-      "context": "",
+      "context": "Un centro comercial en Ciudad de Guatemala anuncia una liquidación de temporada.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.75,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v7",
       "statement": "Si un turista cambia $\\$150.00$, ¿cuántos Quetzales recibirá?",
-      "context": "",
+      "context": "Un grupo de turistas en Petén cambia sus dólares a Quetzales. La tasa de cambio es de $\\$1$ por GTQ $7.80$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v8",
       "statement": "¿Qué porcentaje de los estudiantes prefiere el fútbol?",
-      "context": "",
+      "context": "En una encuesta realizada en una escuela de Escuintla, 18 de cada 30 estudiantes prefieren el fútbol sobre otros deportes.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v9",
       "statement": "Si para el regreso decide aumentar su velocidad a $100$ km/h, ¿cuánto tiempo tardará en realizar el mismo trayecto?",
-      "context": "",
+      "context": "Un conductor viaja de Guatemala a Mazatenango a una velocidad constante de $80$ km/h y tarda $2$ horas.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.65,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v10",
       "statement": "Si el precio de un televisor antes de impuestos es de GTQ $2,500.00$, ¿cuál es el valor únicamente del impuesto?",
-      "context": "",
+      "context": "El Impuesto al Valor Agregado (IVA) en Guatemala es del $12\\%$.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.7,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v11",
       "statement": "Si se utilizan $14$ metros cúbicos de arena, ¿cuál es el volumen total de la mezcla producida?",
-      "context": "",
+      "context": "Una constructora en Villa Nueva mezcla cemento, arena y piedrín en una razón de $1:2:4$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.6,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v12",
       "statement": "¿Cuál fue el porcentaje de incremento en el precio del galón de gasolina?",
-      "context": "",
+      "context": "El precio de la gasolina en Guatemala subió de GTQ $28.00$ a GTQ $35.00$ por galón en un mes.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v13",
       "statement": "Si la brigada recibe a $10$ personas más, ¿cuántos días durarán los mismos suministros si todos consumen la misma ración?",
-      "context": "",
+      "context": "Una brigada médica en el Quiché estima que sus suministros durarán $15$ días para $40$ personas.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v14",
       "statement": "¿Cuál será el monto total (capital + interés) en la cuenta después de $4$ años?",
-      "context": "",
+      "context": "Un inversionista guatemalteco coloca GTQ $10,000.00$ en una cuenta que paga el $6\\%$ de interés simple anual.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v15",
       "statement": "¿Cuántas prendas producirán $10$ máquinas en $3$ horas, asumiendo que todas trabajan al mismo ritmo?",
-      "context": "",
+      "context": "En una maquila en Mixco, se sabe que $6$ máquinas producen $1,200$ prendas en $4$ horas.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.55,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es el precio final que paga el comerciante?",
-      "context": "",
+      "context": "Un comerciante compra un lote de artesanías. El precio de lista es de GTQ $500.00$. Se le aplica un primer descuento del $20\\%$ y luego un segundo descuento del $10\\%$ sobre lo ya rebajado.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.5,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v17",
       "statement": "¿Cuántos kg de maíz se deben añadir si ya se tienen $250$ kg de soya en el recipiente para que la mezcla cumpla con la razón requerida al completar la tonelada?",
-      "context": "",
+      "context": "Una mezcla de concentrado para ganado en una granja de Jutiapa tiene una relación de maíz a soya de $7:3$. Si se quiere preparar una tonelada ($1,000$ kg) de mezcla.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v18",
       "statement": "Si se depositan GTQ $8,000.00$, ¿cuál será el saldo después de $2$ años?",
-      "context": "",
+      "context": "Un banco ofrece una tasa de interés compuesto del $5\\%$ anual capitalizable anualmente.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.45,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v19",
       "statement": "¿Cuánto dinero más recibe el socio que más invirtió en comparación con el que menos invirtió?",
-      "context": "",
+      "context": "Tres socios en un negocio en Chimaltenango invierten capitales en la razón de $2:3:5$. Al final del año, las ganancias totales son de GTQ $150,000.00$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.4,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v20",
       "statement": "Si en el mapa la distancia entre la Ciudad de Guatemala y Antigua Guatemala es de $18$ cm, ¿cuál es la distancia real en kilómetros?",
-      "context": "",
+      "context": "Un mapa de Guatemala tiene una escala de $1:250,000$.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Lógico-Matemático",
+      "expected_success": 0.35,
       "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.141Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v1",
+      "statement": "¿A qué se refiere Mariana cuando habla de la lluvia que está cayendo en este momento exacto?",
+      "context": "Mariana mira por la ventana y dice: \"Hoy está lloviendo mucho, mejor me quedo en casa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al clima de su ciudad",
+          "is_correct": false,
+          "feedback": "El clima es lo que pasa durante muchos años; un evento de un momento se llama de otra forma."
+        },
+        {
+          "letter": "B",
+          "text": "Al estado del tiempo",
+          "is_correct": true,
+          "feedback": "El tiempo atmosférico describe las condiciones del aire en un momento y lugar determinado (ahora mismo)."
+        },
+        {
+          "letter": "C",
+          "text": "Al año calendario",
+          "is_correct": false,
+          "feedback": "El calendario mide el tiempo cronológico (días, meses), no las condiciones de lluvia o sol."
+        },
+        {
+          "letter": "D",
+          "text": "A la fotosíntesis nocturna",
+          "is_correct": false,
+          "feedback": "La fotosíntesis es un proceso de las plantas, no una descripción del estado del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estado del tiempo cambia rápido. Puede estar soleado en la mañana y lluvioso en la tarde. Es lo que vemos cuando consultamos el celular para saber si necesitamos llevar paraguas hoy.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v2",
+      "statement": "¿Cómo se le llama al conjunto de condiciones atmosféricas que se repiten en una región durante muchos años?",
+      "context": "Un profesor explica que en los Llanos Orientales siempre hace calor y hay épocas de mucha lluvia todos los años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clima",
+          "is_correct": true,
+          "feedback": "El clima es el promedio de las condiciones del tiempo medido durante al menos 30 años en un lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Noticiero",
+          "is_correct": false,
+          "feedback": "Las noticias informan sobre el tiempo, pero no son el fenómeno natural en sí mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Estación de radio",
+          "is_correct": false,
+          "feedback": "Es un medio de comunicación; el término científico para las condiciones permanentes es clima."
+        },
+        {
+          "letter": "D",
+          "text": "Inundación momentánea",
+          "is_correct": false,
+          "feedback": "Una inundación es un evento del tiempo extremo, no el estado normal y permanente de una región."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima es la \"personalidad\" de un lugar. Por ejemplo, el clima de la costa es cálido, aunque hoy el tiempo esté un poco fresco por una lluvia pasajera. El clima es estable, el tiempo es caprichoso.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v3",
+      "statement": "¿Qué instrumentos usan los científicos (meteorólogos) para medir el estado del tiempo?",
+      "context": "Para estudiar el clima de un país como Colombia, los científicos necesitan recolectar datos todos los días durante décadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regla, compás y transportador",
+          "is_correct": false,
+          "feedback": "Estos son instrumentos de geometría para medir ángulos y distancias en papel."
+        },
+        {
+          "letter": "B",
+          "text": "Termómetro, pluviómetro y veleta",
+          "is_correct": true,
+          "feedback": "Miden la temperatura, la cantidad de lluvia y la dirección del viento, respectivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Reloj, cronómetro y calendario",
+          "is_correct": false,
+          "feedback": "Estos miden el paso del tiempo cronológico, no las variables de la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Microscopio y telescopio",
+          "is_correct": false,
+          "feedback": "Sirven para ver cosas muy pequeñas o muy lejanas, no para medir la lluvia o el calor del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La meteorología es la ciencia que estudia el tiempo. Usando estos aparatos, los científicos pueden predecir si va a llover mañana o si un huracán se está acercando a la costa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v4",
+      "statement": "¿Cambiaron esos 10 minutos de granizo el \"clima\" de Neiva?",
+      "context": "Juan vive en Neiva y sabe que allí casi siempre hace calor. Un día, cae una granizada muy extraña que dura 10 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, ahora Neiva tiene clima polar",
+          "is_correct": false,
+          "feedback": "Un evento corto no cambia las condiciones promedio de calor de una ciudad tropical."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el hielo es muy frío",
+          "is_correct": false,
+          "feedback": "El hielo baja la temperatura un momento, pero el sol volverá a calentar como siempre."
+        },
+        {
+          "letter": "C",
+          "text": "No, fue solo un cambio pasajero del estado del tiempo",
+          "is_correct": true,
+          "feedback": "El clima sigue siendo cálido; la granizada fue un evento atmosférico inusual y corto."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el granizo es de mentira",
+          "is_correct": false,
+          "feedback": "El granizo es real (precipitación sólida), pero no define el promedio de temperatura de años."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es fundamental entender la escala de tiempo. El clima es como tu carácter (siempre eres alegre), y el estado del tiempo es como un momento de mal genio (un ratito y ya). El granizo no hace que Neiva deje de ser una ciudad caliente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v5",
+      "statement": "¿En qué debes basar tu elección de ropa para esos 15 días: en el clima de la selva o en el tiempo que hace hoy en tu casa?",
+      "context": "Tienes que elegir qué ropa llevar para una excursión de 15 días a la selva del Amazonas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el tiempo de mi casa",
+          "is_correct": false,
+          "feedback": "Tu casa puede estar en un clima muy diferente al de la selva, por lo que llevarías ropa equivocada."
+        },
+        {
+          "letter": "B",
+          "text": "En el clima de la selva (calor y lluvia)",
+          "is_correct": true,
+          "feedback": "Conocer el clima te permite saber qué es lo más probable que necesites durante dos semanas."
+        },
+        {
+          "letter": "C",
+          "text": "Solo en lo que digan mis amigos",
+          "is_correct": false,
+          "feedback": "La información científica sobre el clima regional es más confiable que las opiniones personales."
+        },
+        {
+          "letter": "D",
+          "text": "No importa, la selva es de cemento",
+          "is_correct": false,
+          "feedback": "La selva es un ecosistema natural con condiciones de humedad y calor muy específicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Prepararse para un viaje requiere conocer el clima. Si sabemos que el Amazonas tiene un clima cálido y húmedo, llevaremos ropa fresca y un impermeable, sin importar cómo esté el cielo en nuestra ciudad hoy.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v6",
+      "statement": "¿Qué podemos decir sobre el estado del tiempo en ese lugar durante esa hora?",
+      "context": "El pluviómetro de una estación marca que han caído 50 milímetros de agua en una sola hora. El promedio de lluvia de ese lugar es de 10 milímetros por mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no llovió nada",
+          "is_correct": false,
+          "feedback": "El número 50 indica una cantidad considerable de agua captada por el instrumento."
+        },
+        {
+          "letter": "B",
+          "text": "Que hubo una tormenta muy fuerte e inusual",
+          "is_correct": true,
+          "feedback": "Cayó en una hora lo que normalmente cae en cinco meses; es un evento del tiempo extremo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el clima cambió para siempre",
+          "is_correct": false,
+          "feedback": "Una tormenta, por fuerte que sea, es un dato que se suma al promedio, no cambia el clima de inmediato."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pluviómetro está roto",
+          "is_correct": false,
+          "feedback": "Los datos extremos ocurren en la naturaleza y sirven para estudiar los cambios en el tiempo atmosférico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los eventos extremos son parte del estudio del tiempo. Cuando ocurren muchas tormentas así seguidas durante años, entonces los científicos empiezan a pensar que tal vez el clima sí está cambiando.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v7",
+      "statement": "¿Qué información nos dan esos colores en el mapa climático?",
+      "context": "Un mapa del clima de Colombia muestra colores verdes oscuros para las selvas y amarillos para los desiertos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dónde va a llover mañana a las 5:00 PM",
+          "is_correct": false,
+          "feedback": "Esa información es de un pronóstico del tiempo, no de un mapa de climas permanentes."
+        },
+        {
+          "letter": "B",
+          "text": "Las condiciones generales de humedad y vegetación de cada región",
+          "is_correct": true,
+          "feedback": "El mapa muestra cómo es normalmente cada lugar, ayudándonos a entender la geografía nacional."
+        },
+        {
+          "letter": "C",
+          "text": "El color de las casas de la gente",
+          "is_correct": false,
+          "feedback": "El clima influye en la arquitectura, pero los colores del mapa representan variables naturales (lluvia/calor)."
+        },
+        {
+          "letter": "D",
+          "text": "Por dónde caminan los animales",
+          "is_correct": false,
+          "feedback": "Aunque los animales siguen el clima, el mapa describe la atmósfera y el suelo, no rutas individuales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mapas climáticos son herramientas para planear el futuro. Sirven para saber dónde construir represas, dónde sembrar comida o qué zonas proteger porque son desiertos muy secos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v8",
+      "statement": "¿Qué debe consultar Mariana para tomar su decisión?",
+      "context": "Mariana quiere saber si mañana debe llevar botas de caucho al colegio porque el camino se llena de barro cuando llueve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mapa de los climas del mundo",
+          "is_correct": false,
+          "feedback": "Ese mapa le dirá que vive en el trópico, pero no si va a llover mañana específicamente."
+        },
+        {
+          "letter": "B",
+          "text": "Un libro de historia antigua",
+          "is_correct": false,
+          "feedback": "La historia cuenta el pasado humano, no las condiciones atmosféricas de las próximas 24 horas."
+        },
+        {
+          "letter": "C",
+          "text": "El pronóstico del tiempo para su ciudad",
+          "is_correct": true,
+          "feedback": "El pronóstico es la predicción científica de cómo estará el aire en las próximas horas o días."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura de su nevera",
+          "is_correct": false,
+          "feedback": "La nevera tiene un control de temperatura artificial que no tiene relación con el cielo exterior."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pronóstico del tiempo es una aplicación práctica de la ciencia. Gracias a satélites y computadoras, podemos saber con bastante precisión si el tiempo va a cambiar pronto, ayudándonos en nuestra vida diaria.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v9",
+      "statement": "¿Estas \"épocas\" de varios meses forman parte del clima o del estado del tiempo diario?",
+      "context": "En Colombia decimos que hay \"época de verano\" y \"época de invierno\" (lluvias), pero estas duran varios meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son variaciones estacionales de nuestro clima tropical",
+          "is_correct": true,
+          "feedback": "Al durar meses y repetirse todos los años, son características estables de nuestro clima."
+        },
+        {
+          "letter": "B",
+          "text": "Son cambios del tiempo de cada hora",
+          "is_correct": false,
+          "feedback": "El tiempo diario puede ser soleado en pleno \"invierno\" o lluvioso en pleno \"verano\" regional."
+        },
+        {
+          "letter": "C",
+          "text": "Son inventos de la gente",
+          "is_correct": false,
+          "feedback": "Son fenómenos reales causados por el movimiento de las nubes y los vientos en el ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "Son culpa de los astronautas",
+          "is_correct": false,
+          "feedback": "La actividad espacial no influye en los ciclos de lluvia y sequía naturales de la Tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el trópico no tenemos las cuatro estaciones (primavera, etc.), pero nuestro clima tiene ciclos de lluvia y sequía. Conocer estos ciclos es vital para que los campesinos sepan cuándo sembrar sus semillas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v10",
+      "statement": "¿Es correcto el razonamiento de esta persona desde el punto de vista científico?",
+      "context": "Una persona afirma: \"Como ayer hizo frío y hoy también, eso significa que el clima de mi ciudad ya cambió para siempre\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, dos días son suficientes para saberlo",
+          "is_correct": false,
+          "feedback": "Dos días son un suspiro en el tiempo de la Tierra; no definen un clima regional."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el frío se contagia",
+          "is_correct": false,
+          "feedback": "La temperatura es una variable física, no una enfermedad que se contagie entre los días."
+        },
+        {
+          "letter": "C",
+          "text": "No, se necesitan muchos años de datos para hablar de un cambio de clima",
+          "is_correct": true,
+          "feedback": "El clima se mide en décadas; lo que la persona siente es solo una racha del estado del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque en las ciudades no hay clima",
+          "is_correct": false,
+          "feedback": "Todas las partes del planeta tienen un clima, ya sea natural o modificado por el hombre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para decir que el clima cambió, debemos ver que la temperatura promedio de los últimos 30 años es mayor o menor que la de los 30 años anteriores. No podemos juzgar el clima por lo que pasó ayer o hoy; eso es solo el tiempo atmosférico.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v1",
+      "statement": "¿Cómo se llama la capa de aire que rodea a nuestro planeta y nos protege de los peligros del espacio?",
+      "context": "En un mapa de la Tierra, se observa una capa de gases que la envuelve totalmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrosfera",
+          "is_correct": false,
+          "feedback": "La hidrosfera es toda el agua del planeta, no la capa de gases que lo rodea."
+        },
+        {
+          "letter": "B",
+          "text": "La atmósfera",
+          "is_correct": true,
+          "feedback": "Es la mezcla de gases (aire) que envuelve a la Tierra, permitiendo la vida y regulando la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La litosfera",
+          "is_correct": false,
+          "feedback": "La litosfera es la parte sólida o rocosa de la superficie terrestre, no la parte gaseosa."
+        },
+        {
+          "letter": "D",
+          "text": "La biosfera",
+          "is_correct": false,
+          "feedback": "La biosfera es el conjunto de todos los seres vivos, no solo la capa de aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La atmósfera es indispensable. Sin ella no habría aire para respirar, el agua se evaporaría al espacio y el sol quemaría todo con su radiación directa. Es el escudo vital de nuestro mundo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v2",
+      "statement": "¿Qué propiedad del aire se demuestra cuando el globo se infla y toma una forma redondeada?",
+      "context": "Juan infla un globo y nota que ahora ocupa mucho espacio en su habitación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el aire es líquido",
+          "is_correct": false,
+          "feedback": "El aire es un gas; los líquidos no se expanden para llenar todo el volumen de un globo."
+        },
+        {
+          "letter": "B",
+          "text": "Que el aire ocupa un lugar en el espacio",
+          "is_correct": true,
+          "feedback": "Aunque sea invisible, el aire es materia y requiere un volumen físico para existir."
+        },
+        {
+          "letter": "C",
+          "text": "Que el aire es de color blanco",
+          "is_correct": false,
+          "feedback": "El color blanco es el látex del globo; el aire en su interior sigue siendo incoloro."
+        },
+        {
+          "letter": "D",
+          "text": "Que el aire no pesa nada",
+          "is_correct": false,
+          "feedback": "Al contrario, inflar algo añade una pequeña cantidad de peso, demostrando que el aire tiene masa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque no lo veamos, el aire es \"algo\". Al meterlo en el globo, sus moléculas empujan las paredes hacia afuera, demostrando que el aire es materia que llena los espacios vacíos a nuestro alrededor.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v3",
+      "statement": "¿Cuál es el gas del aire que permite que las cosas se quemen (combustión) y que los animales respiren?",
+      "context": "Para que una fogata arda y dé calor, necesita que el aire esté presente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno",
+          "is_correct": true,
+          "feedback": "El oxígeno es el gas activo que permite tanto la vida animal como la existencia del fuego."
+        },
+        {
+          "letter": "B",
+          "text": "Nitrógeno",
+          "is_correct": false,
+          "feedback": "El nitrógeno es el más abundante pero no participa en la respiración ni en la combustión."
+        },
+        {
+          "letter": "C",
+          "text": "Dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Este gas es el desecho de la respiración y tiende a apagar el fuego en lugar de alimentarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Helio",
+          "is_correct": false,
+          "feedback": "El helio es un gas muy escaso en el aire común y no sirve para respirar ni para quemar madera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El oxígeno representa solo una quinta parte del aire, pero es la parte más activa. Sin él, las células no tendrían energía y las estufas de leña no podrían calentar nuestra comida.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v4",
+      "statement": "¿A qué se refiere el periodista al dar esta información sobre un día específico?",
+      "context": "En las noticias dicen: \"Mañana en Bogotá habrá un cielo despejado con 20 grados de temperatura\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al clima de Bogotá",
+          "is_correct": false,
+          "feedback": "El clima es el promedio de muchos años; la predicción para un día es el tiempo atmosférico."
+        },
+        {
+          "letter": "B",
+          "text": "Al estado del tiempo",
+          "is_correct": true,
+          "feedback": "El tiempo describe cómo está el aire hoy o mañana en un lugar determinado."
+        },
+        {
+          "letter": "C",
+          "text": "Al año bisiesto",
+          "is_correct": false,
+          "feedback": "Este es un concepto de calendario astronómico, no de condiciones de lluvia o calor."
+        },
+        {
+          "letter": "D",
+          "text": "A la fotosíntesis urbana",
+          "is_correct": false,
+          "feedback": "La fotosíntesis la hacen las plantas; el periodista habla de las condiciones del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es común confundir clima con tiempo. El clima de Bogotá es frío (permanente), pero el estado del tiempo hoy puede ser soleado. El pronóstico nos ayuda a saber qué ropa usar cada día.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v5",
+      "statement": "¿Cómo cambia la temperatura del aire a medida que Mariana sube la montaña?",
+      "context": "Mariana viaja de una playa en Cartagena hacia un nevado en la cordillera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace más calor cada vez",
+          "is_correct": false,
+          "feedback": "Al contrario, el calor se concentra en las tierras bajas; la altura trae frío."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura baja y hace más frío",
+          "is_correct": true,
+          "feedback": "A mayor altitud, el aire es menos denso y la temperatura disminuye notablemente."
+        },
+        {
+          "letter": "C",
+          "text": "El aire se vuelve de color verde",
+          "is_correct": false,
+          "feedback": "El color del aire no cambia con la altura; sigue siendo una mezcla transparente de gases."
+        },
+        {
+          "letter": "D",
+          "text": "No pasa nada con la temperatura",
+          "is_correct": false,
+          "feedback": "La altura es el factor principal que cambia el clima en un país montañoso como Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se conoce como pisos térmicos. Colombia tiene la ventaja de tener todos los climas gracias a que nuestras montañas nos permiten \"subir al frío\" o \"bajar al calor\" en unas pocas horas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v6",
+      "statement": "¿Qué causa que el aire se mueva y forme el viento?",
+      "context": "En la costa hace mucho viento de día desde el mar hacia la tierra. De noche, a veces el viento cambia de dirección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El movimiento de los peces",
+          "is_correct": false,
+          "feedback": "Los animales no tienen la fuerza para mover las masas de aire de la atmósfera."
+        },
+        {
+          "letter": "B",
+          "text": "Los cambios de temperatura y presión",
+          "is_correct": true,
+          "feedback": "El sol calienta el aire, este sube y el aire frío corre a ocupar su lugar, creando el viento."
+        },
+        {
+          "letter": "C",
+          "text": "El sonido de los árboles",
+          "is_correct": false,
+          "feedback": "El viento es el que causa el sonido al mover las hojas, no al revés."
+        },
+        {
+          "letter": "D",
+          "text": "La rotación de las nubes",
+          "is_correct": false,
+          "feedback": "Las nubes se mueven porque el viento las empuja; son pasajeras del movimiento del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El viento es aire buscando equilibrio. Como el sol calienta más unas zonas que otras, el aire siempre está viajando para intentar emparejar el calor, creando las brisas que sentimos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v7",
+      "statement": "¿Cuál es la misión principal de la capa de ozono para la vida en la Tierra?",
+      "context": "El ozono es un gas especial que se encuentra en una capa muy alta de la atmósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fabricar la lluvia dulce",
+          "is_correct": false,
+          "feedback": "La lluvia se forma por condensación en la troposfera baja, no por el ozono alto."
+        },
+        {
+          "letter": "B",
+          "text": "Filtrar los rayos dañinos del sol",
+          "is_correct": true,
+          "feedback": "Funciona como unas gafas de sol gigantes que protegen a todos los seres vivos de la radiación fuerte."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener a los aviones volando",
+          "is_correct": false,
+          "feedback": "Los aviones vuelan por principios de física de aire, no por la presencia de este gas."
+        },
+        {
+          "letter": "D",
+          "text": "Atraer a los astronautas",
+          "is_correct": false,
+          "feedback": "La capa de ozono es una barrera química natural, no un imán para naves espaciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin la capa de ozono, el sol nos quemaría la piel en pocos minutos y las plantas no podrían crecer. Es uno de los sistemas de seguridad más importantes de nuestro planeta.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v8",
+      "statement": "¿Qué adaptación del frailejón le permite resistir el clima extremo del páramo?",
+      "context": "Mariana nota que después de una gran helada en el páramo, muchas plantas pequeñas mueren, pero los frailejones siguen vivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene raíces de metal",
+          "is_correct": false,
+          "feedback": "Todas las plantas tienen raíces biológicas; el metal no es parte de la anatomía vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "Sus hojas peludas que atrapan calor y humedad",
+          "is_correct": true,
+          "feedback": "Los pelitos blancos funcionan como un abrigo de lana que protege a la planta del frío y el viento."
+        },
+        {
+          "letter": "C",
+          "text": "Que puede correr hacia las cuevas",
+          "is_correct": false,
+          "feedback": "Las plantas viven fijas al suelo y no pueden desplazarse para buscar refugio del frío."
+        },
+        {
+          "letter": "D",
+          "text": "Que no necesita aire para vivir",
+          "is_correct": false,
+          "feedback": "Todas las plantas necesitan aire para respirar y realizar la fotosíntesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El páramo es un reto para la vida. El frailejón es un sobreviviente experto que ha diseñado sus propias \"chaquetas\" de pelos para que el aire helado de la noche no congele sus fluidos vitales.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v9",
+      "statement": "¿Qué le está diciendo el anemómetro a los científicos en ese momento?",
+      "context": "Un anemómetro gira muy rápido durante una tarde de tormenta en los Llanos Orientales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la lluvia es muy ácida",
+          "is_correct": false,
+          "feedback": "El anemómetro mide movimiento físico, no la composición química de la lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el viento tiene mucha velocidad y fuerza",
+          "is_correct": true,
+          "feedback": "Este instrumento está diseñado específicamente para medir qué tan rápido se mueve el aire."
+        },
+        {
+          "letter": "C",
+          "text": "Que el sol va a salir pronto",
+          "is_correct": false,
+          "feedback": "El movimiento del aire no indica necesariamente cuándo se despejarán las nubes."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tierra se está moviendo",
+          "is_correct": false,
+          "feedback": "El movimiento de la tierra (sismos) se mide con sismógrafos, no con instrumentos de viento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conocer la velocidad del viento es clave para la seguridad. Si el anemómetro marca números muy altos, las autoridades pueden avisar a la gente que se proteja de un posible vendaval o tormenta fuerte.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v10",
+      "statement": "¿Por qué la salud de los bosques influye en la temperatura del aire que respiramos?",
+      "context": "Un científico afirma: \"Cuidar los bosques de las montañas es la mejor forma de asegurar que el aire de las ciudades sea fresco\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los árboles detienen a los carros",
+          "is_correct": false,
+          "feedback": "Los árboles influyen en el ambiente natural, no en el tráfico de vehículos de forma directa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las plantas transpiran vapor y dan sombra",
+          "is_correct": true,
+          "feedback": "Los bosques actúan como acondicionadores de aire naturales, refrescando y humedeciendo las corrientes de viento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el color verde atrae al hielo",
+          "is_correct": false,
+          "feedback": "El color no atrae la temperatura; la frescura es un proceso de evaporación y bloqueo solar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en los bosques no hay sol",
+          "is_correct": false,
+          "feedback": "El sol brilla en todas partes; los árboles simplemente absorben su energía para que no caliente tanto el suelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los bosques son reguladores del clima. Al soltar agua por sus hojas (transpiración), las plantas usan el calor del aire, enfriándolo en el proceso. Un viento que pasa por un bosque siempre llegará más fresco a la ciudad.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

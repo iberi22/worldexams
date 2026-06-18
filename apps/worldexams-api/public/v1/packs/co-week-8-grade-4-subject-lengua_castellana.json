@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v1",
       "statement": "¿Cómo se forma una palabra compuesta?",
-      "context": "",
+      "context": "Un niño en Bogotá explica qué son las palabras compuestas.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v2",
       "statement": "¿Cuál de las siguientes es una palabra compuesta?",
-      "context": "",
+      "context": "Identificando palabras compuestas en la cocina de una casa en Cali.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v3",
       "statement": "Si unimos **\"para\"** y **\"aguas\"**, formamos la palabra **\"paraguas\"**. ¿Qué significa esta nueva palabra?",
-      "context": "",
+      "context": "Analizando el significado de una palabra compuesta sobre el clima en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v4",
       "statement": "¿Cuál es la palabra compuesta que nombra al deportista que salta con una vara muy alta?",
-      "context": "",
+      "context": "El uso de palabras compuestas en el deporte en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -168,6 +177,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -176,7 +188,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v5",
       "statement": "¿Qué palabra se forma al unir **\"espanta\"** + **\"pájaros\"**?",
-      "context": "",
+      "context": "Formando nuevas palabras en un taller literario en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -208,6 +220,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -216,7 +231,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v6",
       "statement": "¿Cuáles son las dos palabras que forman la palabra **\"telaraña\"**?",
-      "context": "",
+      "context": "Identificando las palabras simples que forman una compuesta en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -248,6 +263,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -256,7 +274,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v7",
       "statement": "Unimos **\"pasa\"** + **\"tiempo\"**. ¿Cuál es la forma ortográfica correcta de la palabra resultante?",
-      "context": "",
+      "context": "El uso de palabras compuestas sobre el tiempo en Bucaramanga.",
       "options": [
         {
           "letter": "A",
@@ -288,6 +306,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -296,7 +317,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v8",
       "statement": "Cuando unimos **\"pelo\"** + **\"rojo\"**, formamos la palabra **\"pelirrojo\"**. ¿Qué cambio ocurrió?",
-      "context": "",
+      "context": "Palabras compuestas con cambios en su forma en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -328,6 +349,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -336,7 +360,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v9",
       "statement": "En la frase \"El astronauta usó el **telescopio** para ver el **rascacielos** desde la luna\", ¿cuáles son las palabras compuestas?",
-      "context": "",
+      "context": "Evaluando el uso de palabras compuestas en un texto sobre el espacio.",
       "options": [
         {
           "letter": "A",
@@ -368,6 +392,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -376,7 +403,7 @@
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v10",
       "statement": "¿Cuál de estos nombres compuestos inventados suena más correcto siguiendo las reglas del español?",
-      "context": "",
+      "context": "Quieres inventar un nombre compuesto para un invento nuevo que limpia el aire.",
       "options": [
         {
           "letter": "A",
@@ -408,6 +435,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

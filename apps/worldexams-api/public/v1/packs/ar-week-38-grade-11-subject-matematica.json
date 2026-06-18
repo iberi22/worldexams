@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-38-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T22:23:57.835Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v1",
+      "statement": "Cual es el valor de i, la unidad imaginaria?",
+      "context": "En el Colegio Nacional de Buenos Aires, el profesor pregunta que es la unidad imaginaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "i = raiz(-1)",
+          "is_correct": true,
+          "feedback": "Correcto. La unidad imaginaria se define como la raiz cuadrada de -1."
+        },
+        {
+          "letter": "B",
+          "text": "i = -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. i^2 = -1, no i = -1."
+        },
+        {
+          "letter": "C",
+          "text": "i = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. i no es igual a 1."
+        },
+        {
+          "letter": "D",
+          "text": "i = raiz(1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. raiz(1) = 1, no es la unidad imaginaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La unidad imaginaria i se define como la raiz cuadrada de -1. Por lo tanto, i^2 = -1. Los numeros complejos se escriben como z = a + bi, donde a es la parte real y b la parte imaginaria.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion",
+      "expected_success": 0.92,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v2",
+      "statement": "Un numero complejo en forma binomica se escribe como:",
+      "context": "En la Escuela Tecnica de Rosario, se repasa la forma binomica de un numero complejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "z = a + bi, con a y b reales",
+          "is_correct": true,
+          "feedback": "Correcto. a es parte real, b es parte imaginaria."
+        },
+        {
+          "letter": "B",
+          "text": "z = a + b, con a y b reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la unidad imaginaria."
+        },
+        {
+          "letter": "C",
+          "text": "z = a * bi",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la forma binomica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "z = a - bi siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser a + bi con signo positivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma binomica de un numero complejo es z = a + bi, donde a (parte real) y b (parte imaginaria) son numeros reales. Si b = 0, el numero es real. Si a = 0, es imaginario puro.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v3",
+      "statement": "Cual es el valor de i^3?",
+      "context": "En el Liceo Militar de Cordoba, se pide calcular i^3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-i",
+          "is_correct": true,
+          "feedback": "Correcto. i^3 = i^2 * i = (-1) * i = -i."
+        },
+        {
+          "letter": "B",
+          "text": "i",
+          "is_correct": false,
+          "feedback": "Incorrecto. i^3 = -i, no i."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. -1 es i^2, no i^3."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es i^4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "i^1 = i, i^2 = -1, i^3 = i^2 * i = -i, i^4 = i^2 * i^2 = (-1)(-1) = 1, y el ciclo se repite cada 4 potencias.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v4",
+      "statement": "Si z1 = 3 + 2i y z2 = 1 - 4i, calcula z1 + z2.",
+      "context": "En la Universidad de Mendoza, se suman dos numeros complejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 - 2i",
+          "is_correct": true,
+          "feedback": "Correcto. (3+1) + (2i - 4i) = 4 - 2i."
+        },
+        {
+          "letter": "B",
+          "text": "4 + 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el signo de la parte imaginaria."
+        },
+        {
+          "letter": "C",
+          "text": "2 + 6i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las partes reales en vez de sumarlas."
+        },
+        {
+          "letter": "D",
+          "text": "3 - 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se sumaron correctamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de complejos se hace por separado: parte real con parte real, parte imaginaria con parte imaginaria. (3+2i) + (1-4i) = (3+1) + (2i-4i) = 4 - 2i.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v5",
+      "statement": "Calcula el producto (2 + i)(1 - i).",
+      "context": "En el Instituto Politecnico de Mar del Plata, se multiplican numeros complejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 - i",
+          "is_correct": true,
+          "feedback": "Correcto. (2*1) + (2)(-i) + (i)(1) + (i)(-i) = 2 - 2i + i - i^2 = 2 - i + 1 = 3 - i."
+        },
+        {
+          "letter": "B",
+          "text": "1 + 3i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la propiedad distributiva."
+        },
+        {
+          "letter": "C",
+          "text": "2 - i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falto considerar que i * (-i) = -i^2 = 1."
+        },
+        {
+          "letter": "D",
+          "text": "3 + i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el signo de la parte imaginaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "(2+i)(1-i) = 2*1 + 2*(-i) + i*1 + i*(-i) = 2 - 2i + i - i^2 = 2 - i + 1 = 3 - i.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v6",
+      "statement": "Calcula (1 + i) / (1 - i).",
+      "context": "En el Colegio San Ignacio de La Plata, se divide numeros complejos usando el conjugado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "i",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por el conjugado: ((1+i)(1+i))/((1-i)(1+i)) = (1+2i+i^2)/(1-i^2) = (2i)/(2) = i."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el resultado correcto."
+        },
+        {
+          "letter": "C",
+          "text": "-i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo equivocado."
+        },
+        {
+          "letter": "D",
+          "text": "1 + i",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se simplifico correctamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se multiplica numerador y denominador por el conjugado del denominador (1+i): ((1+i)^2)/((1-i)(1+i)) = (1+2i+i^2)/(1-i^2) = (1+2i-1)/(1-(-1)) = (2i)/(2) = i.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v7",
+      "statement": "El conjugado de z = 3 - 2i es:",
+      "context": "En la Universidad Nacional de Salta, se explica el concepto de conjugado de un numero complejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 + 2i",
+          "is_correct": true,
+          "feedback": "Correcto. El conjugado cambia el signo de la parte imaginaria."
+        },
+        {
+          "letter": "B",
+          "text": "-3 + 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conjugado no cambia el signo de la parte real."
+        },
+        {
+          "letter": "C",
+          "text": "-3 - 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo cambia el signo de la parte imaginaria."
+        },
+        {
+          "letter": "D",
+          "text": "3 - 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el mismo numero, no su conjugado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conjugado de z = a + bi es z(conjugado) = a - bi. Solo cambia el signo de la parte imaginaria. Para 3 - 2i, el conjugado es 3 + 2i.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v8",
+      "statement": "Calcula i^27.",
+      "context": "En el Instituto Aleman de Cordoba, se calcula i^27.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-i",
+          "is_correct": true,
+          "feedback": "Correcto. 27 = 4*6 + 3. i^27 = i^(4*6+3) = (i^4)^6 * i^3 = 1^6 * (-i) = -i."
+        },
+        {
+          "letter": "B",
+          "text": "i",
+          "is_correct": false,
+          "feedback": "Incorrecto. 27 mod 4 = 3, que corresponde a i^3 = -i."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. -1 es i^2."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es i^4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las potencias de i son ciclicas cada 4: i^1=i, i^2=-1, i^3=-i, i^4=1. 27 dividido 4 da resto 3, por lo tanto i^27 = i^3 = -i.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v9",
+      "statement": "Resuelve x^2 + 4 = 0 en el conjunto de los numeros complejos.",
+      "context": "En la Universidad Nacional de Tucuman, se resuelve una ecuacion cuadratica con solucion compleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = +- 2i",
+          "is_correct": true,
+          "feedback": "Correcto. x^2 = -4, x = +- raiz(-4) = +- 2i."
+        },
+        {
+          "letter": "B",
+          "text": "x = +- 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ecuacion no tiene soluciones reales."
+        },
+        {
+          "letter": "C",
+          "text": "x = 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan ambas soluciones (positiva y negativa)."
+        },
+        {
+          "letter": "D",
+          "text": "x = +- 4i",
+          "is_correct": false,
+          "feedback": "Incorrecto. raiz(-4) = 2i, no 4i."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x^2 + 4 = 0 => x^2 = -4 => x = +- raiz(-4) = +- 2i. Las dos soluciones son 2i y -2i, que son conjugados entre si.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v10",
+      "statement": "Si (a + bi) = (3 - 2i), los valores de a y b son:",
+      "context": "En el Colegio Nacional de Buenos Aires, se analiza la igualdad de numeros complejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 3, b = -2",
+          "is_correct": true,
+          "feedback": "Correcto. Dos complejos son iguales si sus partes real e imaginaria son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "a = 3, b = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. b = -2, no 2."
+        },
+        {
+          "letter": "C",
+          "text": "a = -3, b = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. a = 3 y b = -2."
+        },
+        {
+          "letter": "D",
+          "text": "a = -3, b = -2",
+          "is_correct": false,
+          "feedback": "Incorrecto. a = 3, no -3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos numeros complejos son iguales si y solo si sus partes reales son iguales y sus partes imaginarias son iguales. a + bi = 3 - 2i implica a = 3 y b = -2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v11",
+      "statement": "El modulo de z = 3 + 4i es:",
+      "context": "En la Escuela de Comercio de Mendoza, se calcula el modulo de un numero complejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. |z| = raiz(3^2 + 4^2) = raiz(9+16) = raiz(25) = 5."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3+4=7, pero el modulo no es la suma."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3*4 = 12, no es el modulo."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 es el cuadrado del modulo, no el modulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modulo de z = a + bi es la distancia desde el origen al punto (a,b) en el plano complejo: |z| = raiz(a^2 + b^2). Para 3+4i: |z| = raiz(9+16) = 5.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v12",
+      "statement": "Calcula (2 + 3i)(2 - 3i).",
+      "context": "En la Universidad de La Plata, se multiplica un complejo por su conjugado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. (2+3i)(2-3i) = 4 - 9i^2 = 4 + 9 = 13."
+        },
+        {
+          "letter": "B",
+          "text": "4 + 9i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el signo de i^2."
+        },
+        {
+          "letter": "C",
+          "text": "4 - 9i",
+          "is_correct": false,
+          "feedback": "Incorrecto. i^2 = -1, entonces -9i^2 = +9."
+        },
+        {
+          "letter": "D",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplifico correctamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "z * z(conjugado) = (a+bi)(a-bi) = a^2 - (bi)^2 = a^2 - b^2*i^2 = a^2 + b^2. Para 2+3i: 2^2 + 3^2 = 13. El resultado siempre es un numero real no negativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v13",
+      "statement": "La parte real de z = (3 + i)(2 - 2i) es:",
+      "context": "En el Instituto Superior de Cordoba, se calcula la parte real e imaginaria de una expresion compleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. (3+i)(2-2i) = 6 - 6i + 2i - 2i^2 = 6 - 4i + 2 = 8 - 4i. Parte real = 8."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falto sumar el termino -2i^2 = +2."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicacion."
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. -4 es la parte imaginaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "(3+i)(2-2i) = 6 - 6i + 2i - 2i^2 = 6 - 4i + 2 = 8 - 4i. Parte real = 8, parte imaginaria = -4.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v14",
+      "statement": "En el plano complejo (plano de Gauss), el numero z = -3 + 4i se ubica en:",
+      "context": "En el Colegio San Jose de Mar del Plata, se analiza la representacion geometrica de complejos en el plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo cuadrante",
+          "is_correct": true,
+          "feedback": "Correcto. Parte real negativa (-3) y parte imaginaria positiva (4) => segundo cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "Primer cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parte real negativa, no positiva."
+        },
+        {
+          "letter": "C",
+          "text": "Tercer cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parte imaginaria es positiva, no negativa."
+        },
+        {
+          "letter": "D",
+          "text": "Cuarto cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parte real negativa y parte imaginaria positiva dan segundo cuadrante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano complejo tiene eje real (x) y eje imaginario (y). z = -3 + 4i tiene Re < 0 e Im > 0, por lo tanto esta en el segundo cuadrante.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v15",
+      "statement": "En el plano complejo, el conjugado de un numero complejo z se obtiene:",
+      "context": "En la Universidad Nacional de Rosario, se analiza la relacion entre un complejo y su conjugado en el plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflejando z respecto al eje real (eje x)",
+          "is_correct": true,
+          "feedback": "Correcto. El conjugado tiene la misma parte real y parte imaginaria opuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Reflejando z respecto al eje imaginario (eje y)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso cambiaria el signo de la parte real."
+        },
+        {
+          "letter": "C",
+          "text": "Rotando z 90 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rotar 90 grados es multiplicar por i."
+        },
+        {
+          "letter": "D",
+          "text": "Reflejando z respecto al origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso cambiaria ambos signos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conjugado z(conjugado) = a - bi es la reflexion de z = a + bi sobre el eje real. Visualmente, si z esta arriba del eje x, su conjugado esta a la misma distancia pero abajo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v16",
+      "statement": "Las soluciones de x^2 + 2x + 5 = 0 en C son:",
+      "context": "En la Universidad Nacional de La Plata, se resuelve una ecuacion cuadratica con coeficientes reales y soluciones complejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -1 +- 2i",
+          "is_correct": true,
+          "feedback": "Correcto. Discriminante = 4 - 20 = -16. x = (-2 +- raiz(-16))/2 = (-2 +- 4i)/2 = -1 +- 2i."
+        },
+        {
+          "letter": "B",
+          "text": "x = 1 +- 2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo equivocado en la parte real."
+        },
+        {
+          "letter": "C",
+          "text": "x = -1 +- i",
+          "is_correct": false,
+          "feedback": "Incorrecto. raiz(-16) = 4i, no i."
+        },
+        {
+          "letter": "D",
+          "text": "x = 1 +- i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo y magnitud equivocados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Formula cuadratica: x = (-b +- raiz(b^2-4ac))/(2a). Discriminante = 4 - 20 = -16. raiz(-16) = 4i. x = (-2 +- 4i)/2 = -1 +- 2i.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v17",
+      "statement": "Para cualquier numero complejo z = a + bi, la suma z + z(conjugado) es:",
+      "context": "En el Colegio Nacional de Buenos Aires, se evalua si la suma de un complejo y su conjugado siempre es real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2a (siempre real)",
+          "is_correct": true,
+          "feedback": "Correcto. (a+bi) + (a-bi) = 2a, que es real."
+        },
+        {
+          "letter": "B",
+          "text": "2bi (siempre imaginario)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las partes imaginarias se cancelan."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo es 0 si a = 0."
+        },
+        {
+          "letter": "D",
+          "text": "a^2 + b^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es z * z(conjugado)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "z + z(conjugado) = (a+bi) + (a-bi) = 2a, que es un numero real. Las partes imaginarias se cancelan porque tienen signos opuestos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v18",
+      "statement": "Calcula i^100 + i^101 + i^102 + i^103.",
+      "context": "En la Universidad Nacional de Cordoba, se evalua el resultado de i^100 + i^101 + i^102 + i^103.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. i^100 = 1, i^101 = i, i^102 = -1, i^103 = -i. Suma = 1 + i - 1 - i = 0."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No simplifico correctamente las potencias."
+        },
+        {
+          "letter": "C",
+          "text": "2i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las potencias se cancelan."
+        },
+        {
+          "letter": "D",
+          "text": "1 + i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falto considerar i^102 e i^103."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "i^100 = (i^4)^25 = 1, i^101 = i, i^102 = -1, i^103 = -i. La suma es 1 + i - 1 - i = 0.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v19",
+      "statement": "El Teorema Fundamental del Algebra establece que:",
+      "context": "En el Instituto Politecnico de Tucuman, se evalua la afirmacion \"toda ecuacion polinomica de grado n tiene exactamente n raices complejas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo polinomio de grado n >= 1 con coeficientes complejos tiene exactamente n raices en C (contando multiplicidades)",
+          "is_correct": true,
+          "feedback": "Correcto. Es el enunciado del Teorema Fundamental del Algebra."
+        },
+        {
+          "letter": "B",
+          "text": "Todo polinomio de grado n tiene n raices reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raices pueden ser complejas no reales."
+        },
+        {
+          "letter": "C",
+          "text": "Todo polinomio de grado n tiene a lo sumo n raices",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es verdad pero incompleto: exactamente n en C."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los polinomios de grado par tienen raices complejas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier grado puede tener raices complejas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Teorema Fundamental del Algebra, demostrado por Gauss, dice que todo polinomio no constante con coeficientes complejos tiene al menos una raiz compleja. De esto se deduce que tiene exactamente n raices en C contando multiplicidades.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.48,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-v20",
+      "statement": "Para dos numeros complejos z1 y z2, se afirma que |z1 * z2| = |z1| * |z2|. Esta propiedad es:",
+      "context": "En la Universidad Nacional de Mar del Plata, se evalua una afirmacion sobre el modulo de un producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera para todos los numeros complejos",
+          "is_correct": true,
+          "feedback": "Correcto. El modulo del producto es el producto de los modulos. Es una propiedad fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "Verdadera solo si z1 y z2 son reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es valida para todos los complejos."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa en general",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propiedad demostrada del modulo."
+        },
+        {
+          "letter": "D",
+          "text": "Verdadera solo si z1 = z2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad es general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "|z1 * z2| = |z1| * |z2| es una propiedad fundamental del modulo. Se demuestra usando que |z|^2 = z * z(conjugado): |z1*z2|^2 = (z1*z2)*(z1*z2)(conjugado) = z1*z2*z1(conjugado)*z2(conjugado) = |z1|^2 * |z2|^2.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.42,
+      "bundle_id": "AR-MAT-11-2026-W38-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1",
       "statement": "¿Como se denomina a la expresion algebraica que consta de un solo termino, como por ejemplo $5x^2$?",
-      "context": "",
+      "context": "Un estudiante en el Instituto de Secundaria de Rebola repasa los conceptos fundamentales del lenguaje algebraico.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.85,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2",
       "statement": "En la expresion algebraica $3x^4 - 5x^2 + 7$, ¿cual es el grado del polinomio?",
-      "context": "",
+      "context": "Un comerciante en el Mercado de Semu, Malabo, usa expresiones algebraicas para representar sus ganancias mensuales.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.8,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3",
       "statement": "¿Cual es el requisito indispensable para poder sumar o restar dos terminos algebraicos?",
-      "context": "",
+      "context": "Un estudiante de Bata necesita sumar dos expresiones algebraicas que representan perímetros de parcelas en la periferia de la ciudad.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.75,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4",
       "statement": "¿Cual es el valor numerico de la expresion $2x^2 - 3x + 5$ cuando $x = 2$?",
-      "context": "",
+      "context": "Un carpintero en Mbini utiliza la formula del area de un rectangulo, $A = b \\cdot h$, y quiere saber el valor numerico para medidas especificas.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.78,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5",
       "statement": "¿A que es igual el desarrollo del binomio al cuadrado $(a + b)^2$?",
-      "context": "",
+      "context": "Un estudiante de Mongomo estudia los productos notables para agilizar sus calculos algebraicos.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.72,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6",
       "statement": "Simplifica la expresion $(x + 5)(x - 5)$ utilizando la propiedad de producto de binomios conjugados.",
-      "context": "",
+      "context": "Un sastre en Malabo usa la expresion $(x + 5)(x - 5)$ para calcular la diferencia de areas de retales de tela.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.7,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7",
       "statement": "¿Cual es el resultado de dividir $6x^3 - 4x^2$ entre $2x$?",
-      "context": "",
+      "context": "Un estudiante en Evinayong divide un polinomio que representa el volumen de un granero entre la expresion de su altura.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.68,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8",
       "statement": "¿Cual es el resultado de aplicar la propiedad distributiva a $5(x^2 - 2x + 1)$?",
-      "context": "",
+      "context": "Un profesor en Luba explica como simplificar el producto de una constante por un polinomio: $5(x^2 - 2x + 1)$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.65,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9",
       "statement": "Si sumamos $(2x + 3)$ y $(3x - 5)$, ¿que expresion obtenemos?",
-      "context": "",
+      "context": "En un taller mecanico en Malabo, se calcula el area de una pieza en forma de trapecio usando variables.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.62,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10",
       "statement": "En el polinomio $P(x) = 4x^3 + 2x - 12$, ¿cual es el valor del termino independiente?",
-      "context": "",
+      "context": "Un estudiante en Mongomo identifica el termino independiente en un modelo de costos.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.64,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11",
       "statement": "¿Cual es la factorizacion correcta del trinomio $x^2 - 7x + 10$?",
-      "context": "",
+      "context": "Un ingeniero en el Puerto de Malabo factoriza una expresion de carga: $x^2 - 7x + 10$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.55,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12",
       "statement": "Simplifica la expresion $\\frac{x^2 - 9}{x + 3}$.",
-      "context": "",
+      "context": "Un estudiante en Annobon simplifica una fraccion algebraica para resolver un problema de distancias maritimas.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.58,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13",
       "statement": "¿Cual es la expresion simplificada del perimetro total?",
-      "context": "",
+      "context": "Un arquitecto en Mongomo calcula el perimetro de una figura compuesta por tres lados de longitud $2x + 1$ y uno de longitud $x - 4$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.5,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14",
       "statement": "¿Cual es el resultado expandido de $(2x + 3)(x - 4)$?",
-      "context": "",
+      "context": "En un examen de acceso a la UNGE, se pide realizar la multiplicacion de dos binomios: $(2x + 3)(x - 4)$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.52,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15",
       "statement": "¿Cual es la factorizacion completa de $ax + ay + bx + by$?",
-      "context": "",
+      "context": "Un estudiante en Evinayong intenta factorizar la expresion $ax + ay + bx + by$ por agrupacion de terminos.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.48,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16",
       "statement": "¿Cual es el primer termino del desarrollo de $(x + 1 + y)^2$ segun las reglas de expansion de polinomios?",
-      "context": "",
+      "context": "Un tecnico en Bata necesita simplificar el cuadrado de un trinomio simple: $(x + 1 + y)^2$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.46,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17",
       "statement": "¿Cual de las siguientes expresiones es equivalente a $x^3 - y^3$ (diferencia de cubos)?",
-      "context": "",
+      "context": "Un estudiante avanzado analiza la validez de una identidad algebraica propuesta para un modelo de ahorro en Francos CFA.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.4,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18",
       "statement": "¿Que valor debe sumarse a la expresion $x^2 + 10x$ para que se convierta en un trinomio cuadrado perfecto?",
-      "context": "",
+      "context": "Se plantea completar el trinomio cuadrado perfecto para resolver una ecuacion de diseño estructural en Ciudad de la Paz.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.38,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19",
       "statement": "Factoriza completamente la expresion $5x^2 + 20x + 15$ para encontrar una forma mas eficiente de calcularla.",
-      "context": "",
+      "context": "Un programador en Malabo optimiza una función que calcula el costo total $C = 5x^2 + 20x + 15$ donde $x$ es el numero de licencias vendidas.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.35,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20",
       "statement": "¿Cual es el resto de dividir el polinomio $P(x) = x^{100} - 1$ entre el binomio $x - 1$, segun el Teorema del Resto?",
-      "context": "",
+      "context": "Un estudiante de bachillerato avanzado analiza el resto de una division de polinomios sin realizar la division larga.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Cuantitativo",
+      "expected_success": 0.32,
       "bundle_id": "GQ-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

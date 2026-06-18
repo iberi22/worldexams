@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v1",
       "statement": "¿Cuál es el objetivo principal de un texto descriptivo?",
-      "context": "",
+      "context": "Un niño describe su juguete favorito en un colegio de Tunja.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v2",
       "statement": "¿Qué clase de palabras son las más importantes en un texto descriptivo?",
-      "context": "",
+      "context": "Una descripción de la Bandera de Colombia.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v3",
       "statement": "\"Es un animal grande, de piel gruesa y café. Tiene un hocico alargado y le gusta nadar en los ríos. Es el roedor más grande del mundo\". ¿De qué animal se está hablando?",
-      "context": "",
+      "context": "Una descripción de un animal típico de los Llanos Orientales.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v4",
       "statement": "¿Cuál de estas frases es una descripción de un lugar?",
-      "context": "",
+      "context": "Describiendo el clima y paisaje de Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v5",
       "statement": "¿Cuál de estas opciones describe únicamente el aspecto físico de una persona?",
-      "context": "",
+      "context": "Describiendo a una persona (prosopografía) en un colegio de Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v6",
       "statement": "\"Es un sombrero tejido con fibras de palma, tiene franjas blancas y negras que forman figuras geométricas. Es un símbolo de la cultura colombiana\". ¿Qué tipo de objeto se describe?",
-      "context": "",
+      "context": "Leyendo una descripción sobre el Sombrero Vueltiao en una feria artesanal.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v7",
       "statement": "\"La alegría es como un sol brillante que calienta el corazón y nos hace sonreír\". ¿Qué se está describiendo aquí?",
-      "context": "",
+      "context": "Una descripción de un sentimiento en un poema.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v8",
       "statement": "¿Cuál es el mejor orden para hacer una descripción clara de una fruta?",
-      "context": "",
+      "context": "Escribiendo una descripción de una fruta deliciosa: el lulo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v9",
       "statement": "¿Qué frase indica que el texto está pasando de describir a narrar?",
-      "context": "",
+      "context": "Diferenciando descripción de narración en un libro de texto.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-v10",
       "statement": "¿Qué información es la más útil para que lo encuentren rápido?",
-      "context": "",
+      "context": "Quieres describir a tu mejor amigo para que alguien lo reconozca en el parque.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W13-texto-descriptivo-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",

@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-22-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.139Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v1",
+      "statement": "¿Cómo se define científicamente al aire que nos rodea?",
+      "context": "En un libro de ciencias, Juan lee que el aire no es una sustancia pura, sino una combinación de muchos elementos invisibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un solo gas líquido",
+          "is_correct": false,
+          "feedback": "El aire es un gas a temperatura normal; se vuelve líquido solo con frío extremo artificial."
+        },
+        {
+          "letter": "B",
+          "text": "Una mezcla de gases",
+          "is_correct": true,
+          "feedback": "El aire es una mezcla homogénea de varios gases como nitrógeno, oxígeno y otros en menor cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "Una nube de polvo sólido",
+          "is_correct": false,
+          "feedback": "El aire contiene polvo, pero su estructura principal son gases transparentes e invisibles."
+        },
+        {
+          "letter": "D",
+          "text": "Vapor de agua puro",
+          "is_correct": false,
+          "feedback": "El vapor es solo uno de los componentes del aire; el aire seco tiene muchos otros gases importantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aire es una mezcla. Esto significa que diferentes sustancias están juntas pero no pegadas químicamente. El nitrógeno y el oxígeno son los dos ingredientes principales de esta receta invisible que nos mantiene vivos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v2",
+      "statement": "¿Cuál es el segundo gas más abundante en el aire, que representa el 21% y es el que usamos para respirar?",
+      "context": "Los buzos y astronautas deben llevar tanques con la mezcla exacta de aire para no morir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nitrógeno",
+          "is_correct": false,
+          "feedback": "El nitrógeno es el primero más abundante (78%), pero no es el que nuestras células usan para respirar."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno",
+          "is_correct": true,
+          "feedback": "El oxígeno es el gas vital para la respiración de humanos, animales y la combustión del fuego."
+        },
+        {
+          "letter": "C",
+          "text": "Dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Este gas es muy escaso (menos del 1%), aunque es vital para las plantas."
+        },
+        {
+          "letter": "D",
+          "text": "Helio",
+          "is_correct": false,
+          "feedback": "El helio es un gas muy raro en el aire que respiramos; se usa más en globos de fiesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el oxígeno no es el gas más abundante, es el más importante para la vida animal. Nuestras células lo necesitan para \"quemar\" la comida y obtener la energía necesaria para movernos y pensar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v3",
+      "statement": "¿Qué son esas pequeñas cosas que vemos flotando en el aire cuando hay mucha luz?",
+      "context": "A veces, cuando un rayo de sol entra por la ventana, podemos ver pequeñas motitas brillantes flotando en el aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Partículas de gas congelado",
+          "is_correct": false,
+          "feedback": "Los gases del aire son moléculas invisibles; no se ven como motas a simple vista."
+        },
+        {
+          "letter": "B",
+          "text": "Partículas en suspensión como polvo o polen",
+          "is_correct": true,
+          "feedback": "Además de gases, el aire transporta sólidos diminutos como polvo, cenizas, granos de polen y esporas."
+        },
+        {
+          "letter": "C",
+          "text": "Pedazos de sol",
+          "is_correct": false,
+          "feedback": "El sol es una estrella a millones de kilómetros; lo que vemos es su luz chocando con objetos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Microbios gigantes",
+          "is_correct": false,
+          "feedback": "Los microbios son invisibles al ojo humano sin un microscopio potente; lo que vemos es polvo mineral o vegetal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aire también actúa como un sistema de transporte. Lleva partículas sólidas que son importantes para el ciclo de vida de las plantas (polen) o que pueden causar alergias si hay demasiado polvo o humo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v4",
+      "statement": "¿Por qué el dióxido de carbono es un componente esencial del aire a pesar de ser tan poquito?",
+      "context": "El gas carbónico (CO2) es una parte muy pequeña del aire, pero es el ingrediente secreto para que el mundo sea verde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ayuda a que el cielo sea azul",
+          "is_correct": false,
+          "feedback": "El color azul se debe a la dispersión de la luz en todos los gases, no solo en el CO2."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las plantas lo usan para la fotosíntesis",
+          "is_correct": true,
+          "feedback": "Sin este pequeño porcentaje de CO2 en la mezcla, las plantas no podrían fabricar su alimento ni darnos oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque nos ayuda a correr más rápido",
+          "is_correct": false,
+          "feedback": "Los humanos necesitamos oxígeno para la energía; el CO2 es un desecho de nuestra respiración."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el CO2 apaga los volcanes",
+          "is_correct": false,
+          "feedback": "El CO2 sale de los volcanes, pero no tiene la capacidad física de detener una erupción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aire es un sistema de equilibrio. Las plantas toman el CO2 y lo transforman, evitando que se acumule demasiado. Si hubiera mucho CO2, el planeta se calentaría peligrosamente (efecto invernadero).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v5",
+      "statement": "¿Cuál será la diferencia más notable en la composición del aire de la calle con muchos carros?",
+      "context": "En un experimento, se analiza el aire dentro de un hospital y el aire de una calle con mucho tráfico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tendrá mucho más oxígeno puro",
+          "is_correct": false,
+          "feedback": "Al contrario, el tráfico consume oxígeno y libera gases de combustión."
+        },
+        {
+          "letter": "B",
+          "text": "Tendrá más gases tóxicos y partículas de humo",
+          "is_correct": true,
+          "feedback": "Los motores añaden sustancias a la mezcla natural del aire, volviéndola impura y peligrosa."
+        },
+        {
+          "letter": "C",
+          "text": "No tendrá nitrógeno",
+          "is_correct": false,
+          "feedback": "El nitrógeno siempre está presente; la contaminación añade cosas nuevas pero no quita el nitrógeno básico."
+        },
+        {
+          "letter": "D",
+          "text": "Será un aire más frío",
+          "is_correct": false,
+          "feedback": "El humo de los carros suele salir caliente y contribuye a calentar el aire de la ciudad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contaminación cambia la \"receta\" natural del aire. Al añadir humos y químicos, estamos ensuciando la mezcla que nuestros pulmones están diseñados para procesar, lo que causa problemas de salud.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v6",
+      "statement": "¿Cómo cambia la composición del aire según la cantidad de vapor de agua que contenga?",
+      "context": "El vapor de agua es un gas que forma parte del aire. En la selva del Chocó hay mucho, pero en el desierto de la Tatacoa hay muy poco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aire se vuelve sólido",
+          "is_correct": false,
+          "feedback": "El agua puede ser sólida (hielo), pero el aire en sí mantiene su estado gaseoso."
+        },
+        {
+          "letter": "B",
+          "text": "El aire se vuelve más húmedo o más seco",
+          "is_correct": true,
+          "feedback": "El vapor de agua es el componente que determina la humedad ambiental de una región."
+        },
+        {
+          "letter": "C",
+          "text": "El aire desaparece si no hay agua",
+          "is_correct": false,
+          "feedback": "El aire sigue teniendo nitrógeno y oxígeno aunque no haya nada de vapor de agua."
+        },
+        {
+          "letter": "D",
+          "text": "El aire se vuelve de color negro",
+          "is_correct": false,
+          "feedback": "El vapor de agua es transparente; la humedad no cambia el color natural del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La humedad es agua en forma de gas mezclada con el aire. En Colombia tenemos climas muy variados porque la cantidad de vapor de agua en el aire cambia mucho de un lugar a otro.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v7",
+      "statement": "¿Cuál es la función química del ozono en la mezcla de gases de la atmósfera alta?",
+      "context": "El ozono es un gas especial formado por tres átomos de oxígeno unidos. Se encuentra muy arriba en la atmósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Darle sabor al aire",
+          "is_correct": false,
+          "feedback": "El ozono en la parte alta no influye en el sabor del aire que respiramos abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Filtrar los rayos dañinos del sol",
+          "is_correct": true,
+          "feedback": "El ozono absorbe la radiación ultravioleta, protegiendo a los seres vivos de quemaduras y enfermedades."
+        },
+        {
+          "letter": "C",
+          "text": "Fabricar la lluvia dulce",
+          "is_correct": false,
+          "feedback": "La lluvia se forma por condensación de vapor de agua, no por la presencia de ozono."
+        },
+        {
+          "letter": "D",
+          "text": "Atraer a los aviones",
+          "is_correct": false,
+          "feedback": "Los aviones vuelan por principios aerodinámicos de presión, no por atracción química de gases."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el ozono es una forma de oxígeno, no sirve para respirar (de hecho, es irritante si se respira cerca). Su trabajo está en las alturas, funcionando como un filtro solar químico para todo el planeta.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v8",
+      "statement": "¿Qué gas de la composición del aire es el responsable de \"oxidar\" y corroer los metales?",
+      "context": "Si dejas un trozo de hierro húmedo a la intemperie (al aire libre), notarás que después de unos días se llena de una capa roja llamada óxido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nitrógeno inerte",
+          "is_correct": false,
+          "feedback": "El nitrógeno es muy poco reactivo; no suele causar cambios en los metales de forma natural."
+        },
+        {
+          "letter": "B",
+          "text": "El oxígeno",
+          "is_correct": true,
+          "feedback": "El oxígeno es muy reactivo y le encanta unirse a otros elementos como el hierro, formando óxidos."
+        },
+        {
+          "letter": "C",
+          "text": "El dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Aunque influye en otros procesos, el principal responsable de la oxidación común es el oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "El helio de los globos",
+          "is_correct": false,
+          "feedback": "El helio no reacciona con casi nada, por eso se usa precisamente para que las cosas no se dañen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El oxígeno es un gas \"agresivo\" químicamente. Ataca a los metales y también permite que los incendios crezcan. Esta misma capacidad de reacción es la que nuestras células aprovechan para obtener energía de los alimentos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v9",
+      "statement": "¿Qué le sucede a una persona que respira ese aire \"delgado\" de las alturas?",
+      "context": "En la cima de las montañas más altas de los Andes, el aire tiene la misma \"receta\" de gases, pero las moléculas están mucho más separadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se llena de energía extra",
+          "is_correct": false,
+          "feedback": "Al contrario, siente menos fuerza porque le falta el combustible principal de las células."
+        },
+        {
+          "letter": "B",
+          "text": "Siente que le falta el aire porque atrapa menos oxígeno en cada respiro",
+          "is_correct": true,
+          "feedback": "Como hay menos moléculas en el mismo espacio, los pulmones deben trabajar más para conseguir el oxígeno necesario."
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelve invisible",
+          "is_correct": false,
+          "feedback": "La visibilidad de los seres humanos no depende de la densidad de los gases de la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Deja de necesitar comida",
+          "is_correct": false,
+          "feedback": "Todos los procesos vitales siguen funcionando y requieren nutrientes, sin importar la altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama presión atmosférica. En la costa, el aire está \"apretado\" y hay mucho oxígeno por cada bocanada. En la montaña, el aire está \"suelto\" y necesitas respirar más veces para obtener la misma cantidad de vida.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v10",
+      "statement": "¿Por qué es importante que el aire tenga mucho nitrógeno (78%) y no sea puro oxígeno?",
+      "context": "Un científico dice: \"Si el aire fuera 100% oxígeno puro, la vida como la conocemos sería imposible y todo se quemaría muy fácil\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el nitrógeno es más barato",
+          "is_correct": false,
+          "feedback": "En la naturaleza los elementos no tienen precio; su importancia es biológica y física."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el nitrógeno tiene mejor olor",
+          "is_correct": false,
+          "feedback": "Ambos gases son inodoros (no tienen olor); la razón es de seguridad química."
+        },
+        {
+          "letter": "C",
+          "text": "Para diluir el oxígeno y que no sea tan explosivo o reactivo",
+          "is_correct": true,
+          "feedback": "El nitrógeno actúa como un \"freno\", permitiendo que el oxígeno sea seguro para respirar y que el fuego sea controlable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el nitrógeno es de color azul",
+          "is_correct": false,
+          "feedback": "Ya aprendimos que los gases del aire son transparentes; el color del cielo es un efecto de la luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La composición del aire es perfecta para la vida. El nitrógeno es el ingrediente que mantiene la calma. Si solo hubiera oxígeno, cualquier chispa causaría un incendio gigante que no se apagaría nunca y nuestros pulmones se dañarían por exceso de oxidación.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v1",
+      "statement": "¿Cómo se llama la energía que se obtiene aprovechando la fuerza del viento?",
+      "context": "En el departamento de La Guajira, el viento sopla casi todo el año con mucha fuerza debido a su cercanía con el mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía solar",
+          "is_correct": false,
+          "feedback": "La energía solar se capta con paneles a partir de la luz del sol, no del movimiento de las masas de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Energía eólica",
+          "is_correct": true,
+          "feedback": "La energía eólica utiliza grandes aerogeneradores para convertir el movimiento del viento en electricidad limpia."
+        },
+        {
+          "letter": "C",
+          "text": "Energía muscular",
+          "is_correct": false,
+          "feedback": "Esta energía proviene de la fuerza de los músculos de los animales y humanos al realizar un trabajo físico."
+        },
+        {
+          "letter": "D",
+          "text": "Energía de carbón",
+          "is_correct": false,
+          "feedback": "El carbón es un mineral que se quema para producir calor; es una fuente de energía muy diferente al viento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía eólica es una de las más importantes para el futuro de Colombia. Aprovecha un recurso que nunca se agota (el viento) y no contamina el aire, ayudando a proteger el medio ambiente mientras genera electricidad para las casas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v2",
+      "statement": "¿Cuál es la función del viento en el ciclo de vida de estas plantas?",
+      "context": "Muchos árboles de los bosques colombianos tienen semillas que parecen tener alas o paracaídas diminutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regar las plantas con vapor",
+          "is_correct": false,
+          "feedback": "El viento mueve el vapor, pero la hidratación de la planta depende del agua líquida en el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Dispersar las semillas lejos de la madre",
+          "is_correct": true,
+          "feedback": "El viento transporta las semillas a lugares nuevos para que la especie se extienda y no haya competencia por luz."
+        },
+        {
+          "letter": "C",
+          "text": "Quitarle las hojas viejas",
+          "is_correct": false,
+          "feedback": "Aunque el viento puede tumbar hojas, su función reproductiva más importante es el viaje de las semillas."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer que la raíz crezca rápido",
+          "is_correct": false,
+          "feedback": "El viento solo actúa sobre las partes externas; el crecimiento de la raíz es un proceso interno del suelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este proceso se llama dispersión anemócora. El viento actúa como un \"avión de carga\" gratuito para las plantas, permitiendo que sus hijos nazcan en territorios lejanos donde puedan encontrar sol y tierra fértil.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v3",
+      "statement": "¿Qué instrumento indica la dirección (hacia dónde va) el viento en un momento determinado?",
+      "context": "Para navegar un antiguo barco de vela, los marineros debían conocer muy bien de dónde venía el viento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Termómetro",
+          "is_correct": false,
+          "feedback": "El termómetro mide el calor del aire, no la dirección en la que se desplazan las masas gaseosas."
+        },
+        {
+          "letter": "B",
+          "text": "Veleta",
+          "is_correct": true,
+          "feedback": "La veleta gira libremente y apunta hacia el punto cardinal desde donde sopla el viento."
+        },
+        {
+          "letter": "C",
+          "text": "Pluviómetro",
+          "is_correct": false,
+          "feedback": "Este aparato sirve para captar y medir la lluvia caída, no tiene relación con el movimiento del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Reloj de sol",
+          "is_correct": false,
+          "feedback": "El reloj de sol mide el tiempo basado en las sombras de la luz solar, no detecta corrientes de aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La veleta es un invento muy antiguo pero muy útil. Conocer la dirección del viento permite a los agricultores saber si viene una tormenta o a los pilotos planear mejor sus rutas de vuelo seguro.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v4",
+      "statement": "¿Cómo se llama el proceso de desgaste de las rocas y el suelo causado por la fuerza del viento?",
+      "context": "En los desiertos, el viento golpea las rocas durante miles de años, desgastándolas y dándoles formas extrañas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis de roca",
+          "is_correct": false,
+          "feedback": "Las rocas no están vivas y no realizan procesos de nutrición biológica como las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Erosión eólica",
+          "is_correct": true,
+          "feedback": "El viento arrastra granos de arena que chocan contra las rocas, funcionando como una lija natural que las desgasta."
+        },
+        {
+          "letter": "C",
+          "text": "Infiltración de aire",
+          "is_correct": false,
+          "feedback": "La infiltración es cuando el agua entra al suelo; el desgaste exterior es un fenómeno de erosión física."
+        },
+        {
+          "letter": "D",
+          "text": "Condensación sólida",
+          "is_correct": false,
+          "feedback": "La condensación es el paso de gas a líquido, no tiene nada que ver con el desgaste de materiales duros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El viento es un escultor de la naturaleza. A lo largo de los siglos, puede convertir una montaña en arena fina. Este proceso es lento pero muy poderoso, y cambia la forma de los paisajes que vemos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v5",
+      "statement": "¿Por qué el aire se mueve hacia la tierra cuando el sol calienta el suelo por la mañana?",
+      "context": "Mariana observa que el viento sopla muy fuerte desde el mar hacia la tierra durante el día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el mar se pone bravo",
+          "is_correct": false,
+          "feedback": "\"Estar bravo\" es una expresión humana; el movimiento del mar depende de mareas y vientos físicos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aire sobre la tierra se calienta y sube",
+          "is_correct": true,
+          "feedback": "Al subir el aire caliente, deja un espacio que el aire fresco del mar corre a ocupar inmediatamente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los peces soplan el agua",
+          "is_correct": false,
+          "feedback": "Los animales no influyen en los movimientos masivos de aire de la atmósfera global."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire tiene miedo al sol",
+          "is_correct": false,
+          "feedback": "El comportamiento de los gases se explica por leyes de temperatura y presión, no por emociones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama brisa marina. La tierra se calienta más rápido que el agua. El aire caliente de la playa sube (es más liviano) y la brisa fresca del mar entra a refrescarnos, demostrando el ciclo del viento.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v6",
+      "statement": "¿Cuál es la diferencia principal entre una brisa suave y un vendaval peligroso?",
+      "context": "En agosto, en muchas ciudades colombianas, el viento es ideal para elevar cometas. Pero si el viento es demasiado fuerte (vendaval), puede ser peligroso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color del viento",
+          "is_correct": false,
+          "feedback": "El aire sigue siendo invisible; lo que cambia es su energía cinética o de movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad y la fuerza del aire",
+          "is_correct": true,
+          "feedback": "La brisa se mueve despacio y es agradable; el vendaval tiene tanta velocidad que puede tumbar árboles y techos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el vendaval es de mentira",
+          "is_correct": false,
+          "feedback": "Ambos son fenómenos naturales reales causados por diferencias extremas de presión en la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Que la brisa solo ocurre de noche",
+          "is_correct": false,
+          "feedback": "La brisa puede ocurrir a cualquier hora dependiendo de la temperatura del lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El viento se clasifica por su velocidad. Los seres humanos debemos estar atentos a las alertas del clima: un viento suave es energía y diversión, pero un viento extremo requiere que nos quedemos en lugares seguros.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v7",
+      "statement": "¿Qué tipo de viento buscan estas aves para elevarse sin gastar energía?",
+      "context": "Las aves planeadoras, como los buitres y gavilanes, pueden volar horas sin mover sus alas, aprovechando las corrientes de aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vientos que van hacia abajo",
+          "is_correct": false,
+          "feedback": "Un viento descendente empujaría al ave hacia el suelo; ellas buscan lo opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Corrientes térmicas que suben",
+          "is_correct": true,
+          "feedback": "El aire caliente que asciende funciona como un elevador natural para las aves planeadoras."
+        },
+        {
+          "letter": "C",
+          "text": "Vientos que no se mueven",
+          "is_correct": false,
+          "feedback": "Si el viento no se mueve, no hay corriente que sostenga el peso del ave sin aletear."
+        },
+        {
+          "letter": "D",
+          "text": "Vientos de color azul",
+          "is_correct": false,
+          "feedback": "Los vientos son invisibles; las aves los detectan por cambios de presión y temperatura en sus plumas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las aves tienen un instinto increíble para \"leer\" el aire. Aprovechan la energía del sol guardada en el aire caliente para patrullar grandes territorios, ahorrando la energía de sus músculos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v8",
+      "statement": "¿Qué nos enseña este experimento sobre la utilidad y el peligro del viento?",
+      "context": "Tienes dos barquitos de papel en una tina. A uno le soplas suavemente y al otro le pones un ventilador potente en frente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los barcos de papel no sirven",
+          "is_correct": false,
+          "feedback": "El experimento trata sobre la fuerza del viento, no sobre la calidad del material del barco."
+        },
+        {
+          "letter": "B",
+          "text": "Que a mayor fuerza del viento, mayor es el movimiento y el riesgo",
+          "is_correct": true,
+          "feedback": "El soplido suave mueve el barco; el ventilador puede volcarlo o hundirlo, igual que una tormenta real."
+        },
+        {
+          "letter": "C",
+          "text": "Que el viento solo sirve para mojar cosas",
+          "is_correct": false,
+          "feedback": "El viento seca las cosas al favorecer la evaporación; el agua está en la tina, no en el viento."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ventilador fabrica el agua",
+          "is_correct": false,
+          "feedback": "El ventilador solo mueve el aire que ya existe; el agua es una sustancia líquida independiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuerza del viento es proporcional a su velocidad. Los humanos usamos el viento suave para navegar y refrescarnos, pero debemos respetar los vientos potentes porque tienen energía suficiente para causar daños.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v9",
+      "statement": "¿Por qué las dunas de arena se mueven de sitio si no tienen patas ni vida?",
+      "context": "En los desiertos de arena (como el de Tatacoa o La Guajira), el viento forma montañas de arena llamadas dunas que cambian de lugar cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la arena está viva de noche",
+          "is_correct": false,
+          "feedback": "La arena es un mineral inerte; no tiene funciones vitales ni movimiento autónomo biológico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el viento arrastra los granos de un lado a otro",
+          "is_correct": true,
+          "feedback": "El viento quita arena de un lado de la duna y la pone en el otro, haciendo que toda la montaña parezca caminar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el calor la hace saltar",
+          "is_correct": false,
+          "feedback": "El calor solo da energía a las moléculas; el transporte físico de los granos es tarea del viento en movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el suelo se está hundiendo",
+          "is_correct": false,
+          "feedback": "El suelo puede ser muy firme; el cambio es superficial y se debe a la acción del aire sobre las partículas sueltas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el transporte eólico. El viento tiene la capacidad de mover miles de toneladas de arena a lo largo de los años. Es una prueba de que el aire, aunque parezca suave, es una fuerza geológica inmensa.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v10",
+      "statement": "¿Por qué esta idea del inventor es poco práctica comparada con ponerlos en la costa?",
+      "context": "Un inventor dice: \"Voy a poner molinos de viento gigantes en el centro de la ciudad para que el aire de los carros los mueva y den luz gratis\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los carros soplan más fuerte que el mar",
+          "is_correct": false,
+          "feedback": "El movimiento de los carros es pequeño y desordenado; el viento del mar es masivo y constante."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en la ciudad los edificios tapan y frenan el viento",
+          "is_correct": true,
+          "feedback": "El viento necesita espacios abiertos para ganar fuerza; en la ciudad el aire choca con todo y pierde energía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los molinos se ensucian con el humo",
+          "is_correct": false,
+          "feedback": "La suciedad se puede limpiar; el problema real es la falta de energía constante del viento urbano."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en la ciudad no hay sol",
+          "is_correct": false,
+          "feedback": "Los molinos de viento dependen del aire (energía eólica), no directamente de la luz solar (fotovoltaica)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para obtener energía del viento (energía eólica), necesitamos lugares con vientos constantes y fuertes. Las ciudades son laberintos que rompen el viento, por eso los mejores lugares son las costas y las cimas de las montañas despejadas.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

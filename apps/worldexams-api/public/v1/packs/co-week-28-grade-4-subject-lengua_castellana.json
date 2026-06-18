@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v1",
       "statement": "¿Cuál es la regla correcta para usar la letra **\"m\"** en medio de una palabra?",
-      "context": "",
+      "context": "Un estudiante en Bogotá repasa la regla de la **m** antes de ciertas consonantes.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v2",
       "statement": "¿Qué palabras deben escribirse siempre con **h** inicial según la regla de los diptongos?",
-      "context": "",
+      "context": "Identificando palabras con **h** inicial en un colegio de Medellín.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v3",
       "statement": "¿Cuándo se escribe **\"y\"** al final de una palabra en lugar de \"i\"?",
-      "context": "",
+      "context": "Analizando la terminación en **-y** en Cali.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v4",
       "statement": "¿Cuál es la forma correcta de decir que algo existe en un lugar?",
-      "context": "",
+      "context": "Identificando la diferencia entre **\"hay\"**, **\"ahí\"** y **\"ay\"** en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v5",
       "statement": "¿Cuál de estas oraciones está escrita CORRECTAMENTE?",
-      "context": "",
+      "context": "Aplicando la regla de la **m** en un dictado sobre el campo en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v6",
       "statement": "¿Cuál de estos grupos de verbos debe escribirse siempre con **h** inicial en todas sus formas?",
-      "context": "",
+      "context": "Identificando verbos que siempre llevan **h** en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v7",
       "statement": "¿Cuál es la forma correcta de escribir la palabra que significa \"persona que no tiene miedo\"?",
-      "context": "",
+      "context": "El uso de la **h** intercalada en palabras comunes en Bucaramanga.",
       "options": [
         {
           "letter": "A",
@@ -288,6 +306,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -296,7 +317,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v8",
       "statement": "\"¿________ no viniste a clase? No vine ________ estaba enfermo\". ¿Qué palabras completan los espacios en orden?",
-      "context": "",
+      "context": "Diferenciando el uso de **\"por qué\"**, **\"porque\"** y **\"porqué\"** en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -328,6 +349,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -336,7 +360,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v9",
       "statement": "\"El **umano** tenía un **onbro** muy grande y **conpro** un **reloi**\". ¿Cuántos errores ortográficos graves hay en la frase?",
-      "context": "",
+      "context": "Corrigiendo un texto con múltiples errores avanzados.",
       "options": [
         {
           "letter": "A",
@@ -368,6 +392,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -376,7 +403,7 @@
     {
       "id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v10",
       "statement": "¿Cuál de estas frases es un ejemplo de ortografía AVANZADA y CORRECTA?",
-      "context": "",
+      "context": "Escribiendo una frase compleja para un concurso de ortografía en Santa Marta.",
       "options": [
         {
           "letter": "A",
@@ -408,6 +435,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",

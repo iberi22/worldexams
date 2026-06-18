@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v1",
       "statement": "¿Cuál es la forma correcta de escribir la palabra que nombra al calzado que usamos?",
-      "context": "",
+      "context": "Un niño escribe una nota sobre un zapato perdido en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v2",
       "statement": "¿Ante qué vocales la letra **\"c\"** suena como una /s/?",
-      "context": "",
+      "context": "La \"c\" con sonido de /s/ en un colegio de Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v3",
       "statement": "¿Cómo se escriben generalmente los diminutivos de las palabras que no tienen \"s\" al final?\n(Ejemplo: **ratón**, **flor**, **café**)",
-      "context": "",
+      "context": "Diminutivos terminados en **-cito** o **-cita** en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v4",
       "statement": "¿Cuál es la forma correcta de escribir la palabra que significa el acto de cantar?",
-      "context": "",
+      "context": "Palabras terminadas en **-ción** en un libro de Cali.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v5",
       "statement": "¿Cómo se escriben los adjetivos que indican que algo tiene mucho de una cualidad?\n(Ejemplo: **amor__, famo__, ruido__**)",
-      "context": "",
+      "context": "Terminaciones de adjetivos en **-oso** / **-osa** en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v6",
       "statement": "Si el singular es **\"lápiz\"** (con z), ¿cuál es el plural correcto?",
-      "context": "",
+      "context": "El plural de palabras terminadas en \"z\" en un colegio de Pasto.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v7",
       "statement": "¿Con qué letra se escribe el prefijo que significa \"hacer lo contrario\"?\n(Ejemplo: **__armar**, **__hacer**, **__peinar**)",
-      "context": "",
+      "context": "Palabras que empiezan por **\"des-\"** en un dictado en Bucaramanga.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v8",
       "statement": "¿Cuál es la forma correcta de escribir la acción de cocinar alimentos al fuego?",
-      "context": "",
+      "context": "Diferenciando palabras que suenan igual (homófonas) sobre cocinar.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v9",
       "statement": "\"La **selebrazión** por los **dies** años fue **er mosa**\". ¿Cuántos errores de c/s/z hay en las palabras resaltadas?",
-      "context": "",
+      "context": "Corrigiendo un texto sobre una fiesta en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v10",
       "statement": "¿Cuál de estas frases está escrita correctamente siguiendo las reglas de c, s y z?",
-      "context": "",
+      "context": "Quieres escribir un cartel para proteger a los peces en el mar.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",

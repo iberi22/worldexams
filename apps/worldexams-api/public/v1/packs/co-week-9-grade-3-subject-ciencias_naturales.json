@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.130Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v1",
+      "statement": "¿Cómo se llama el conjunto de etapas por las que pasa un animal desde que nace hasta que muere?",
+      "context": "En una finca en el Eje Cafetero, los niños ven un huevo, luego un pollito pequeño y finalmente un gallo grande que canta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El camino de la alimentación",
+          "is_correct": false,
+          "feedback": "La alimentación es una función vital, pero el conjunto de etapas de la vida tiene un nombre técnico diferente."
+        },
+        {
+          "letter": "B",
+          "text": "El ciclo de vida",
+          "is_correct": true,
+          "feedback": "El ciclo de vida incluye nacer, crecer, reproducirse y morir, siendo común a todos los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "La carrera de los animales",
+          "is_correct": false,
+          "feedback": "No es una competencia deportiva; es un proceso biológico natural y obligatorio para la existencia."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de plumas",
+          "is_correct": false,
+          "feedback": "Cambiar las plumas es solo una pequeña parte del crecimiento en aves, no define todo el proceso vital."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ciclo de vida es una característica fundamental de los seres vivos. Asegura que la vida continúe a pesar de que los individuos mueran, gracias a que en una de las etapas (la reproducción) se originan nuevos seres que empiezan el ciclo otra vez.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v2",
+      "statement": "¿En qué etapa del ciclo de vida se encuentra el gato cuando su cuerpo aumenta de tamaño y aprende a sobrevivir solo?",
+      "context": "Un gatito nace ciego y muy pequeño, pero después de unas semanas abre los ojos y empieza a jugar y a comer comida sólida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nacimiento",
+          "is_correct": false,
+          "feedback": "El nacimiento es el momento exacto en que el animal sale del vientre o del huevo; lo que sigue es el desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Crecimiento y desarrollo",
+          "is_correct": true,
+          "feedback": "Durante esta etapa, los órganos maduran, el cuerpo se hace más grande y el animal adquiere habilidades."
+        },
+        {
+          "letter": "C",
+          "text": "Reproducción",
+          "is_correct": false,
+          "feedback": "Para reproducirse, el animal debe ser primero un adulto completamente formado, algo que el gatito todavía no es."
+        },
+        {
+          "letter": "D",
+          "text": "Muerte natural",
+          "is_correct": false,
+          "feedback": "La muerte es el final del ciclo; el gatito está empezando su vida y desarrollándose activamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crecimiento no es solo volverse más grande. También incluye el desarrollo, que es cuando el animal aprende a cazar, a protegerse y sus órganos internos (como el estómago o los pulmones) terminan de prepararse para la vida adulta.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v3",
+      "statement": "¿Cómo se llama el cambio total de forma que sufren animales como la mariposa o la rana?",
+      "context": "Las mariposas ponen huevos de los cuales salen orugas que comen muchas hojas antes de encerrarse en una crisálida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estiramiento muscular",
+          "is_correct": false,
+          "feedback": "Estirarse es un movimiento físico; cambiar la forma completa del cuerpo es un proceso biológico mucho más profundo."
+        },
+        {
+          "letter": "B",
+          "text": "Metamorfosis",
+          "is_correct": true,
+          "feedback": "La metamorfosis es la transformación drástica que experimentan algunos animales durante su desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "Disfraz natural",
+          "is_correct": false,
+          "feedback": "No es un disfraz temporal; el cuerpo cambia sus estructuras de forma permanente para la etapa adulta."
+        },
+        {
+          "letter": "D",
+          "text": "Respiración cutánea",
+          "is_correct": false,
+          "feedback": "Esto se refiere a respirar por la piel, algo que hacen las ranas, pero no es el nombre del cambio de forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metamorfosis es asombrosa porque permite que un animal tenga \"dos vidas\". Como oruga, la mariposa solo se dedica a comer y crecer; como mariposa, se dedica a volar y reproducirse. Cada etapa tiene una función especial.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v4",
+      "statement": "¿Cuál es el orden correcto del ciclo de vida de la rana?",
+      "context": "Ordena las etapas de la vida de una rana: 1. Rana adulta, 2. Huevo, 3. Renacuajo con cola, 4. Renacuajo con patas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 - 2 - 3 - 4",
+          "is_correct": false,
+          "feedback": "El ciclo no empieza con el adulto; el adulto es el que pone los huevos para iniciar el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "3 - 4 - 2 - 1",
+          "is_correct": false,
+          "feedback": "El renacuajo no puede aparecer antes que el huevo; el huevo es siempre la primera etapa externa."
+        },
+        {
+          "letter": "C",
+          "text": "2 - 3 - 4 - 1",
+          "is_correct": true,
+          "feedback": "Primero el huevo, luego el renacuajo que solo nada, después le salen patas y finalmente se vuelve una rana adulta."
+        },
+        {
+          "letter": "D",
+          "text": "4 - 3 - 1 - 2",
+          "is_correct": false,
+          "feedback": "Las patas salen después de que el renacuajo ya está nadando; el orden lógico es desde lo más simple a lo más complejo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender el orden del ciclo de vida ayuda a comprender cómo los animales se adaptan. La rana empieza siendo totalmente acuática (huevo y renacuajo) y termina pudiendo vivir en la tierra, lo que requiere cambios en sus pulmones y patas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v5",
+      "statement": "¿Qué pasaría con el ciclo de vida del mosquito si vaciamos toda el agua de los recipientes en nuestra casa?",
+      "context": "Un mosquito hembra necesita agua estancada (como en una llanta vieja o un florero) para poner sus huevos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los mosquitos nacerían en la tierra",
+          "is_correct": false,
+          "feedback": "Los mosquitos son animales que necesitan agua obligatoriamente para sus primeras etapas de vida."
+        },
+        {
+          "letter": "B",
+          "text": "Se interrumpiría el ciclo y no nacerían más mosquitos",
+          "is_correct": true,
+          "feedback": "Al no tener dónde poner los huevos y dónde crezcan las larvas, el ciclo no puede completarse."
+        },
+        {
+          "letter": "C",
+          "text": "Los huevos esperarían cien años",
+          "is_correct": false,
+          "feedback": "Los huevos de mosquito necesitan agua pronto; si se secan por mucho tiempo, el embrión muere y no nace nada."
+        },
+        {
+          "letter": "D",
+          "text": "Los mosquitos se volverían mariposas",
+          "is_correct": false,
+          "feedback": "Los animales no cambian de especie; un mosquito siempre será mosquito si logra completar su ciclo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Controlar el ciclo de vida de algunos animales es importante para la salud. Como los mosquitos transmiten enfermedades, evitar que tengan agua para sus huevos es la mejor forma de que no nazcan y no nos enfermen.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v6",
+      "statement": "¿Por qué existen estas diferencias tan grandes en la duración de los ciclos de vida?",
+      "context": "Los elefantes viven hasta 70 años, mientras que algunas moscas solo viven 15 o 30 días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la mosca corre más rápido",
+          "is_correct": false,
+          "feedback": "La velocidad de movimiento no determina cuánto tiempo vive un organismo en total."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada especie tiene su propio tiempo biológico",
+          "is_correct": true,
+          "feedback": "La duración del ciclo de vida está programada en los genes y depende del tamaño y el ambiente de cada animal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el elefante come más chocolate",
+          "is_correct": false,
+          "feedback": "La dieta influye en la salud, pero la duración máxima de la vida es una característica natural de la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las moscas no quieren vivir más",
+          "is_correct": false,
+          "feedback": "Los animales no deciden cuánto tiempo vivir; su cuerpo se desarrolla y envejece según su biología."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La naturaleza es diversa. Algunos animales tienen ciclos de vida rápidos para producir muchos hijos en poco tiempo. Otros, como los elefantes o humanos, tienen ciclos largos porque su cuerpo y cerebro tardan mucho en madurar.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v7",
+      "statement": "¿Por qué es tan importante la etapa de reproducción en el ciclo de vida, a pesar de ser tan difícil?",
+      "context": "Durante la etapa de reproducción, los animales gastan mucha energía buscando pareja, peleando por territorio o construyendo nidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que los animales se diviertan",
+          "is_correct": false,
+          "feedback": "La reproducción es un proceso serio y costoso en energía; su fin no es la diversión sino la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Para asegurar que la especie no se extinga",
+          "is_correct": true,
+          "feedback": "Sin reproducción, los individuos actuales morirían y no quedaría ningún animal de esa clase en el mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los padres tengan a quién mandar",
+          "is_correct": false,
+          "feedback": "Los animales no tienen estructuras de autoridad humana; el objetivo es la continuidad biológica."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el ciclo de vida sea más corto",
+          "is_correct": false,
+          "feedback": "Al contrario, la reproducción es lo que permite que el ciclo vuelva a empezar desde el principio (huevo o nacimiento)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reproducción es la etapa más importante para el grupo. Mientras que nacer y crecer sirven para el individuo, reproducirse sirve para que la especie (el grupo de animales iguales) siga existiendo en el futuro.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v8",
+      "statement": "¿Qué nos demuestra este viaje tan increíble del salmón?",
+      "context": "Un salmón nace en un río, viaja miles de kilómetros hasta el mar para crecer, y años después vuelve al mismo río solo para poner huevos y morir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los peces se pierden fácilmente",
+          "is_correct": false,
+          "feedback": "Al contrario, el salmón tiene un sentido de orientación perfecto que lo guía de vuelta a casa."
+        },
+        {
+          "letter": "B",
+          "text": "Que el ciclo de vida puede incluir grandes migraciones",
+          "is_correct": true,
+          "feedback": "Algunos animales cambian de hábitat en diferentes etapas de su vida para encontrar mejores condiciones de comida o seguridad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el salmón odia el agua salada",
+          "is_correct": false,
+          "feedback": "Si la odiara, no pasaría la mayor parte de su vida adulta creciendo y alimentándose en el océano."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ciclo de vida no tiene orden",
+          "is_correct": false,
+          "feedback": "El viaje del salmón es muy ordenado y se repite exactamente igual en cada generación de peces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ciclo de vida puede estar conectado con la geografía. Muchos animales migran (viajan) para cumplir una etapa específica de su ciclo, buscando los mejores lugares para que sus hijos nazcan con seguridad.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v9",
+      "statement": "¿A qué etapa final del ciclo de vida se está acercando el perro?",
+      "context": "Un perro adulto empieza a tener canas en su hocico, se mueve más lento y ya no quiere jugar tanto como cuando era un cachorro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A una segunda infancia",
+          "is_correct": false,
+          "feedback": "En la biología no existe una segunda infancia; el desarrollo es un camino de ida hacia la madurez y vejez."
+        },
+        {
+          "letter": "B",
+          "text": "A la etapa de reproducción intensa",
+          "is_correct": false,
+          "feedback": "Los animales mayores suelen dejar de reproducirse para ahorrar energía y mantenerse vivos más tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Al envejecimiento y final del ciclo",
+          "is_correct": true,
+          "feedback": "Los cuerpos de los animales también se desgastan con el tiempo, marcando el fin de su etapa activa antes de morir."
+        },
+        {
+          "letter": "D",
+          "text": "A una metamorfosis canina",
+          "is_correct": false,
+          "feedback": "Los perros no sufren metamorfosis; su forma es la misma desde que nacen, solo cambian de tamaño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La vejez es la parte final del crecimiento. Es un proceso natural donde el cuerpo pierde fuerza. En la naturaleza, esta etapa suele ser corta porque los animales viejos son presa fácil, pero en nuestras casas los cuidamos para que vivan tranquilos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v10",
+      "statement": "¿Por qué crees que la naturaleza permite que un animal nazca sin boca para comer en su etapa adulta?",
+      "context": "Una mariposa de seda vive solo unos días como adulto, tiempo en el cual ni siquiera tiene boca para comer; solo se dedica a buscar pareja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fue un error de la evolución",
+          "is_correct": false,
+          "feedback": "La evolución no comete errores así; si la especie existe hace miles de años, es porque su estrategia funciona."
+        },
+        {
+          "letter": "B",
+          "text": "Porque su único objetivo es la reproducción",
+          "is_correct": true,
+          "feedback": "La mariposa ya guardó energía cuando era oruga; como adulto solo necesita vivir lo suficiente para dejar huevos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el aire le da toda la energía",
+          "is_correct": false,
+          "feedback": "Ningún animal vive solo de aire; la energía viene de la comida que ingirió en su etapa anterior (larva)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así no le duelen los dientes",
+          "is_correct": false,
+          "feedback": "Las mariposas no tienen dientes; la falta de boca es una especialización extrema para la reproducción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto nos enseña que el ciclo de vida es un equilibrio de energía. El animal invierte todo su tiempo de joven en comer y crecer para que, al ser adulto, pueda concentrarse 100% en tener hijos antes de morir, asegurando el futuro de su especie.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v1",
+      "statement": "¿Cómo se llama la diferencia física notable entre el macho y la hembra de una misma especie?",
+      "context": "En un estanque, vemos que el pavo real macho tiene una cola gigante de colores, mientras que la hembra es de color café sencillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambio de piel",
+          "is_correct": false,
+          "feedback": "El cambio de piel (muda) es un proceso de crecimiento, no se refiere a las diferencias entre sexos."
+        },
+        {
+          "letter": "B",
+          "text": "Dimorfismo sexual",
+          "is_correct": true,
+          "feedback": "El dimorfismo sexual son las variaciones de forma, color o tamaño que permiten distinguir al macho de la hembra."
+        },
+        {
+          "letter": "C",
+          "text": "Camuflaje de pareja",
+          "is_correct": false,
+          "feedback": "El camuflaje es para esconderse del peligro; las diferencias sexuales suelen ser para llamar la atención."
+        },
+        {
+          "letter": "D",
+          "text": "Amistad biológica",
+          "is_correct": false,
+          "feedback": "No es un término científico; la diferencia física responde a roles específicos en la reproducción de la especie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dimorfismo sexual ayuda a los animales a reconocerse. Muchas veces el macho es más llamativo (colores brillantes, melenas, cuernos) para atraer a la hembra y demostrar que es un individuo sano y fuerte para tener crías.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v2",
+      "statement": "¿Cuál es el objetivo de estos comportamientos llamados \"cortejo\"?",
+      "context": "Antes de aparearse, algunos pájaros realizan bailes complicados, cantan canciones especiales o construyen nidos muy bonitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender a bailar para fiestas",
+          "is_correct": false,
+          "feedback": "Los animales no bailan por diversión social como los humanos; sus acciones tienen un fin biológico serio."
+        },
+        {
+          "letter": "B",
+          "text": "Asustar a otros animales",
+          "is_correct": false,
+          "feedback": "Aunque a veces alejan competidores, el fin principal del cortejo es atraer a una pareja de su misma especie."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer a la pareja para reproducirse",
+          "is_correct": true,
+          "feedback": "El cortejo es una forma de comunicación que asegura que ambos animales están listos para ser padres."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer ejercicio para crecer",
+          "is_correct": false,
+          "feedback": "El crecimiento ocurre en otras etapas; el cortejo sucede cuando el animal ya es un adulto maduro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cortejo es vital para la supervivencia de la especie. Asegura que los animales se junten con individuos de su misma clase y que elijan a la mejor pareja posible para que sus hijos nazcan sanos y fuertes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v3",
+      "statement": "¿Qué grupo de animales se caracteriza por alimentar a sus crías con leche producida por la madre?",
+      "context": "Después de nacer, un ternero busca la ubre de su madre para tomar leche tibia y nutritiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los reptiles",
+          "is_correct": false,
+          "feedback": "Los reptiles no producen leche; sus crías suelen ser independientes o comen insectos y plantas desde que nacen."
+        },
+        {
+          "letter": "B",
+          "text": "Los mamíferos",
+          "is_correct": true,
+          "feedback": "Los mamíferos (como vacas, perros y humanos) tienen glándulas mamarias para nutrir a sus hijos en sus primeros meses."
+        },
+        {
+          "letter": "C",
+          "text": "Las aves",
+          "is_correct": false,
+          "feedback": "Las aves alimentan a sus crías con semillas o insectos que traen en su pico, pero no producen leche biológica."
+        },
+        {
+          "letter": "D",
+          "text": "Los peces",
+          "is_correct": false,
+          "feedback": "Los peces no amamantan; sus crías (alevinos) buscan comida microscópica en el agua por su cuenta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lactancia es una forma de cuidado parental muy avanzada. Permite que la cría crezca rápido y segura, recibiendo todos los nutrientes y defensas contra enfermedades directamente de su madre.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v4",
+      "statement": "¿Cuál es la ventaja de cuidar a las crías en lugar de poner muchos huevos y abandonarlos?",
+      "context": "Algunos peces ponen miles de huevos y se van, dejando que los bebés sobrevivan solos. Los pingüinos cuidan un solo huevo durante meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los padres no se aburren",
+          "is_correct": false,
+          "feedback": "Los animales no cuidan crías por entretenimiento, sino por una fuerte necesidad instintiva de supervivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay más probabilidades de que el hijo llegue a ser adulto",
+          "is_correct": true,
+          "feedback": "Al protegerlo de depredadores y alimentarlo, el hijo tiene una vida más segura aunque sea uno solo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el hijo aprende a hablar más rápido",
+          "is_correct": false,
+          "feedback": "Los animales no hablan; el beneficio es puramente biológico de protección y nutrición física."
+        },
+        {
+          "letter": "D",
+          "text": "Que los huevos no se mojan",
+          "is_correct": false,
+          "feedback": "En el caso de los peces, los huevos deben estar mojados; la ventaja es la protección contra los ataques de otros animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen dos estrategias en la naturaleza. Tener miles de hijos y no cuidarlos (muchos mueren), o tener pocos hijos y cuidarlos mucho (la mayoría sobrevive). Ambas funcionan, pero los mamíferos y aves prefieren el cuidado parental.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v5",
+      "statement": "¿Es este un ejemplo de cuidado parental?",
+      "context": "Un cocodrilo hembra carga a sus bebés recién nacidos en su boca para llevarlos desde el nido de arena hasta el agua del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, se los está tratando de comer",
+          "is_correct": false,
+          "feedback": "Aunque parezca peligroso, los cocodrilos son madres muy cuidadosas y no lastiman a sus crías con los dientes."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, los está protegiendo y ayudando a llegar al agua",
+          "is_correct": true,
+          "feedback": "El cuidado parental incluye cualquier acción de los padres que aumente la supervivencia de sus hijos."
+        },
+        {
+          "letter": "C",
+          "text": "No, es solo un juego de natación",
+          "is_correct": false,
+          "feedback": "Los animales silvestres no realizan \"juegos\" de transporte; es una conducta de supervivencia seria y necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque los cocodrilos son mamíferos",
+          "is_correct": false,
+          "feedback": "Los cocodrilos son reptiles; este ejemplo enseña que algunos reptiles también cuidan a sus hijos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque asociamos el cuidado de los hijos con los humanos o los perros, muchos otros animales lo hacen. Las madres cocodrilo defienden sus nidos con ferocidad y ayudan a sus bebés en sus primeros momentos de vida.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v6",
+      "statement": "¿Qué nos enseña este ejemplo sobre los roles de los padres en la naturaleza?",
+      "context": "En los caballitos de mar, es el macho el que guarda los huevos en una bolsa de su panza hasta que nacen los bebés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los machos no sirven para nada",
+          "is_correct": false,
+          "feedback": "Al contrario, en esta especie el macho cumple el papel más importante de protección de los huevos."
+        },
+        {
+          "letter": "B",
+          "text": "Que las hembras son perezosas",
+          "is_correct": false,
+          "feedback": "La hembra produce los huevos, lo cual requiere mucha energía; el trabajo simplemente se divide."
+        },
+        {
+          "letter": "C",
+          "text": "Que tanto machos como hembras pueden cuidar a las crías",
+          "is_correct": true,
+          "feedback": "Dependiendo de la especie, el cuidado puede ser de la madre, del padre o de ambos trabajando juntos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el caballito de mar es un insecto",
+          "is_correct": false,
+          "feedback": "El caballito de mar es un pez vertebrado con una forma de reproducción muy especial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La naturaleza es muy variada. No siempre es la hembra la que cuida. En algunas aves y peces, el padre es el encargado de proteger el nido y alimentar a los pequeños, demostrando que el objetivo es que la especie continúe.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v7",
+      "statement": "¿Cómo se llama esta forma de vivir y reproducirse en grupo organizado?",
+      "context": "Un nido de avispas tiene una \"reina\" que pone todos los huevos y miles de \"obreras\" que cuidan a las larvas aunque no sean sus propias hijas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Competencia feroz",
+          "is_correct": false,
+          "feedback": "Al contrario, están colaborando para que toda la colonia sobreviva y prospere junta."
+        },
+        {
+          "letter": "B",
+          "text": "Vida social o colonial",
+          "is_correct": true,
+          "feedback": "Insectos como abejas, hormigas y avispas viven en sociedades donde el cuidado de las crías es una tarea compartida."
+        },
+        {
+          "letter": "C",
+          "text": "Juego de equipo escolar",
+          "is_correct": false,
+          "feedback": "Es una estructura biológica instintiva, mucho más compleja y rígida que un juego humano."
+        },
+        {
+          "letter": "D",
+          "text": "Soledad absoluta",
+          "is_correct": false,
+          "feedback": "La vida colonial es lo opuesto a la soledad; ningún individuo podría sobrevivir mucho tiempo separado del grupo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales sociales han llevado el cuidado de las crías a otro nivel. Al trabajar todas juntas, aseguran que la reina pueda poner miles de huevos mientras otras buscan comida y protegen el hogar de los enemigos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v8",
+      "statement": "¿Por qué pelean los machos de muchas especies durante la época de reproducción?",
+      "context": "Un león macho joven trata de entrar a una manada que ya tiene un jefe. Ambos pelean usando sus garras y rugidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque les gusta lastimarse",
+          "is_correct": false,
+          "feedback": "Las peleas son peligrosas y los animales tratan de evitarlas a menos que sea necesario por un recurso vital."
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar quién es el más fuerte y apto",
+          "is_correct": true,
+          "feedback": "El ganador tendrá el derecho de aparearse con las hembras, asegurando que las crías tengan genes de un padre fuerte."
+        },
+        {
+          "letter": "C",
+          "text": "Para ver quién tiene el rugido más feo",
+          "is_correct": false,
+          "feedback": "El rugido es una herramienta de competencia, pero el objetivo final es el éxito reproductivo."
+        },
+        {
+          "letter": "D",
+          "text": "Para que las crías aprendan a pelear",
+          "is_correct": false,
+          "feedback": "Las crías ni siquiera han nacido; la pelea es una competencia entre adultos por el territorio y la pareja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia entre machos es común en la naturaleza. Aunque nos parezca violento, es una forma de selección natural que permite que solo los individuos más sanos y capaces pasen su información a la siguiente generación.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v9",
+      "statement": "¿Cómo saben las tortugas bebés qué hacer si sus padres nunca estuvieron allí para enseñarles?",
+      "context": "Las tortugas de tierra entierran sus huevos en la arena y se van. Al nacer, las tortuguitas saben perfectamente que deben caminar hacia el refugio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque lo vieron en la televisión",
+          "is_correct": false,
+          "feedback": "Los animales no usan tecnología humana; su conocimiento viene de sus genes desde antes de nacer."
+        },
+        {
+          "letter": "B",
+          "text": "Por puro instinto natural",
+          "is_correct": true,
+          "feedback": "El instinto es el comportamiento heredado que permite a los animales realizar tareas complejas sin que nadie se las enseñe."
+        },
+        {
+          "letter": "C",
+          "text": "Porque otras tortugas les gritan desde lejos",
+          "is_correct": false,
+          "feedback": "Las tortugas no se comunican de esa forma; cada pequeña tortuga actúa por su propia programación interna."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tienen un mapa en la pata",
+          "is_correct": false,
+          "feedback": "El \"mapa\" es biológico y está guardado en su cerebro en forma de instinto de supervivencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales que no reciben cuidado parental nacen con instintos muy fuertes. Saben qué comer, dónde esconderse y cómo moverse desde el primer segundo. Es la forma en que compensan la falta de protección de sus padres.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v10",
+      "statement": "¿Cuál es la razón científica de que los humanos necesitemos tanto tiempo de cuidado?",
+      "context": "Los humanos cuidamos a nuestros hijos por casi 20 años, mientras que un ratón solo cuida a los suyos por unas pocas semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque somos más perezosos que los ratones",
+          "is_correct": false,
+          "feedback": "La maduración de un organismo complejo y con un cerebro grande como el humano requiere mucho tiempo de desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tenemos mucho que aprender y un cuerpo que madura lento",
+          "is_correct": true,
+          "feedback": "Nuestro cerebro necesita años para aprender el lenguaje y la vida social, y nuestro cuerpo tarda en ser físicamente independiente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el ratón vive en una casa pequeña",
+          "is_correct": false,
+          "feedback": "El tamaño de la casa no influye en la velocidad de crecimiento biológico de la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los humanos no tienen instintos",
+          "is_correct": false,
+          "feedback": "Los humanos sí tenemos instintos, pero nuestra supervivencia depende mucho más del aprendizaje y la cultura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo de cuidado parental está relacionado con la complejidad de la especie. Especies con vidas cortas y cuerpos sencillos crecen rápido. Especies inteligentes y longevas como los humanos invierten décadas en formar a la siguiente generación.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

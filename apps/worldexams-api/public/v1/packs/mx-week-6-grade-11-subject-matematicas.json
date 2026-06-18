@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la condición fundamental para que una relación entre dos conjuntos, $A$ y $B$, sea clasificada matemáticamente como una función?",
-      "context": "",
+      "context": "En un curso de matemáticas de una preparatoria en la Ciudad de México, se discuten las reglas para que una relación sea considerada una función.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de conceptos básicos",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v2",
       "statement": "Si se tiene la gráfica de una relación en el plano cartesiano, ¿qué método visual permite determinar de manera rápida si dicha gráfica corresponde a una función?",
-      "context": "",
+      "context": "Un estudiante del IPN está analizando diversas gráficas en su cuaderno para identificar cuáles representan funciones reales de variable real.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Representación gráfica de funciones",
+      "expected_success": 0.82,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v3",
       "statement": "Dada la expresión $f(x) = 2x^2 - 5$, ¿cuál de las siguientes opciones describe correctamente el significado de la letra $x$ en este contexto?",
-      "context": "",
+      "context": "En un examen simulacro tipo EXANI-II, se presenta una expresión matemática utilizando la notación de Euler.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Notación funcional",
+      "expected_success": 0.88,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v4",
       "statement": "En el estudio de funciones, ¿cómo se le denomina técnicamente al conjunto de todos los valores de salida posibles que una función puede efectivamente tomar?",
-      "context": "",
+      "context": "Una empresa de software en Guadalajara desarrolla una aplicación que calcula costos basándose en el número de usuarios. El equipo técnico define los conjuntos de entrada y salida.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dominio y rango",
+      "expected_success": 0.8,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v5",
       "statement": "Si el ingeniero desea conocer la concentración exactamente a las 3 horas ($t=3$), ¿cuál es el valor de $C(3)$?",
-      "context": "",
+      "context": "Un ingeniero ambiental en Monterrey utiliza la función $C(t) = 3t^2 - 2t + 10$ para modelar la concentración de un contaminante en el aire tras $t$ horas.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluación de funciones",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el dominio de la función real $g(x) = \\frac{5}{x - 4}$?",
-      "context": "",
+      "context": "En un laboratorio de física de la UNAM, se analiza la función $g(x) = \\frac{5}{x - 4}$. El profesor pide identificar los valores de $x$ que no pueden ser procesados por la función.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Determinación del dominio",
+      "expected_success": 0.72,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor resultante de evaluar $f(g(4))$?",
-      "context": "",
+      "context": "Un estudiante de preparatoria técnica está resolviendo problemas de composición básica. Se le dan dos funciones: $f(x) = x + 3$ y $g(x) = 2x$.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluación de funciones compuestas",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v8",
       "statement": "Si esta relación se comporta como una función lineal $I(k) = mk$, ¿cuál es el valor de $I(10)$?",
-      "context": "",
+      "context": "Un comerciante en un mercado de Puebla registra sus ventas. El ingreso $I$ depende de la cantidad de kilogramos vendidos $k$ según la siguiente tabla:\n| $k$ (kg) | 1 | 2 | 3 | 4 |\n| :--- | :--- | :--- | :--- | :--- |\n| $I$ ($) | 45 | 90 | 135 | 180 |",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación de tablas de valores",
+      "expected_success": 0.78,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v9",
       "statement": "¿Cómo se conoce comúnmente a la función $f(x) = |x|$ y cuál es su característica principal respecto al rango?",
-      "context": "",
+      "context": "En un software de diseño gráfico, se aplican transformaciones. Un diseñador observa la función $f(x) = |x|$.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de tipos de funciones",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el rango de la función $h(x) = x^2 + 5$ si el dominio son todos los números reales?",
-      "context": "",
+      "context": "Un estudiante analiza la función $h(x) = x^2 + 5$. Sabe que el término $x^2$ nunca es negativo.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Determinación del rango",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v11",
       "statement": "Determine el dominio de la función real $f(x) = \\sqrt{2x - 6}$.",
-      "context": "",
+      "context": "En un examen parcial de cálculo en el Estado de México, se pide hallar el dominio de validez de una función que involucra una raíz cuadrada.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dominio de funciones con raíces",
+      "expected_success": 0.62,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v12",
       "statement": "A partir de la expresión $y = \\sqrt{4 - x^2}$, identifique correctamente el dominio y el rango de esta función.",
-      "context": "",
+      "context": "Se presenta la gráfica de una función que consiste en una semicircunferencia superior de radio 2 centrada en el origen: $y = \\sqrt{4 - x^2}$.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis de gráficas y dominio/rango",
+      "expected_success": 0.58,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v13",
       "statement": "Si un cliente envía un paquete que pesa 3.5 kg, ¿cuál es el costo total del servicio?",
-      "context": "",
+      "context": "El servicio de mensajería en Querétaro cobra según el peso $w$ en kg: $C(w) = 50$ si \\$0 < w \\leq 1$, y $C(w) = 50 + 20(w-1)$ si $w > 1$.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Funciones escalonadas o por partes",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v14",
       "statement": "¿Cuál de las siguientes funciones se clasifica como una **función par**?",
-      "context": "",
+      "context": "Un analista de datos está clasificando funciones según sus propiedades de simetría respecto al origen o al eje Y.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Simetría de funciones (Par/Impar)",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v15",
       "statement": "Dada la función $f(x) = -x^2 + 6x$, ¿en qué intervalo de su dominio la función presenta un comportamiento **creciente**?",
-      "context": "",
+      "context": "Se observa la gráfica de la función $f(x) = -x^2 + 6x$. Los estudiantes deben identificar en qué intervalo la función es creciente.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crecimiento y decrecimiento",
+      "expected_success": 0.56,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v16",
       "statement": "Si $f(x) = x^2 + 2x$, ¿cuál es la expresión simplificada para $f(x+h)$?",
-      "context": "",
+      "context": "En un ejercicio de preparación avanzada, se pide hallar la expresión para $f(x+h)$ dada una función cuadrática.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluación de expresiones funcionales complejas",
+      "expected_success": 0.52,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la función $V(x)$ que representa el volumen de la caja resultante en términos de la altura $x$?",
-      "context": "",
+      "context": "Un fabricante de cajas en Tijuana utiliza láminas cuadradas de 20 cm por lado. Corta cuadrados de lado $x$ en las esquinas para doblar las pestañas y formar la caja.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelación con funciones",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v18",
       "statement": "Dada la función $f(x) = \\frac{3x - 1}{x + 2}$ con $x \\neq -2$, ¿cuál es su función inversa $f^{-1}(x)$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería necesita encontrar la función inversa de un proceso de enfriamiento modelado por $f(x) = \\frac{3x - 1}{x + 2}$.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Inversa de una función",
+      "expected_success": 0.42,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es el dominio de la función real $L(x) = \\log_{10}(x^2 - 9)$?",
-      "context": "",
+      "context": "En un estudio sobre crecimiento poblacional en el Estado de Yucatán, se utiliza la función $L(x) = \\log_{10}(x^2 - 9)$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis de dominio en funciones logarítmicas",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v20",
       "statement": "Si la función original es $g(x)$, ¿cuál es la expresión de la nueva función $h(x)$ tras aplicar las tres transformaciones mencionadas?",
-      "context": "",
+      "context": "Un investigador observa que la gráfica de una función base $g(x)$ ha sido reflejada respecto al eje X, desplazada 3 unidades a la izquierda y 2 unidades hacia abajo.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Análisis de transformaciones de funciones",
+      "expected_success": 0.38,
       "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",

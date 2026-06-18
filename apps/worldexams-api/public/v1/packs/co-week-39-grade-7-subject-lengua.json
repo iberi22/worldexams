@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v1",
       "statement": "¿Cuál es la estructura característica de la copla popular colombiana que se observa en este ejemplo?",
-      "context": "",
+      "context": "En una fiesta de pueblo en los Andes colombianos, un trovador canta: \"En la punta de aquel cerro / yo tengo mi ranchito, / allí vivo muy tranquilo / con mi perro y mi gatito\".",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v2",
       "statement": "¿Qué es un refrán y cuál es su principal propósito en la comunicación cotidiana?",
-      "context": "",
+      "context": "Una abuela en el campo le dice a su nieto: \"Mijo, no se afane, que al que madruga, Dios lo ayuda\".",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v3",
       "statement": "¿Cuál es la función principal del humor y la picardía en este tipo de coplas populares?",
-      "context": "",
+      "context": "Lee esta copla picante: \"Por aquí pasó una danta / con el rabo bien parado, / el que no lo crea que vaya / y le mire el otro lado\".",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v4",
       "statement": "¿En qué situación de la vida real sería más adecuado aplicar este refrán colombiano?",
-      "context": "",
+      "context": "Considera el refrán: \"Mucho tilín tilín y nada de paletas\".",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v5",
       "statement": "¿Cuál de las siguientes opciones completa mejor la copla de manera tradicional y rítmica?",
-      "context": "",
+      "context": "Tienes que completar la siguiente copla respetando la rima y el sentido:\n\"Ayer pasé por tu casa / y me tiraste una flor, / ...\"",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v6",
       "statement": "Si quisiéramos aplicar este consejo al ámbito del estudio escolar, ¿cuál sería la interpretación más acertada?",
-      "context": "",
+      "context": "Un refrán dice: \"El que tiene tienda, que la atienda\".",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v7",
       "statement": "¿Qué recurso literario se utiliza en el último verso y qué cualidad del llanero resalta?",
-      "context": "",
+      "context": "Analiza esta copla de la región llanera: \"El llanero es de una talla / que no se dobla ante nada, / si se le acaba la soga / la saca de su mirada\".",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v8",
       "statement": "¿Cuál es la conclusión más lógica sobre el uso de los refranes a partir de esta aparente contradicción?",
-      "context": "",
+      "context": "Compara estos dos refranes que parecen decir cosas opuestas:\n1. \"Al que madruga, Dios lo ayuda\".\n2. \"No por mucho madrugar amanece más temprano\".",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v9",
       "statement": "¿Por qué ha cambiado la valoración de este refrán con el paso del tiempo?",
-      "context": "",
+      "context": "Algunos refranes antiguos en Colombia dicen: \"La letra con sangre entra\". Hoy en día, este refrán es muy criticado por los pedagogos y psicólogos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v10",
       "statement": "¿Cuál es la evaluación más crítica sobre esta estrategia de comunicación política?",
-      "context": "",
+      "context": "Imagina que un político usa constantemente refranes populares en sus discursos para convencer a la gente del campo de que voten por él.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

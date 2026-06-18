@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v1",
       "statement": "¿En qué sílaba llevan la fuerza de voz (acento) las palabras **esdrújulas**?",
-      "context": "",
+      "context": "Un niño cuenta las sílabas de una palabra en un colegio de Tunja.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v2",
       "statement": "¿Cuándo llevan tilde las palabras esdrújulas?",
-      "context": "",
+      "context": "La regla más fácil de la ortografía en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v3",
       "statement": "¿Cuál de estas palabras es esdrújula?",
-      "context": "",
+      "context": "Identificando una palabra esdrújula en una lista de animales.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v4",
       "statement": "¿Cuál de estas partes del cuerpo es una palabra esdrújula y debe llevar tilde?",
-      "context": "",
+      "context": "Buscando palabras esdrújulas en el cuerpo humano.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v5",
       "statement": "\"El niño mira la **pro__ima** página del libro\". ¿Cómo se escribe correctamente la palabra resaltada?",
-      "context": "",
+      "context": "Marcando tildes en palabras de tres o más sílabas en Medellín.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v6",
       "statement": "¿Cuál de estos grupos contiene SOLO palabras esdrújulas?",
-      "context": "",
+      "context": "Diferenciando esdrújulas de otras palabras en un colegio de Cali.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v7",
       "statement": "¿Cuál es la forma correcta de escribir la palabra que nombra a los signos como 1, 2, 3?",
-      "context": "",
+      "context": "El uso de las esdrújulas en las matemáticas.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v8",
       "statement": "En la oración \"La **Vía Láctea** es nuestra galaxia\", ¿cuál es la palabra esdrújula?",
-      "context": "",
+      "context": "Identificando esdrújulas en una oración sobre el universo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v9",
       "statement": "¿Cuál de estas frases tiene bien puestas todas las tildes de las palabras esdrújulas?",
-      "context": "",
+      "context": "Corrigiendo un texto sobre un viaje al campo en Pasto.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v10",
       "statement": "¿Cuál de estos nombres inventados sería una palabra esdrújula correctamente escrita?",
-      "context": "",
+      "context": "Quieres inventar un nombre para un planeta lejano que sea una palabra esdrújula.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",

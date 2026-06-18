@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.601Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v1",
+      "statement": "*\"¿Qué es una secuencia lógica?\"*",
+      "context": "Secuencia lógica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un orden sin sentido.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Un orden que tiene coherencia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Poner palabras al azar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Saltarse pasos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v2",
+      "statement": "*\"¿Qué conector se usa para ordenar?\"*",
+      "context": "Orden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sin embargo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "primero.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "porque.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "pero.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conector orden.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v3",
+      "statement": "*\"Si llueve, el piso se moja. ¿Qué relación hay?\"*",
+      "context": "Causa-efecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secuencia temporal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Causa-efecto.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Contraste.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Opinión.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Causa-efecto.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v4",
+      "statement": "*\"Me vestí, me bañé. ¿Es lógico?\"*",
+      "context": "Orden incorrecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, perfecto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, primero bañarse, luego vestirse.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Da igual.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo si estás limpio.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Orden ilógico.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v5",
+      "statement": "*\"1. Comprar ingredientes. 2. _________. 3. Servir.\"* ¿Qué falta?\"*",
+      "context": "Completar secuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cocinar.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Dormir.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Caminar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Completar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v6",
+      "statement": "*\"A) Salir B) Despertar C) Desayunar. ¿Orden lógico?\"*",
+      "context": "Reordenar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A,B,C.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B,C,A.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "C,B,A.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A,C,B.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reordenar.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v7",
+      "statement": "*\"Texto: ‘Fue a la playa. Se puso los zapatos. Se metió al agua con abrigo.’ ¿Qué falla?\"*",
+      "context": "Secuencia ilógica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, todo bien.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La secuencia no es lógica.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Bien escrito.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Es poesía.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Detectar ilógico.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v8",
+      "statement": "*\"Texto: Juan nació, caminó, gateó. ¿Problema?\"*",
+      "context": "Analizar coherencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Primero gatea, luego camina.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Está bien.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Da igual.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar orden.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v9",
+      "statement": "*\"¿Por qué es importante la secuencia lógica en un instructivo?\"*",
+      "context": "Evaluar importancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No lo es.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para que funcione el resultado.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Para que sea bonito.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Es opcional.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Importancia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v10",
+      "statement": "*\"Ordena: preparar maleta, comprar tiquete, viajar. ¿Cuál es correcto?\"*",
+      "context": "Crear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar, preparar, viajar.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Preparar, viajar, comprar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Viajar, comprar, preparar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Preparar, comprar, viajar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Crear secuencia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

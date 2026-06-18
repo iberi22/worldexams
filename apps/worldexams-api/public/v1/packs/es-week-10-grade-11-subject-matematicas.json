@@ -10,7 +10,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la forma general de una función exponencial básica?",
-      "context": "",
+      "context": "Un estudiante en un instituto de Madrid estudia el comportamiento de las funciones con crecimiento rápido.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.88,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v2",
       "statement": "¿En qué punto cortan al eje Y todas las funciones exponenciales de la forma $f(x) = a^x$?",
-      "context": "",
+      "context": "Se analiza el punto de corte con el eje vertical en una clase de funciones en Barcelona.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.85,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v3",
       "statement": "Dada la función $f(x) = e^x$, ¿cuál es el valor aproximado de $f(1)$?",
-      "context": "",
+      "context": "Un estudiante en Valencia calcula el valor de una función exponencial neperiana.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.82,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v4",
       "statement": "¿Qué relación geométrica guardan las gráficas de $y = 2^x$ e $y = \\log_2 x$ respecto a la recta $y = x$?",
-      "context": "",
+      "context": "Un examen en Sevilla pregunta por la relación entre exponenciales y logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.8,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v5",
       "statement": "Si inicialmente hay 100 bacterias, ¿cuántas habrá después de 5 horas?",
-      "context": "",
+      "context": "Un biólogo en Bilbao observa que una población de bacterias se duplica cada hora: $P(t) = P_0 \\cdot 2^t$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.75,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el dominio de la función $f(x) = \\log(x - 3)$?",
-      "context": "",
+      "context": "Se analiza el dominio de una función logarítmica en un ejercicio de refuerzo en Zaragoza.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.72,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v7",
       "statement": "¿Bajo qué condición la función exponencial $f(x) = a^x$ es estrictamente decreciente?",
-      "context": "",
+      "context": "Un estudiante analiza la monotonía de una función exponencial decreciente.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.7,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la magnitud $M$ del seísmo?",
-      "context": "",
+      "context": "Un geólogo en Murcia usa la escala Richter: $M = \\log(A/A_0)$. Si una amplitud $A$ es 10.000 veces $A_0$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.68,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v9",
       "statement": "Halla el valor de x en la ecuación $e^x = 5$.",
-      "context": "",
+      "context": "Un estudiante en San Sebastián resuelve una ecuación exponencial mediante logaritmos.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.65,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la asíntota horizontal de la función $f(x) = 3^x$?",
-      "context": "",
+      "context": "Se estudia la presencia de asíntotas en las funciones trascendentes.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.63,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v11",
       "statement": "A largo plazo ($x \\to \\infty$), ¿cuál de las siguientes funciones crece más rápidamente?",
-      "context": "",
+      "context": "Un estudiante avanzado en Madrid analiza el crecimiento comparado de funciones.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.6,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v12",
       "statement": "Un coche de 20.000 € pierde el 15% de su valor cada año. ¿Qué función modela su precio $V$ tras $t$ años?",
-      "context": "",
+      "context": "Se busca la expresión de una función exponencial que modela la pérdida de valor de un coche.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.58,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v13",
       "statement": "¿En qué punto corta al eje X la función $f(x) = \\ln(x) + 1$?",
-      "context": "",
+      "context": "Un estudiante en Asturias explica el efecto de una traslación vertical en un logaritmo.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y Razonamiento",
+      "expected_success": 0.55,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v14",
       "statement": "¿Para qué valor de x se alcanza el valor de función $f(x) = 8$?",
-      "context": "",
+      "context": "Un arquitecto en Málaga usa la función $f(x) = 2^{x-4}$ para diseñar un patrón de sombreado.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.53,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el recorrido (imagen) de la función $f(x) = 5^x$?",
-      "context": "",
+      "context": "Se analiza el rango de la función exponencial.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.5,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v16",
       "statement": "Halla x si $\\log_2(x+1) = 3$.",
-      "context": "",
+      "context": "Un estudiante resuelve una ecuación logarítmica con una base distinta a 10 o e.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.48,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v17",
       "statement": "¿A qué distancia $d$ la intensidad se reduce a la mitad? (Usa $\\ln 2 \\approx 0,7$).",
-      "context": "",
+      "context": "Un programador en Madrid implementa una función de atenuación de sonido: $I(d) = I_0 \\cdot e^{-0,2d}$.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolución de Problemas",
+      "expected_success": 0.45,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v18",
       "statement": "Resuelve: $2^{2x} - 5 \\cdot 2^x + 4 = 0$.",
-      "context": "",
+      "context": "Se plantea la resolución de una ecuación exponencial que requiere un cambio de variable.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.42,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la función inversa de $f(x) = e^{x+2}$?",
-      "context": "",
+      "context": "Un estudiante de ingeniería analiza la inversa de una función exponencial desplazada.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelización y Comunicación",
+      "expected_success": 0.38,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 0^+} \\ln x$?",
-      "context": "",
+      "context": "Un reto sobre el límite de la función logarítmica.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Matemático",
+      "expected_success": 0.35,
       "bundle_id": "ES-MAT-11-2026-W10-funcion-exponencial-logaritmica-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

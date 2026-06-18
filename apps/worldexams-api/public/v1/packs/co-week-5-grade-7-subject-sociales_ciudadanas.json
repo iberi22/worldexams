@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Social",
+      "expected_success": 0.85,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación de Textos",
+      "expected_success": 0.8,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Social",
+      "expected_success": 0.82,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -162,6 +171,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.75,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -202,6 +214,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación de Textos",
+      "expected_success": 0.78,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Social",
+      "expected_success": 0.7,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.65,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -322,6 +343,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Social",
+      "expected_success": 0.6,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -362,6 +386,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación de Textos",
+      "expected_success": 0.58,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -402,6 +429,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "expected_success": 0.5,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "expected_success": 0.52,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -482,7 +515,430 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "expected_success": 0.42,
       "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v1",
+      "statement": "Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la hidrografía colombiana es más relevante para el desarrollo del país?",
+      "context": "En la clase de la Institución Educativa de Medellín, los estudiantes analizan la hidrografía colombiana a partir de un texto del Ministerio de Educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la hidrografía colombiana es más relevante para el desarrollo del país? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v2",
+      "statement": "¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual?",
+      "context": "En la clase de la Institución Educativa de Medellín, los estudiantes analizan la hidrografía colombiana a partir de un texto del Ministerio de Educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación de Textos",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v3",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase?",
+      "context": "Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran la hidrografía colombiana mediante un debate sobre su impacto en la vida cotidiana colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Argumentación",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v4",
+      "statement": "Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la hidrografía colombiana es más relevante para el desarrollo del país?",
+      "context": "La profesora de la I.E. de Cali presenta un estudio de caso sobre la hidrografía colombiana relacionado con noticias recientes de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "La hidrografía colombiana es un aspecto clave de la geografía y sociedad colombiana que influye en la vida de todos los ciudadanos",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la hidrografía colombiana es más relevante para el desarrollo del país? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase?",
+      "context": "Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran la hidrografía colombiana mediante un debate sobre su impacto en la vida cotidiana colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de Textos",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v6",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase?",
+      "context": "El equipo docente del Colegio de Barranquilla prepara una actividad práctica sobre la hidrografía colombiana usando mapas y datos del DANE 2025.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un aspecto clave de la geografía y sociedad colombiana que influye en la vida de todos los ciudadanos",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Argumentación",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v7",
+      "statement": "¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual?",
+      "context": "Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran la hidrografía colombiana mediante un debate sobre su impacto en la vida cotidiana colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v8",
+      "statement": "¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual?",
+      "context": "Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran la hidrografía colombiana mediante un debate sobre su impacto en la vida cotidiana colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un aspecto clave de la geografía y sociedad colombiana que influye en la vida de todos los ciudadanos",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación de Textos",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v9",
+      "statement": "¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual?",
+      "context": "El equipo docente del Colegio de Barranquilla prepara una actividad práctica sobre la hidrografía colombiana usando mapas y datos del DANE 2025.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia no presenta características significativas de la hidrografía colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la hidrografía colombiana y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentación",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase?",
+      "context": "La profesora de la I.E. de Cali presenta un estudio de caso sobre la hidrografía colombiana relacionado con noticias recientes de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Las políticas públicas colombianas reconocen la importancia de la hidrografía colombiana para el desarrollo sostenible del país",
+          "is_correct": true,
+          "feedback": "Correcto. Esta afirmación es precisa según lo estudiado."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la hidrografía colombiana no es relevante para el desarrollo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        },
+        {
+          "letter": "D",
+          "text": "La hidrografía colombiana es un fenómeno que solo afecta a las zonas rurales de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise nuevamente los conceptos estudiados en clase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estudio de la hidrografía colombiana es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la hidrografía colombiana es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "COL-SOC-CIU-7-2026-W05-hidrografia-colombia-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null

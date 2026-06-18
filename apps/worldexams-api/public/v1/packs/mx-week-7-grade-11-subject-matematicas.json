@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la forma general (forma pendiente-intersección) de una función lineal que relaciona la variable dependiente $y$ con la independiente $x$?",
-      "context": "",
+      "context": "En una clase de álgebra en una preparatoria de Veracruz, el profesor explica la forma general de las funciones de primer grado.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Definición de función lineal",
+      "expected_success": 0.9,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v2",
       "statement": "Si en una función lineal $y = mx + b$, el valor de la pendiente $m$ es negativo ($m < 0$), ¿cómo es el comportamiento de la función al aumentar los valores de $x$?",
-      "context": "",
+      "context": "Un estudiante observa la gráfica de la temperatura a lo largo del día en Chihuahua, la cual desciende de manera constante.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Significado de la pendiente",
+      "expected_success": 0.85,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v3",
       "statement": "En la función lineal $y = 3x - 5$, ¿cuáles son las coordenadas del punto donde la recta corta al eje de las ordenadas ($y$)?",
-      "context": "",
+      "context": "Un analista financiero en la Ciudad de México revisa un modelo de costos fijos representados por la ordenada al origen de una recta.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Intersección con los ejes",
+      "expected_success": 0.88,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el valor de la pendiente ($m$) de una recta que es paralela al eje de las abscisas (eje $x$)?",
-      "context": "",
+      "context": "En un laboratorio de física en Puebla, se mide la velocidad de un objeto que se mueve a ritmo constante sin aceleración. La gráfica de velocidad vs tiempo es una línea horizontal.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pendiente de una recta horizontal",
+      "expected_success": 0.82,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el valor de la pendiente de la recta que pasa por los puntos $(2, 3)$ y $(5, 12)$?",
-      "context": "",
+      "context": "Un topógrafo en el Estado de México necesita calcular la pendiente de un terreno. Para ello, ubica dos puntos: $A(2, 3)$ y $B(5, 12)$.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Cálculo de la pendiente entre dos puntos",
+      "expected_success": 0.75,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la función lineal que representa el costo total $C$ de un viaje en función de los kilómetros $k$ recorridos?",
-      "context": "",
+      "context": "Un taxista en Guadalajara cobra una tarifa base (banderazo) de \\$15.00 y adicionalmente \\$8.00 por cada kilómetro recorrido.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Construcción de la ecuación de la recta",
+      "expected_success": 0.72,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor de $x$ donde la gráfica de la función $f(x) = -4x + 12$ interseca al eje de las abscisas?",
-      "context": "",
+      "context": "En un ejercicio de geometría analítica, se desea encontrar el punto donde la recta $f(x) = -4x + 12$ cruza el eje horizontal.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Intersección con el eje X (raíz)",
+      "expected_success": 0.7,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las dos plantas tiene una mayor velocidad de crecimiento y cuál empezó con una mayor altura inicial?",
-      "context": "",
+      "context": "Un estudiante de preparatoria técnica compara el crecimiento de dos plantas. La planta A crece según $y = 2x + 5$ y la planta B según $y = 3x + 2$.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de gráficas de funciones lineales",
+      "expected_success": 0.78,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v9",
       "statement": "¿Cuántos litros de agua quedarán en el tanque después de media hora de vaciado?",
-      "context": "",
+      "context": "Un tanque de agua en una zona rural de Oaxaca se está vaciando de manera uniforme. El volumen $V$ en litros después de $t$ minutos es $V(t) = 1200 - 40t$.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluación de funciones lineales",
+      "expected_success": 0.74,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes ecuaciones podría representar al segundo muro si se sabe que es paralelo al primero y pasa por el origen?",
-      "context": "",
+      "context": "Un arquitecto en Monterrey está diseñando dos muros paralelos. La ecuación del primer muro es $y = 0.5x + 10$.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Rectas paralelas",
+      "expected_success": 0.68,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v11",
       "statement": "¿Cuál debe ser la pendiente ($m$) de cualquier recta que sea perpendicular a la recta $y = \\frac{3}{4}x - 2$?",
-      "context": "",
+      "context": "En un plano de diseño industrial en San Luis Potosí, se requiere trazar una línea perpendicular a la trayectoria $y = \\frac{3}{4}x - 2$.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Rectas perpendiculares",
+      "expected_success": 0.62,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la ecuación de la recta que tiene pendiente $m = -2$ y pasa por el punto $(-1, 5)$?",
-      "context": "",
+      "context": "Se conoce que una recta tiene una pendiente $m = -2$ y pasa por el punto $P(-1, 5)$. Un estudiante busca expresar la ecuación en su forma pendiente-intersección.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ecuación punto-pendiente",
+      "expected_success": 0.58,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -490,7 +526,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la razón de cambio (litros por hora) de este sistema de riego?",
-      "context": "",
+      "context": "Un sistema de riego por goteo en Sonora entrega agua de forma constante. Se observa que después de 2 horas se han entregado 15 litros, y después de 5 horas se han entregado 37.5 litros.",
       "options": [
         {
           "letter": "A",
@@ -522,6 +558,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelado de situaciones proporcionales",
+      "expected_success": 0.55,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -530,7 +569,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la pendiente ($m$) y la ordenada al origen ($b$) de la recta cuya ecuación es \\$3x - 2y + 8 = 0$?",
-      "context": "",
+      "context": "En un examen tipo EXANI-II, se presenta la ecuación de una recta en su forma general: \\$3x - 2y + 8 = 0$.",
       "options": [
         {
           "letter": "A",
@@ -562,6 +601,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Forma general de la recta",
+      "expected_success": 0.6,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -570,7 +612,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v15",
       "statement": "Si el viento cambia y la velocidad de ascenso se duplica mientras la altura inicial permanece igual, ¿cuál es la nueva función de altura?",
-      "context": "",
+      "context": "Un globo aerostático en Teotihuacán asciende. Su altura $H$ (en metros) respecto al tiempo $t$ (en segundos) está dada por $H(t) = 1.2t + 20$.",
       "options": [
         {
           "letter": "A",
@@ -602,6 +644,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis de variaciones",
+      "expected_success": 0.56,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -610,7 +655,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v16",
       "statement": "¿En qué punto $(x, y)$ se cruzan las trayectorias de ambos proyectiles?",
-      "context": "",
+      "context": "Dos proyectiles siguen trayectorias lineales en un simulador: $y = x + 2$ y $y = -2x + 11$.",
       "options": [
         {
           "letter": "A",
@@ -642,6 +687,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Punto de intersección entre dos rectas",
+      "expected_success": 0.52,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -650,7 +698,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v17",
       "statement": "¿Cuántos pares de zapatos debe vender como mínimo para que sus ingresos igualen a sus costos (punto de equilibrio)?",
-      "context": "",
+      "context": "Un fabricante de zapatos en León tiene costos mensuales de producción $C(x) = 250x + 15000$, donde $x$ es el número de pares. Vende cada par en \\$400.",
       "options": [
         {
           "letter": "A",
@@ -682,6 +730,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Optimización lineal básica",
+      "expected_success": 0.45,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -690,7 +741,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es la tasa de depreciación anual y cuál es la función que representa el valor $V$ de la máquina en el tiempo $t$?",
-      "context": "",
+      "context": "Una maquinaria comprada por una constructora en Hermosillo costó \\$800,000 y se deprecia linealmente hasta valer \\$200,000 al cabo de 10 años.",
       "options": [
         {
           "letter": "A",
@@ -722,6 +773,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de modelos de depreciación",
+      "expected_success": 0.42,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -730,7 +784,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v19",
       "statement": "Según este modelo, ¿cuál es la interpretación correcta del valor \"1200\" y qué salario esperaría alguien con 0 años de estudio?",
-      "context": "",
+      "context": "Un científico social estudia la relación entre años de estudio ($x$) y salario mensual ($y$) en Campeche. Encuentra que los datos se ajustan a la recta $y = 1200x + 5000$.",
       "options": [
         {
           "letter": "A",
@@ -762,6 +816,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Regresión lineal conceptual",
+      "expected_success": 0.4,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -770,7 +827,7 @@
     {
       "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v20",
       "statement": "¿Cuál de los siguientes puntos $(x, y)$ satisface simultáneamente las condiciones: \\$2x + y \\geq 10$ y $x + y \\leq 8$?",
-      "context": "",
+      "context": "Para un proyecto escolar en Colima, un grupo de estudiantes debe cumplir dos condiciones: el doble de un número $x$ más un número $y$ debe ser al menos 10, y la suma de ambos no debe exceder 8.",
       "options": [
         {
           "letter": "A",
@@ -802,6 +859,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistemas de desigualdades lineales",
+      "expected_success": 0.38,
       "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

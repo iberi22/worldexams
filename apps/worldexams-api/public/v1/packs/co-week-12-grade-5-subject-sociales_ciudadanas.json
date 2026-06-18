@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.207Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v1",
+      "statement": "Segun la teoria mas aceptada, por donde llegaron los primeros pobladores a America?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el oceano Atlantico en barcos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Por el estrecho de Bering",
+          "is_correct": true,
+          "feedback": "Correcto. Cruzaron desde Asia por el estrecho de Bering."
+        },
+        {
+          "letter": "C",
+          "text": "Por la Antartida",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Por el oceano Pacifico desde Australia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estrecho de Bering (entre Siberia y Alaska) estaba congelado durante la ultima glaciacion, creando un puente terrestre. Los primeros pobladores cruzaron caminando.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v2",
+      "statement": "Hace aproximadamente cuantos anos llegaron los primeros seres humanos a America?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.000 anos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mucho mas tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "15.000 a 20.000 anos",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la ultima glaciacion."
+        },
+        {
+          "letter": "C",
+          "text": "100.000 anos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demasiado tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "500 anos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colon llego hace 500 anos pero ya habia pobladores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se estima que los primeros grupos humanos llegaron a America entre 15.000 y 20.000 anos antes del presente.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v3",
+      "statement": "Que continente abandonaron los primeros pobladores para llegar a America?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Africa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Asia",
+          "is_correct": true,
+          "feedback": "Correcto. Cruzaron desde Asia (Siberia)."
+        },
+        {
+          "letter": "D",
+          "text": "Oceania",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los primeros americanos eran cazadores-recolectores de Asia (Siberia) que siguieron a los animales que cazaban.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v4",
+      "statement": "Que es el estrecho de Bering?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un rio entre Europa y Asia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Un brazo de mar entre Asia y America",
+          "is_correct": true,
+          "feedback": "Correcto. Separa Siberia de Alaska."
+        },
+        {
+          "letter": "C",
+          "text": "Una montana en Sudamerica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Un lago en Norteamerica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estrecho de Bering tiene solo 82 km de ancho. Durante las glaciaciones, al bajar el nivel del mar, quedo al descubierto un puente terrestre.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v5",
+      "statement": "Quienes eran los primeros pobladores de America segun su modo de vida?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agricultores sedentarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aun no practicaban la agricultura."
+        },
+        {
+          "letter": "B",
+          "text": "Cazadores-recolectores nomadas",
+          "is_correct": true,
+          "feedback": "Correcto. Vivian de la caza y la recoleccion."
+        },
+        {
+          "letter": "C",
+          "text": "Comerciantes maritimos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Constructores de ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los primeros americanos eran nomadas que se desplazaban siguiendo a los animales que cazaban (mamuts, bisontes) y recolectando frutos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v6",
+      "statement": "Si el estrecho de Bering estaba congelado, por que los primeros pobladores no regresaron a Asia?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque olvidaron el camino",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los animales que seguian se movian hacia el sur",
+          "is_correct": true,
+          "feedback": "Correcto. Siguieron a los animales hacia el interior de America."
+        },
+        {
+          "letter": "C",
+          "text": "Porque construyeron barcos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el estrecho se descongelo rapidamente",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al subir las temperaturas, los glaciares se derritieron y el estrecho se lleno de agua. Los pobladores ya estaban en America siguiendo las manadas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v7",
+      "statement": "Existen otras teorias sobre el poblamiento de America. Cual de las siguientes es una?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teoria del poblamiento por el Atlantico",
+          "is_correct": true,
+          "feedback": "Correcto. Grupos europeos pudieron haber llegado por el Atlantico Norte."
+        },
+        {
+          "letter": "B",
+          "text": "Teoria del poblamiento por la Luna",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Teoria del poblamiento extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Teoria del poblamiento autoctono",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ademas de la teoria de Bering, existe la teoria del poblamiento por el Atlantico (desde Europa siguiendo el hielo) y la teoria por el Pacifico (desde Polinesia).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v8",
+      "statement": "Cual de estos animales fue cazado por los primeros pobladores de America?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El caballo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los caballos se extinguieron en America y fueron reintroducidos por los espanoles."
+        },
+        {
+          "letter": "B",
+          "text": "El mamut",
+          "is_correct": true,
+          "feedback": "Correcto. Los mamuts y otros grandes mamiferos fueron cazados."
+        },
+        {
+          "letter": "C",
+          "text": "La vaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue introducida por los europeos."
+        },
+        {
+          "letter": "D",
+          "text": "La oveja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue introducida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los primeros pobladores cazaban mega-fauna: mamuts, perezosos gigantes, tigres dientes de sable. Muchas de estas especies se extinguieron.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v9",
+      "statement": "Por que el nivel del mar estaba mas bajo durante las glaciaciones?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua se evaporo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque gran parte del agua estaba congelada en glaciares",
+          "is_correct": true,
+          "feedback": "Correcto. Al congelarse el agua en los polos, bajo el nivel del mar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los rios se secaron",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la Tierra se encogio",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Durante las glaciaciones, enormes cantidades de agua quedaron atrapadas en los glaciares, haciendo bajar el nivel del mar hasta 120 metros.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v10",
+      "statement": "Cual fue el principal efecto del poblamiento humano en America para los ecosistemas?",
+      "context": "Contexto colombiano",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hubo ningun efecto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La extincion de la megafauna (mamuts, perezosos gigantes)",
+          "is_correct": true,
+          "feedback": "Correcto. La caza contribuyo a la extincion de grandes animales."
+        },
+        {
+          "letter": "C",
+          "text": "La creacion de ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso fue mucho despues."
+        },
+        {
+          "letter": "D",
+          "text": "El cultivo de maiz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso fue un efecto positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La llegada del ser humano a America coincidio con la extincion de la megafauna. Ademas de la caza, los cambios climaticos tambien influyeron.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sociales y Ciudadanas Competencia",
+      "bundle_id": "CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

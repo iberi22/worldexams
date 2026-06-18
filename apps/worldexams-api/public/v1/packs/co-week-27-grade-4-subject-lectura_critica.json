@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-27-grade-4-subject-lectura_critica",
+    "generated_at": "2026-06-18T22:23:58.599Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v1",
+      "statement": "*\"¿Quién es el destinatario de un texto?\"*",
+      "context": "Definición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El autor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La persona a quien va dirigido.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "El editor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El profesor.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definir.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v2",
+      "statement": "*\"Un cuento infantil. ¿Su destinatario?\"*",
+      "context": "Destinatario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adultos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Niños.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Médicos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ingenieros.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identifi. de contenidos locales",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v3",
+      "statement": "*\"Un manual de instrucciones para armar un juguete. ¿Destinatario?\"*",
+      "context": "Público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bebés.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Padres o adultos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Mascotas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Animales.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Audiencia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v4",
+      "statement": "*\"Un texto para niños usa un lenguaje...\"*",
+      "context": "Lenguaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complejo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sencillo y claro.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Técnico.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Científico.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lenguaje.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v5",
+      "statement": "*\"¿Por qué un libro de ciencias para grado 4 es diferente a uno para universitarios?\"*",
+      "context": "Adaptación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el destinatario, su edad y conocimientos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Por el autor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Por el precio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Por el color.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Adaptar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v6",
+      "statement": "*\"‘Lleva tu carro al taller más cercano’.\"* ¿Destinatario?",
+      "context": "Inferir destinatario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Niños.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dueños de carros.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Mascotas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Médicos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v7",
+      "statement": "*\"Texto con muchas imágenes y poco texto. ¿Para quién?\"*",
+      "context": "Destinatario y contenido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adultos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Niños pequeños.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Científicos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Arquitectos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Audiencia visual.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v8",
+      "statement": "*\"Texto A: ‘Érase una vez...’. Texto B: ‘Según el artículo 15...’.\"* ¿Diferencia?",
+      "context": "Comparar destinatarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mismo destinatario.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Texto A para niños, Texto B para adultos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos para niños.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ambos para abogados.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v9",
+      "statement": "*\"Un texto de medicina para niños de 8 años. ¿Es adecuado?\"*",
+      "context": "Evaluar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, cualquier texto sirve.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, usa lenguaje muy técnico.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, es bueno.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No importa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar adecuación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v10",
+      "statement": "*\"¿Por qué un autor debe pensar en su destinatario?\"*",
+      "context": "Importancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es necesario.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para que el texto sea comprensible y útil.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Por obligación.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Para vender más.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Importancia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

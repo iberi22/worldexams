@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v1",
       "statement": "¿Cuál es la palabra que significa lo contrario a **frío**?",
-      "context": "",
+      "context": "Un niño en Bogotá dice que el clima hoy está muy \"frío\".",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.95,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v2",
       "statement": "¿Cuál es el antónimo de la palabra **lento**?",
-      "context": "",
+      "context": "Un cuento sobre una tortuga y una liebre en el Eje Cafetero.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "2",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v3",
       "statement": "Si un juguete no está **sucio**, entonces está ___________.",
-      "context": "",
+      "context": "Escribiendo sobre el estado de un juguete en una casa de Cali.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v4",
       "statement": "¿Cuál es el antónimo de la palabra **oscuro**?",
-      "context": "",
+      "context": "Un texto sobre la luz y la oscuridad en las cuevas de Santander.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v5",
       "statement": "¿Qué palabra usarías para decir que la tarea no es fácil?",
-      "context": "",
+      "context": "Un niño en Medellín quiere decir que una tarea es muy \"fácil\".",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v6",
       "statement": "¿Cuál de estas parejas de palabras son antónimos?",
-      "context": "",
+      "context": "Comparando objetos en un salón de clases en Tunja.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v7",
       "statement": "Si la música está muy **fuerte**, ¿qué palabra indica que debe estar más suave?",
-      "context": "",
+      "context": "Un mensaje sobre el volumen de la música en una fiesta en Barranquilla.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v8",
       "statement": "\"Juan es muy **obediente**, pero su hermano es todo lo contrario\". ¿Cuál es el antónimo de obediente?",
-      "context": "",
+      "context": "Un texto sobre el comportamiento de unos niños en el recreo.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión Lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v9",
       "statement": "¿Cómo cambiaría el sentido de la frase \"El río está muy **lleno**\" si usamos un antónimo?",
-      "context": "",
+      "context": "Cambiando el sentido de una frase sobre el río Magdalena.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-v10",
       "statement": "\"Si en el día sale el sol y todo está **claro**, ¿qué palabra describe lo opuesto cuando sale la luna?\"",
-      "context": "",
+      "context": "Inventando una adivinanza sobre el día y la noche en Cartagena.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Producción Textual",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

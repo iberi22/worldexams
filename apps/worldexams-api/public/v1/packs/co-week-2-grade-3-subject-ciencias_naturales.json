@@ -8,6 +8,436 @@
   },
   "questions": [
     {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v1",
+      "statement": "¿Cómo obtienen los animales la energía necesaria para vivir?",
+      "context": "En una visita al zoológico de Cali, los niños observan que los leones no fabrican su propio alimento como los árboles del parque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomando luz del sol directamente",
+          "is_correct": false,
+          "feedback": "Los animales no tienen clorofila para transformar la luz solar en energía; eso es una característica de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Alimentándose de otros seres vivos",
+          "is_correct": true,
+          "feedback": "Los animales son heterótrofos, lo que significa que deben comer plantas u otros animales para obtener nutrientes."
+        },
+        {
+          "letter": "C",
+          "text": "Respirando solamente aire",
+          "is_correct": false,
+          "feedback": "El aire (oxígeno) es necesario para liberar la energía, pero la \"materia prima\" o combustible viene de los alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Convirtiendo tierra en azúcar",
+          "is_correct": false,
+          "feedback": "Ningún animal puede transformar minerales del suelo en alimento; esta es una idea errónea sobre la nutrición animal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A diferencia de las plantas, los animales tienen una nutrición heterótrofa. Esto los obliga a interactuar con su medio ambiente para buscar, cazar o recolectar su alimento, lo cual es la base de muchas de sus conductas y características físicas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v2",
+      "statement": "¿Qué capacidad de los animales le permite a la rana alejarse del peligro?",
+      "context": "Una rana salta rápidamente al agua cuando siente que una persona se acerca a la orilla del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis acuática",
+          "is_correct": false,
+          "feedback": "Como ya mencionamos, los animales no realizan fotosíntesis; además, esto no tiene relación con huir del peligro."
+        },
+        {
+          "letter": "B",
+          "text": "El desplazamiento voluntario",
+          "is_correct": true,
+          "feedback": "La mayoría de los animales pueden moverse de un lugar a otro por su propia cuenta para buscar comida o protección."
+        },
+        {
+          "letter": "C",
+          "text": "El crecimiento de su piel",
+          "is_correct": false,
+          "feedback": "El crecimiento es un proceso lento de aumento de tamaño, no una respuesta rápida para alejarse de un lugar."
+        },
+        {
+          "letter": "D",
+          "text": "La producción de huevos",
+          "is_correct": false,
+          "feedback": "Poner huevos es parte de su reproducción, pero no le ayuda a la rana individual a escapar en un momento de susto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desplazamiento es una característica fundamental de los animales. Usando sus músculos y extremidades, pueden trasladarse para satisfacer sus necesidades vitales, diferenciándose de la mayoría de las plantas que permanecen fijas en un lugar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v3",
+      "statement": "¿Cómo logran los animales percibir lo que sucede a su alrededor?",
+      "context": "Un perro olfatea el aire y comienza a mover la cola cuando llega su dueño a casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A través de las raíces",
+          "is_correct": false,
+          "feedback": "Los animales no tienen raíces; estas son órganos vegetales para la fijación y absorción de agua del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Usando sus órganos de los sentidos",
+          "is_correct": true,
+          "feedback": "Los ojos, oídos, nariz, lengua y piel permiten a los animales captar información útil de su entorno."
+        },
+        {
+          "letter": "C",
+          "text": "Pensando con las patas",
+          "is_correct": false,
+          "feedback": "Las patas se usan para el movimiento; la percepción y el procesamiento de información ocurren en el sistema nervioso."
+        },
+        {
+          "letter": "D",
+          "text": "Leyendo las nubes",
+          "is_correct": false,
+          "feedback": "Aunque algunos animales detectan cambios climáticos, lo hacen a través de sentidos físicos y no mediante la \"lectura\" de nubes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales tienen sistemas sensoriales desarrollados que les permiten ver, oler, oír, tocar y saborear. Esta información es procesada por su cerebro para tomar decisiones, como buscar afecto, comida o refugio, demostrando su alta capacidad de relación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v4",
+      "statement": "¿En qué se parecen estos dos animales a pesar de moverse de forma diferente?",
+      "context": "Observas un colibrí volando de flor en flor y un caracol arrastrándose por una hoja mojada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos tienen plumas",
+          "is_correct": false,
+          "feedback": "Solo las aves como el colibrí tienen plumas; el caracol tiene un cuerpo blando y muchas veces una concha."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos fabrican su propia miel",
+          "is_correct": false,
+          "feedback": "Las abejas producen miel; los colibríes consumen néctar y los caracoles comen hojas, pero no fabrican miel."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos necesitan alimentarse de otros",
+          "is_correct": true,
+          "feedback": "Tanto el ave como el molusco son seres vivos que requieren consumir materia orgánica para obtener energía."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos viven dentro del agua",
+          "is_correct": false,
+          "feedback": "Aunque el caracol prefiere la humedad, ninguno de los dos es un animal exclusivamente acuático como un pez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La necesidad de nutrición es universal en el reino animal. Sin importar si vuelan, nadan o se arrastran, todos los animales comparten la característica de ser consumidores dentro de las cadenas alimenticias de la naturaleza.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v5",
+      "statement": "¿Cómo ayudan estas características físicas al oso en su entorno?",
+      "context": "Un oso polar tiene una capa de grasa muy gruesa y mucho pelo blanco para vivir en el hielo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para verse más bonito",
+          "is_correct": false,
+          "feedback": "En la naturaleza, las características físicas cumplen funciones de supervivencia y no de estética o belleza."
+        },
+        {
+          "letter": "B",
+          "text": "Para mantener el calor y camuflarse",
+          "is_correct": true,
+          "feedback": "La grasa lo protege del frío extremo y el color blanco le ayuda a esconderse en la nieve para cazar."
+        },
+        {
+          "letter": "C",
+          "text": "Para poder nadar más lento",
+          "is_correct": false,
+          "feedback": "En realidad, su cuerpo está diseñado para ser un nadador eficiente y rápido cuando necesita atrapar peces."
+        },
+        {
+          "letter": "D",
+          "text": "Para no tener que comer nunca",
+          "is_correct": false,
+          "feedback": "Todos los animales deben comer; ninguna característica física reemplaza la necesidad biológica de alimentarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales presentan adaptaciones según el lugar donde viven. Estas adaptaciones son características físicas o de comportamiento que les permiten sobrevivir a las condiciones climáticas o a la presencia de otros animales en su hábitat.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v6",
+      "statement": "¿Qué proceso vital están realizando los peces con este movimiento?",
+      "context": "En un acuario, vemos que los peces abren y cierran la boca y las branquias constantemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Están bebiendo mucha agua",
+          "is_correct": false,
+          "feedback": "Aunque el agua entra por su boca, el objetivo principal del movimiento es la respiración, no la hidratación."
+        },
+        {
+          "letter": "B",
+          "text": "Están respirando bajo el agua",
+          "is_correct": true,
+          "feedback": "Los peces extraen el oxígeno disuelto en el agua a través de sus branquias, un proceso esencial para obtener energía."
+        },
+        {
+          "letter": "C",
+          "text": "Están tratando de hablar",
+          "is_correct": false,
+          "feedback": "Los peces no tienen cuerdas vocales ni lenguaje hablado como los seres humanos; se comunican de otras formas."
+        },
+        {
+          "letter": "D",
+          "text": "Están masticando piedras",
+          "is_correct": false,
+          "feedback": "Los peces no se alimentan de piedras; el movimiento de las branquias es rítmico y constante para la vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todos los animales respiran. Los terrestres suelen usar pulmones para tomar oxígeno del aire, mientras que los acuáticos usan branquias para tomarlo del agua. Sin oxígeno, los animales no podrían transformar la comida en energía.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v7",
+      "statement": "¿Qué característica del ciclo de vida de los seres vivos se observa aquí?",
+      "context": "Una serpiente cambia de piel cada cierto tiempo para poder seguir creciendo y eliminar parásitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nacimiento",
+          "is_correct": false,
+          "feedback": "El nacimiento ocurrió cuando salió del huevo; cambiar la piel es un proceso que sucede varias veces durante su vida."
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento y desarrollo",
+          "is_correct": true,
+          "feedback": "Al ser la piel de la serpiente rígida, debe cambiarla (mudarla) para que su cuerpo pueda aumentar de tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "La muerte del animal",
+          "is_correct": false,
+          "feedback": "Al contrario, mudar la piel es una señal de que el animal está sano, creciendo y continuando con su vida."
+        },
+        {
+          "letter": "D",
+          "text": "La alimentación indirecta",
+          "is_correct": false,
+          "feedback": "Mudar la piel no es una forma de alimentarse, sino una consecuencia del desarrollo físico del animal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crecimiento en los animales puede ser muy diferente. Mientras nosotros aumentamos de tamaño poco a poco, algunos animales como las serpientes o los insectos deben cambiar sus cubiertas externas para poder expandir su cuerpo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v8",
+      "statement": "¿Cómo clasificaríamos este comportamiento del murciélago?",
+      "context": "Un murciélago duerme durante el día y sale a buscar frutas e insectos solamente cuando llega la noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comportamiento aburrido",
+          "is_correct": false,
+          "feedback": "La ciencia no clasifica los comportamientos por ser divertidos o aburridos, sino por su utilidad biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Hábito nocturno",
+          "is_correct": true,
+          "feedback": "Los animales que realizan sus actividades principales durante la noche se denominan nocturnos, adaptando sus sentidos a la oscuridad."
+        },
+        {
+          "letter": "C",
+          "text": "Hábito vegetal",
+          "is_correct": false,
+          "feedback": "El murciélago es un animal; no puede tener hábitos \"vegetales\", aunque coma frutas (lo cual se llama frugívoro)."
+        },
+        {
+          "letter": "D",
+          "text": "Falta de energía solar",
+          "is_correct": false,
+          "feedback": "El murciélago no necesita el sol para tener energía, ya que la obtiene de los insectos y frutas que consume."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales pueden adaptar sus horarios para evitar depredadores o encontrar comida más fácilmente. Los murciélagos han desarrollado un sentido del oído increíble (ecolocalización) para poder moverse y cazar en la oscuridad total.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v9",
+      "statement": "¿Qué estructura del cuerpo determina principalmente cómo se desplazan?",
+      "context": "Si comparamos a una vaca que camina en el campo con un águila que vuela en las montañas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de sus ojos",
+          "is_correct": false,
+          "feedback": "El color de los ojos no influye en la capacidad de volar o caminar de un animal."
+        },
+        {
+          "letter": "B",
+          "text": "El tamaño de sus orejas",
+          "is_correct": false,
+          "feedback": "Las orejas sirven para la audición, pero no son las herramientas que permiten el desplazamiento físico."
+        },
+        {
+          "letter": "C",
+          "text": "La forma de sus extremidades",
+          "is_correct": true,
+          "feedback": "La vaca tiene patas fuertes para caminar, mientras que el águila tiene alas con plumas diseñadas para volar."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de comida que prefieren",
+          "is_correct": false,
+          "feedback": "Aunque su desplazamiento les ayude a buscar comida, es la forma del cuerpo la que permite el movimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anatomía de los animales está directamente relacionada con su forma de vida. Las alas, patas, aletas o incluso la falta de ellas (como en las serpientes) son adaptaciones evolutivas para moverse eficientemente en su hábitat particular.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v10",
+      "statement": "¿Por qué el peluche no es realmente un animal aunque pueda \"ladrar\"?",
+      "context": "Un peluche de un perro parece muy real, tiene pelo suave y si le aprietas la pata hace un sonido de ladrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no tiene un nombre propio",
+          "is_correct": false,
+          "feedback": "Muchos animales silvestres no tienen nombres puestos por humanos y siguen siendo animales vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no es lo suficientemente grande",
+          "is_correct": false,
+          "feedback": "Existen animales diminutos, como las pulgas, que son 100% animales vivos a pesar de su tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no cumple funciones vitales biológicas",
+          "is_correct": true,
+          "feedback": "El peluche no necesita comer, no respira, no crece por sí mismo y no puede tener cachorros reales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no le gusta salir al parque",
+          "is_correct": false,
+          "feedback": "Los gustos o preferencias no definen la vida; la biología celular y los procesos internos sí lo hacen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para ser un animal, no basta con parecerse a uno o imitar un sonido. Se requiere una organización celular compleja y la realización autónoma de la nutrición, relación y reproducción. El peluche es un objeto inerte fabricado por el hombre.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v1",
       "statement": "¿En cuál de los siguientes reinos se clasifican las plantas?",
       "context": "En la clase de ciencias del Colegio La Salle de Pereira, la profesora presenta una tabla con los reinos de la naturaleza.",
@@ -42,6 +472,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -82,6 +514,8 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -122,6 +556,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -162,6 +598,8 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -202,6 +640,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -242,6 +682,8 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -282,6 +724,8 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -322,6 +766,8 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -362,6 +808,8 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -402,7 +850,439 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
       "bundle_id": "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v1",
+      "statement": "¿Qué parte de la planta se encarga de sujetarla al suelo y absorber agua?",
+      "context": "Juan observa un árbol de naranjas en el patio de su abuela en el Valle del Cauca y nota que está bien sujeto al suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tallo",
+          "is_correct": false,
+          "feedback": "El tallo sostiene las hojas y flores, pero no es la parte principal encargada de absorber el agua del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "La raíz",
+          "is_correct": true,
+          "feedback": "La raíz crece bajo la tierra, fija la planta al sustrato y succiona el agua y los minerales necesarios para vivir."
+        },
+        {
+          "letter": "C",
+          "text": "Las hojas",
+          "is_correct": false,
+          "feedback": "Las hojas se encargan principalmente de la respiración y la fotosíntesis, no de la absorción de agua subterránea."
+        },
+        {
+          "letter": "D",
+          "text": "El fruto",
+          "is_correct": false,
+          "feedback": "El fruto protege las semillas y sirve para la reproducción, no cumple funciones de soporte o absorción de nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La raíz es el órgano que permite a la planta obtener recursos del suelo. Además de fijarla firmemente para que no se caiga con el viento, posee pelos absorbentes que captan el agua y las sales minerales, transportándolas hacia el resto de la planta.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v2",
+      "statement": "¿Cuál es la función principal del tallo en una planta?",
+      "context": "Si cortamos una flor y la ponemos en un florero, el agua sube por una parte central para llegar a los pétalos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Captar la luz del sol",
+          "is_correct": false,
+          "feedback": "Captar la luz es la función principal de las hojas, las cuales son planas y anchas para este propósito."
+        },
+        {
+          "letter": "B",
+          "text": "Producir las semillas",
+          "is_correct": false,
+          "feedback": "Las semillas se producen dentro de los frutos a partir de las flores, no directamente en el tallo."
+        },
+        {
+          "letter": "C",
+          "text": "Transportar agua y nutrientes",
+          "is_correct": true,
+          "feedback": "El tallo funciona como una autopista que lleva el agua desde la raíz hasta las hojas y distribuye el alimento por toda la planta."
+        },
+        {
+          "letter": "D",
+          "text": "Enterrarse en la tierra",
+          "is_correct": false,
+          "feedback": "El tallo generalmente crece hacia arriba, buscando la luz; la parte que se entierra es la raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tallo sirve de soporte para las hojas, flores y frutos. Internamente tiene unos tubos muy delgados que transportan la savia (el alimento de la planta), conectando todos los órganos para que funcionen como un solo sistema.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v3",
+      "statement": "¿Qué proceso muy importante para la vida ocurre principalmente en las hojas de las plantas?",
+      "context": "En una ensalada de almuerzo, los niños identifican hojas de lechuga y espinaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis",
+          "is_correct": true,
+          "feedback": "En las hojas se transforma la luz del sol, el agua y el gas carbónico en alimento y oxígeno, un proceso vital para el planeta."
+        },
+        {
+          "letter": "B",
+          "text": "La absorción de minerales",
+          "is_correct": false,
+          "feedback": "Los minerales se absorben por las raíces en la parte subterránea de la planta, no por las hojas verdes."
+        },
+        {
+          "letter": "C",
+          "text": "El nacimiento de las raíces",
+          "is_correct": false,
+          "feedback": "Las raíces nacen de la semilla o de la base del tallo, no son producidas por las hojas superiores."
+        },
+        {
+          "letter": "D",
+          "text": "La excavación del suelo",
+          "is_correct": false,
+          "feedback": "Las hojas están en el aire; ninguna parte de la hoja tiene la función de excavar o remover la tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las hojas son las \"fábricas\" de alimento de la planta. Gracias a una sustancia llamada clorofila, captan la energía solar y realizan la fotosíntesis, liberando además el oxígeno que la mayoría de los seres vivos respiramos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v4",
+      "statement": "¿Para qué le sirven los colores y el olor a las flores de la planta?",
+      "context": "Un jardinero observa que algunas plantas tienen flores de colores muy brillantes y un olor dulce muy agradable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que las personas las compren",
+          "is_correct": false,
+          "feedback": "Aunque a los humanos nos gustan, el objetivo de la planta es biológico y no comercial."
+        },
+        {
+          "letter": "B",
+          "text": "Para atraer insectos polinizadores",
+          "is_correct": true,
+          "feedback": "Los colores y olores atraen abejas y mariposas que ayudan a que la planta se reproduzca y produzca frutos."
+        },
+        {
+          "letter": "C",
+          "text": "Para asustar a los animales hambrientos",
+          "is_correct": false,
+          "feedback": "Generalmente, los olores dulces y colores vivos atraen, mientras que los pinchos o venenos son los que asustan."
+        },
+        {
+          "letter": "D",
+          "text": "Para absorber más agua de la lluvia",
+          "is_correct": false,
+          "feedback": "La flor no absorbe agua; su estructura está diseñada para la reproducción y no para la hidratación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La flor es el órgano reproductor de muchas plantas. Su belleza y fragancia tienen el fin de atraer a animales polinizadores que transportan el polen de una flor a otra, permitiendo la formación de semillas y la continuidad de la especie.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v5",
+      "statement": "¿Qué función cumple el fruto (como el grano de café) para la planta?",
+      "context": "Después de que la flor se marchita en un árbol de café, aparece un grano rojo muy conocido en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostener las ramas pesadas",
+          "is_correct": false,
+          "feedback": "El fruto cuelga de las ramas pero no les da soporte; de hecho, si hay muchos frutos, la rama puede doblarse."
+        },
+        {
+          "letter": "B",
+          "text": "Fabricar el oxígeno del aire",
+          "is_correct": false,
+          "feedback": "La fabricación de oxígeno ocurre en las partes verdes (hojas y tallos jóvenes) mediante la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Proteger y dispersar las semillas",
+          "is_correct": true,
+          "feedback": "El fruto guarda las semillas en su interior y ayuda a que viajen a otros lugares cuando los animales se los comen."
+        },
+        {
+          "letter": "D",
+          "text": "Alimentar a la raíz con azúcar",
+          "is_correct": false,
+          "feedback": "El fruto no alimenta a la raíz; es la hoja la que envía alimento a todas las partes de la planta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fruto es el resultado de la fecundación de la flor. Su misión principal es proteger a las semillas mientras se desarrollan y asegurar que lleguen a un lugar adecuado para germinar, muchas veces siendo transportadas por animales.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v6",
+      "statement": "¿Qué es lo más probable que le suceda a la planta después de unos días?",
+      "context": "Un estudiante decide cubrir todas las hojas de una pequeña planta con papel aluminio para que no les dé nada de luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecerá más rápido buscando la luz",
+          "is_correct": false,
+          "feedback": "Si no recibe nada de luz, no tendrá energía para crecer y sus procesos biológicos se detendrán."
+        },
+        {
+          "letter": "B",
+          "text": "Se debilitará y se pondrá amarilla",
+          "is_correct": true,
+          "feedback": "Al no poder realizar la fotosíntesis en sus hojas, la planta no tendrá alimento y empezará a morir lentamente."
+        },
+        {
+          "letter": "C",
+          "text": "Las raíces saldrán por las hojas",
+          "is_correct": false,
+          "feedback": "Las raíces no cambian su lugar de crecimiento; se quedarían en la tierra pero sin recibir energía de arriba."
+        },
+        {
+          "letter": "D",
+          "text": "Producirá flores más grandes",
+          "is_correct": false,
+          "feedback": "La producción de flores requiere mucha energía, algo que la planta no tendrá si sus hojas están tapadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este experimento demuestra que las hojas son fundamentales para la nutrición. Al bloquear la luz, impedimos la fotosíntesis, y como la planta no puede fabricar su comida, utiliza sus reservas hasta agotarlas y debilitarse.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v7",
+      "statement": "¿Por qué el cactus tiene espinas en lugar de hojas en el desierto?",
+      "context": "Existen plantas como el cactus que tienen espinas en lugar de hojas grandes y verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se le olvidó crecer",
+          "is_correct": false,
+          "feedback": "La forma de las plantas no es un olvido, sino una adaptación evolutiva a su ambiente específico."
+        },
+        {
+          "letter": "B",
+          "text": "Para evitar perder agua por el calor",
+          "is_correct": true,
+          "feedback": "Las hojas grandes pierden mucha agua; las espinas protegen la planta y reducen la evaporación en lugares secos."
+        },
+        {
+          "letter": "C",
+          "text": "Para poder pinchar a los turistas",
+          "is_correct": false,
+          "feedback": "El objetivo de la planta no es lastimar humanos, sino sobrevivir a la falta de agua y evitar ser comida por animales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las espinas hacen fotosíntesis mejor",
+          "is_correct": false,
+          "feedback": "En los cactus, el tallo verde y grueso es el que realiza la fotosíntesis, no las espinas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las partes de las plantas pueden cambiar según el clima. En el desierto, donde hay poca agua, las hojas se transforman en espinas para ahorrar líquido. El tallo se vuelve gordo y verde para guardar agua y realizar el trabajo de las hojas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v8",
+      "statement": "¿Cuál es la ventaja de que el tallo de la hiedra crezca de esa manera?",
+      "context": "Algunas plantas, como la hiedra, tienen tallos que se enredan en las paredes o en otros árboles para subir muy alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para estar más cerca de la lluvia",
+          "is_correct": false,
+          "feedback": "La lluvia cae en todas partes; subir no garantiza recibir más agua de la que ya recibe en el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Para alcanzar más luz del sol",
+          "is_correct": true,
+          "feedback": "Al trepar, las hojas de la hiedra evitan la sombra de otras plantas y pueden realizar mejor la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Para esconderse de los insectos",
+          "is_correct": false,
+          "feedback": "Al subir, en realidad se expone a más insectos voladores que podrían comerse sus hojas."
+        },
+        {
+          "letter": "D",
+          "text": "Para que las raíces no se mojen",
+          "is_correct": false,
+          "feedback": "Las raíces siempre necesitan estar en un lugar húmedo (la tierra) para absorber agua y nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tallo tiene una función de ubicación espacial. Al trepar, la planta busca una posición ventajosa donde sus hojas reciban luz directa, demostrando cómo las partes de la planta se adaptan para cumplir su función de nutrición.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v9",
+      "statement": "¿Por qué algunas plantas guardan alimento en sus raíces o tallos bajo la tierra?",
+      "context": "Si comparamos una zanahoria (que es una raíz) con una papa (que es un tallo subterráneo), vemos que ambas guardan alimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no tienen espacio en las hojas",
+          "is_correct": false,
+          "feedback": "El espacio no es el problema, sino la protección y la reserva de energía para tiempos difíciles."
+        },
+        {
+          "letter": "B",
+          "text": "Para sobrevivir cuando no hay buenas condiciones",
+          "is_correct": true,
+          "feedback": "Estas reservas permiten que la planta vuelva a crecer después de una sequía o un invierno fuerte."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los humanos tengamos qué comer",
+          "is_correct": false,
+          "feedback": "Aunque los humanos las aprovechemos, la planta lo hace para su propia supervivencia biológica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque les da miedo el sol",
+          "is_correct": false,
+          "feedback": "Las plantas necesitan el sol; guardar alimento abajo es una estrategia de almacenamiento de energía química."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las raíces y tallos de reserva son adaptaciones de supervivencia. Almacenan almidón y nutrientes que la planta fabricó en las hojas, permitiéndole tener energía ahorrada para cuando no pueda realizar fotosíntesis.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v10",
+      "statement": "¿Cumplen estas partes artificiales la misma función que las de una planta real?",
+      "context": "Un científico crea una planta artificial que tiene raíces de plástico, tallo de metal y hojas de tela verde, pero no puede crecer ni dar semillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque se ve igual a una planta real",
+          "is_correct": false,
+          "feedback": "La apariencia externa no significa que los procesos internos de vida estén ocurriendo."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque sostiene las hojas en el aire",
+          "is_correct": false,
+          "feedback": "Sostener es solo una parte física; falta el transporte de savia y la vida celular del tallo."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque no realizan procesos vitales biológicos",
+          "is_correct": true,
+          "feedback": "Las partes reales están vivas, respiran, transportan nutrientes y permiten la reproducción, cosas que el plástico y metal no hacen."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el metal es muy pesado para la planta",
+          "is_correct": false,
+          "feedback": "El problema no es el peso, sino la incapacidad de realizar metabolismo, crecimiento y reproducción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las partes de los seres vivos no son solo estructuras físicas, sino órganos biológicos complejos. La raíz real interactúa con el suelo, el tallo transporta vida y la hoja transforma energía; las imitaciones artificiales solo copian la forma pero no la función vital.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
       "cefr_level": null

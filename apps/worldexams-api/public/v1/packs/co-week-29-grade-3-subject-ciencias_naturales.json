@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-29-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.145Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v1",
+      "statement": "¿Cuál de los siguientes es un ejemplo de una fuente de luz natural?",
+      "context": "En una noche de campamento, los niños ven estrellas en el cielo, una fogata encendida y usan linternas para ver el camino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La linterna de pilas",
+          "is_correct": false,
+          "feedback": "Las linternas son fuentes de luz artificial creadas por la tecnología humana para iluminar en la oscuridad."
+        },
+        {
+          "letter": "B",
+          "text": "Las estrellas",
+          "is_correct": true,
+          "feedback": "Las estrellas, al igual que el Sol, son cuerpos celestes que producen su propia luz de forma natural en el universo."
+        },
+        {
+          "letter": "C",
+          "text": "Un bombillo LED",
+          "is_correct": false,
+          "feedback": "El bombillo requiere electricidad y materiales fabricados por el hombre, por lo tanto es una fuente artificial."
+        },
+        {
+          "letter": "D",
+          "text": "La pantalla del celular",
+          "is_correct": false,
+          "feedback": "Las pantallas emiten luz gracias a componentes electrónicos artificiales, no son procesos naturales del planeta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fuentes naturales son aquellas que existen en la naturaleza sin intervención del hombre. El Sol es la fuente natural más importante, pero las otras estrellas y algunos seres vivos también emiten su propia luz.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v2",
+      "statement": "¿A qué categoría pertenece la luz de una lámpara eléctrica?",
+      "context": "Para poder estudiar por la noche cuando ya no hay sol, encendemos la lámpara de la mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luz de planta",
+          "is_correct": false,
+          "feedback": "Las plantas no producen luz eléctrica; ellas usan la luz para fabricar su alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Luz natural nocturna",
+          "is_correct": false,
+          "feedback": "La lámpara es un invento humano; la luz natural nocturna vendría de los astros o seres bioluminiscentes."
+        },
+        {
+          "letter": "C",
+          "text": "Luz artificial",
+          "is_correct": true,
+          "feedback": "Se llama artificial a toda fuente de luz fabricada por los seres humanos mediante tecnología o fuego controlado."
+        },
+        {
+          "letter": "D",
+          "text": "Luz de roca",
+          "is_correct": false,
+          "feedback": "Las rocas comunes no emiten luz; la lámpara usa energía eléctrica para funcionar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fuentes artificiales nos permiten realizar actividades cuando el sol se oculta. Han evolucionado desde las antorchas de fuego hasta los modernos bombillos que ahorran mucha energía.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v3",
+      "statement": "¿Por qué vemos brillar a la Luna si ella no produce luz como el Sol?",
+      "context": "La Luna brilla mucho en las noches despejadas, pero los científicos dicen que la Luna no tiene luz propia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene millones de bombillos",
+          "is_correct": false,
+          "feedback": "La Luna es un satélite natural de roca inerte, no posee sistemas de iluminación artificial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque refleja la luz que le envía el Sol",
+          "is_correct": true,
+          "feedback": "La Luna funciona como un espejo gigante que rebota la luz solar hacia la Tierra durante la noche."
+        },
+        {
+          "letter": "C",
+          "text": "Porque está hecha de fuego blanco",
+          "is_correct": false,
+          "feedback": "La Luna es sólida y fría; no realiza procesos de combustión o fusión que generen luz blanca."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las estrellas la iluminan",
+          "is_correct": false,
+          "feedback": "Aunque las estrellas dan un poco de luz, el brillo principal que vemos de la Luna viene del Sol."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un concepto clave: hay objetos luminosos (emiten luz) y no luminosos (reflejan luz). El Sol es luminoso, pero la Luna, los planetas y nosotros mismos somos objetos que solo reflejamos la luz que nos llega.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v4",
+      "statement": "¿Cómo se le llama a la capacidad de algunos seres vivos de producir su propia luz natural?",
+      "context": "En las profundidades oscuras del océano, existen peces que tienen una pequeña \"linterna\" biológica que sale de su cabeza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis brillante",
+          "is_correct": false,
+          "feedback": "La fotosíntesis atrapa luz, no la produce; el fenómeno de emitir luz tiene otro nombre científico."
+        },
+        {
+          "letter": "B",
+          "text": "Bioluminiscencia",
+          "is_correct": true,
+          "feedback": "Es la producción de luz por parte de organismos vivos como luciérnagas, algunos hongos y muchos animales marinos."
+        },
+        {
+          "letter": "C",
+          "text": "Electricidad animal",
+          "is_correct": false,
+          "feedback": "Aunque algunos animales dan descargas eléctricas, la emisión de luz es un proceso químico llamado bioluminiscencia."
+        },
+        {
+          "letter": "D",
+          "text": "Reflejo submarino",
+          "is_correct": false,
+          "feedback": "La bioluminiscencia es luz propia generada por el animal, no es el reflejo de una luz externa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La bioluminiscencia es una adaptación increíble. Estos seres vivos usan reacciones químicas dentro de sus células para crear luz fría, la cual usan para atraer presas, esconderse de depredadores o encontrar pareja en la oscuridad total.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v5",
+      "statement": "¿De dónde proviene la energía para la luz en este tipo de linterna de manivela?",
+      "context": "Mariana tiene una linterna que funciona con una manivela: ella gira la palanca y la linterna alumbra sin necesidad de pilas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del aire que entra por los huecos",
+          "is_correct": false,
+          "feedback": "El aire no se transforma en luz en este aparato; se necesita una fuerza mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "Del sol que la cargó antes",
+          "is_correct": false,
+          "feedback": "El enunciado dice que usa una manivela, lo que indica un origen de energía diferente al solar."
+        },
+        {
+          "letter": "C",
+          "text": "Del movimiento de la mano de Mariana",
+          "is_correct": true,
+          "feedback": "Mariana transforma su energía muscular en energía eléctrica mediante el giro de la manivela, produciendo luz artificial."
+        },
+        {
+          "letter": "D",
+          "text": "De la luz que hay en la habitación",
+          "is_correct": false,
+          "feedback": "Las linternas comunes no \"atrapan\" luz ambiental para guardarla; la producen a partir de una fuente interna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Toda fuente de luz artificial necesita una fuente de energía. Puede ser la electricidad del enchufe, la energía química de una pila o, en este caso, la energía mecánica del movimiento humano transformada en luz.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v6",
+      "statement": "¿Por qué los objetos comunes (como tus juguetes) dejan de verse cuando no hay una fuente de luz cerca?",
+      "context": "Si apagas todas las luces de tu habitación y cierras bien las cortinas, dejas de ver los juguetes, la cama y tus zapatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los juguetes se esconden",
+          "is_correct": false,
+          "feedback": "Los objetos inanimados no tienen voluntad ni movimiento propio para esconderse en la oscuridad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tienen luz propia y necesitan reflejar otra luz",
+          "is_correct": true,
+          "feedback": "Solo vemos los objetos porque la luz de una fuente choca contra ellos y rebota hacia nuestros ojos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los ojos dejan de funcionar",
+          "is_correct": false,
+          "feedback": "Nuestros ojos están sanos, pero sin luz no hay información que procesar; la luz es el mensajero visual."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire se vuelve negro y opaco",
+          "is_correct": false,
+          "feedback": "El aire sigue siendo transparente, lo que falta es la energía lumínica para iluminar las cosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La visión es un proceso de rebote. La luz sale de la bombilla o el Sol, rebota en tus juguetes y entra a tus ojos. Si quitas la fuente, no hay nada que rebote y por eso todo se ve negro.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v7",
+      "statement": "¿Podemos clasificar al espejo como una fuente de luz artificial?",
+      "context": "Un espejo refleja la luz tan bien que podemos ver nuestra propia imagen en él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque brilla mucho",
+          "is_correct": false,
+          "feedback": "Brillar por reflejo no es lo mismo que producir luz; el espejo no tiene energía interna para emitir."
+        },
+        {
+          "letter": "B",
+          "text": "No, es un objeto no luminoso que refleja la luz muy bien",
+          "is_correct": true,
+          "feedback": "El espejo no fabrica luz, solo cambia la dirección de la luz que recibe de fuentes reales."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, si lo usamos con una vela",
+          "is_correct": false,
+          "feedback": "La vela es la fuente; el espejo sigue siendo solo un transportador de esa luz ajena."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los espejos son de agua",
+          "is_correct": false,
+          "feedback": "Aunque el agua refleja, los espejos comunes son de vidrio con una capa metálica; la razón científica es su falta de emisión propia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un espejo es el mejor \"reflejante\" que existe. No es una fuente de luz porque si lo pones en un cuarto oscuro, no verás nada. Una verdadera fuente de luz (como una luciérnaga o un bombillo) siempre se ve en la oscuridad.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v8",
+      "statement": "¿Cuál de estas opciones sería la fuente de luz artificial más confiable para tu viaje?",
+      "context": "Tienes que elegir la mejor fuente de luz para una expedición de varios días en una selva remota donde no hay enchufes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una caja llena de luciérnagas",
+          "is_correct": false,
+          "feedback": "La bioluminiscencia es natural, pero es muy difícil de controlar y mantener para uso humano prolongado."
+        },
+        {
+          "letter": "B",
+          "text": "Una lámpara que se conecte a la pared",
+          "is_correct": false,
+          "feedback": "Como no hay enchufes en la selva remota, esta fuente de luz no serviría para nada."
+        },
+        {
+          "letter": "C",
+          "text": "Una linterna con paneles solares",
+          "is_correct": true,
+          "feedback": "Aprovecha una fuente natural (el Sol) para cargar una fuente artificial (LED), ideal para lugares aislados."
+        },
+        {
+          "letter": "D",
+          "text": "Un espejo grande para reflejar las estrellas",
+          "is_correct": false,
+          "feedback": "La luz de las estrellas es muy débil; el espejo no ayudaría a ver obstáculos en el suelo de la selva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Combinar fuentes es la mejor estrategia. Usar la luz natural del día para cargar una batería nos permite tener luz artificial segura durante la noche sin depender de cables o pilas desechables.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v9",
+      "statement": "¿Son estas señales fuentes de luz o solo objetos reflejantes especiales?",
+      "context": "Algunas personas pintan las señales de tránsito con una pintura especial que parece brillar cuando las luces de los carros la iluminan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son fuentes de luz porque brillan solas",
+          "is_correct": false,
+          "feedback": "Falso; si apagas las luces del carro, las señales dejan de \"brillar\" y se ven oscuras."
+        },
+        {
+          "letter": "B",
+          "text": "Son objetos reflejantes (retrorreflectivos)",
+          "is_correct": true,
+          "feedback": "Están diseñadas para devolver la luz exactamente hacia donde vino, pero no producen energía propia."
+        },
+        {
+          "letter": "C",
+          "text": "Son fuentes naturales de luz mineral",
+          "is_correct": false,
+          "feedback": "La pintura es un producto químico industrial; no es un proceso de emisión natural de la Tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Son espejos mágicos",
+          "is_correct": false,
+          "feedback": "El fenómeno es pura física de reflexión de luz, no tiene nada que ver con la magia o fantasía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Estas señales usan la luz de los carros para ser vistas. Es una forma inteligente de seguridad: no gastan electricidad propia, sino que \"toman prestada\" la luz de los faros para avisar al conductor sobre una curva o peligro.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v10",
+      "statement": "¿Qué razonamiento científico apoya esta afirmación sobre el origen de la luz?",
+      "context": "Un científico afirma: \"Casi toda la luz que usamos en la Tierra, incluso la artificial, viene originalmente del Sol\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Sol pinta los bombillos de blanco",
+          "is_correct": false,
+          "feedback": "El color del bombillo es por el material de fabricación; la relación con el sol es de energía."
+        },
+        {
+          "letter": "B",
+          "text": "Que los bombillos son pedazos de Sol caídos",
+          "is_correct": false,
+          "feedback": "Los bombillos son objetos tecnológicos hechos de vidrio y metal, no materia estelar."
+        },
+        {
+          "letter": "C",
+          "text": "Que la energía para la luz (como carbón o represas) empezó con el ciclo del Sol",
+          "is_correct": true,
+          "feedback": "El sol mueve el agua de las represas y permitió que crecieran las plantas que se volvieron carbón o gas."
+        },
+        {
+          "letter": "D",
+          "text": "Que sin Sol no se vería nada nunca",
+          "is_correct": false,
+          "feedback": "Las estrellas y la bioluminiscencia darían un poco de luz, pero el Sol es el motor de casi toda nuestra energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es una conexión profunda: la leña que quemas es energía solar guardada por un árbol. La electricidad de una represa viene del agua que el sol evaporó. Al final, el Sol es el gran motor de casi toda la luz de nuestro mundo.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v1",
+      "statement": "¿Cómo se llama la propiedad de la luz que le permite rebotar sobre superficies lisas y brillantes como un espejo?",
+      "context": "Mariana se mira en el espejo del baño todas las mañanas para peinarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refracción",
+          "is_correct": false,
+          "feedback": "La refracción es cuando la luz pasa a través de algo y cambia de dirección, no cuando rebota hacia atrás."
+        },
+        {
+          "letter": "B",
+          "text": "Reflexión",
+          "is_correct": true,
+          "feedback": "La reflexión ocurre cuando los rayos de luz chocan contra una superficie y regresan, permitiendo que veamos imágenes reflejadas."
+        },
+        {
+          "letter": "C",
+          "text": "Combustión",
+          "is_correct": false,
+          "feedback": "La combustión es el proceso de quemar algo para producir calor y fuego, no un fenómeno de rebote de luz."
+        },
+        {
+          "letter": "D",
+          "text": "Infiltración",
+          "is_correct": false,
+          "feedback": "La infiltración se refiere al paso del agua a través del suelo, no tiene relación con el comportamiento de la luz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reflexión es lo que nos permite vernos. Los espejos son vidrios con una capa de metal muy lisa que hace que casi toda la luz rebote de forma ordenada, creando una imagen igual a la realidad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v2",
+      "statement": "¿Qué propiedad de la luz explica por qué los objetos parecen doblarse cuando pasan del aire al agua?",
+      "context": "Si metes un pitillo en un vaso con agua, notarás que desde afuera el pitillo parece estar \"quebrado\" o doblado justo donde entra al líquido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión total",
+          "is_correct": false,
+          "feedback": "En la reflexión la luz rebota; aquí la luz atraviesa el agua pero cambia de dirección."
+        },
+        {
+          "letter": "B",
+          "text": "Refracción",
+          "is_correct": true,
+          "feedback": "La refracción ocurre cuando la luz cambia de velocidad al pasar de un material a otro (como del aire al agua), desviando los rayos."
+        },
+        {
+          "letter": "C",
+          "text": "Oscuridad parcial",
+          "is_correct": false,
+          "feedback": "La oscuridad es la falta de luz; el fenómeno del pitillo doblado ocurre precisamente porque hay luz trabajando."
+        },
+        {
+          "letter": "D",
+          "text": "Magnetismo lumínico",
+          "is_correct": false,
+          "feedback": "El magnetismo es una fuerza de imanes; la luz se desvía por cambios físicos de velocidad en diferentes medios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La luz viaja más lento en el agua que en el aire. Ese cambio de velocidad hace que los rayos se tuerzan un poquito, engañando a nuestros ojos y haciendo que las cosas parezcan estar en una posición diferente a la real.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v3",
+      "statement": "¿Qué le sucede a la luz blanca del sol cuando pasa a través de las gotas de lluvia para formar el arcoíris?",
+      "context": "Después de una tarde de lluvia en la sabana de Bogotá, sale el sol y aparece un hermoso arcoíris en el cielo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se ensucia y se vuelve gris",
+          "is_correct": false,
+          "feedback": "Al contrario, la luz blanca se limpia de su mezcla para mostrar sus colores puros constituyentes."
+        },
+        {
+          "letter": "B",
+          "text": "Se descompone en todos los colores que la forman",
+          "is_correct": true,
+          "feedback": "La luz blanca es en realidad una mezcla de rojo, naranja, amarillo, verde, azul y violeta."
+        },
+        {
+          "letter": "C",
+          "text": "Se convierte en agua dulce",
+          "is_correct": false,
+          "feedback": "La luz es energía y el agua es materia; la luz solo usa el agua como un obstáculo para separarse."
+        },
+        {
+          "letter": "D",
+          "text": "Se apaga por la humedad",
+          "is_correct": false,
+          "feedback": "La luz no se apaga con el agua; se refracta y se dispersa creando el fenómeno visual del arcoíris."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las gotas de lluvia funcionan como pequeños prismas de cristal. Cuando la luz entra en ellas, se descompone (se separa) en sus colores originales. Esto nos enseña que la luz que vemos como \"blanca\" es en realidad multicolor.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v4",
+      "statement": "¿En cuál de las dos láminas se verá mejor el reflejo de la luz y por qué?",
+      "context": "Juan tiene dos láminas: una de metal pulido y otra de papel lija negro y rasposo. Alumbra ambas con una linterna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la de metal, porque es lisa y refleja mejor",
+          "is_correct": true,
+          "feedback": "Las superficies lisas permiten que la luz rebote de forma organizada, creando un reflejo claro."
+        },
+        {
+          "letter": "B",
+          "text": "En la de lija, porque es oscura",
+          "is_correct": false,
+          "feedback": "Los colores oscuros y superficies rasposas absorben la luz o la dispersan en todas direcciones, eliminando el reflejo."
+        },
+        {
+          "letter": "C",
+          "text": "En ninguna se ve nada",
+          "is_correct": false,
+          "feedback": "El metal pulido es uno de los mejores materiales para observar el fenómeno de la reflexión de la luz."
+        },
+        {
+          "letter": "D",
+          "text": "En ambas se ve exactamente igual",
+          "is_correct": false,
+          "feedback": "El tipo de superficie (lisa o rugosa) cambia totalmente cómo rebota la luz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Existen dos tipos de reflexión. La especular (en espejos o metal liso) que crea imágenes, y la difusa (en paredes o ropa) que solo ilumina el objeto pero no nos permite vernos reflejados en él.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v5",
+      "statement": "¿Qué propiedad de la luz aprovechan los lentes de las gafas para que Mariana vea las letras más grandes o claras?",
+      "context": "Mariana usa unas gafas para poder leer mejor sus libros favoritos. Las gafas tienen unos cristales curvos llamados lentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reflexión",
+          "is_correct": false,
+          "feedback": "Si el lente reflejara la luz, Mariana vería su propio ojo en lugar de las letras del libro."
+        },
+        {
+          "letter": "B",
+          "text": "La refracción",
+          "is_correct": true,
+          "feedback": "Al pasar por el cristal curvo, la luz se desvía de forma controlada para enfocar la imagen correctamente en el ojo."
+        },
+        {
+          "letter": "C",
+          "text": "La fotosíntesis",
+          "is_correct": false,
+          "feedback": "Este es un proceso químico de las plantas; los lentes son objetos ópticos físicos e inertes."
+        },
+        {
+          "letter": "D",
+          "text": "La sombra total",
+          "is_correct": false,
+          "feedback": "El objetivo de las gafas es dejar pasar la luz de forma útil, no bloquearla para crear sombras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los lentes son \"maestros de la refracción\". Su forma curva obliga a la luz a doblarse hacia un punto específico. Esta tecnología ayuda a millones de personas a corregir problemas de visión.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v6",
+      "statement": "¿Qué propiedad de la luz causa este \"espejismo\" en las carreteras calientes?",
+      "context": "En un día muy caluroso, a veces parece que hubiera charcos de agua sobre el asfalto de la carretera, pero al acercarnos la carretera está seca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua sale de la tierra",
+          "is_correct": false,
+          "feedback": "No es agua real; es un efecto óptico causado por la atmósfera caliente cerca del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "La refracción de la luz en el aire caliente",
+          "is_correct": true,
+          "feedback": "El aire caliente cerca del suelo desvía la luz del cielo, haciendo que parezca que hay un reflejo de agua (espejismo)."
+        },
+        {
+          "letter": "C",
+          "text": "Que la carretera es de espejo",
+          "is_correct": false,
+          "feedback": "El asfalto es opaco y rugoso; el efecto de brillo se debe a la desviación de los rayos de luz en el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Es una ilusión de magia",
+          "is_correct": false,
+          "feedback": "Es un fenómeno físico natural que se puede explicar mediante las leyes de la óptica atmosférica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La luz no solo se refracta en el agua o vidrio; también lo hace en el aire si la temperatura cambia. El aire caliente es menos denso y hace que la luz \"haga una curva\", engañando a nuestro cerebro.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v7",
+      "statement": "¿Cómo viaja la luz dentro del periscopio para llegar al ojo del capitán?",
+      "context": "Los periscopios de los submarinos usan dos espejos colocados en ángulos especiales para ver qué hay en la superficie sin salir del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atravesando los espejos de metal",
+          "is_correct": false,
+          "feedback": "La luz no atraviesa el metal; los espejos se usan precisamente para que la luz rebote."
+        },
+        {
+          "letter": "B",
+          "text": "Rebotando de un espejo al otro (doble reflexión)",
+          "is_correct": true,
+          "feedback": "La luz entra por arriba, rebota en el primer espejo hacia abajo, y luego en el segundo hacia el ojo."
+        },
+        {
+          "letter": "C",
+          "text": "Convirtiéndose en sonido de radio",
+          "is_correct": false,
+          "feedback": "El periscopio es un instrumento óptico; la visión depende puramente de la energía lumínica."
+        },
+        {
+          "letter": "D",
+          "text": "Por medio de cables eléctricos",
+          "is_correct": false,
+          "feedback": "Los periscopios básicos son mecánicos y funcionan solo con el juego de espejos y luz natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El periscopio es una aplicación brillante de la reflexión. Nos permite \"llevar\" la luz por caminos con curvas, demostrando que aunque la luz viaja en línea recta, podemos cambiar su dirección usando espejos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v8",
+      "statement": "¿Qué nos enseña esto sobre cómo vemos los colores de los objetos?",
+      "context": "Si iluminas una manzana roja con una luz blanca, la vemos roja. Si la iluminas en un cuarto totalmente oscuro con una luz azul pura, la manzana se verá casi negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la manzana cambia de piel",
+          "is_correct": false,
+          "feedback": "La manzana mantiene su estructura; lo que cambia es la luz que puede reflejar."
+        },
+        {
+          "letter": "B",
+          "text": "Que los objetos reflejan su color y absorben los demás",
+          "is_correct": true,
+          "feedback": "La manzana roja solo sabe rebotar el color rojo; si no hay rojo en la luz, no rebota nada y se ve negra."
+        },
+        {
+          "letter": "C",
+          "text": "Que la luz azul es venenosa para frutas",
+          "is_correct": false,
+          "feedback": "El fenómeno es óptico y no afecta la salud biológica o química de la fruta en el momento."
+        },
+        {
+          "letter": "D",
+          "text": "Que los colores son inventos de los ojos",
+          "is_correct": false,
+          "feedback": "Los colores son propiedades físicas de la luz que nuestros ojos y cerebro procesan como información útil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El color de un objeto es en realidad el color de la luz que ese objeto \"no quiso\". Una hoja es verde porque se queda con el rojo y el azul para la fotosíntesis, y nos devuelve (refleja) el verde hacia los ojos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v9",
+      "statement": "¿Por qué el diamante tiene ese brillo tan especial cuando le da la luz?",
+      "context": "Un diamante brilla muchísimo más que un trozo de vidrio común, aunque ambos sean transparentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene pilas adentro",
+          "is_correct": false,
+          "feedback": "El diamante es un mineral natural y no posee fuentes de energía artificiales internas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luz rebota muchas veces en su interior",
+          "is_correct": true,
+          "feedback": "Debido a su estructura, la luz entra, se refracta y se refleja internamente muchas veces antes de salir."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el diamante fabrica su propia luz",
+          "is_correct": false,
+          "feedback": "Los minerales no son luminosos; el brillo del diamante es 100% reflejo y refracción de luz externa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es de color blanco brillante",
+          "is_correct": false,
+          "feedback": "El diamante es incoloro; su \"color\" es en realidad el juego de luces que ocurre en su interior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A esto se le llama reflexión interna total y alta dispersión. El diamante es como una trampa de luz: la deja entrar pero le cuesta salir, obligándola a dar muchas vueltas y separarse en colores, creando ese brillo único.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v10",
+      "statement": "¿Cómo le explicarías científicamente que el arcoíris no es un objeto sólido?",
+      "context": "Un niño dice: \"Los arcoíris son puentes sólidos que aparecen en el cielo para que los pájaros caminen sobre ellos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los pájaros son muy pesados para el arcoíris",
+          "is_correct": false,
+          "feedback": "El problema no es el peso, sino la naturaleza física del arcoíris como fenómeno lumínico."
+        },
+        {
+          "letter": "B",
+          "text": "Que el arcoíris se rompe si lo tocas",
+          "is_correct": false,
+          "feedback": "No se puede tocar porque no es materia; es una percepción de luz separada en gotas de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que es un fenómeno óptico de luz y no tiene materia física",
+          "is_correct": true,
+          "feedback": "Es solo luz blanca descomponiéndose en colores al pasar por el agua; si te acercas, el arcoíris \"desaparece\"."
+        },
+        {
+          "letter": "D",
+          "text": "Que el arcoíris es un tipo de gas de colores",
+          "is_correct": false,
+          "feedback": "Los colores no son gases; son diferentes longitudes de onda de la energía lumínica del sol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El arcoíris es una ilusión óptica natural. No está en un lugar fijo del cielo; depende de dónde estés parado tú y dónde esté el Sol detrás de ti. Es la prueba más hermosa de que la luz blanca guarda un secreto de muchos colores.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T22:23:58.143Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v1",
+      "statement": "¿Cómo se llaman los recursos que no se vuelven a producir o tardan millones de años en recuperarse?",
+      "context": "En una mina de carbón en el Cesar, los camiones sacan toneladas de rocas negras que se queman para dar calor y energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recursos infinitos",
+          "is_correct": false,
+          "feedback": "Los recursos no renovables son limitados; una vez que los sacamos de la tierra, la cantidad total disminuye."
+        },
+        {
+          "letter": "B",
+          "text": "Recursos no renovables",
+          "is_correct": true,
+          "feedback": "Son aquellos que existen en cantidades fijas y que la naturaleza no puede reponer al ritmo que los consumimos."
+        },
+        {
+          "letter": "C",
+          "text": "Recursos de aire puro",
+          "is_correct": false,
+          "feedback": "El aire es un recurso renovable; el carbón y el petróleo son minerales o fósiles que se agotan."
+        },
+        {
+          "letter": "D",
+          "text": "Recursos de plastilina",
+          "is_correct": false,
+          "feedback": "Los recursos naturales son sustancias originales de la Tierra, no materiales escolares de juego."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos no renovables son como una cuenta de ahorros a la que solo se le saca dinero pero nunca se le mete. Algún día se acabarán por completo, por eso se llaman agotables.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v2",
+      "statement": "¿Cuál es uno de los productos más comunes que se fabrican a partir del petróleo?",
+      "context": "El petróleo es un líquido oscuro que se extrae de pozos muy profundos bajo la tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugo de naranja natural",
+          "is_correct": false,
+          "feedback": "El jugo viene de las plantas (flora), que son un recurso renovable totalmente diferente al petróleo."
+        },
+        {
+          "letter": "B",
+          "text": "Pan de centeno",
+          "is_correct": false,
+          "feedback": "El pan viene de cereales cultivados en el suelo, no de procesos químicos de hidrocarburos."
+        },
+        {
+          "letter": "C",
+          "text": "Gasolina y plásticos",
+          "is_correct": true,
+          "feedback": "El petróleo se procesa en refinerías para obtener combustibles para carros y la materia prima de casi todos los plásticos."
+        },
+        {
+          "letter": "D",
+          "text": "Agua mineral pura",
+          "is_correct": false,
+          "feedback": "El agua es un compuesto natural inorgánico que no tiene relación química con el petróleo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Casi todo lo que usamos hoy depende del petróleo. La ropa sintética, tus juguetes de plástico y la energía para que los buses se muevan vienen de este recurso no renovable.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v3",
+      "statement": "¿Por qué el gas natural se clasifica como un recurso no renovable?",
+      "context": "El gas natural llega por tuberías a las cocinas de muchas casas en Colombia para preparar los alimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque huele muy fuerte",
+          "is_correct": false,
+          "feedback": "El olor es una propiedad añadida para seguridad, no determina la capacidad de renovación del recurso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se acaba a medida que lo quemamos y no se repone",
+          "is_correct": true,
+          "feedback": "El gas que usamos hoy se formó hace millones de años y la Tierra no está haciendo gas nuevo rápidamente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el gas es invisible",
+          "is_correct": false,
+          "feedback": "Muchos recursos renovables son invisibles (como el viento); lo que importa es si se regeneran o no."
+        },
+        {
+          "letter": "D",
+          "text": "Porque viene de las nubes",
+          "is_correct": false,
+          "feedback": "El gas natural viene de depósitos profundos en la corteza terrestre, no de la atmósfera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El gas natural se encuentra a menudo junto al petróleo. Ambos se formaron por la descomposición de plantas y animales muy antiguos que quedaron atrapados bajo rocas pesadas durante eras geológicas enteras.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v4",
+      "statement": "¿Qué sucede con la cantidad de oro en el mundo a medida que los mineros lo extraen de las montañas?",
+      "context": "Los minerales como el oro, la plata y el cobre se usan para fabricar joyas y componentes de computadoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las montañas fabrican más oro cada noche",
+          "is_correct": false,
+          "feedback": "Los metales son elementos químicos que se formaron con el planeta; la naturaleza no los produce en tiempos cortos."
+        },
+        {
+          "letter": "B",
+          "text": "El oro crece como las plantas",
+          "is_correct": false,
+          "feedback": "Los metales no tienen células ni vida, por lo tanto no pueden crecer ni reproducirse."
+        },
+        {
+          "letter": "C",
+          "text": "Cada vez queda menos oro disponible bajo tierra",
+          "is_correct": true,
+          "feedback": "Al ser un recurso no renovable, su cantidad total en la corteza terrestre es limitada y disminuye con cada extracción."
+        },
+        {
+          "letter": "D",
+          "text": "El oro se convierte en plata solo",
+          "is_correct": false,
+          "feedback": "Cada metal es un elemento químico diferente y estable; no cambian de identidad naturalmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todos los metales son recursos no renovables. Por eso es tan importante el reciclaje. Si volvemos a usar el metal de las latas o cables viejos, no tenemos que seguir cavando tanto en las montañas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v5",
+      "statement": "¿Cuál de las dos está usando un recurso que se puede renovar si se siembran más árboles?",
+      "context": "Mariana tiene una estufa que funciona con gas natural y su tía tiene una que funciona con leña de árboles de su propia finca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mariana con el gas natural",
+          "is_correct": false,
+          "feedback": "El gas viene de depósitos fósiles limitados; una vez quemado, no hay forma de volver a \"sembrarlo\"."
+        },
+        {
+          "letter": "B",
+          "text": "La tía con la leña",
+          "is_correct": true,
+          "feedback": "La madera es un recurso renovable (flora) siempre y cuando se corten árboles y se siembren otros nuevos para el futuro."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas están usando recursos infinitos",
+          "is_correct": false,
+          "feedback": "Ningún recurso es infinito; el gas es no renovable y la madera solo si se maneja responsablemente."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, el calor no es un recurso",
+          "is_correct": false,
+          "feedback": "El calor es una forma de energía que obtenemos de los recursos naturales para nuestra utilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia está en el tiempo de reposición. Un árbol tarda 20 años en crecer para dar leña; el gas natural tardó 200 millones de años en formarse. Por eso el gas se considera no renovable a escala humana.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v6",
+      "statement": "¿Cuál es una consecuencia ambiental negativa del uso excesivo de recursos no renovables fósiles?",
+      "context": "La mayoría de los recursos no renovables, como el carbón y el petróleo, liberan mucho humo sucio cuando se usan para producir energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el aire se vuelve más frío y puro",
+          "is_correct": false,
+          "feedback": "Al contrario, la quema de estos recursos calienta el aire y lo llena de gases tóxicos."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de la contaminación y el calentamiento global",
+          "is_correct": true,
+          "feedback": "Los gases que liberan atrapan el calor del sol en la atmósfera, cambiando el clima de todo el planeta."
+        },
+        {
+          "letter": "C",
+          "text": "Que nacen más flores de plástico",
+          "is_correct": false,
+          "feedback": "El plástico es un residuo que daña la naturaleza, no es un ser vivo que nazca de forma natural."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua se convierte en gasolina",
+          "is_correct": false,
+          "feedback": "El agua y el combustible son sustancias diferentes; el daño es la contaminación del agua, no su transformación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos no renovables tienen dos problemas: se acaban y contaminan. Por eso el mundo está tratando de cambiar a energías limpias como el sol y el viento, que son renovables y no dañan el aire.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v7",
+      "statement": "¿Qué sucede con el recurso agua cuando se usa intensamente para la minería de recursos no renovables?",
+      "context": "Se necesitan miles de litros de agua para extraer el oro y el carbón de las minas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se vuelve más rica en vitaminas",
+          "is_correct": false,
+          "feedback": "Al contrario, el agua minera suele llenarse de metales pesados y ácidos peligrosos."
+        },
+        {
+          "letter": "B",
+          "text": "El agua se contamina y deja de ser potable para las personas",
+          "is_correct": true,
+          "feedback": "Los procesos de extracción suelen ensuciar los ríos cercanos, afectando otros recursos renovables como la pesca."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se convierte en oro líquido",
+          "is_correct": false,
+          "feedback": "El oro es un sólido mineral; el agua simplemente se ensucia con los químicos usados para separarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Nada, el agua se limpia sola en un minuto",
+          "is_correct": false,
+          "feedback": "La limpieza natural de un río contaminado con metales puede tardar años o incluso décadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de un recurso no renovable a menudo daña un recurso renovable. La minería mal manejada puede acabar con el agua dulce de una región, demostrando que debemos ser muy cuidadosos al extraer lo que hay bajo tierra.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v8",
+      "statement": "¿Cuál de los dos juguetes proviene de un recurso natural NO renovable?",
+      "context": "Tienes que elegir entre comprar un juguete de madera o uno de plástico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de madera",
+          "is_correct": false,
+          "feedback": "La madera viene de los árboles (flora), que son un recurso renovable si se siembran de nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "El de plástico",
+          "is_correct": true,
+          "feedback": "El plástico se fabrica a partir del petróleo, que es un recurso fósil que se agota y no se renueva."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos son renovables",
+          "is_correct": false,
+          "feedback": "Falso; solo el de madera tiene origen en un ciclo biológico rápido de vida."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, son artificiales",
+          "is_correct": false,
+          "feedback": "Aunque son fabricados, su materia prima viene de recursos naturales (árboles o petróleo)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nuestras decisiones de compra afectan al planeta. Preferir materiales naturales y biodegradables ayuda a reducir la dependencia del petróleo y disminuye la cantidad de basura que no se deshace nunca.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v9",
+      "statement": "¿Por qué es una urgencia científica reemplazar la gasolina por electricidad o hidrógeno?",
+      "context": "Los científicos buscan desesperadamente nuevas formas de mover los carros sin usar gasolina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la gasolina es muy barata",
+          "is_correct": false,
+          "feedback": "El precio cambia, pero la razón científica es por el agotamiento y el daño ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Porque a los carros les gusta más la luz",
+          "is_correct": false,
+          "feedback": "Las máquinas no tienen gustos; su funcionamiento depende del diseño de su motor por ingenieros."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gasolina se va a acabar y contamina el aire",
+          "is_correct": true,
+          "feedback": "Al ser un recurso no renovable, su fin es seguro, y su uso está enfermando al planeta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el petróleo es de color azul",
+          "is_correct": false,
+          "feedback": "El petróleo suele ser negro o café oscuro; la razón del cambio es por sostenibilidad y salud."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esto se llama transición energética. Como sabemos que el petróleo y el carbón tienen fecha de vencimiento, debemos aprender a usar el sol y el viento antes de que se acaben los recursos viejos y sea demasiado tarde.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v10",
+      "statement": "¿Cómo afectaría esta decisión a los niños que nazcan dentro de 50 años?",
+      "context": "Un empresario dice: \"Saquemos todo el carbón ahora mismo para ser ricos, no importa que mañana no quede nada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No les afectaría porque ya habrá carbón nuevo",
+          "is_correct": false,
+          "feedback": "El carbón tarda millones de años; no habrá carbón nuevo en solo 50 años."
+        },
+        {
+          "letter": "B",
+          "text": "No tendrían este recurso para sus necesidades y vivirían en un mundo contaminado",
+          "is_correct": true,
+          "feedback": "Al agotar los recursos no renovables hoy, les quitamos la oportunidad de usarlos a las futuras generaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Tendrían montañas de diamantes",
+          "is_correct": false,
+          "feedback": "Agotar el carbón solo deja huecos en la tierra y cenizas en el aire, no produce piedras preciosas."
+        },
+        {
+          "letter": "D",
+          "text": "Serían más felices sin rocas negras",
+          "is_correct": false,
+          "feedback": "El carbón es necesario para mucha industria actual; su falta sin un reemplazo limpio causaría pobreza y problemas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esto se llama ética intergeneracional. Los recursos de la Tierra no son solo para nosotros; debemos administrarlos para que alcancen para los que vienen después, buscando siempre alternativas que no dañen su futuro.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v1",
+      "statement": "¿Cómo se llaman los recursos naturales que tienen la capacidad de regenerarse o recuperarse en poco tiempo?",
+      "context": "En la clase de ciencias, Mariana aprende que algunos recursos naturales no se acaban si se usan con sabiduría porque la Tierra los vuelve a producir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recursos renovables",
+          "is_correct": true,
+          "feedback": "Son aquellos que se reponen mediante procesos naturales, como el sol, el viento, el agua y los seres vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Recursos agotables",
+          "is_correct": false,
+          "feedback": "Agotable significa que se acaba; los renovables tienen la ventaja de poder durar para siempre si se cuidan."
+        },
+        {
+          "letter": "C",
+          "text": "Recursos de plástico",
+          "is_correct": false,
+          "feedback": "El plástico es un material artificial fabricado por el hombre a partir del petróleo, no es un recurso natural renovable."
+        },
+        {
+          "letter": "D",
+          "text": "Recursos invisibles",
+          "is_correct": false,
+          "feedback": "Muchos recursos renovables son visibles, como los árboles, los animales y el agua de los ríos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos renovables son la base de un futuro sostenible. La clave es usarlos a un ritmo que permita a la naturaleza volver a fabricarlos. Si cortamos árboles más rápido de lo que crecen, dejamos de tratarlos como renovables.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.95,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v2",
+      "statement": "¿A qué grupo de recursos pertenece la energía solar?",
+      "context": "El sol brilla cada mañana y nos regala luz y calor sin que tengamos que hacer nada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es un recurso natural",
+          "is_correct": false,
+          "feedback": "La luz del sol es el recurso natural más importante de nuestro sistema solar y la base de la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Recurso inagotable y renovable",
+          "is_correct": true,
+          "feedback": "La energía del sol es prácticamente infinita y se renueva cada día para todos los seres del planeta."
+        },
+        {
+          "letter": "C",
+          "text": "Recurso peligroso y tóxico",
+          "is_correct": false,
+          "feedback": "Aunque debemos protegernos del exceso de radiación, el sol es una energía limpia y necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Recurso de excavación",
+          "is_correct": false,
+          "feedback": "La energía solar se capta desde el cielo, no se necesita excavar el suelo para obtenerla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sol es la fuente madre de casi todos los recursos renovables. Gracias al sol existe el ciclo del agua, sopla el viento y las plantas pueden realizar la fotosíntesis. Es el recurso más confiable que tenemos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.92,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v3",
+      "statement": "¿Por qué las plantas (flora) se consideran un recurso renovable?",
+      "context": "Una familia tiene una huerta y siempre que recogen los tomates, siembran semillas nuevas en el mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son de color verde",
+          "is_correct": false,
+          "feedback": "El color no determina la capacidad de renovación; lo hace el proceso biológico de reproducción."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no necesitan agua",
+          "is_correct": false,
+          "feedback": "Al contrario, necesitan agua para poder crecer y completar su ciclo de vida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque pueden nacer de nuevo a partir de semillas o esquejes",
+          "is_correct": true,
+          "feedback": "La reproducción biológica permite que existan nuevas plantas para reemplazar a las que ya usamos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son de mentiras",
+          "is_correct": false,
+          "feedback": "Las plantas son seres vivos reales que forman parte fundamental de la biodiversidad de la Tierra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La vida es renovable gracias a la reproducción. Mientras cuidemos los hábitats para que las plantas puedan tener hijos (semillas), siempre tendremos este recurso disponible para alimentarnos y vestirnos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v4",
+      "statement": "¿Qué proceso natural permite que el agua sea un recurso renovable que vuelve a los ríos una y otra vez?",
+      "context": "Juan observa que el agua del río Magdalena siempre corre hacia el mar, pero el río nunca se queda vacío.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fábrica humana de agua",
+          "is_correct": false,
+          "feedback": "No existen fábricas que creen agua dulce a gran escala para llenar los ríos del mundo."
+        },
+        {
+          "letter": "B",
+          "text": "El ciclo del agua",
+          "is_correct": true,
+          "feedback": "La evaporación, condensación y lluvia reciclan el agua del planeta constantemente, manteniéndola disponible."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de barcos con agua",
+          "is_correct": false,
+          "feedback": "El volumen de agua de los ríos es inmenso y proviene de la naturaleza, no del transporte humano."
+        },
+        {
+          "letter": "D",
+          "text": "El hundimiento del mar",
+          "is_correct": false,
+          "feedback": "El nivel del mar es estable; el agua regresa a los continentes a través de la atmósfera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua es el ejemplo perfecto de recurso renovable gracias a su ciclo. Sin embargo, aunque se renueva, si la contaminamos deja de ser útil para nosotros, por eso debemos mantenerla limpia.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v5",
+      "statement": "¿Está este maderero tratando al bosque como un recurso renovable?",
+      "context": "En un bosque, un maderero corta todos los árboles antiguos en un solo día y no siembra ninguno nuevo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque los árboles son mágicos",
+          "is_correct": false,
+          "feedback": "La naturaleza sigue leyes biológicas, no mágicas; el bosque necesita tiempo y semillas."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque no permite que el bosque se regenere",
+          "is_correct": true,
+          "feedback": "Al quitar todo y no sembrar, está agotando el recurso en lugar de permitir que se renueve."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el viento traerá más árboles mañana",
+          "is_correct": false,
+          "feedback": "El crecimiento de un árbol tarda décadas; no es un proceso que ocurra de la noche a la mañana."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los árboles son piedras",
+          "is_correct": false,
+          "feedback": "Los árboles son seres vivos (flora); el problema es el manejo irresponsable del recurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un recurso es renovable solo si respetamos su tiempo de recuperación. Si consumimos más rápido de lo que la vida crece, estamos destruyendo el recurso para el futuro. Eso se llama uso insostenible.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v6",
+      "statement": "¿Cuál es la condición necesaria para que los animales silvestres sigan siendo un recurso renovable en la naturaleza?",
+      "context": "Los animales (fauna) también nos sirven como recurso para alimento y compañía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteger sus hábitats y evitar la caza excesiva",
+          "is_correct": true,
+          "feedback": "Los animales necesitan un hogar seguro y tiempo para tener sus crías y mantener su población estable."
+        },
+        {
+          "letter": "B",
+          "text": "Encerrarlos a todos en zoológicos",
+          "is_correct": false,
+          "feedback": "Los animales son un recurso renovable de la naturaleza cuando están libres y cumpliendo su ciclo natural."
+        },
+        {
+          "letter": "C",
+          "text": "Darles comida de humano todos los días",
+          "is_correct": false,
+          "feedback": "Nuestra comida los enferma; ellos necesitan su dieta natural del bosque o río para estar sanos."
+        },
+        {
+          "letter": "D",
+          "text": "Pintar los bosques de colores llamativos",
+          "is_correct": false,
+          "feedback": "La renovación de la fauna depende de la biología, no de cambios estéticos hechos por el hombre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fauna se renueva mediante el nacimiento de nuevas crías. Si cazamos a todos los adultos o destruimos sus nidos, el recurso deja de renovarse y la especie se extingue para siempre.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v7",
+      "statement": "¿Por qué el viento es un recurso renovable superior al uso de la leña para cocinar?",
+      "context": "El viento mueve las aspas de un molino para generar electricidad sin gastar combustible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el viento huele mejor",
+          "is_correct": false,
+          "feedback": "El viento no tiene olor; la superioridad está en su capacidad de no agotarse y no contaminar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la leña no se acaba nunca",
+          "is_correct": false,
+          "feedback": "La leña viene de los árboles y si cortamos muchos, el bosque desaparece; es más lenta de renovar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el viento nunca se agota por más que lo usemos",
+          "is_correct": true,
+          "feedback": "El movimiento del aire es una constante de la atmósfera terrestre que no se \"gasta\" al mover un molino."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el viento es de color azul",
+          "is_correct": false,
+          "feedback": "Ya aprendimos que el aire es invisible y transparente, no tiene color propio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El viento es lo que llamamos una fuente de energía inagotable. A diferencia de las plantas o animales que pueden tardar meses o años en crecer, el viento se renueva cada vez que el sol calienta el aire.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v8",
+      "statement": "¿Cuáles de estas fuentes son recursos renovables?",
+      "context": "Mariana tiene que clasificar estas fuentes de energía: 1. Carbón, 2. Sol, 3. Viento, 4. Gas natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carbón y el gas natural",
+          "is_correct": false,
+          "feedback": "Estos son combustibles fósiles que tardan millones de años en formarse; se consideran no renovables."
+        },
+        {
+          "letter": "B",
+          "text": "El sol y el viento",
+          "is_correct": true,
+          "feedback": "Ambos son recursos que se reponen naturalmente de forma inmediata y no se acaban con el uso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el carbón por venir de la tierra",
+          "is_correct": false,
+          "feedback": "Estar en la tierra no significa ser renovable; muchos minerales son limitados y se agotan."
+        },
+        {
+          "letter": "D",
+          "text": "Todas son renovables",
+          "is_correct": false,
+          "feedback": "Falso; el carbón y el gas se acaban a medida que los extraemos y quemamos en las fábricas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar renovables de no renovables es clave para cuidar el planeta. Los renovables son limpios y duraderos, mientras que los no renovables suelen contaminar y se están agotando rápidamente.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v9",
+      "statement": "¿Cuál es el mayor peligro para que el suelo deje de ser un recurso renovable útil para nosotros?",
+      "context": "El suelo es un recurso especial. Algunos científicos dicen que es renovable, pero otros dicen que no, porque tarda 500 años en hacerse un centímetro de tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los niños jueguen en él",
+          "is_correct": false,
+          "feedback": "Jugar no daña la estructura química del suelo; la actividad humana industrial sí lo hace."
+        },
+        {
+          "letter": "B",
+          "text": "La contaminación química y la erosión por deforestación",
+          "is_correct": true,
+          "feedback": "Si el suelo se envenena o se lava con la lluvia, ya no sirve para la vida y tardará siglos en recuperarse."
+        },
+        {
+          "letter": "C",
+          "text": "Que las lombrices coman mucho",
+          "is_correct": false,
+          "feedback": "Las lombrices son las mejores aliadas para que el suelo se renueve y sea fértil."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sol lo caliente un poquito",
+          "is_correct": false,
+          "feedback": "El calor normal es necesario; el problema es el sol directo sobre tierra pelada sin vegetación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo está en el límite. Se renueva tan lento que para los humanos es casi como si no lo hiciera. Por eso debemos tratarlo con el máximo respeto, evitando que se pierda por la lluvia o los químicos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v10",
+      "statement": "¿Por qué este consejo del comercial es irresponsable desde el punto de vista ambiental?",
+      "context": "Un comercial dice: \"Usa todo el papel que quieras, los árboles son renovables y siempre habrá más\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el papel es de color blanco",
+          "is_correct": false,
+          "feedback": "El color no influye en la ética del consumo de recursos naturales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque a los árboles les duele cuando los cortan",
+          "is_correct": false,
+          "feedback": "Aunque no sienten dolor como nosotros, el daño es al equilibrio del ecosistema y la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la renovación tarda tiempo y gasta mucha agua y energía",
+          "is_correct": true,
+          "feedback": "El hecho de que sea renovable no significa que podamos desperdiciarlo; el proceso de recuperación tiene límites."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el papel se convierte en aire",
+          "is_correct": false,
+          "feedback": "El papel es materia sólida; al desperdiciarlo generamos basura y agotamos recursos forestales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ser renovable no es una \"licencia para desperdiciar\". Cada recurso que usamos requiere energía de la Tierra para volver a aparecer. La verdadera sostenibilidad es usar solo lo que necesitamos, respetando los ritmos de la naturaleza.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

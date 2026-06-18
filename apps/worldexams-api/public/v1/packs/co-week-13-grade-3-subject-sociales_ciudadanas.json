@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-18T22:23:59.150Z"
+  },
+  "questions": [
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v1",
+      "statement": "Cual es un derecho fundamental de los ninos?",
+      "context": "I.E. Los Libertadores, Cali. Derechos del nino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a alimentacion: recibir comida nutritiva para crecer sanos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derecho a trabajar.",
+          "is_correct": false,
+          "feedback": "Trabajo infantil no es derecho."
+        },
+        {
+          "letter": "C",
+          "text": "C) Derecho a no estudiar.",
+          "is_correct": false,
+          "feedback": "Educacion es obligatoria."
+        },
+        {
+          "letter": "D",
+          "text": "D) Derecho a decidir leyes.",
+          "is_correct": false,
+          "feedback": "Tienen otros derechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Segun la Constitucion y el Codigo de Infancia, los ninos tienen derecho a alimentacion, salud y educacion.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v2",
+      "statement": "Que significa derecho a la salud para los ninos?",
+      "context": "I.E. INEM, Pasto. Derecho a salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recibir atencion medica cuando esten enfermos y controles regulares.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Comer dulces todo el dia.",
+          "is_correct": false,
+          "feedback": "No es saludable."
+        },
+        {
+          "letter": "C",
+          "text": "C) No necesitan vacunas.",
+          "is_correct": false,
+          "feedback": "Las vacunas son parte de la salud."
+        },
+        {
+          "letter": "D",
+          "text": "D) Deciden solos su tratamiento.",
+          "is_correct": false,
+          "feedback": "Padres y medicos deciden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El derecho a la salud incluye acceso a medicos, hospitales, vacunas y medicamentos.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.84,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v3",
+      "statement": "Por que es importante la educacion?",
+      "context": "I.E. Concejo de Soacha. Educacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite aprender, desarrollarse y tener mejores oportunidades en el futuro.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo para tener un titulo.",
+          "is_correct": false,
+          "feedback": "Es formacion integral."
+        },
+        {
+          "letter": "C",
+          "text": "C) Para que padres no cuiden.",
+          "is_correct": false,
+          "feedback": "Es para desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "D) No es importante.",
+          "is_correct": false,
+          "feedback": "Es fundamental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La educacion prepara a los ninos para la vida, dandoles conocimientos, habilidades y valores.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v4",
+      "statement": "Como se garantiza alimentacion en escuelas?",
+      "context": "I.E. Normal, Ibague. Alimentacion escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A traves del PAE (Programa de Alimentacion Escolar) que da desayuno y almuerzo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Los ninos llevan su comida.",
+          "is_correct": false,
+          "feedback": "El PAE complementa."
+        },
+        {
+          "letter": "C",
+          "text": "C) Profesores compran comida.",
+          "is_correct": false,
+          "feedback": "Estado financia."
+        },
+        {
+          "letter": "D",
+          "text": "D) No se garantiza.",
+          "is_correct": false,
+          "feedback": "Si, a traves del PAE."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El PAE es un programa del gobierno colombiano que garantiza alimentacion a los estudiantes.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v5",
+      "statement": "Un nino no va al medico por falta de dinero. Que derecho se viola?",
+      "context": "I.E. Tecnico, Sogamoso. Aplicacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la salud, porque todos deben recibir atencion sin importar su situacion.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derecho a recreacion.",
+          "is_correct": false,
+          "feedback": "Es salud."
+        },
+        {
+          "letter": "C",
+          "text": "C) Derecho al voto.",
+          "is_correct": false,
+          "feedback": "Los ninos no votan."
+        },
+        {
+          "letter": "D",
+          "text": "D) Derecho a trabajar.",
+          "is_correct": false,
+          "feedback": "No es derecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El derecho a la salud es universal. Los ninos deben recibir atencion gratuita.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v6",
+      "statement": "Andrea de 9 anos no va a la escuela. Que derecho se viola?",
+      "context": "I.E. San Felipe, Cali. Derecho educacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la educacion. Todos los ninos deben asistir a la escuela.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Derecho a recreacion.",
+          "is_correct": false,
+          "feedback": "Es educacion."
+        },
+        {
+          "letter": "C",
+          "text": "C) Derecho a identidad.",
+          "is_correct": false,
+          "feedback": "Es educacion."
+        },
+        {
+          "letter": "D",
+          "text": "D) Derecho a libertad.",
+          "is_correct": false,
+          "feedback": "Es educacion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La educacion basica en Colombia es obligatoria. Los padres deben matricular a sus hijos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v7",
+      "statement": "Por que el Estado debe garantizar salud infantil?",
+      "context": "I.E. El Porvenir, Bosa. Analisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los ninos son el futuro y necesitan crecer sanos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Solo porque la ley lo dice.",
+          "is_correct": false,
+          "feedback": "Es por bienestar."
+        },
+        {
+          "letter": "C",
+          "text": "C) Para que hospitales tengan pacientes.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "D) Solo padres deben hacerlo.",
+          "is_correct": false,
+          "feedback": "Estado y familia comparten."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Estado debe proteger la salud de los ninos segun la Constitucion y la Convencion de los Derechos del Nino.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-v8",
+      "statement": "\"Los ninos no necesitan ir al medico si no estan enfermos.\" Es correcto?",
+      "context": "I.E. La Giralda, Medellin. Evaluacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, necesitan controles regulares y vacunas aunque no esten enfermos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "B) Si, solo cuando enfermos.",
+          "is_correct": false,
+          "feedback": "Prevencion es clave."
+        },
+        {
+          "letter": "C",
+          "text": "C) Solo debiles necesitan controles.",
+          "is_correct": false,
+          "feedback": "Todos."
+        },
+        {
+          "letter": "D",
+          "text": "D) Controles no sirven.",
+          "is_correct": false,
+          "feedback": "Si sirven."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los controles regulares y vacunas previenen enfermedades graves.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "COL-SOC-CIU-3-2026-W13-derechos-del-nino-alimentacion-salud-educacion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

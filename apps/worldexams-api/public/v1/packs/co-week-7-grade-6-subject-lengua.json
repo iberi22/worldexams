@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición más precisa de narración?",
-      "context": "",
+      "context": "En un colegio de Zipaquirá, la profesora de Lengua Castellana explica que narrar es una actividad que los seres humanos realizamos a diario para compartir experiencias.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.9,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v2",
       "statement": "¿Cuáles son las tres partes de la estructura narrativa presentes en el fragmento, en orden?",
-      "context": "",
+      "context": "Lee el siguiente fragmento de un relato de Barranquilla: \"Al principio, el barrio estaba tranquilo. De repente, un fuerte viento levantó el polvo de la calle y todos corrieron a refugiarse. Finalmente, la lluvia calmó el calor de la tarde\".",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de narrador se evidencia en el fragmento anterior?",
-      "context": "",
+      "context": "En la lectura de un cuento en un colegio de Medellín, el texto dice: \"Yo caminé por toda la orilla del río buscando mi tesoro perdido, mientras la luna me observaba en silencio\".",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v4",
       "statement": "Para que su relato sea realmente un mito, ¿qué tipo de personajes debería incluir preferiblemente?",
-      "context": "",
+      "context": "Un estudiante de grado sexto en Cali quiere escribir un mito sobre el origen de la caña de azúcar en el Valle del Cauca.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v5",
       "statement": "¿Qué elementos del marco narrativo se identifican claramente en este texto?",
-      "context": "",
+      "context": "En un fragmento de una novela juvenil colombiana, se lee: \"Eran las tres de la tarde. El sol quemaba en la plaza de Villa de Leyva. De pronto, un caballo negro apareció galopando sin jinete\".",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.72,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v6",
       "statement": "¿Qué elemento añade el segundo fragmento que profundiza en la caracterización del personaje?",
-      "context": "",
+      "context": "Analiza la diferencia entre estos dos fragmentos:\n1. \"El joven caminó lentamente hasta la puerta\".\n2. \"El joven caminó lentamente hasta la puerta, pensando que quizás su vida cambiaría para siempre al cruzarla\".",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.68,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes frases es propia de un narrador omnisciente?",
-      "context": "",
+      "context": "Un narrador omnisciente es aquel que se asemeja a un \"dios\" dentro de la historia.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v8",
       "statement": "Si estuviéramos contando la historia de Caperucita Roja, ¿cuál sería el momento del clímax?",
-      "context": "",
+      "context": "En la estructura de una narración, el \"clímax\" es el momento de mayor tensión.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v9",
       "statement": "¿Qué caracteriza a un relato con final abierto?",
-      "context": "",
+      "context": "Muchos cuentos contemporáneos colombianos terminan con un \"final abierto\".",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el efecto principal de alterar el orden del tiempo en una narración?",
-      "context": "",
+      "context": "Analiza la importancia del orden cronológico. Un autor decide contar una historia empezando por el final y luego devolviéndose al pasado (flashback).",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

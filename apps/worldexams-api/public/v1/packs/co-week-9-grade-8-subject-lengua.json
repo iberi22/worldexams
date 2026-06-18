@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el libro sagrado de los mayas quichés que narra el origen del mundo, la creación del hombre y las aventuras de los gemelos Hunahpú e Ixbalanqué?",
-      "context": "",
+      "context": "La cultura maya desarrolló uno de los sistemas de escritura más complejos de la América prehispánica, utilizando glifos para registrar su historia y cosmogonía.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v2",
       "statement": "Según el relato del Popol Vuh, ¿de qué material fue hecho finalmente el hombre \"verdadero\" que pudo pensar, hablar y agradecer a sus creadores?",
-      "context": "",
+      "context": "En el Popol Vuh, los dioses intentaron crear al hombre en varias ocasiones utilizando diferentes materiales antes de lograr el éxito.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v3",
       "statement": "¿A qué conjunto de libros pertenecen los textos de carácter profético, religioso e histórico escritos por los sacerdotes mayas de la península de Yucatán?",
-      "context": "",
+      "context": "La literatura maya que conservamos hoy fue transcrita al alfabeto latino por indígenas y frailes durante la época de la Colonia para evitar su desaparición.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se denomina el inframundo o lugar de los muertos en la mitología maya, donde los gemelos heroicos derrotan a las deidades del mal?",
-      "context": "",
+      "context": "Los gemelos Hunahpú e Ixbalanqué deben descender al inframundo para enfrentarse a los señores de la muerte en diversas pruebas de ingenio.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v5",
       "statement": "¿Qué similitud fundamental existe entre el inicio del Popol Vuh y el libro del Génesis de la tradición judeocristiana?",
-      "context": "",
+      "context": "Al inicio del Popol Vuh se describe un estado de calma absoluta donde no había nada que estuviera en pie, solo el cielo y el mar en reposo.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v6",
       "statement": "¿Cuál fue la razón principal por la que los dioses mayas destruyeron a los hombres de madera en el Popol Vuh?",
-      "context": "",
+      "context": "Los mayas creían que la palabra tenía un poder sagrado y que los seres humanos tenían la obligación de alimentar a los dioses mediante la oración y el recuerdo.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v7",
       "statement": "¿Qué impacto tuvo la quema sistemática de códices mayas por parte de las autoridades españolas en nuestro conocimiento actual de esta civilización?",
-      "context": "",
+      "context": "Solo tres códices mayas originales sobrevivieron a la quema de libros ordenada por el obispo Diego de Landa durante la Inquisición española.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la importancia de que obras como el Rabinal Achí se sigan representando hoy en día en Guatemala?",
-      "context": "",
+      "context": "El Rabinal Achí es una obra de danza y teatro que ha sido representada por los mayas achí durante siglos, incluso después de la Conquista.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v9",
       "statement": "¿Por qué los autores mayas de la época colonial habrían preferido usar un lenguaje simbólico y oscuro en sus escritos?",
-      "context": "",
+      "context": "Los textos del Chilam Balam utilizan un lenguaje altamente simbólico y metafórico, a menudo difícil de descifrar para quien no conoce la cultura maya.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v10",
       "statement": "Considerando que el Popol Vuh fue transcrito al alfabeto latino décadas después de la Conquista, ¿cómo debemos valorar este texto como fuente de conocimiento prehispánico?",
-      "context": "",
+      "context": "Vix Alquí es un concepto maya que se refiere a la \"palabra que se transmite\", enfatizando la oralidad como método de preservación.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -410,7 +440,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la función rítmica y sagrada de la repetición constante de frases en la literatura maya antigua?",
-      "context": "",
+      "context": "El paralelismo (repetición de una misma idea con palabras diferentes) es el recurso literario más común en los textos sagrados mayas.",
       "options": [
         {
           "letter": "A",
@@ -442,6 +472,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -450,7 +483,7 @@
     {
       "id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle-v12",
       "statement": "¿En qué se diferencia radicalmente la visión de la historia en el Chilam Balam de la visión histórica occidental tradicional?",
-      "context": "",
+      "context": "El concepto de \"tiempo circular\" en la literatura maya sugiere que los eventos históricos se repiten en ciclos determinados por los astros.",
       "options": [
         {
           "letter": "A",
@@ -482,6 +515,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
       "bundle_id": "CO-LEN-8-2026-W09-literatura-maya-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

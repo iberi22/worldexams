@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v1",
       "statement": "¿Cuál es la diferencia fundamental entre el mito y la leyenda en la tradición oral colombiana?",
-      "context": "",
+      "context": "En una noche de campamento en el Tolima, un abuelo cuenta a sus nietos la historia de la Madre Monte, una mujer que protege los bosques y castiga a quienes los destruyen.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v2",
       "statement": "¿Cuál de las siguientes es una característica típica de la leyenda colombiana que se evidencia en el caso del Mohán?",
-      "context": "",
+      "context": "Los estudiantes de un colegio en Neiva investigan sobre el \"Mohán\", un personaje que vive en cuevas a orillas del río Magdalena y asusta a los pescadores.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v3",
       "statement": "A partir del fragmento, ¿cuál es la función social o moralizante de esta leyenda?",
-      "context": "",
+      "context": "Lee este fragmento de la leyenda de la Llorona: \"Vaga por las orillas de los ríos de Antioquia, lanzando gritos desgarradores por los hijos que perdió debido a su propia desesperación. Dicen que su llanto es un aviso para los padres descuidados\".",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v4",
       "statement": "¿Qué concepto fundamental sobre la vida y la muerte se puede inferir del mito de Bachué?",
-      "context": "",
+      "context": "En el mito muisca de Bachué, una mujer sale de la laguna de Iguaque con un niño, pueblan la tierra y luego se transforman en serpientes para regresar al agua.",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v5",
       "statement": "¿Cuál de las siguientes situaciones encajaría mejor en el género de la leyenda urbana manteniendo su esencia tradicional?",
-      "context": "",
+      "context": "Imagina que quieres escribir una \"leyenda urbana\" moderna para tu colegio en Bogotá.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v6",
       "statement": "¿Qué nombre recibe este recurso narrativo y qué suele representar en la literatura popular?",
-      "context": "",
+      "context": "En muchas leyendas de la región Caribe, como la del Hombre Caimán, se narra la transformación de un humano en animal como consecuencia de un comportamiento indebido.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v7",
       "statement": "¿En qué se diferencian principalmente los protagonistas de estos dos relatos?",
-      "context": "",
+      "context": "Analiza esta comparación:\n- El mito de Bochica (Muisca): Un anciano sabio que enseña a tejer y a cultivar, y que salva a la gente de una inundación abriendo el Salto del Tequendama.\n- La leyenda del Sombrerón: Un hombre de negro con un sombrero gigante que persigue a los borrachos y a los trasnochadores en las noches de Antioquia.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v8",
       "statement": "¿Qué se puede analizar críticamente sobre el origen social de muchas de nuestras leyendas a partir de esta afirmación?",
-      "context": "",
+      "context": "Un estudioso de la cultura afirma: \"Las leyendas de espantos como la Patasola son, en realidad, una forma de violencia simbólica contra las mujeres que no cumplían con lo que la sociedad de antes esperaba de ellas\".",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v9",
       "statement": "Desde un análisis del papel de la literatura oral en la actualidad, ¿qué función está cumpliendo la leyenda en este conflicto?",
-      "context": "",
+      "context": "En un pueblo del Huila, una empresa quiere talar un bosque sagrado. Los ancianos cuentan la leyenda de que allí vive un espíritu protector que enfermará a quien toque los árboles.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v10",
       "statement": "¿Cuál es la consecuencia más grave de esta pérdida de la tradición oral local para la identidad nacional?",
-      "context": "",
+      "context": "Evalúa el impacto de que los jóvenes colombianos dejen de contar mitos y leyendas y solo consuman historias de superhéroes de otros países.",
       "options": [
         {
           "letter": "A",
@@ -402,6 +429,9 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
       "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
