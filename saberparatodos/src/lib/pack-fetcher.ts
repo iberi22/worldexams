@@ -80,15 +80,24 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
       isDevRuntime ||
       (typeof window !== 'undefined' && /^(localhost|127\.0\.0\.1)$/i.test(window.location.hostname));
 
+    // Compute static pack origin — use the app origin, NOT the API base URL.
+    // Because the API (worker) packs lack the context field, but static packs
+    // served via the Astro proxy (saberparatodos.space/api/packs/...) DO have context.
+    const staticOrigin = baseOrigin || 'https://saberparatodos.space';
+
     const tryStaticPackCandidates = async (): Promise<Response | null> => {
       // Prefer subject-specific packs first, then generic grade packs.
       const subjectCandidatePaths: string[] = [];
       if (normalizedSubject) {
         for (const subjectAlias of getPackSubjectAliases(normalizedSubject)) {
-          if (!shouldPreferStaticPacks) {
-            subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
-          }
+          // When falling back (not shouldPreferStaticPacks), prefer the week-1 static
+          // pack served through the Astro proxy (/api/packs/...) which has context data.
+          subjectCandidatePaths.push(`${staticOrigin}/api/packs/week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
+          subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
+          subjectCandidatePaths.push(`${apiBaseUrl}/packs/co-week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
+          subjectCandidatePaths.push(`${staticOrigin}/api/packs/week-1-grade-${grade}-subject-${subjectAlias}.json`);
           subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-1-grade-${grade}-subject-${subjectAlias}.json`);
+          subjectCandidatePaths.push(`${apiBaseUrl}/packs/co-week-1-grade-${grade}-subject-${subjectAlias}.json`);
         }
       }
 
@@ -96,7 +105,9 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
         ? [`${apiBaseUrl}/packs/week-1-grade-${grade}.json`]
         : [
             `${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}.json`,
-            `${apiBaseUrl}/packs/week-1-grade-${grade}.json`
+            `${apiBaseUrl}/packs/co-week-${currentWeek}-grade-${grade}.json`,
+            `${apiBaseUrl}/packs/week-1-grade-${grade}.json`,
+            `${apiBaseUrl}/packs/co-week-1-grade-${grade}.json`
           ];
 
       const allCandidatePaths = [...subjectCandidatePaths, ...legacyCandidatePaths];
@@ -104,11 +115,8 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
 
       for (const path of allCandidatePaths) {
         try {
-          // If the path is already an absolute URL (starts with http), use it directly
+          // Try GET directly — some Cloudflare Asset paths don't respond to HEAD
           const url = path.startsWith('http') ? path : resolvePackUrl(path);
-          const headResponse = await fetch(url, { method: 'HEAD' });
-          if (!headResponse.ok) continue;
-
           const getResponse = await fetch(url);
           if (getResponse.ok) return getResponse;
         } catch {
@@ -181,9 +189,12 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
           const hasAnyContext = appQuestions.some((aq: AppQuestion) => (aq.context?.length ?? 0) > 0);
           if (!hasAnyContext && rawQuestions.length > 0) {
             console.warn(`[API] Returned ${rawQuestions.length} questions without context — trying static packs as fallback`);
+            // Don't return here — fall through to tryStaticPackCandidates()
           } else {
             return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
           }
+        } else if (payload?.questions && payload.questions.length === 0) {
+          console.warn(`[API] Returned 0 questions — trying static packs`);
         }
       }
     } catch (apiError) {
