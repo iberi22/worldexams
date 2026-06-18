@@ -176,7 +176,14 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
             return transformQuestion(q, grade, qSubject);
           });
 
-          return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
+          // 🆕 Check if API returned questions WITHOUT context.
+          // If so, fall back to static packs that may have context data.
+          const hasAnyContext = appQuestions.some((aq: AppQuestion) => (aq.context?.length ?? 0) > 0);
+          if (!hasAnyContext && rawQuestions.length > 0) {
+            console.warn(`[API] Returned ${rawQuestions.length} questions without context — trying static packs as fallback`);
+          } else {
+            return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
+          }
         }
       }
     } catch (apiError) {
