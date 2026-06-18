@@ -10,7 +10,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la unidad más pequeña de los seres vivos que Martina puede identificar como capaz de realizar las funciones vitales?",
-      "context": "",
+      "context": "Martina está observando una gota de agua del Río de la Plata con un microscopio en el laboratorio de su escuela en Buenos Aires.",
       "options": [
         {
           "letter": "A",
@@ -42,6 +42,9 @@
       "difficulty": "3",
       "images": [],
       "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Organismos",
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -50,7 +53,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v2",
       "statement": "¿Qué diferencia fundamental existe entre un organismo unicelular, como una bacteria, y uno pluricelular, como un ceibo (árbol nacional argentino)?",
-      "context": "",
+      "context": "En una salida didáctica a la Reserva Ecológica Costanera Sur, un guía explica que los seres vivos se pueden clasificar según la cantidad de células que poseen.",
       "options": [
         {
           "letter": "A",
@@ -82,6 +85,9 @@
       "difficulty": "4",
       "images": [],
       "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Organismos",
+      "expected_success": 0.8,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -90,7 +96,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v3",
       "statement": "Según su tipo de nutrición, ¿cómo clasificarías a este organismo y en qué grupo general lo ubicarías?",
-      "context": "",
+      "context": "Imaginate que encontrás un organismo desconocido en un parque de Mendoza. Al observarlo, notás que produce su propio alimento a partir de la luz solar.",
       "options": [
         {
           "letter": "A",
@@ -122,6 +128,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Organismos",
+      "expected_success": 0.75,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -130,7 +139,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v4",
       "statement": "Si usás un microscopio, ¿qué estructura exclusiva de la célula vegetal te permitiría distinguirla de la célula animal?",
-      "context": "",
+      "context": "Un grupo de alumnos en Córdoba está comparando una célula de un animal (como un puma) con la de una planta (como un algarrobo).",
       "options": [
         {
           "letter": "A",
@@ -162,6 +171,9 @@
       "difficulty": "5",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Organismos",
+      "expected_success": 0.7,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -170,7 +182,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v5",
       "statement": "Si las algas son organismos pluricelulares que realizan fotosíntesis pero no tienen tejidos especializados (como raíces o tallos), ¿por qué es importante clasificarlas correctamente en la biodiversidad?",
-      "context": "",
+      "context": "Durante el verano en Mar del Plata, se observa un gran crecimiento de algas en la costa. Algunos científicos debaten si considerarlas plantas o protistas.",
       "options": [
         {
           "letter": "A",
@@ -202,6 +214,9 @@
       "difficulty": "6",
       "images": [],
       "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Organismos",
+      "expected_success": 0.65,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -210,7 +225,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es el rol fundamental de los microorganismos descomponedores (como hongos y bacterias) en el ciclo de la materia de un ecosistema argentino?",
-      "context": "",
+      "context": "En Salta, un agricultor nota que sus cultivos crecen menos si el suelo pierde ciertos microorganismos invisibles a simple vista.",
       "options": [
         {
           "letter": "A",
@@ -242,6 +257,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Organismos",
+      "expected_success": 0.6,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -250,7 +268,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v7",
       "statement": "¿A qué función vital corresponde la capacidad de los pingüinos de reaccionar ante el frío del ambiente y ajustar su cuerpo para sobrevivir?",
-      "context": "",
+      "context": "Un equipo de investigadores en la Patagonia estudia cómo los pingüinos mantienen su temperatura corporal en aguas muy frías.",
       "options": [
         {
           "letter": "A",
@@ -282,6 +300,9 @@
       "difficulty": "7",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Organismos",
+      "expected_success": 0.55,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -290,7 +311,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la razón científica principal por la que los hongos pertenecen a un reino diferente (Fungi) al de las plantas (Plantae)?",
-      "context": "",
+      "context": "Leés en un diario de Rosario que se descubrió una nueva especie de hongo en las islas del Paraná. Algunos piensan que es una planta porque no se mueve.",
       "options": [
         {
           "letter": "A",
@@ -322,6 +343,9 @@
       "difficulty": "8",
       "images": [],
       "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Organismos",
+      "expected_success": 0.5,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -330,7 +354,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v9",
       "statement": "Teniendo en cuenta la teoría celular, ¿cuál es el argumento más sólido para sostener que los virus NO son seres vivos?",
-      "context": "",
+      "context": "En una clase de ciencias en Tucumán, surge un debate sobre si los virus son seres vivos o no, ya que pueden causar enfermedades pero no tienen células.",
       "options": [
         {
           "letter": "A",
@@ -362,6 +386,9 @@
       "difficulty": "9",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Organismos",
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -370,7 +397,7 @@
     {
       "id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v10",
       "statement": "¿Cómo justificarías científicamente que la diversidad de seres vivos (desde bacterias hasta yacarés) es esencial para la salud de un ecosistema como el Iberá?",
-      "context": "",
+      "context": "Un grupo conservacionista en Corrientes quiere proteger los esteros del Iberá. Argumentan que la pérdida de biodiversidad afecta la estabilidad de todo el ambiente.",
       "options": [
         {
           "letter": "A",
@@ -402,7 +429,850 @@
       "difficulty": "10",
       "images": [],
       "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Organismos",
+      "expected_success": 0.4,
       "bundle_id": "AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-001",
+      "statement": "¿Cuál es la unidad básica de la vida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Remember]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-002",
+      "statement": "Explique el proceso de la fotosíntesis.",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-003",
+      "statement": "¿Qué ley de Newton explica por qué un objeto en reposo tiende a permanecer en reposo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Apply]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-004",
+      "statement": "Identifique el elemento químico más abundante en la atmósfera terrestre.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Analyze]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-005",
+      "statement": "¿Cuál es la función del ADN en las células?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "[Evaluate]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-006",
+      "statement": "Defina el concepto de ecosistema.",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "[Create]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-007",
+      "statement": "¿Qué tipo de energía almacena una batería?",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "[Remember]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-008",
+      "statement": "Explique la diferencia entre un elemento y un compuesto.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-009",
+      "statement": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "[Apply]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-010",
+      "statement": "Describa el ciclo del agua en la naturaleza.",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "[Analyze]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-011",
+      "statement": "¿Qué órgano del cuerpo humano se encarga de bombear la sangre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "[Evaluate]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-012",
+      "statement": "¿Cuál es el pH de una sustancia neutra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "[Create]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-013",
+      "statement": "Defina qué es la gravedad.",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "[Remember]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-014",
+      "statement": "¿Qué gas producen las plantas durante la fotosíntesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-015",
+      "statement": "Identifique la función del núcleo celular.",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "[Apply]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-016",
+      "statement": "¿Cuál es la fórmula química del agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "[Analyze]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-017",
+      "statement": "Explique qué causa las estaciones del año.",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "[Evaluate]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-018",
+      "statement": "¿Qué es un hábitat?",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "[Create]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-019",
+      "statement": "Defina el concepto de densidad.",
+      "context": "",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "[Remember]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-CIENCIAS-NATURALES-6-P1-seres-vivos-argentina-020",
+      "statement": "¿Cuál es la diferencia entre una reacción química exotérmica y endotérmica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Opción C",
+          "is_correct": false,
+          "feedback": "Incorrect. Common mistake, review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Opción D",
+          "is_correct": false,
+          "feedback": "Incorrect. Try applying the formula correctly."
+        },
+        {
+          "letter": "B",
+          "text": "Opción B",
+          "is_correct": true,
+          "feedback": "Correct. This is correct. Well done!"
+        },
+        {
+          "letter": "A",
+          "text": "Opción A",
+          "is_correct": false,
+          "feedback": "Incorrect. Review the calculation steps carefully."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del tema seres vivos argentina en el grado 6 durante el periodo 1. Use ejemplos de Argentina\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "expected_success": null,
+      "bundle_id": "ar-ciencias-naturales-6-P1-seres-vivos-argentina-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
