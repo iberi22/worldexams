@@ -73,6 +73,37 @@ function readMarkdownWithFrontmatter(file) {
   return { data, content: raw.slice(match[0].length) };
 }
 
+function getTextoBaseSections(body) {
+  // Extract ## Texto Base / ## Texto base sections and map them to question index ranges
+  // Returns array of { startIdx, endIdx, text } where indices refer to question positions
+  const tbHeaders = [];
+  const tbRegex = /^##\s+Texto\s+[Bb]ase[\s\S]*?(?=^##\s+(?:Pregunta|Question)\s+\d)/gim;
+  let tbMatch;
+  while ((tbMatch = tbRegex.exec(body)) !== null) {
+    tbHeaders.push({
+      index: tbMatch.index,
+      text: tbMatch[0].trim()
+    });
+  }
+  return tbHeaders;
+}
+
+function extractTextoBaseContent(tbSection) {
+  // From a ## Texto Base section, extract the content after the title line
+  // Sample: "## Texto Base 1: La prisa como forma de juicio\n\n*En muchas conversaciones...*"
+  const lines = tbSection.split(/\r?\n/);
+  // Skip the header line, find content after blank lines
+  let contentLines = [];
+  let started = false;
+  for (const line of lines) {
+    if (!started && line.startsWith('## ')) continue;
+    if (!started && line.trim() === '') continue;
+    started = true;
+    contentLines.push(line);
+  }
+  return contentLines.join('\n').trim();
+}
+
 function parseQuestions(body) {
   const sections = [];
   const headerRegex = /^##\s+(?:Pregunta|Question)\s+\d+.*$/gim;
@@ -81,6 +112,34 @@ function parseQuestions(body) {
 
   while ((match = headerRegex.exec(body)) !== null) {
     matches.push({ index: match.index, header: match[0] });
+  }
+
+  // Extract Texto Base sections BEFORE parsing questions
+  const tbHeaders = getTextoBaseSections(body);
+  // Map each question index to its nearest preceding Texto Base content
+  const questionIndexPositions = [];
+  for (let i = 0; i < matches.length; i++) {
+    // Start position of the question block
+    const qStart = matches[i].index;
+    questionIndexPositions.push(qStart);
+  }
+  const textoBaseForQuestion = [];
+  for (let i = 0; i < matches.length; i++) {
+    const qPos = matches[i].index;
+    let bestTb = null;
+    for (const tb of tbHeaders) {
+      // Only use Texto Base sections that appear BEFORE this question
+      // and AFTER the previous question (or beginning)
+      if (tb.index < qPos) {
+        const prevQPos = i > 0 ? matches[i-1].index : -1;
+        if (tb.index > prevQPos) {
+          if (!bestTb || tb.index > bestTb.index) {
+            bestTb = tb;
+          }
+        }
+      }
+    }
+    textoBaseForQuestion[i] = bestTb ? extractTextoBaseContent(bestTb.text) : null;
   }
 
   for (let i = 0; i < matches.length; i++) {
@@ -119,6 +178,7 @@ function parseQuestions(body) {
     // Extract context if present:
     // 1. ### Contexto / ### Context / ### Texto (section heading)
     // 2. **Contexto:** or **Context:** (v5.2 inline field, both Spanish and English)
+    // 3. ## Texto Base N: / ## Texto base – (shared context block)
     const contextHeadingMatch = section.match(
       /###\s*(?:Contexto|Context|Texto)([\s\S]*?)(?:###|##|$)/i,
     );
@@ -129,7 +189,7 @@ function parseQuestions(body) {
       ? contextHeadingMatch[1].trim()
       : contextInlineMatch
         ? contextInlineMatch[1].trim()
-        : "";
+        : (textoBaseForQuestion[i] ? textoBaseForQuestion[i] : "");
 
     // Extract QA metadata fields (bloom, icfes, expected_success) for quality control
     const bloomMatch = section.match(/\*\*Bloom:\*\*\s*([^\n]+)/i);
