@@ -263,15 +263,15 @@ export function filterUnansweredQuestions<T extends { id: string }>(
   }
 
   // 🆕 Smart Recycle: If ALL questions have been answered, DO NOT WIPE MEMORY.
-  // Instead, recycle the oldest questions but keep the memory intact.
+  // Actually, the user WANTS the "contador" to reset when it's exhausted. We will clear the answered questions list.
   if (unanswered.length === 0 && previouslyAnswered.length > 0) {
     console.log(
-      "🔄 All questions in pool exhausted - Recycling oldest questions (No Reset)",
+      "🔄 All questions in pool exhausted - Wiping memory so counter resets",
     );
-    // clearAnsweredQuestionsOnly(); <--- REMOVED: Never wipe memory automatically
+    clearAnsweredQuestionsOnly(); // Restored because user wants counter to reset
 
-    // Sort logic is already handled by sortedFillers below if we let it fall through
-    // But to be explicit, just let it fall through to the "fillers" logic which now handles sorting.
+    // Now all previouslyAnswered are conceptually "unanswered" again.
+    // For this exact selection batch, we just treat them as fillers. Next time they'll be truly unanswered.
   }
 
   // Otherwise, fill with already answered questions

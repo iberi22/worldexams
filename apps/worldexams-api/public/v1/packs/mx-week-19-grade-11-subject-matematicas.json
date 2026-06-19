@@ -4,15 +4,40 @@
     "subject": "matematicas",
     "country": "mx",
     "pack_id": "mx-week-19-grade-11-subject-matematicas",
-    "generated_at": "2026-06-15T21:28:57.686Z"
+    "generated_at": "2026-06-18T23:58:38.961Z"
   },
   "questions": [
     {
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v1",
       "statement": "Que medida representa el valor que mas se repite en un conjunto de datos?",
       "context": "En un curso de estadistica en la CDMX se repasan las medidas de tendencia central.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Mediana",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Moda",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rango",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "La moda es el valor que aparece con mayor frecuencia en un conjunto de datos.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
@@ -29,8 +54,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v2",
       "statement": "Si un evento tiene probabilidad 0, se dice que es:",
       "context": "Un estudiante en Guadalajara aprende conceptos basicos de probabilidad.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguro",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Imposible",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Probable",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Aleatorio",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "Un evento imposible tiene probabilidad 0. Un evento seguro tiene probabilidad 1.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
@@ -47,8 +97,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v3",
       "statement": "Si se lanza un dado 600 veces y el numero 3 sale 95 veces, cual es la probabilidad frecuencial de obtener 3?",
       "context": "Un estudiante en Monterrey analiza la diferencia entre probabilidad teorica y frecuencial.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.167",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "95/600",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "3/600",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "La probabilidad frecuencial es la frecuencia relativa: 95/600 = 0.158.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
@@ -65,8 +140,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v4",
       "statement": "Si P(A) = 0.3 y P(B) = 0.4, y A y B son mutuamente excluyentes, cual es P(A o B)?",
       "context": "En Puebla estudian la regla de la suma de probabilidades.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.12",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.7",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.1",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "0.58",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "Para eventos mutuamente excluyentes: P(A o B) = P(A) + P(B) = 0.3 + 0.4 = 0.7.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
@@ -83,7 +183,32 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v5",
       "statement": "Cual es la media de los datos: 4, 7, 9, 10, 5?",
       "context": "Calcular la media de un conjunto de datos en Leon.",
-      "options": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "7.5",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
       "correct_answer": "A",
       "explanation": "Media = (4+7+9+10+5)/5 = 35/5 = 7.\r\n\r\n---",
       "difficulty": "6",
@@ -101,8 +226,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v6",
       "statement": "Mediana de: 3, 8, 2, 9, 5, 6?",
       "context": "En un examen en Toluca se pide calcular la mediana.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "5.5",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "5.25",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "Ordenando: 2,3,5,6,8,9. (5+6)/2 = 5.5.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
@@ -119,7 +269,32 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v7",
       "statement": "Cual es la probabilidad de obtener suma 7 al lanzar dos dados?",
       "context": "Un estudiante en Hermosillo calcula probabilidades con dados.",
-      "options": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "6/36",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "7/36",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/12",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
       "correct_answer": "A",
       "explanation": "Hay 6 formas de sumar 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1). Total 36 combinaciones. Prob = 6/36 = 1/6.\r\n\r\n---",
       "difficulty": "6",
@@ -137,8 +312,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v8",
       "statement": "Se extraen dos cartas de una baraja de 52 sin reposicion. Probabilidad de que ambas sean ases?",
       "context": "Probabilidad de eventos compuestos en Queretaro.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/169",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/221",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/52",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/2704",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "P(primer as) = 4/52. P(segundo as | primer as) = 3/51. P = (4/52)*(3/51) = 12/2652 = 1/221.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
@@ -155,8 +355,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v9",
       "statement": "Cual es el rango de 5, 12, 8, 20, 3?",
       "context": "En un estudio en San Luis Potosi se calcula la desviacion estandar.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "Rango = max - min = 20 - 3 = 17.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
@@ -173,7 +398,32 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v10",
       "statement": "Si la probabilidad de lluvia es 0.4 y si llueve la probabilidad de trafico es 0.8, cual es P(lluvia y trafico)?",
       "context": "Calcular probabilidad en un diagrama de arbol.",
-      "options": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.32",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "0.12",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
       "correct_answer": "A",
       "explanation": "P(lluvia y trafico) = P(lluvia) * P(trafico|lluvia) = 0.4 * 0.8 = 0.32.\r\n\r\n---",
       "difficulty": "6",
@@ -191,8 +441,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v11",
       "statement": "Si la media es mayor que la mediana en una distribucion, que se puede concluir?",
       "context": "Analizar la relacion entre media, mediana y moda en una distribucion.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simetrica",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sesgada a la derecha",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sesgada a la izquierda",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Bimodal",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "Cuando media > mediana, hay valores atipicos altos que jalan la media, distribucion sesgada a la derecha.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
@@ -209,7 +484,32 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v12",
       "statement": "Si P(A) = 0.5, P(B) = 0.3 y P(A y B) = 0.15, los eventos son:",
       "context": "En Cuernavaca analizan la independencia de eventos.",
-      "options": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Independientes",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dependientes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mutuamente excluyentes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Complementarios",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
       "correct_answer": "A",
       "explanation": "P(A)*P(B) = 0.5*0.3 = 0.15 = P(A y B). Son independientes.\r\n\r\n---",
       "difficulty": "8",
@@ -227,8 +527,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v13",
       "statement": "De cuantas formas se puede elegir un comite de 3 personas de un grupo de 10?",
       "context": "Analisis de permutaciones vs combinaciones en Merida.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "720",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1000",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "Es combinacion (orden no importa): C(10,3) = 10!/(3!7!) = 120.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
@@ -245,8 +570,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v14",
       "statement": "La suma de todas las probabilidades en una distribucion de probabilidad debe ser:",
       "context": "Distribucion de probabilidad en Chihuahua.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Depende del caso",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "La suma de probabilidades de todos los resultados posibles siempre es 1.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
@@ -263,8 +613,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v15",
       "statement": "Si P(A) = 0.6, P(B) = 0.7 y P(A y B) = 0.42, cual es P(A|B)?",
       "context": "Analisis de probabilidad condicional.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.6",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.7",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "0.42",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "P(A|B) = P(A y B)/P(B) = 0.42/0.7 = 0.6.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
@@ -281,7 +656,32 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v16",
       "statement": "Si todos los valores en un conjunto son iguales, la varianza es:",
       "context": "Analisis de varianza en un conjunto de datos.",
-      "options": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Igual a la media",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Negativa",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
       "correct_answer": "A",
       "explanation": "Si todos los valores son iguales, no hay dispersion, la varianza es 0.\r\n\r\n---",
       "difficulty": "8",
@@ -299,8 +699,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v17",
       "statement": "Se extraen 3 canicas de una bolsa con 5 rojas y 3 azules. Con reposicion, probabilidad de 3 rojas?",
       "context": "Evaluar un problema de probabilidad con reposicion.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125/512",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "125/512",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "5/8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "15/24",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "P(roja) = 5/8 cada vez. Con reposicion: (5/8)^3 = 125/512.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
@@ -317,8 +742,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v18",
       "statement": "Un examen detecta una enfermedad con 95% de precision. Prevalencia 2%. Si una persona da positivo, cual es la probabilidad aproximada de que tenga la enfermedad?",
       "context": "Evaluacion de la regla de Bayes en un contexto medico.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "95%",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "2%",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "28%",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "Usando Bayes: P(enfermo|+) = (0.02*0.95)/(0.02*0.95+0.98*0.05) = 0.019/0.068 = 0.279 = 28%.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
@@ -335,8 +785,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v19",
       "statement": "De cuantas formas se pueden ordenar 5 libros en un estante?",
       "context": "Evaluar un problema de permutaciones en la UNAM.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "120",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "720",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
       "explanation": "5! = 5*4*3*2*1 = 120 permutaciones.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
@@ -353,8 +828,33 @@
       "id": "MX-MAT-11-2026-W19-probabilidad-estadistica-001-MASTERY-bundle-v20",
       "statement": "Un intervalo de confianza del 95% para la media es [48, 52]. Que significa?",
       "context": "Interpretacion de un intervalo de confianza en un estudio.",
-      "options": [],
-      "correct_answer": "A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media esta entre 48 y 52",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hay 95% de confianza de que la media poblacional esta entre 48 y 52",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El 95% de los datos esta entre 48 y 52",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La probabilidad de que la media sea 50 es 95%",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
       "explanation": "El intervalo de confianza indica que si repitieramos el muestreo muchas veces, el 95% de los intervalos contendrian la media poblacional.\r\n\r\n---",
       "difficulty": "10",
       "images": [],

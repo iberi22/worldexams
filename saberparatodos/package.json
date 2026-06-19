@@ -13,7 +13,7 @@
     "generate:packs:changed-weekly": "node scripts/generate-static-packs.js --all-weekly --changed-only",
     "preview": "astro preview",
     "sync:api": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/copy-api.ps1",
-    "predeploy": "npm run lint && npm run test:unit && npm run build && node scripts/pre-deploy-check.js",
+    "predeploy": "npm run lint && npm run test:unit && npm run test && npm run build && node scripts/pre-deploy-check.js",
     "deploy": "node scripts/normalize-wrangler-config.mjs --target production && npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos",
     "deploy:manual": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/deploy-manual.ps1",
     "deploy:production": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/deploy-manual.ps1 -Target production",

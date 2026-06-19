@@ -88,26 +88,32 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
     const tryStaticPackCandidates = async (): Promise<Response | null> => {
       // Prefer subject-specific packs first, then generic grade packs.
       const subjectCandidatePaths: string[] = [];
+      const countryCode = getExplicitProductCountryCode() || 'co';
+      
       if (normalizedSubject) {
         for (const subjectAlias of getPackSubjectAliases(normalizedSubject)) {
-          // When falling back (not shouldPreferStaticPacks), prefer the week-1 static
-          // pack served through the Astro proxy (/api/packs/...) which has context data.
+          // Try the specific country pack first, then fall back to the generic one
+          subjectCandidatePaths.push(`${staticOrigin}/api/packs/${countryCode}-week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
           subjectCandidatePaths.push(`${staticOrigin}/api/packs/week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
+          
+          subjectCandidatePaths.push(`${apiBaseUrl}/packs/${countryCode}-week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
           subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
-          subjectCandidatePaths.push(`${apiBaseUrl}/packs/co-week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
+          
+          subjectCandidatePaths.push(`${staticOrigin}/api/packs/${countryCode}-week-1-grade-${grade}-subject-${subjectAlias}.json`);
           subjectCandidatePaths.push(`${staticOrigin}/api/packs/week-1-grade-${grade}-subject-${subjectAlias}.json`);
+          
+          subjectCandidatePaths.push(`${apiBaseUrl}/packs/${countryCode}-week-1-grade-${grade}-subject-${subjectAlias}.json`);
           subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-1-grade-${grade}-subject-${subjectAlias}.json`);
-          subjectCandidatePaths.push(`${apiBaseUrl}/packs/co-week-1-grade-${grade}-subject-${subjectAlias}.json`);
         }
       }
 
       const legacyCandidatePaths = shouldPreferStaticPacks
-        ? [`${apiBaseUrl}/packs/week-1-grade-${grade}.json`]
+        ? [`${apiBaseUrl}/packs/${countryCode}-week-1-grade-${grade}.json`, `${apiBaseUrl}/packs/week-1-grade-${grade}.json`]
         : [
+            `${apiBaseUrl}/packs/${countryCode}-week-${currentWeek}-grade-${grade}.json`,
             `${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}.json`,
-            `${apiBaseUrl}/packs/co-week-${currentWeek}-grade-${grade}.json`,
-            `${apiBaseUrl}/packs/week-1-grade-${grade}.json`,
-            `${apiBaseUrl}/packs/co-week-1-grade-${grade}.json`
+            `${apiBaseUrl}/packs/${countryCode}-week-1-grade-${grade}.json`,
+            `${apiBaseUrl}/packs/week-1-grade-${grade}.json`
           ];
 
       const allCandidatePaths = [...subjectCandidatePaths, ...legacyCandidatePaths];
