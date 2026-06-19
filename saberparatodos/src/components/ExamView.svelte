@@ -624,11 +624,11 @@
 
   <!-- Main Content Area - No scroll on desktop, optimized for mobile -->
   <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
-    <div class="{question.context ? 'max-w-6xl' : 'max-w-4xl'} mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4 transition-all duration-500">
+    <div class="{question.context ? 'max-w-7xl' : 'max-w-4xl'} mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4 transition-all duration-500">
       <SharedContextLayout context={question.context}>
         <div class="space-y-4 sm:space-y-6">
 
-      <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col max-h-[45vh] transition-all duration-300 relative overflow-hidden group">
+      <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col max-h-[50vh] transition-all duration-300 relative overflow-hidden group">
         <!-- Decorative gradient -->
         <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500/0 via-emerald-500/50 to-emerald-500/0 opacity-50"></div>
 
