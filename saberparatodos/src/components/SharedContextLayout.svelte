@@ -20,15 +20,18 @@
 </script>
 
 {#if context && context.trim().length > 0}
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start w-full transition-all duration-300">
-    <!-- Desktop Split-Pane Layout -->
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-12 items-start w-full transition-all duration-500 ease-in-out">
+    <!-- Desktop Split-Pane Layout (Left Panel: Context) -->
     <div
-      class="hidden md:block bg-gray-800/80 backdrop-blur-sm rounded-xl p-6 overflow-y-auto sticky top-6 border border-white/10 shadow-2xl transition-all duration-300 {maxHeightDesktop}"
+      class="hidden md:block bg-[#1a1a1a]/80 backdrop-blur-xl rounded-2xl p-7 overflow-y-auto sticky top-6 border border-white/10 shadow-2xl transition-all duration-300 {maxHeightDesktop} scrollbar-thin scrollbar-thumb-white/10"
     >
-      <h3 class="text-sm font-bold text-blue-400 uppercase tracking-widest mb-4 flex items-center gap-2">
-        <span class="text-lg">📖</span> {title}
-      </h3>
-      <div class="prose prose-invert max-w-none text-gray-300 font-serif leading-relaxed text-sm sm:text-base">
+      <div class="flex items-center justify-between mb-6">
+        <h3 class="text-xs font-black text-emerald-500 uppercase tracking-[0.2em] flex items-center gap-2">
+          <span class="text-base">📖</span> {title}
+        </h3>
+        <span class="text-[10px] text-white/30 font-mono">Panel de Lectura</span>
+      </div>
+      <div class="prose prose-invert max-w-none text-gray-200 font-serif leading-relaxed text-base lg:text-lg selection:bg-emerald-500/30">
         <MathRenderer content={context.trim()} />
       </div>
     </div>
@@ -40,42 +43,42 @@
   </div>
 
   <!-- Mobile Floating Trigger -->
-  <div class="md:hidden fixed bottom-6 right-6 z-40">
+  <div class="md:hidden fixed bottom-24 right-6 z-40">
     <button
       onclick={() => showContext = true}
-      class="flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-500 rounded-full font-bold shadow-lg shadow-blue-900/40 border border-white/20 transition-all active:scale-95 text-white"
+      class="flex items-center gap-2 px-5 py-3 bg-emerald-600 hover:bg-emerald-500 rounded-full font-bold shadow-lg shadow-emerald-900/40 border border-white/20 transition-all active:scale-95 text-white"
     >
-      <span>📖</span> Ver Lectura
+      <span class="text-lg">📖</span> <span class="uppercase tracking-widest text-xs font-black">Ver Lectura</span>
     </button>
   </div>
 
   <!-- Mobile Context Full-Screen/Overlay Drawer -->
   {#if showContext}
-    <div class="fixed inset-0 z-50 bg-gray-950 overflow-y-auto p-6 md:hidden flex flex-col justify-between animate-fade-in">
-      <div>
-        <div class="flex justify-between items-center mb-6">
-          <h3 class="text-xl font-bold flex items-center gap-2 text-white">
+    <div class="fixed inset-0 z-[60] bg-gray-950 overflow-y-auto p-6 md:hidden flex flex-col justify-between animate-fade-in">
+      <div class="max-w-2xl mx-auto w-full">
+        <div class="flex justify-between items-center mb-8 sticky top-0 bg-gray-950/90 backdrop-blur-sm py-2 z-10">
+          <h3 class="text-xl font-black flex items-center gap-3 text-emerald-500 uppercase tracking-tighter">
             <span>📖</span> {title}
           </h3>
           <button
             onclick={() => showContext = false}
-            class="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center text-2xl text-white hover:bg-gray-700 transition-colors"
+            class="w-12 h-12 rounded-2xl bg-white/5 flex items-center justify-center text-xl text-white hover:bg-white/10 border border-white/10 transition-all active:scale-90"
           >
             ✕
           </button>
         </div>
 
-        <div class="prose prose-invert max-w-none pb-28 text-gray-300 font-serif leading-relaxed text-base">
+        <div class="prose prose-invert max-w-none pb-32 text-gray-200 font-serif leading-relaxed text-lg">
           <MathRenderer content={context.trim()} />
         </div>
       </div>
 
-      <div class="fixed bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-gray-950 via-gray-950/90 to-transparent">
+      <div class="fixed bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-gray-950 via-gray-950/95 to-transparent z-20">
         <button
           onclick={() => showContext = false}
-          class="w-full py-4 bg-gray-800 hover:bg-gray-700 text-white rounded-xl font-bold text-lg border border-white/10 transition-colors shadow-lg"
+          class="w-full max-w-2xl mx-auto flex py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-2xl font-bold text-lg border border-white/20 transition-all shadow-2xl items-center justify-center gap-2"
         >
-          Cerrar Lectura
+          Entendido, Volver
         </button>
       </div>
     </div>

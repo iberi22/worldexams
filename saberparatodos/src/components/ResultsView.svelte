@@ -445,7 +445,7 @@
       {@const statusMeta = VALIDATION_STATUSES[domainStatus]}
       <!-- Main Content (Individual Results) -->
       <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 lg:py-12">
-        <div class="max-w-6xl mx-auto space-y-8 sm:space-y-10 lg:space-y-12 pb-24">
+        <div class="max-w-7xl mx-auto space-y-8 sm:space-y-10 lg:space-y-12 pb-24">
 
       <!-- Header Score -->
       <div class="text-center space-y-4">
@@ -514,7 +514,7 @@
           {@const userAnswer = userAnswers[q.id]}
           {@const videoMeta = getVideoForQuestion(q.id)}
 
-          <SharedContextLayout context={q.context} maxHeightDesktop="max-h-[50vh]">
+          <SharedContextLayout context={q.context} maxHeightDesktop="max-h-[60vh]">
             <div class={`
               border rounded-lg sm:rounded-xl overflow-hidden
               ${isCorrect ? 'border-emerald-500/30 bg-emerald-900/5' : 'border-red-500/30 bg-red-900/5'}
