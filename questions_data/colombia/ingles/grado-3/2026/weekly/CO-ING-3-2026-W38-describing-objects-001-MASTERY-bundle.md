@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "describing-objects"
 periodo: "weekly"
 semana: 38
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Basic adjectives for describing objects: big, small, new, old, heavy, light."
+  expected_success_rate: 0.85
+rubric_baseline: "Using basic adjectives to describe objects in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W38: Describing Objects (A1)
 
-Este bundle evalúa adjetivos básicos para describir objetos en inglés.
+This bundle focuses on using basic adjectives to describe objects (size, weight, condition) in English, aligned with CEFR A1.
 
 ---
 
@@ -32,18 +34,19 @@ Este bundle evalúa adjetivos básicos para describir objetos en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Context:** Describing size.
 
 ### Enunciado
-What is **"Grande"** in English? 🐘
+An **elephant** is very **_________**. 🐘
 
 ### Options
-- [x] A) Big <!-- feedback: Correct! Big is grande. -->
-- [ ] B) Small <!-- feedback: Incorrect. Small is pequeño. -->
+- [ ] A) Small <!-- feedback: Incorrect. -->
+- [x] B) Big <!-- feedback: Correct! Elephants are large/big animals. -->
 - [ ] C) New <!-- feedback: Incorrect. -->
-- [ ] D) Heavy <!-- feedback: Incorrect. -->
+- [ ] D) Pink <!-- feedback: Incorrect. (Normally they are gray). -->
 
 ### Explicación Pedagógica
-"Big" significa grande.
+"Big" significa grande. Se usa para describir objetos o seres de gran tamaño.
 
 ---
 
@@ -52,180 +55,186 @@ What is **"Grande"** in English? 🐘
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Context:** Describing weight.
 
 ### Enunciado
-What is **"Pequeño"** in English? 🐜
+A **feather** (pluma) is very **_________**. 🪶
+
+### Options
+- [x] A) Light <!-- feedback: Correct! Light means it does not weigh much. -->
+- [ ] B) Heavy <!-- feedback: Incorrect. Heavy is for things that weigh a lot. -->
+- [ ] C) Big <!-- feedback: Incorrect. -->
+- [ ] D) Hard <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Light" significa ligero o liviano. Describe cosas que pesan poco.
+
+---
+
+## Question 3 [D5-D6]
+**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v3`
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.85
+**Context:** Identifying condition.
+
+### Enunciado
+I just bought this toy. It is not old, it is **_________**. 🆕
+
+### Options
+- [ ] A) Broken <!-- feedback: Incorrect. -->
+- [x] B) New <!-- feedback: Correct! Something just bought is new. -->
+- [ ] C) Old <!-- feedback: Incorrect. This is the opposite. -->
+- [ ] D) Small <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"New" significa nuevo. Es lo opuesto a "Old" (viejo/antiguo).
+
+---
+
+## Question 4 [D5-D6]
+**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v4`
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+**Context:** Identifying opposites.
+
+### Enunciado
+What is the opposite of **"Hard"** (duro)? ☁️
 
 ### Options
 - [ ] A) Big <!-- feedback: Incorrect. -->
-- [x] B) Small <!-- feedback: Correct! Small is pequeño. -->
-- [ ] C) Old <!-- feedback: Incorrect. -->
-- [ ] D) Long <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Small" significa pequeño.
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-An object you just bought is: ✨
-
-### Options
-- [ ] A) Old <!-- feedback: Incorrect. -->
-- [x] B) New <!-- feedback: Correct! New is nuevo. -->
-- [ ] C) Big <!-- feedback: Incorrect. -->
-- [ ] D) Heavy <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"New" significa nuevo.
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.80
-
-### Enunciado
-An object from many years ago is: 📻
-
-### Options
-- [x] A) Old <!-- feedback: Correct! Old is viejo. -->
-- [ ] B) New <!-- feedback: Incorrect. -->
+- [x] B) Soft <!-- feedback: Correct! Soft is the opposite of hard. -->
 - [ ] C) Small <!-- feedback: Incorrect. -->
-- [ ] D) Light <!-- feedback: Incorrect. -->
+- [ ] D) Cold <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Old" significa viejo o antiguo cuando hablamos de objetos.
+Identificar antónimos. "Soft" significa suave o blando, lo opuesto de "Hard" (duro).
 
 ---
 
-## Question 5 [D3-D4]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v5`
-**Bloom:** Remember
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Context:** Describing speed of objects.
 
 ### Enunciado
-A **rock** is: 🪨
+A **racing car** is very **_________**. 🏎️💨
 
 ### Options
-- [ ] A) Light <!-- feedback: Incorrect. Light is ligero/liviano. -->
-- [x] B) Heavy <!-- feedback: Correct! Heavy is pesado. -->
-- [ ] C) New <!-- feedback: Incorrect. -->
-- [ ] D) Soft <!-- feedback: Incorrect. -->
+- [x] A) Fast <!-- feedback: Correct! Racing cars move at high speeds. -->
+- [ ] B) Slow <!-- feedback: Incorrect. Slow is the opposite. -->
+- [ ] C) Heavy <!-- feedback: Incorrect. -->
+- [ ] D) Broken <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Heavy" significa pesado.
+"Fast" significa rápido. Describe objetos que se desplazan a gran velocidad.
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v6`
-**Bloom:** Remember
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Context:** Describing weight of heavy things.
 
 ### Enunciado
-A **feather** (pluma) is: 🪶
+A **big rock** is difficult to lift because it is **_________**. 🪨
 
 ### Options
-- [x] A) Light <!-- feedback: Correct! Light is ligero o liviano. -->
-- [ ] B) Heavy <!-- feedback: Incorrect. -->
-- [ ] C) Big <!-- feedback: Incorrect. -->
+- [ ] A) Light <!-- feedback: Incorrect. -->
+- [x] B) Heavy <!-- feedback: Correct! Heavy things are hard to lift. -->
+- [ ] C) Soft <!-- feedback: Incorrect. -->
 - [ ] D) New <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Light" significa ligero o liviano. ¡Es lo opuesto a heavy!
+"Heavy" significa pesado. Describe objetos que tienen mucho peso.
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v7`
-**Bloom:** Remember
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Context:** Texture of an object.
 
 ### Enunciado
-A **ruler** is: 📏
+A **mirror** or a **window** is very **_________**. You can see through it or it is even.
 
 ### Options
-- [ ] A) Round <!-- feedback: Incorrect. -->
-- [x] B) Long <!-- feedback: Correct! Long is largo. -->
-- [ ] C) Short <!-- feedback: Incorrect. -->
-- [ ] D) Heavy <!-- feedback: Incorrect. -->
+- [x] A) Smooth <!-- feedback: Correct! Smooth means even and flat. -->
+- [ ] B) Rough <!-- feedback: Incorrect. Rough is like a stone or sandpaper. -->
+- [ ] C) Soft <!-- feedback: Incorrect. -->
+- [ ] D) Big <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Long" significa largo.
+"Smooth" significa liso o suave al tacto. Se aplica a superficies como el vidrio.
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v8`
-**Bloom:** Understand
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Context:** Analyzing object properties.
 
 ### Enunciado
-A **pencil** that you have used a lot is: ✏️
+Which group shows **opposites**?
 
 ### Options
-- [ ] A) Long <!-- feedback: Incorrect. -->
-- [x] B) Short <!-- feedback: Correct! Short is corto/bajo. -->
-- [ ] C) Big <!-- feedback: Incorrect. -->
-- [ ] D) Heavy <!-- feedback: Incorrect. -->
+- [ ] A) Big and Large <!-- feedback: Incorrect. These are synonyms. -->
+- [x] B) Big and Small <!-- feedback: Correct! These are antonyms for size. -->
+- [ ] C) New and Clean <!-- feedback: Incorrect. -->
+- [ ] D) Fast and Quick <!-- feedback: Incorrect. These are synonyms. -->
 
 ### Explicación Pedagógica
-"Short" significa corto cuando hablamos de la longitud de un objeto.
+Analizar las relaciones entre palabras. "Big" (grande) y "Small" (pequeño) son opuestos directos.
 
 ---
 
-## Question 9 [D5-D6]
+## Question 9 [D9-D10]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v9`
-**Bloom:** Apply
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Context:** Identifying by description.
 
 ### Enunciado
-Complete: **"An elephant is big, but an ant is _______."**
+"It is made of metal, it has 4 wheels, and it is very **fast**."
+What is it?
 
 ### Options
-- [ ] A) new <!-- feedback: Incorrect. -->
-- [ ] B) heavy <!-- feedback: Incorrect. -->
-- [x] C) small <!-- feedback: Correct! -->
-- [ ] D) long <!-- feedback: Incorrect. -->
+- [ ] A) A bed <!-- feedback: Incorrect. A bed is not fast. -->
+- [x] B) A car <!-- feedback: Correct! A car matches all the descriptions. -->
+- [ ] C) A pencil <!-- feedback: Incorrect. -->
+- [ ] D) A book <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El opuesto de "big" (grande) es "small" (pequeño).
+Analizar las propiedades para deducir el objeto. La combinación de metal, ruedas y velocidad apunta a un "Car".
 
 ---
 
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
+**Bloom:** Evaluate
+**ICFES:** Pragmática
 **Expected_Success:** 0.50
+**Context:** Comparing two objects.
 
 ### Enunciado
-What is the opposite of **"New"**?
+You have a **plastic ball** and a **metal ball**. They are the same size.
+Which one is probably **heavier**?
 
 ### Options
-- [ ] A) Big <!-- feedback: Incorrect. -->
-- [x] B) Old <!-- feedback: Correct! -->
-- [ ] C) Short <!-- feedback: Incorrect. -->
-- [ ] D) Light <!-- feedback: Incorrect. -->
+- [ ] A) The plastic ball <!-- feedback: Incorrect. Plastic is usually lighter than metal. -->
+- [x] B) The metal ball <!-- feedback: Correct! Metal is a heavy material. -->
+- [ ] C) They are both light <!-- feedback: Incorrect. -->
+- [ ] D) Neither <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El opuesto de "new" (nuevo) es "old" (viejo).
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar las propiedades de los materiales. El metal es intrínsecamente más pesado (heavier) que el plástico.
