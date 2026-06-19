@@ -45,7 +45,7 @@
 </script>
 
 <div class="player-view bg-gray-900 text-white min-h-screen p-6">
-  <div class="{currentQuestion?.context ? 'max-w-6xl' : 'max-w-3xl'} mx-auto transition-all duration-500">
+  <div class="{currentQuestion?.context ? 'max-w-7xl' : 'max-w-3xl'} mx-auto transition-all duration-500">
     <!-- Header -->
     <div class="flex justify-between items-center mb-6">
       <div>
