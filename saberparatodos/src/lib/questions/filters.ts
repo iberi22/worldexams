@@ -39,8 +39,8 @@ export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: strin
     const qLevel = q.cefr_level || (q.grade ? GRADE_TO_CEFR[q.grade as keyof typeof GRADE_TO_CEFR] : undefined);
     if (!qLevel) return true; // fallback only if absolutely no grade/level is known
     const qIndex = CEFR_ORDER.indexOf(qLevel);
-    // 🆕 Allow one level below for "balanced" diagnostic mixes
-    return qIndex === -1 || qIndex >= Math.max(0, minIndex - 1);
+    // 🆕 Allow +/- one level for "balanced" diagnostic mixes, prevent showing way too hard or too easy questions
+    return qIndex === -1 || Math.abs(qIndex - minIndex) <= 1;
   });
 }
 
