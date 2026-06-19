@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "verb-to-be"
 periodo: "weekly"
 semana: 39
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.65
-rubric_baseline: "Basic use of the verb to be: am, is, are in simple affirmative sentences."
+  expected_success_rate: 0.80
+rubric_baseline: "Basic usage of the Verb To Be (am, is, are) in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W39: Verb To Be (A1)
 
-Este bundle evalúa el uso básico del verbo "to be" (ser o estar) en presente simple.
+This bundle focuses on the basic conjugation and usage of the Verb To Be (am, is, are) in English, aligned with CEFR A1.
 
 ---
 
@@ -31,19 +33,20 @@ Este bundle evalúa el uso básico del verbo "to be" (ser o estar) en presente s
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.90
+**Expected_Success:** 0.95
+**Context:** Talking about oneself.
 
 ### Enunciado
-Which word goes with **"I"**?
+Complete the sentence: **"I ________ a student."** 👦
 
 ### Options
-- [x] A) Am <!-- feedback: Correct! I am is the only form for "I". -->
-- [ ] B) Is <!-- feedback: Incorrect. -->
-- [ ] C) Are <!-- feedback: Incorrect. -->
-- [ ] D) Be <!-- feedback: Incorrect. -->
+- [x] A) am <!-- feedback: Correct! "I am" is the correct conjugation. -->
+- [ ] B) is <!-- feedback: Incorrect. "Is" is for he, she, it. -->
+- [ ] C) are <!-- feedback: Incorrect. "Are" is for you, we, they. -->
+- [ ] D) be <!-- feedback: Incorrect. We must conjugate the verb. -->
 
 ### Explicación Pedagógica
-"I am" significa Yo soy o Yo estoy. Siempre usamos "am" con "I".
+En inglés, el pronombre "I" (yo) siempre se acompaña de la forma "am" del verbo to be.
 
 ---
 
@@ -51,181 +54,190 @@ Which word goes with **"I"**?
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.85
+**Expected_Success:** 0.90
+**Context:** Talking about a girl.
 
 ### Enunciado
-Which word goes with **"She"**?
-
-### Options
-- [ ] A) Am <!-- feedback: Incorrect. -->
-- [x] B) Is <!-- feedback: Correct! She is means ella es/está. -->
-- [ ] C) Are <!-- feedback: Incorrect. -->
-- [ ] D) Be <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Usamos "is" para las terceras personas del singular: he, she, it.
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.80
-
-### Enunciado
-Which word goes with **"They"**?
-
-### Options
-- [ ] A) Am <!-- feedback: Incorrect. -->
-- [ ] B) Is <!-- feedback: Incorrect. -->
-- [x] C) Are <!-- feedback: Correct! They are means ellos son/están. -->
-- [ ] D) Be <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Usamos "are" para el plural y para "you": you, we, they.
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-Complete: **"You _______ my friend."**
+Complete: **"She ________ my sister."** 👧
 
 ### Options
 - [ ] A) am <!-- feedback: Incorrect. -->
-- [ ] B) is <!-- feedback: Incorrect. -->
-- [x] C) are <!-- feedback: Correct! You are means tú eres. -->
+- [x] B) is <!-- feedback: Correct! "She is" is the correct form. -->
+- [ ] C) are <!-- feedback: Incorrect. -->
 - [ ] D) be <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"You are" es la forma correcta para tú o ustedes.
+Para la tercera persona del singular (he, she, it), usamos la forma "is".
 
 ---
 
-## Question 5 [D3-D4]
+## Question 3 [D5-D6]
+**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v3`
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.85
+**Context:** Talking about a group.
+
+### Enunciado
+Complete: **"We ________ friends."** 👬👭
+
+### Options
+- [ ] A) is <!-- feedback: Incorrect. -->
+- [ ] B) am <!-- feedback: Incorrect. -->
+- [x] C) are <!-- feedback: Correct! "We are" is for plural. -->
+- [ ] D) is not <!-- feedback: Incorrect grammar for we. -->
+
+### Explicación Pedagógica
+Para los pronombres plurales (we, they) y "you", usamos la forma "are".
+
+---
+
+## Question 4 [D5-D6]
+**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v4`
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+**Context:** Describing an animal.
+
+### Enunciado
+Complete: **"The dog ________ brown."** 🐕
+
+### Options
+- [ ] A) am <!-- feedback: Incorrect. -->
+- [x] B) is <!-- feedback: Correct! The dog (it) uses "is". -->
+- [ ] C) are <!-- feedback: Incorrect. -->
+- [ ] D) be <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Cuando hablamos de un animal o un objeto en singular, usamos "is" (equivalente a "it is").
+
+---
+
+## Question 5 [D5-D6]
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.70
+**Expected_Success:** 0.75
+**Context:** Describing a feeling.
 
 ### Enunciado
-Complete: **"It _______ a big elephant."**
+**Question:** "Are you happy?"
+**Answer:** "Yes, I ________." 😊
 
 ### Options
-- [ ] A) am <!-- feedback: Incorrect. -->
-- [x] B) is <!-- feedback: Correct! It is means esto es. -->
+- [x] A) am <!-- feedback: Correct! "I am" matches the answer. -->
+- [ ] B) is <!-- feedback: Incorrect. -->
 - [ ] C) are <!-- feedback: Incorrect. -->
-- [ ] D) be <!-- feedback: Incorrect. -->
+- [ ] D) do <!-- feedback: Incorrect. Use to be for state/feelings. -->
 
 ### Explicación Pedagógica
-Usamos "it is" para referirnos a cosas o animales en singular.
+En respuestas cortas afirmativas, mantenemos la concordancia: "I am".
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.65
+**Expected_Success:** 0.70
+**Context:** Plural subjects.
 
 ### Enunciado
-Complete: **"We _______ happy today!"**
+**"The apples ________ red and sweet."** 🍎🍎
 
 ### Options
-- [ ] A) am <!-- feedback: Incorrect. -->
-- [ ] B) is <!-- feedback: Incorrect. -->
-- [x] C) are <!-- feedback: Correct! We are means nosotros somos/estamos. -->
+- [ ] A) is <!-- feedback: Incorrect. There are many apples. -->
+- [x] B) are <!-- feedback: Correct! Plural subjects use "are". -->
+- [ ] C) am <!-- feedback: Incorrect. -->
 - [ ] D) be <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"We are" es la forma plural para nosotros.
+Cuando el sujeto es plural (the apples = they), debemos usar "are".
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.60
+**Expected_Success:** 0.65
+**Context:** Negative form.
 
 ### Enunciado
-Complete: **"He _______ a tall boy."**
+How do you say **"Él no es un doctor"**? 👨‍⚕️✖️
 
 ### Options
-- [ ] A) am <!-- feedback: Incorrect. -->
-- [x] B) is <!-- feedback: Correct! He is means él es. -->
-- [ ] C) are <!-- feedback: Incorrect. -->
-- [ ] D) be <!-- feedback: Incorrect. -->
+- [ ] A) He is a doctor <!-- feedback: Incorrect. This is affirmative. -->
+- [x] B) He is not a doctor <!-- feedback: Correct! We add "not" after the verb. -->
+- [ ] C) He no is a doctor <!-- feedback: Incorrect grammar. -->
+- [ ] D) He not is doctor <!-- feedback: Incorrect grammar. -->
 
 ### Explicación Pedagógica
-"He is" es la forma correcta para él.
+Para negar con el verbo to be, simplemente añadimos la palabra "not" después del verbo (is not).
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v8`
-**Bloom:** Understand
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.60
+**Context:** Identifying the correct pronoun/verb pair.
+
+### Enunciado
+Which sentence is **grammatically correct**?
+
+### Options
+- [ ] A) You is a good boy. <!-- feedback: Incorrect. Should be "You are". -->
+- [ ] B) They am at school. <!-- feedback: Incorrect. Should be "They are". -->
+- [x] C) It is a sunny day. <!-- feedback: Correct! "It is" is the right conjugation. -->
+- [ ] D) I are happy. <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Analizar la concordancia sujeto-verbo. La única opción correcta es "It is a sunny day".
+
+---
+
+## Question 9 [D9-D10]
+**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v9`
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Context:** Interrogative form logic.
 
 ### Enunciado
-What does **"I am a student"** mean?
+To make a **question**, we change the order.
+**Statement:** "You are a teacher."
+**Question:** "________ a teacher?" 👩‍🏫
 
 ### Options
-- [x] A) Yo soy un estudiante <!-- feedback: Correct! -->
-- [ ] B) Él es un estudiante <!-- feedback: Incorrect. -->
-- [ ] C) Tú eres un estudiante <!-- feedback: Incorrect. -->
-- [ ] D) Ella es una estudiante <!-- feedback: Incorrect. -->
+- [ ] A) Are you <!-- feedback: Correct! In questions, the verb comes first. -->
+- [x] A) Are you <!-- feedback: Wait, let me check the labels. -->
+- [x] A) Are you <!-- feedback: Yes, A is correct. -->
+- [ ] B) You are <!-- feedback: Incorrect. This is the statement order. -->
+- [ ] C) Is you <!-- feedback: Incorrect conjugation. -->
+- [ ] D) Am you <!-- feedback: Incorrect conjugation. -->
 
 ### Explicación Pedagógica
-"I am" se traduce como "yo soy" en este contexto.
+Analizar la estructura interrogativa. Para preguntar, invertimos el sujeto y el verbo: "Are you...?".
 
 ---
 
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
-
-### Enunciado
-What does **"The apple is red"** mean?
-
-### Options
-- [ ] A) La manzana son roja <!-- feedback: Incorrect grammar in Spanish. -->
-- [x] B) La manzana es roja <!-- feedback: Correct! -->
-- [ ] C) El banano es rojo <!-- feedback: Incorrect. -->
-- [ ] D) Yo soy rojo <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"The apple" es singular, por eso usamos "is".
-
----
-
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W39-verb-to-be-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Bloom:** Evaluate
+**ICFES:** Pragmática
+**Expected_Success:** 0.50
+**Context:** Choosing the right introduction.
 
 ### Enunciado
-Choose the correct sentence:
+You are presenting your **mother and father** to your friends. What do you say?
 
 ### Options
-- [ ] A) I is happy <!-- feedback: Incorrect. I am. -->
-- [ ] B) They is happy <!-- feedback: Incorrect. They are. -->
-- [x] C) She is happy <!-- feedback: Correct! -->
-- [ ] D) You am happy <!-- feedback: Incorrect. You are. -->
+- [ ] A) They is my parents. <!-- feedback: Incorrect grammar. -->
+- [x] B) They are my parents. <!-- feedback: Correct! Using plural "They" with "are". -->
+- [ ] C) He are my parents. <!-- feedback: Incorrect pronoun. -->
+- [ ] D) She am my parents. <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La única combinación correcta de sujeto y verbo "to be" es "She is".
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar el uso correcto de pronombres plurales. Al referirse a ambos padres, el pronombre es "They" y el verbo es "are".

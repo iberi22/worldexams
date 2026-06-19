@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "telling-time"
 periodo: "weekly"
 semana: 31
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.70
-rubric_baseline: "Vocabulary and basic phrases for telling time: o'clock, what time is it?"
+  expected_success_rate: 0.80
+rubric_baseline: "Telling the time (o'clock and half past) in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W31: Telling Time (A1)
 
-Este bundle evalúa cómo decir la hora básica en inglés.
+This bundle focuses on telling the time (specifically "o'clock" and "half past") in English, aligned with CEFR A1.
 
 ---
 
@@ -31,19 +33,20 @@ Este bundle evalúa cómo decir la hora básica en inglés.
 **ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.90
+**Expected_Success:** 0.95
+**Context:** Looking at a clock.
 
 ### Enunciado
-How do you ask for the time?
+What word do we use for the exact hour (e.g., **7:00**)? 🕒
 
 ### Options
-- [ ] A) How are you? <!-- feedback: Incorrect. -->
-- [x] B) What time is it? <!-- feedback: Correct! This is how we ask for the time. -->
-- [ ] C) Where is the time? <!-- feedback: Incorrect. -->
-- [ ] D) What is your time? <!-- feedback: Incorrect structure. -->
+- [ ] A) Half past <!-- feedback: Incorrect. This is for 30 minutes. -->
+- [x] B) O'clock <!-- feedback: Correct! "O'clock" is used for the top of the hour. -->
+- [ ] C) Minutes <!-- feedback: Incorrect. -->
+- [ ] D) Second <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La pregunta estándar para pedir la hora es "¿What time is it?".
+"O'clock" se usa para indicar las horas en punto. Por ejemplo, "It is seven o'clock" (Son las siete en punto).
 
 ---
 
@@ -51,181 +54,185 @@ La pregunta estándar para pedir la hora es "¿What time is it?".
 **ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.85
+**Expected_Success:** 0.90
+**Context:** Identifying time on a digital clock.
 
 ### Enunciado
-What does **"O'clock"** mean?
+The clock shows **8:00**. How do you say it?
 
 ### Options
-- [ ] A) Y media <!-- feedback: Incorrect. -->
-- [ ] B) Menos cuarto <!-- feedback: Incorrect. -->
-- [x] C) En punto <!-- feedback: Correct! O'clock is used for the exact hour. -->
-- [ ] D) Tarde <!-- feedback: Incorrect. -->
+- [ ] A) It is eight half past <!-- feedback: Incorrect. -->
+- [x] B) It is eight o'clock <!-- feedback: Correct! 8:00 is eight o'clock. -->
+- [ ] C) It is eight time <!-- feedback: Incorrect. -->
+- [ ] D) It is eight o'clock past <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"O'clock" se usa para decir la hora exacta (en punto). Ejemplo: 7:00 = Seven o'clock.
+En inglés, para decir la hora exacta, decimos el número seguido de "o'clock".
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 **ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v3`
-**Bloom:** Apply
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.85
+**Context:** Talking about 30 minutes.
+
+### Enunciado
+What does **"Half past"** mean? 🕝
+
+### Options
+- [ ] A) The exact hour <!-- feedback: Incorrect. That is o'clock. -->
+- [x] B) 30 minutes after the hour <!-- feedback: Correct! Half past means 30 minutes. -->
+- [ ] C) 15 minutes before the hour <!-- feedback: Incorrect. -->
+- [ ] D) 10 minutes past <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Half past" significa "y media". Indica que han pasado 30 minutos (la mitad de una hora) después de la hora mencionada.
+
+---
+
+## Question 4 [D5-D6]
+**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v4`
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Context:** Digital to verbal time.
 
 ### Enunciado
-If it is **8:00**, you say:
+The clock says **10:30**. How do you say it using "half past"?
 
 ### Options
-- [x] A) It is eight o'clock <!-- feedback: Correct! -->
-- [ ] B) It is eight time <!-- feedback: Incorrect. -->
-- [ ] C) It is eight hours <!-- feedback: Incorrect. -->
-- [ ] D) It is eight zero zero <!-- feedback: Incorrect. -->
+- [ ] A) It is half past eleven <!-- feedback: Incorrect. 10:30 is half past ten. -->
+- [x] B) It is half past ten <!-- feedback: Correct! Half past ten means 10:30. -->
+- [ ] C) It is ten o'clock <!-- feedback: Incorrect. -->
+- [ ] D) It is half ten <!-- feedback: Incorrect. While used in some places, "half past ten" is the full standard form. -->
 
 ### Explicación Pedagógica
-Para las 8:00, usamos el número de la hora seguido de "o'clock".
+Para decir las "y media", usamos "half past" seguido de la hora actual. 10:30 es "half past ten".
 
 ---
 
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v4`
+## Question 5 [D5-D6]
+**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Context:** Asking for the time.
 
 ### Enunciado
-If it is **3:00**, you say:
+What is the correct question to ask for the time? ⌚
 
 ### Options
-- [ ] A) It is two o'clock <!-- feedback: Incorrect. -->
-- [x] B) It is three o'clock <!-- feedback: Correct! -->
-- [ ] C) It is three and zero <!-- feedback: Incorrect. -->
-- [ ] D) It is thirteen o'clock <!-- feedback: Incorrect. -->
+- [ ] A) What time it is? <!-- feedback: Incorrect. The order is wrong. -->
+- [x] B) What time is it? <!-- feedback: Correct! This is the standard way to ask the time. -->
+- [ ] C) Who time is it? <!-- feedback: Incorrect. -->
+- [ ] D) Where time is it? <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Para las 3:00, decimos "three o'clock".
+"What time is it?" es la pregunta gramaticalmente correcta para saber la hora.
 
 ---
 
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v5`
-**Bloom:** Understand
+## Question 6 [D7-D8]
+**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v6`
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Context:** Time of a specific activity.
 
 ### Enunciado
-What do we use to see the time? ⌚
+Lunch is at **one o'clock**. Which clock shows the correct time for lunch?
 
 ### Options
-- [ ] A) A phone <!-- feedback: Incorrect (though true, we are looking for the traditional object). -->
-- [x] B) A clock or watch <!-- feedback: Correct! A clock is for the wall, a watch is for the wrist. -->
-- [ ] C) A window <!-- feedback: Incorrect. -->
-- [ ] D) A mirror <!-- feedback: Incorrect. -->
+- [ ] A) 1:30 <!-- feedback: Incorrect. This is half past one. -->
+- [x] B) 1:00 <!-- feedback: Correct! 1:00 is one o'clock. -->
+- [ ] C) 12:00 <!-- feedback: Incorrect. -->
+- [ ] D) 2:00 <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Usamos un "clock" (reloj de pared) o un "watch" (reloj de pulsera) para ver la hora.
+Relacionar la hora escrita con la digital. "One o'clock" corresponde exactamente a la 1:00.
 
 ---
 
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v6`
-**Bloom:** Understand
+## Question 7 [D7-D8]
+**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v7`
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Context:** Time progression.
 
 ### Enunciado
-If it is **12:00 PM** (noon), what do we say?
+It is **3:00**. In **30 minutes**, it will be...
 
 ### Options
-- [ ] A) It is midnight <!-- feedback: Incorrect. Midnight is 12:00 AM. -->
-- [x] B) It is midday or noon <!-- feedback: Correct! 12:00 PM is midday. -->
-- [ ] C) It is morning <!-- feedback: Incorrect. -->
-- [ ] D) It is evening <!-- feedback: Incorrect. -->
+- [ ] A) Four o'clock <!-- feedback: Incorrect. -->
+- [x] B) Half past three <!-- feedback: Correct! 3:00 + 30 minutes = 3:30 (half past three). -->
+- [ ] C) Half past four <!-- feedback: Incorrect. -->
+- [ ] D) Three o'clock <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Las 12 del mediodía se pueden decir como "midday" o "noon".
+Aplicar el concepto de tiempo. Si son las 3:00, en 30 minutos serán las 3:30, lo que se dice "half past three".
 
 ---
 
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v7`
-**Bloom:** Understand
+## Question 8 [D7-D8]
+**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v8`
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Context:** Identifying parts of a clock.
 
 ### Enunciado
-What time do you usually **go to school** in the morning?
+On an analog clock, if the **long hand** (la manecilla larga) points to **6**, what time is it? 🕕
 
 ### Options
-- [x] A) 7:00 AM <!-- feedback: Correct! Common school start time in Colombia. -->
-- [ ] B) 10:00 PM <!-- feedback: Incorrect. That's night. -->
-- [ ] C) 3:00 AM <!-- feedback: Incorrect. Too early! -->
-- [ ] D) 12:00 AM <!-- feedback: Incorrect. Midnight. -->
+- [ ] A) It is o'clock <!-- feedback: Incorrect. Long hand on 12 is o'clock. -->
+- [x] B) It is half past <!-- feedback: Correct! When the long hand is on 6, it is 30 minutes past. -->
+- [ ] C) It is morning <!-- feedback: Incorrect. -->
+- [ ] D) It is noon <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Las clases suelen empezar temprano en la mañana, por ejemplo a las "seven o'clock" (7:00 AM).
+Analizar el funcionamiento del reloj analógico. El número 6 representa 30 minutos, por lo tanto usamos "half past".
 
 ---
 
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v8`
-**Bloom:** Apply
+## Question 9 [D9-D10]
+**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v9`
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Context:** Morning vs Night.
 
 ### Enunciado
-How do you write **"Son las diez en punto"**?
+**7:00 AM** is seven o'clock in the **morning**. What is **7:00 PM**? 🌙
 
 ### Options
-- [ ] A) It is ten clock <!-- feedback: Incorrect. Missing the apostrophe and 'o'. -->
-- [x] B) It is ten o'clock <!-- feedback: Correct! -->
-- [ ] C) It is ten punctum <!-- feedback: Incorrect. -->
-- [ ] D) They are ten o'clock <!-- feedback: Incorrect. We use "It is" for time. -->
+- [ ] A) Seven o'clock in the afternoon <!-- feedback: Incorrect. 7:00 PM is later. -->
+- [x] B) Seven o'clock in the evening <!-- feedback: Correct! 7:00 PM is evening/night. -->
+- [ ] C) Seven o'clock in the morning <!-- feedback: Incorrect. That is AM. -->
+- [ ] D) Noon <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Para decir la hora siempre usamos "It is" (o It's), no "They are".
+Diferenciar entre AM (morning) y PM (afternoon/evening). Las 7:00 PM se consideran parte del "evening".
 
 ---
 
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
-
-### Enunciado
-If the long hand is on **12** and the short hand is on **5**, what time is it?
-
-### Options
-- [ ] A) Twelve o'clock <!-- feedback: Incorrect. -->
-- [x] B) Five o'clock <!-- feedback: Correct! The short hand shows the hour. -->
-- [ ] C) Seventeen o'clock <!-- feedback: Incorrect. -->
-- [ ] D) Twelve and five <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La manecilla corta (short hand) marca la hora. Si marca el 5 y la larga está en el 12, son las cinco en punto.
-
----
-
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W31-telling-time-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Bloom:** Evaluate
+**ICFES:** Pragmática
+**Expected_Success:** 0.50
+**Context:** Choosing the right time for an action.
 
 ### Enunciado
-What does **AM** mean?
+You need to go to sleep early for school tomorrow. Which time is the **best** choice to go to bed? 😴
 
 ### Options
-- [x] A) In the morning <!-- feedback: Correct! Before noon. -->
-- [ ] B) In the afternoon <!-- feedback: Incorrect. That's PM. -->
-- [ ] C) In the night <!-- feedback: Incorrect. -->
-- [ ] D) Always Monday <!-- feedback: Incorrect. -->
+- [x] A) Eight o'clock (8:00 PM) <!-- feedback: Correct! This is a healthy time for a child. -->
+- [ ] B) Half past eleven (11:30 PM) <!-- feedback: Incorrect. It is too late. -->
+- [ ] C) One o'clock in the morning (1:00 AM) <!-- feedback: Incorrect. Definitely too late. -->
+- [ ] D) One o'clock in the afternoon (1:00 PM) <!-- feedback: Incorrect. That is for lunch! -->
 
 ### Explicación Pedagógica
-"AM" (ante meridiem) se usa para las horas de la mañana, desde la medianoche hasta el mediodía.
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar las opciones según el contexto de vida saludable y rutina escolar. Dormir a las 8:00 PM es lo más adecuado para un niño de grado 3.

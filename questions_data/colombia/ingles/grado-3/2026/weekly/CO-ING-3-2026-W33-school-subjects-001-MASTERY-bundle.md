@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "school-subjects"
 periodo: "weekly"
 semana: 33
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Vocabulary for school subjects: Math, Science, English, Music, Art, PE."
+  expected_success_rate: 0.85
+rubric_baseline: "Identification of basic school subjects in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W33: School Subjects (A1)
 
-Este bundle evalúa el vocabulario de las materias escolares en inglés.
+This bundle focuses on identifying the names of basic school subjects in English, aligned with CEFR A1.
 
 ---
 
@@ -32,18 +34,19 @@ Este bundle evalúa el vocabulario de las materias escolares en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Context:** Working with numbers.
 
 ### Enunciado
-What subject uses **numbers**? (1 + 1 = 2) ➕
+In which subject do you study **numbers**, **addition**, and **subtraction**? ➕➖
 
 ### Options
-- [x] A) Math <!-- feedback: Correct! Math is matemáticas. -->
-- [ ] B) English <!-- feedback: Incorrect. -->
+- [ ] A) Art <!-- feedback: Incorrect. Art is for drawing. -->
+- [x] B) Math <!-- feedback: Correct! Math (Mathematics) is about numbers. -->
 - [ ] C) Music <!-- feedback: Incorrect. -->
-- [ ] D) Art <!-- feedback: Incorrect. -->
+- [ ] D) Physical Education <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Matemáticas se dice "Math" (o "Mathematics"). Usamos números en esta materia.
+"Math" (o Mathematics) es la asignatura de matemáticas, donde aprendemos sobre números y operaciones.
 
 ---
 
@@ -52,180 +55,182 @@ Matemáticas se dice "Math" (o "Mathematics"). Usamos números en esta materia.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Context:** Learning a new language.
 
 ### Enunciado
-In what subject do you **draw and paint**? 🎨
+What is the name of **this** subject where you learn to say "Hello", "Apple", and "Red"? 🇺🇸🇬🇧
 
 ### Options
-- [ ] A) Science <!-- feedback: Incorrect. -->
-- [ ] B) PE <!-- feedback: Incorrect. -->
-- [x] C) Art <!-- feedback: Correct! Art is educación artística. -->
-- [ ] D) Math <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Educación artística o simplemente Arte se dice "Art".
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-In what subject do you **sing and play instruments**? 🎵
-
-### Options
-- [ ] A) Math <!-- feedback: Incorrect. -->
-- [x] B) Music <!-- feedback: Correct! Music is música. -->
-- [ ] C) English <!-- feedback: Incorrect. -->
+- [ ] A) Spanish <!-- feedback: Incorrect. That is our first language in Colombia. -->
+- [x] B) English <!-- feedback: Correct! English is the subject we are studying now. -->
+- [ ] C) Science <!-- feedback: Incorrect. -->
 - [ ] D) History <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Música se dice "Music". Se escribe casi igual que en español.
+"English" significa inglés. Es el idioma que estamos practicando y aprendiendo en esta clase.
 
 ---
 
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.80
-
-### Enunciado
-What is **"Educación Física"** in English? 🏃‍♂️
-
-### Options
-- [ ] A) Physics <!-- feedback: Incorrect. Physics is física (ciencia). -->
-- [x] B) PE <!-- feedback: Correct! PE stands for Physical Education. -->
-- [ ] C) Sports class <!-- feedback: Incorrect. Not the official name. -->
-- [ ] D) Exercise <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Educación Física se abrevia como "PE" (Physical Education).
-
----
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-In what subject do you learn about **animals and plants**? 🌱
-
-### Options
-- [ ] A) Math <!-- feedback: Incorrect. -->
-- [x] B) Science <!-- feedback: Correct! Science is ciencias naturales. -->
-- [ ] C) Music <!-- feedback: Incorrect. -->
-- [ ] D) Spanish <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Ciencias naturales se dice "Science".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v6`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-
-### Enunciado
-What subject are you studying **right now**? 🇺🇸
-
-### Options
-- [ ] A) Spanish <!-- feedback: Incorrect. -->
-- [ ] B) Math <!-- feedback: Incorrect. -->
-- [x] C) English <!-- feedback: Correct! This is an English pack. -->
-- [ ] D) PE <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Inglés se dice "English". Recuerda que los nombres de los idiomas siempre van en mayúscula en inglés.
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v7`
+## Question 3 [D5-D6]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.65
+**Expected_Success:** 0.85
+**Context:** Learning about nature.
 
 ### Enunciado
-Where do you go for **PE** class?
+In **Science** class, you learn about **animals**, **plants**, and the **planet**. True or False? 🔬
 
 ### Options
-- [ ] A) The library <!-- feedback: Incorrect. -->
-- [ ] B) The cafeteria <!-- feedback: Incorrect. -->
-- [x] C) The playground or gym <!-- feedback: Correct! -->
-- [ ] D) The bathroom <!-- feedback: Incorrect. -->
+- [x] A) True <!-- feedback: Correct! Science covers nature and the physical world. -->
+- [ ] B) False <!-- feedback: Incorrect. Science is indeed about nature. -->
 
 ### Explicación Pedagógica
-La clase de Educación Física suele hacerse en el patio (playground), la cancha o el gimnasio (gym).
+"Science" significa ciencias. En esta materia estudiamos los seres vivos y el funcionamiento de la naturaleza.
 
 ---
 
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v8`
-**Bloom:** Apply
+## Question 4 [D5-D6]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v4`
+**Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.60
+**Expected_Success:** 0.80
+**Context:** Being creative.
 
 ### Enunciado
-Complete: **"I like _______ because I like to sing."**
+What subject do you have when you use **crayons**, **paint**, and **brushes**? 🎨
 
 ### Options
 - [ ] A) Math <!-- feedback: Incorrect. -->
-- [x] B) Music <!-- feedback: Correct! Singing is part of Music. -->
-- [ ] C) Science <!-- feedback: Incorrect. -->
-- [ ] D) PE <!-- feedback: Incorrect. -->
+- [ ] B) Science <!-- feedback: Incorrect. -->
+- [x] C) Art <!-- feedback: Correct! Art is for creativity and drawing. -->
+- [ ] D) English <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Si te gusta cantar (sing), probablemente te guste la clase de Música (Music).
+"Art" significa arte o educación artística. Es donde dibujamos, pintamos y creamos.
 
 ---
 
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v9`
+## Question 5 [D5-D6]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.75
+**Context:** Playing instruments.
+
+### Enunciado
+I play the **recorder** (flauta) and I **sing** songs in this class. It is... 🎵
+
+### Options
+- [ ] A) Math <!-- feedback: Incorrect. -->
+- [x] B) Music <!-- feedback: Correct! Music class is for sounds and songs. -->
+- [ ] C) Geography <!-- feedback: Incorrect. -->
+- [ ] D) Science <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Music" significa música. En esta clase aprendemos sobre sonidos, instrumentos y canto.
+
+---
+
+## Question 6 [D7-D8]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v6`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.70
+**Context:** Physical activity.
+
+### Enunciado
+In **P.E.** class, we **run**, **jump**, and play **sports**. What does **P.E.** mean? 🏃‍♂️
+
+### Options
+- [x] A) Physical Education <!-- feedback: Correct! P.E. is the short form of Physical Education. -->
+- [ ] B) Paper Exercise <!-- feedback: Incorrect. -->
+- [ ] C) Play English <!-- feedback: Incorrect. -->
+- [ ] D) Primary Exam <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Physical Education" (Educación Física) se abrevia habitualmente como "P.E.". Es la clase de movimiento y deportes.
+
+---
+
+## Question 7 [D7-D8]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v7`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.65
+**Context:** Reading and writing in Colombia.
+
+### Enunciado
+In Colombia, we use this subject to read stories like "Rafael Pombo" and practice our **main language**.
+
+### Options
+- [ ] A) English <!-- feedback: Incorrect. English is a second language. -->
+- [x] B) Spanish <!-- feedback: Correct! Spanish is our primary subject for reading and writing. -->
+- [ ] C) Math <!-- feedback: Incorrect. -->
+- [ ] D) Art <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Spanish" (o Lengua Castellana) es la asignatura donde estudiamos nuestro idioma materno y literatura.
+
+---
+
+## Question 8 [D7-D8]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v8`
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.60
+**Context:** Identifying subject by tools.
+
+### Enunciado
+Which subject uses **maps** and studies the **mountains** and **rivers** of Colombia? 🗺️
+
+### Options
+- [ ] A) Math <!-- feedback: Incorrect. -->
+- [ ] B) Music <!-- feedback: Incorrect. -->
+- [x] C) Geography <!-- feedback: Correct! Geography is about places and maps. -->
+- [ ] D) Art <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Geography" (Geografía) es la rama de las ciencias sociales que estudia los mapas y el relieve de la tierra.
+
+---
+
+## Question 9 [D9-D10]
+**ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v9`
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Context:** Categorizing subjects.
 
 ### Enunciado
-Complete: **"In _______ class, we use a calculator."**
+Which group has **only** subjects related to **Science and Numbers**?
 
 ### Options
-- [x] A) Math <!-- feedback: Correct! -->
-- [ ] B) Art <!-- feedback: Incorrect. -->
-- [ ] C) English <!-- feedback: Incorrect. -->
-- [ ] D) Music <!-- feedback: Incorrect. -->
+- [ ] A) Art and Music <!-- feedback: Incorrect. These are creative arts. -->
+- [x] B) Math and Science <!-- feedback: Correct! Both use logic, numbers, and observation. -->
+- [ ] C) English and Spanish <!-- feedback: Incorrect. These are languages. -->
+- [ ] D) P.E. and Geography <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La calculadora es una herramienta para la clase de Matemáticas (Math).
+Analizar la naturaleza de las materias. Las matemáticas y las ciencias forman el bloque de pensamiento lógico-científico.
 
 ---
 
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W33-school-subjects-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
+**Bloom:** Evaluate
+**ICFES:** Pragmática
 **Expected_Success:** 0.50
+**Context:** Deciding which book to use.
 
 ### Enunciado
-What is your **favorite** subject?
+You need to solve the problem: **15 + 5 = ?**. Which notebook should you open?
 
 ### Options
-- [ ] A) Yes, I do <!-- feedback: Incorrect. This is not a subject. -->
-- [ ] B) My name is Tom <!-- feedback: Incorrect. -->
-- [x] C) I like Art <!-- feedback: Correct! This is a valid preference for a subject. -->
-- [ ] D) No, I don't <!-- feedback: Incorrect. -->
+- [x] A) My Math notebook <!-- feedback: Correct! Math is for solving numerical problems. -->
+- [ ] B) My Art notebook <!-- feedback: Incorrect. -->
+- [ ] C) My Music notebook <!-- feedback: Incorrect. -->
+- [ ] D) My Spanish notebook <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Para responder cuál es tu materia favorita, puedes decir "I like [Subject]" o "My favorite subject is [Subject]".
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar la aplicación de cada materia. Los problemas aritméticos se resuelven en la clase de matemáticas (Math).
