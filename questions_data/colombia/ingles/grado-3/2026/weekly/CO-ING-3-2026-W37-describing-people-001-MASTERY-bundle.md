@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "describing-people"
 periodo: "weekly"
 semana: 37
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Basic adjectives for describing people: tall, short, happy, sad, old, young."
+  expected_success_rate: 0.85
+rubric_baseline: "Using basic adjectives to describe people in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W37: Describing People (A1)
 
-Este bundle evalúa adjetivos básicos para describir personas en inglés.
+This bundle focuses on using basic adjectives to describe physical appearance and simple personality traits in English, aligned with CEFR A1.
 
 ---
 
@@ -32,18 +34,19 @@ Este bundle evalúa adjetivos básicos para describir personas en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Context:** Describing height.
 
 ### Enunciado
-A person with a big smile is: 😊
+A basketball player is usually very **_________**. 🏀
 
 ### Options
-- [x] A) Happy <!-- feedback: Correct! Happy is feliz. -->
-- [ ] B) Sad <!-- feedback: Incorrect. Sad is triste. -->
-- [ ] C) Tall <!-- feedback: Incorrect. -->
-- [ ] D) Short <!-- feedback: Incorrect. -->
+- [ ] A) Short <!-- feedback: Incorrect. Short is for small height. -->
+- [x] B) Tall <!-- feedback: Correct! Basketball players need to be tall. -->
+- [ ] C) Blue <!-- feedback: Incorrect. This is a color. -->
+- [ ] D) Small <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Happy" significa feliz o alegre.
+"Tall" significa alto. Es un adjetivo de apariencia física para la estatura.
 
 ---
 
@@ -52,180 +55,185 @@ A person with a big smile is: 😊
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Context:** Expressing happiness.
 
 ### Enunciado
-A person who is crying is: 😢
+When you smile and laugh, you are **_________**. 😊
 
 ### Options
-- [ ] A) Happy <!-- feedback: Incorrect. -->
-- [x] B) Sad <!-- feedback: Correct! Sad is triste. -->
-- [ ] C) Big <!-- feedback: Incorrect. -->
-- [ ] D) Young <!-- feedback: Incorrect. -->
+- [x] A) Happy <!-- feedback: Correct! Smiling indicates happiness. -->
+- [ ] B) Sad <!-- feedback: Incorrect. Sad is the opposite. -->
+- [ ] C) Angry <!-- feedback: Incorrect. -->
+- [ ] D) Sleepy <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Sad" significa triste.
+"Happy" significa feliz o alegre. Describe un estado emocional positivo.
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 **ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v3`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Context:** Identifying opposites.
 
 ### Enunciado
-What is **"Alto"** in English? 🦒
+The opposite of **"Happy"** is... ☹️
 
 ### Options
-- [ ] A) Short <!-- feedback: Incorrect. Short is bajo. -->
-- [x] B) Tall <!-- feedback: Correct! Tall is alto. -->
-- [ ] C) Old <!-- feedback: Incorrect. -->
-- [ ] D) Small <!-- feedback: Incorrect. -->
+- [ ] A) Good <!-- feedback: Incorrect. -->
+- [x] B) Sad <!-- feedback: Correct! Sad is the antonym of Happy. -->
+- [ ] C) Tall <!-- feedback: Incorrect. -->
+- [ ] D) Big <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Tall" se usa para describir a alguien alto.
+Identificar antónimos es clave. "Sad" significa triste, lo opuesto de "Happy".
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v4`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Context:** Describing age.
 
 ### Enunciado
-What is **"Bajo"** or **"Pequeño"** (estatura) in English?
-
-### Options
-- [x] A) Short <!-- feedback: Correct! Short is bajo. -->
-- [ ] B) Tall <!-- feedback: Incorrect. -->
-- [ ] C) Happy <!-- feedback: Incorrect. -->
-- [ ] D) Young <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Short" se usa para describir a alguien de baja estatura.
-
----
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-A **baby** is: 👶
+Your **grandfather** is **old**. You are a child, you are **_________**. 👴👦
 
 ### Options
 - [ ] A) Old <!-- feedback: Incorrect. -->
-- [x] B) Young <!-- feedback: Correct! Young is joven. -->
-- [ ] C) Tall <!-- feedback: Incorrect. -->
-- [ ] D) Sad <!-- feedback: Incorrect. -->
+- [x] B) Young <!-- feedback: Correct! Young is for people at the beginning of their life. -->
+- [ ] C) Tall <!-- feedback: Incorrect. While you might be, "young" is the direct contrast to "old". -->
+- [ ] D) Fat <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Young" significa joven. Un bebé es muy joven.
+"Young" significa joven. Es el adjetivo que describe la etapa de la vida de los niños y adolescentes.
 
 ---
 
-## Question 6 [D5-D6]
+## Question 5 [D5-D6]
+**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v5`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.75
+**Context:** Describing hair.
+
+### Enunciado
+Ana has hair that reaches her back. Her hair is **_________**. 💇‍♀️
+
+### Options
+- [ ] A) Short <!-- feedback: Incorrect. -->
+- [x] B) Long <!-- feedback: Correct! Hair that reaches the back is long. -->
+- [ ] C) Blue <!-- feedback: Incorrect. -->
+- [ ] D) Fast <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Long" significa largo. Se usa para describir la longitud del cabello u otros objetos.
+
+---
+
+## Question 6 [D7-D8]
 **ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v6`
-**Bloom:** Remember
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Context:** Describing build.
 
 ### Enunciado
-A **grandfather** is: 👴
+A person who **exercises a lot** and is strong might be described as... 💪
 
 ### Options
-- [x] A) Old <!-- feedback: Correct! Old is viejo o mayor. -->
-- [ ] B) Young <!-- feedback: Incorrect. -->
-- [ ] C) Small <!-- feedback: Incorrect. -->
-- [ ] D) Short <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Old" significa viejo o de edad avanzada. Se usa para describir a los abuelos con respeto.
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-What is **"Bonita"** or **"Hermosa"**? 👸
-
-### Options
-- [ ] A) Ugly <!-- feedback: Incorrect. Ugly is feo. -->
-- [x] B) Beautiful <!-- feedback: Correct! Beautiful is hermosa. -->
-- [ ] C) Tall <!-- feedback: Incorrect. -->
+- [ ] A) Weak <!-- feedback: Incorrect. This is the opposite of strong. -->
+- [x] B) Strong <!-- feedback: Correct! Exercise helps you be strong. -->
+- [ ] C) Thin <!-- feedback: Incorrect. While possible, "strong" matches the description better. -->
 - [ ] D) Sad <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Beautiful" significa hermosa o bella.
+"Strong" significa fuerte. Describe a alguien con capacidad física o muscular.
 
 ---
 
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v8`
+## Question 7 [D7-D8]
+**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v7`
 **Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.65
+**Context:** Describing beauty.
+
+### Enunciado
+She has a very pretty face and a nice smile. She is **_________**. ✨
+
+### Options
+- [x] A) Beautiful <!-- feedback: Correct! Beautiful means very pretty. -->
+- [ ] B) Ugly <!-- feedback: Incorrect. This is the opposite. -->
+- [ ] C) Tall <!-- feedback: Incorrect. -->
+- [ ] D) Old <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Beautiful" significa hermoso o bello. Se usa para expresar agrado estético.
+
+---
+
+## Question 8 [D7-D8]
+**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v8`
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Context:** Identifying the correct adjective pair.
 
 ### Enunciado
-Complete: **"My teacher is very _______."** (SIMPÁTICO/AMABLE).
+Which group shows **height** (estatura) descriptors?
 
 ### Options
-- [ ] A) Sad <!-- feedback: Incorrect. -->
-- [x] B) Nice <!-- feedback: Correct! Nice is simpático o amable. -->
-- [ ] C) Old <!-- feedback: Incorrect. -->
-- [ ] D) Short <!-- feedback: Incorrect. -->
+- [ ] A) Big and Small <!-- feedback: Incorrect. This is for size. -->
+- [x] B) Tall and Short <!-- feedback: Correct! These describe how tall a person is. -->
+- [ ] C) Young and Old <!-- feedback: Incorrect. This is for age. -->
+- [ ] D) Happy and Sad <!-- feedback: Incorrect. This is for emotions. -->
 
 ### Explicación Pedagógica
-"Nice" es un adjetivo positivo para describir la personalidad de alguien.
+Analizar y clasificar los adjetivos. "Tall" (alto) y "Short" (bajo) son las palabras para la estatura.
 
 ---
 
-## Question 9 [D5-D6]
+## Question 9 [D9-D10]
 **ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v9`
-**Bloom:** Apply
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Context:** Analyzing a description.
 
 ### Enunciado
-If someone is **not tall**, they are:
+"My brother is not tall. He is 6 years old."
+How is my brother?
 
 ### Options
-- [ ] A) Big <!-- feedback: Incorrect. -->
-- [ ] B) Happy <!-- feedback: Incorrect. -->
-- [x] C) Short <!-- feedback: Correct! Opposite of tall is short. -->
-- [ ] D) Beautiful <!-- feedback: Incorrect. -->
+- [ ] A) He is tall and old. <!-- feedback: Incorrect. -->
+- [ ] B) He is short and old. <!-- feedback: Incorrect. -->
+- [x] C) He is short and young. <!-- feedback: Correct! Not tall = short; 6 years old = young. -->
+- [ ] D) He is big and angry. <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El antónimo (opuesto) de "tall" (alto) es "short" (bajo).
+Analizar las premisas de la descripción. Ser "no alto" implica ser "short", y tener 6 años implica ser "young".
 
 ---
 
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
+**Bloom:** Evaluate
+**ICFES:** Pragmática
 **Expected_Success:** 0.50
+**Context:** Choosing the most respectful description.
 
 ### Enunciado
-What is the opposite of **"Happy"**?
+How would you describe your best friend to someone who doesn't know them?
 
 ### Options
-- [ ] A) Young <!-- feedback: Incorrect. -->
-- [x] B) Sad <!-- feedback: Correct! -->
-- [ ] C) Tall <!-- feedback: Incorrect. -->
-- [ ] D) Nice <!-- feedback: Incorrect. -->
+- [ ] A) My friend is ugly. <!-- feedback: Incorrect. Not nice or respectful. -->
+- [x] B) My friend is very intelligent and kind. <!-- feedback: Correct! These are positive and descriptive traits. -->
+- [ ] C) My friend is just a person. <!-- feedback: Incorrect. Not very descriptive. -->
+- [ ] D) I don't know. <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El opuesto de "happy" (feliz) es "sad" (triste).
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar el uso del lenguaje positivo y descriptivo. "Intelligent" (inteligente) y "Kind" (amable) son excelentes adjetivos de personalidad.
