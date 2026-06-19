@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "daily-routines-2"
 periodo: "weekly"
 semana: 32
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Vocabulary for afternoon and evening routines: do homework, watch TV, have dinner, go to bed."
+  expected_success_rate: 0.80
+rubric_baseline: "Identification of afternoon and evening daily activities in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
-# Weekly Pack W32: Daily Routines - Afternoon and Evening (A1)
+# Weekly Pack W32: Daily Routines 2 (A1)
 
-Este bundle evalúa el vocabulario de las rutinas de la tarde y noche en inglés.
+This bundle focuses on identifying afternoon and evening daily activities in English, aligned with CEFR A1.
 
 ---
 
@@ -32,18 +34,19 @@ Este bundle evalúa el vocabulario de las rutinas de la tarde y noche en inglés
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Context:** After school task.
 
 ### Enunciado
-What do you do at **night** in your bed? 😴
+What do you do with your **notebooks** and **books** after school to practice your lessons? 📚
 
 ### Options
-- [ ] A) Eat lunch <!-- feedback: Incorrect. -->
-- [x] B) Go to sleep <!-- feedback: Correct! We sleep at night. -->
-- [ ] C) Go to school <!-- feedback: Incorrect. -->
-- [ ] D) Play soccer <!-- feedback: Incorrect. -->
+- [ ] A) Go to sleep <!-- feedback: Incorrect. -->
+- [x] B) Do homework <!-- feedback: Correct! Students do homework to practice. -->
+- [ ] C) Take a shower <!-- feedback: Incorrect. -->
+- [ ] D) Have breakfast <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Ir a dormir o acostarse se dice "go to sleep" o "go to bed".
+"Do homework" significa hacer la tarea. Es la actividad académica que se realiza después de la jornada escolar.
 
 ---
 
@@ -52,180 +55,185 @@ Ir a dormir o acostarse se dice "go to sleep" o "go to bed".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Context:** Relaxing at home.
 
 ### Enunciado
-What is **"Hacer la tarea"** in English? ✍️
+What do you do in front of the **television**? 📺
 
 ### Options
-- [ ] A) Make the job <!-- feedback: Incorrect. -->
-- [x] B) Do homework <!-- feedback: Correct! Homework is tarea. -->
-- [ ] C) Play games <!-- feedback: Incorrect. -->
-- [ ] D) Read a book <!-- feedback: Incorrect. -->
+- [x] A) Watch TV <!-- feedback: Correct! We watch television for entertainment. -->
+- [ ] B) Play soccer <!-- feedback: Incorrect. Soccer is played on a field. -->
+- [ ] C) Brush my teeth <!-- feedback: Incorrect. This is done in the bathroom. -->
+- [ ] D) Wake up <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Hacer las tareas escolares se dice "do homework".
+"Watch TV" significa ver televisión. Es una actividad de ocio común en la tarde.
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v3`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Context:** Night meal.
 
 ### Enunciado
-What do you do at **1:00 PM**? (Almorzar).
+What is the name of the meal you eat at **night** with your family? 🌃
 
 ### Options
-- [ ] A) Have breakfast <!-- feedback: Incorrect. That is in the morning. -->
-- [x] B) Have lunch <!-- feedback: Correct! Lunch is almuerzo. -->
-- [ ] C) Have dinner <!-- feedback: Incorrect. Dinner is cena. -->
-- [ ] D) Sleep <!-- feedback: Incorrect. -->
+- [ ] A) Breakfast <!-- feedback: Incorrect. Breakfast is in the morning. -->
+- [ ] B) Lunch <!-- feedback: Incorrect. Lunch is in the afternoon. -->
+- [x] C) Dinner <!-- feedback: Correct! Dinner is the last big meal of the day. -->
+- [ ] D) Snack <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El almuerzo se dice "lunch". "Have lunch" es almorzar.
+"Dinner" significa cena. Es la comida que compartimos por la noche.
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v4`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Context:** Ending the day.
 
 ### Enunciado
-What do you do at **7:00 PM**? (Cenar).
+When you are **tired** and it is **night**, you go to your bedroom to... 😴
 
 ### Options
-- [ ] A) Have lunch <!-- feedback: Incorrect. -->
-- [ ] B) Have breakfast <!-- feedback: Incorrect. -->
-- [x] C) Have dinner <!-- feedback: Correct! Dinner is cena. -->
-- [ ] D) Wake up <!-- feedback: Incorrect. -->
+- [x] A) Go to sleep <!-- feedback: Correct! Sleeping is how we rest at night. -->
+- [ ] B) Go to school <!-- feedback: Incorrect. School is in the morning. -->
+- [ ] C) Eat lunch <!-- feedback: Incorrect. -->
+- [ ] D) Play with blocks <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La cena se dice "dinner". Cenar se dice "have dinner" o "eat dinner".
+"Go to sleep" significa ir a dormir. Es la acción final de la rutina diaria.
 
 ---
 
-## Question 5 [D3-D4]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v5`
-**Bloom:** Remember
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Context:** Helping at home.
 
 ### Enunciado
-What do you do with a **television**? 📺
+After dinner, you help your parents. You **wash** the... 🍽️
 
 ### Options
-- [x] A) Watch TV <!-- feedback: Correct! -->
-- [ ] B) Listen TV <!-- feedback: Incorrect. We "watch" screens. -->
-- [ ] C) Eat TV <!-- feedback: Incorrect. -->
-- [ ] D) Wash TV <!-- feedback: Incorrect. -->
+- [ ] A) Bed <!-- feedback: Incorrect. -->
+- [x] B) Dishes <!-- feedback: Correct! We wash the dishes (plates and cups) after eating. -->
+- [ ] C) Shoes <!-- feedback: Incorrect. -->
+- [ ] D) Homework <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Ver televisión se dice "watch TV".
+"Wash the dishes" significa lavar los platos. Es una forma común de ayudar en las tareas del hogar.
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v6`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Context:** Routine sequence.
 
 ### Enunciado
-When school is over at **2:00 PM**, what do you do?
+Complete the sequence:
+**I arrive home → I have a snack → I ________.**
 
 ### Options
-- [ ] A) Go to school <!-- feedback: Incorrect. You are already there. -->
-- [x] B) Go home <!-- feedback: Correct! You go back to your house. -->
-- [ ] C) Wake up <!-- feedback: Incorrect. -->
-- [ ] D) Brush my teeth <!-- feedback: Incorrect. -->
+- [ ] A) Wake up <!-- feedback: Incorrect. This was the first thing in the morning. -->
+- [x] B) Do my homework <!-- feedback: Correct! Doing homework usually follows arriving home. -->
+- [ ] C) Have breakfast <!-- feedback: Incorrect. -->
+- [ ] D) Get dressed <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Ir a casa se dice "go home".
+Entender el orden lógico de las actividades de la tarde. Después de llegar y merendar, lo habitual es hacer las tareas escolares.
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v7`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Context:** Evening hygiene.
 
 ### Enunciado
-What do you do with your **friends** in the park? ⚽
+Before I go to sleep, I put on my **pajamas**. I... 🛌
 
 ### Options
-- [x] A) Play <!-- feedback: Correct! Play is jugar. -->
-- [ ] B) Study <!-- feedback: Incorrect. -->
-- [ ] C) Sleep <!-- feedback: Incorrect. -->
-- [ ] D) Cook <!-- feedback: Incorrect. -->
+- [x] A) Get ready for bed <!-- feedback: Correct! Putting on pajamas is part of getting ready to sleep. -->
+- [ ] B) Get ready for school <!-- feedback: Incorrect. -->
+- [ ] C) Go to the park <!-- feedback: Incorrect. -->
+- [ ] D) Watch the sun rise <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Jugar se dice "play".
+"Get ready for bed" significa prepararse para ir a dormir. Incluye ponerse la pijama (pajamas) y otras rutinas nocturnas.
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Context:** Grouping actions by time of day.
 
 ### Enunciado
-What do you do at **9:00 PM**?
+Which of these is a **night** activity?
 
 ### Options
-- [ ] A) Go to school <!-- feedback: Incorrect. -->
-- [ ] B) Have lunch <!-- feedback: Incorrect. -->
-- [x] C) Go to bed <!-- feedback: Correct! -->
-- [ ] D) Wake up <!-- feedback: Incorrect. -->
+- [ ] A) Have breakfast <!-- feedback: Incorrect. Morning. -->
+- [ ] B) Go to school <!-- feedback: Incorrect. Morning. -->
+- [x] C) Listen to a bedtime story <!-- feedback: Correct! Bedtime stories are for the night. -->
+- [ ] D) Have lunch <!-- feedback: Incorrect. Afternoon. -->
 
 ### Explicación Pedagógica
-A las 9 de la noche suele ser hora de ir a la cama (go to bed).
+Analizar el momento adecuado para cada actividad. Los cuentos antes de dormir (bedtime stories) son exclusivos de la noche.
 
 ---
 
-## Question 9 [D5-D6]
+## Question 9 [D9-D10]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v9`
-**Bloom:** Apply
+**Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Context:** Routine logic.
 
 ### Enunciado
-Complete: **"After dinner, I _______ my teeth."** 🪥
+Which action is **NOT** part of an **afternoon** routine?
 
 ### Options
-- [ ] A) wash <!-- feedback: Incorrect. We "wash" hands, but "brush" teeth. -->
-- [x] B) brush <!-- feedback: Correct! -->
-- [ ] C) eat <!-- feedback: Incorrect. -->
-- [ ] D) play <!-- feedback: Incorrect. -->
+- [ ] A) Play with friends <!-- feedback: Incorrect. Common in the afternoon. -->
+- [x] B) Wake up <!-- feedback: Correct! Waking up is for the morning, not the afternoon. -->
+- [ ] C) Do homework <!-- feedback: Incorrect. Common in the afternoon. -->
+- [ ] D) Have a snack <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Cepillarse los dientes es "brush my teeth". Es importante hacerlo después de cada comida.
+Analizar las categorías temporales. Despertarse (Wake up) no pertenece a la rutina de la tarde.
 
 ---
 
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
+**Bloom:** Evaluate
+**ICFES:** Pragmática
 **Expected_Success:** 0.50
+**Context:** Choosing the most important routine for health.
 
 ### Enunciado
-Choose the correct afternoon activity:
+It is **night**. You are very tired. What is the **best** thing for your body to do?
 
 ### Options
-- [x] A) Do homework <!-- feedback: Correct! Most students do it in the afternoon. -->
-- [ ] B) Wake up <!-- feedback: Incorrect. That's morning. -->
-- [ ] C) See the stars <!-- feedback: Incorrect. That's night. -->
-- [ ] D) Have breakfast <!-- feedback: Incorrect. That's morning. -->
+- [ ] A) Watch three movies <!-- feedback: Incorrect. -->
+- [x] B) Go to sleep and rest <!-- feedback: Correct! Sleep is essential for health and energy. -->
+- [ ] C) Do more homework <!-- feedback: Incorrect. -->
+- [ ] D) Eat a very big cake <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Una actividad típica de la tarde después del colegio es hacer la tarea (do homework).
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar las necesidades del cuerpo. El descanso (sleep) es la actividad más importante durante la noche para recuperar energías.

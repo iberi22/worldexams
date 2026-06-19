@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "prepositions"
 periodo: "weekly"
 semana: 36
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Vocabulary for prepositions of place: in, on, under, next to."
+  expected_success_rate: 0.85
+rubric_baseline: "Identification and usage of basic prepositions of place in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
-# Weekly Pack W36: Prepositions of Place (A1)
+# Weekly Pack W36: Prepositions (A1)
 
-Este bundle evalúa el uso de las preposiciones de lugar básicas en inglés.
+This bundle focuses on identifying and using basic prepositions of place (in, on, under, next to) in English, aligned with CEFR A1.
 
 ---
 
@@ -31,19 +33,20 @@ Este bundle evalúa el uso de las preposiciones de lugar básicas en inglés.
 **ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.90
+**Expected_Success:** 0.95
+**Context:** Placing an object on a surface.
 
 ### Enunciado
-The cat is **inside** the box. Which preposition do we use? 📦🐈
+The book is **_________** the table. 📖➡️table
 
 ### Options
-- [x] A) In <!-- feedback: Correct! In means inside. -->
-- [ ] B) On <!-- feedback: Incorrect. On means on top of. -->
-- [ ] C) Under <!-- feedback: Incorrect. Under means below. -->
-- [ ] D) Next to <!-- feedback: Incorrect. -->
+- [ ] A) in <!-- feedback: Incorrect. "In" means inside. -->
+- [x] B) on <!-- feedback: Correct! "On" is used for objects on a surface. -->
+- [ ] C) under <!-- feedback: Incorrect. -->
+- [ ] D) behind <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"In" significa dentro de.
+"On" significa sobre o encima de una superficie (haciendo contacto).
 
 ---
 
@@ -51,181 +54,187 @@ The cat is **inside** the box. Which preposition do we use? 📦🐈
 **ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.85
+**Expected_Success:** 0.90
+**Context:** Placing an object inside a container.
 
 ### Enunciado
-The book is **on top** of the table. Which preposition do we use? 📖
+The pencils are **_________** the pencil case. ✏️➡️👝
 
 ### Options
-- [ ] A) In <!-- feedback: Incorrect. -->
-- [x] B) On <!-- feedback: Correct! On means on top of something. -->
-- [ ] C) Under <!-- feedback: Incorrect. -->
-- [ ] D) Behind <!-- feedback: Incorrect. -->
+- [x] A) in <!-- feedback: Correct! "In" means inside a container or space. -->
+- [ ] B) on <!-- feedback: Incorrect. -->
+- [ ] C) next to <!-- feedback: Incorrect. -->
+- [ ] D) under <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"On" significa sobre o encima de (tocando la superficie).
+"In" significa en o dentro de un espacio cerrado o contenedor.
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 **ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.80
-
-### Enunciado
-The ball is **below** the chair. Which preposition do we use? ⚽
-
-### Options
-- [ ] A) On <!-- feedback: Incorrect. -->
-- [ ] B) In <!-- feedback: Incorrect. -->
-- [x] C) Under <!-- feedback: Correct! Under means below something. -->
-- [ ] D) Next to <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Under" significa debajo de.
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What is **"Al lado de"** in English?
-
-### Options
-- [ ] A) Under <!-- feedback: Incorrect. -->
-- [x] B) Next to <!-- feedback: Correct! Next to is al lado de. -->
-- [ ] C) Behind <!-- feedback: Incorrect. Behind is detrás. -->
-- [ ] D) In <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Next to" significa al lado de.
-
----
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.70
+**Expected_Success:** 0.85
+**Context:** Below an object.
 
 ### Enunciado
-Where are the **pencils**? (Dentro de la cartuchera).
-
-### Options
-- [x] A) They are **in** the pencil case <!-- feedback: Correct! -->
-- [ ] B) They are **on** the pencil case <!-- feedback: Incorrect. -->
-- [ ] C) They are **under** the pencil case <!-- feedback: Incorrect. -->
-- [ ] D) They are **behind** the pencil case <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Usamos "in" porque los lápices están dentro de la cartuchera.
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-Where is the **computer**? (Encima del escritorio).
-
-### Options
-- [ ] A) It is **in** the desk <!-- feedback: Incorrect. -->
-- [x] B) It is **on** the desk <!-- feedback: Correct! -->
-- [ ] C) It is **under** the desk <!-- feedback: Incorrect. -->
-- [ ] D) It is **next to** the desk <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Usamos "on" porque el computador está sobre la superficie del escritorio.
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-The dog is **behind** the door. What does **"behind"** mean?
-
-### Options
-- [ ] A) Al lado <!-- feedback: Incorrect. -->
-- [ ] B) Debajo <!-- feedback: Incorrect. -->
-- [x] C) Detrás <!-- feedback: Correct! Behind is detrás. -->
-- [ ] D) Encima <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Behind" significa detrás de algo.
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-
-### Enunciado
-Complete: **"The apple is _______ the box."** (Encima).
-
-### Options
-- [ ] A) in <!-- feedback: Incorrect. -->
-- [x] B) on <!-- feedback: Correct! -->
-- [ ] C) under <!-- feedback: Incorrect. -->
-- [ ] D) behind <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"On" es la preposición para indicar que algo está encima de otra cosa.
-
----
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
-
-### Enunciado
-Complete: **"My shoes are _______ the bed."** (Debajo).
+The cat is hiding **_________** the chair. 🐈➡️🪑(bottom)
 
 ### Options
 - [ ] A) on <!-- feedback: Incorrect. -->
 - [ ] B) in <!-- feedback: Incorrect. -->
-- [x] C) under <!-- feedback: Correct! -->
-- [ ] D) next to <!-- feedback: Incorrect. -->
+- [x] C) under <!-- feedback: Correct! "Under" means below or beneath. -->
+- [ ] D) between <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Under" se usa para decir que algo está debajo de otra cosa.
+"Under" significa debajo de algo.
 
 ---
 
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v10`
-**Bloom:** Apply
+## Question 4 [D5-D6]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v4`
+**Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.80
+**Context:** Beside another object.
 
 ### Enunciado
-Where is the **ruler**? (Al lado del cuaderno).
+My house is **_________** the park. It is very close. 🏠🌳
 
 ### Options
-- [x] A) It is **next to** the notebook <!-- feedback: Correct! -->
-- [ ] B) It is **in** the notebook <!-- feedback: Incorrect. -->
-- [ ] C) It is **on** the notebook <!-- feedback: Incorrect. -->
-- [ ] D) It is **under** the notebook <!-- feedback: Incorrect. -->
+- [ ] A) under <!-- feedback: Incorrect. -->
+- [x] B) next to <!-- feedback: Correct! "Next to" means beside or to the side of. -->
+- [ ] C) in <!-- feedback: Incorrect. -->
+- [ ] D) on <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Next to" es la expresión para decir al lado de.
+"Next to" significa al lado de o junto a.
 
+---
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+## Question 5 [D5-D6]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v5`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.75
+**Context:** Position of a student.
+
+### Enunciado
+Complete: **"I sit ________ my best friend in class."** 👦👧
+
+### Options
+- [ ] A) in <!-- feedback: Incorrect. -->
+- [ ] B) on <!-- feedback: Incorrect. -->
+- [x] C) next to <!-- feedback: Correct! You sit beside or next to your friend. -->
+- [ ] D) under <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Usamos "next to" para indicar que dos personas u objetos están uno al lado del otro.
+
+---
+
+## Question 6 [D7-D8]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v6`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.70
+**Context:** Identifying position by image description.
+
+### Enunciado
+There is a **lamp** on the desk. Where is the **desk**?
+The desk is **_________** the lamp.
+
+### Options
+- [ ] A) on <!-- feedback: Incorrect. The lamp is on the desk. -->
+- [x] B) under <!-- feedback: Correct! If the lamp is on the desk, the desk is under the lamp. -->
+- [ ] C) in <!-- feedback: Incorrect. -->
+- [ ] D) next to <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Entender la relación espacial inversa. Si A está sobre B, entonces B está debajo de A.
+
+---
+
+## Question 7 [D7-D8]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v7`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.65
+**Context:** Finding a toy.
+
+### Enunciado
+Where is my **teddy bear**?
+It is **_________** the box. Open the box to see it! 📦
+
+### Options
+- [x] A) in <!-- feedback: Correct! If you have to open the box, the bear is inside (in). -->
+- [ ] B) under <!-- feedback: Incorrect. -->
+- [ ] C) on <!-- feedback: Incorrect. -->
+- [ ] D) next to <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+La instrucción "abrir la caja" confirma que el objeto está en el interior (in).
+
+---
+
+## Question 8 [D7-D8]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v8`
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.60
+**Context:** Comparing positions.
+
+### Enunciado
+Which sentence is **correct** for the picture of a **bird on a tree branch**? 🐦🌿
+
+### Options
+- [ ] A) The bird is under the branch. <!-- feedback: Incorrect. -->
+- [x] B) The bird is on the branch. <!-- feedback: Correct! Birds stand on branches. -->
+- [ ] C) The bird is in the branch. <!-- feedback: Incorrect. -->
+- [ ] D) The branch is on the bird. <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Analizar la posición física. Los pájaros se posan sobre (on) las ramas.
+
+---
+
+## Question 9 [D9-D10]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v9`
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.55
+**Context:** Opposite prepositions.
+
+### Enunciado
+Which two prepositions are **opposites**?
+
+### Options
+- [ ] A) In and Next to <!-- feedback: Incorrect. -->
+- [x] B) On and Under <!-- feedback: Correct! Over/On and Under/Below are opposites. -->
+- [ ] C) In and On <!-- feedback: Incorrect. -->
+- [ ] D) Next to and Behind <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Analizar las relaciones espaciales. "On" (encima) y "Under" (debajo) representan posiciones opuestas en el eje vertical.
+
+---
+
+## Question 10 [D9-D10]
+**ID:** `CO-ING-3-2026-W36-prepositions-001-MASTERY-v10`
+**Bloom:** Evaluate
+**ICFES:** Pragmática
+**Expected_Success:** 0.50
+**Context:** Choosing the best preposition to describe a scene.
+
+### Enunciado
+You see a **dog** inside a **doghouse**. How do you describe it? 🐕🏠
+
+### Options
+- [ ] A) The dog is on the house. <!-- feedback: Incorrect. That would be on the roof. -->
+- [x] B) The dog is in the house. <!-- feedback: Correct! Inside a small building is "in". -->
+- [ ] C) The dog is under the house. <!-- feedback: Incorrect. -->
+- [ ] D) The dog is next to the house. <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Evaluar la escena. Estar protegido por las paredes de la casa significa estar "in".
