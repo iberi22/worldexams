@@ -363,7 +363,8 @@
     generatedExamQuestions = null; // Reset
 
     // Minimum time for animation (3s to read messages)
-    const minTimePromise = new Promise(resolve => setTimeout(resolve, 3000));
+    const skipDelay = typeof window !== 'undefined' && localStorage.getItem('spt_skip_integrity_delay') === 'true';
+    const minTimePromise = new Promise(resolve => setTimeout(resolve, skipDelay ? 0 : 3000));
 
     // 🆕 Use pre-filtered questions if provided (e.g. Period Mode)
     if (config.questions && config.questions.length > 0) {
