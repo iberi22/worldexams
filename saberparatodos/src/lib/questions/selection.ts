@@ -1,4 +1,5 @@
 import type { AppQuestion } from '../api-service';
+import { GRADE_TO_CEFR } from '../english-proficiency';
 
 function shuffle<T>(items: T[]): T[] {
   const arr = [...items];
@@ -51,12 +52,16 @@ export function buildDiagnosticMixPool(
       const lowerLevel = CEFR_ORDER[minIndex - 1];
 
       const mainPool = pool.filter((q) => {
-        if (!q.cefr_level) return true;
-        const qIndex = CEFR_ORDER.indexOf(q.cefr_level);
+        const qLevel = q.cefr_level || (q.grade ? GRADE_TO_CEFR[q.grade as keyof typeof GRADE_TO_CEFR] : undefined);
+        if (!qLevel) return true;
+        const qIndex = CEFR_ORDER.indexOf(qLevel);
         return qIndex === -1 || qIndex >= minIndex;
       });
 
-      const lowerPool = pool.filter((q) => q.cefr_level === lowerLevel);
+      const lowerPool = pool.filter((q) => {
+        const qLevel = q.cefr_level || (q.grade ? GRADE_TO_CEFR[q.grade as keyof typeof GRADE_TO_CEFR] : undefined);
+        return qLevel === lowerLevel;
+      });
 
       if (mainPool.length > 0 && lowerPool.length > 0) {
         const mixPercent = 15; // "pocas"

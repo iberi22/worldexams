@@ -105,7 +105,7 @@ export async function prepareSoloExamQuestions(
       const cefrNum = request.minCefrLevel ? CEFR_LEVEL_NUM[request.minCefrLevel] : undefined;
       const diagnosticPool = await deps.repository.fetchEnglishQuestionsAllGrades(100, true, cefrNum);
       pool = dedupeById([...pool, ...diagnosticPool]);
-      filtered = filterBySubject(pool, request.subject);
+      filtered = filterByCefrLevel(filterBySubject(pool, request.subject), request.minCefrLevel);
     }
   }
 
