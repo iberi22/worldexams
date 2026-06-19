@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "sports"
 periodo: "weekly"
 semana: 34
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Vocabulary for common sports: soccer, basketball, swimming, running, tennis."
+  expected_success_rate: 0.85
+rubric_baseline: "Identification of common sports and equipment in English (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W34: Sports (A1)
 
-Este bundle evalúa el vocabulario de deportes en inglés.
+This bundle focuses on identifying common sports and the equipment used for them in English, aligned with CEFR A1.
 
 ---
 
@@ -32,18 +34,19 @@ Este bundle evalúa el vocabulario de deportes en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Context:** Playing with a ball and feet.
 
 ### Enunciado
-What is **"Fútbol"** in English? (In Colombia and Europe). ⚽
+In which sport do you **kick** a ball into a **goal** (arco)? ⚽
 
 ### Options
-- [x] A) Soccer <!-- feedback: Correct! In American English we say Soccer. -->
-- [ ] B) Basketball <!-- feedback: Incorrect. -->
+- [ ] A) Basketball <!-- feedback: Incorrect. You use your hands in basketball. -->
+- [x] B) Soccer <!-- feedback: Correct! Soccer is the most popular sport in Colombia. -->
 - [ ] C) Tennis <!-- feedback: Incorrect. -->
 - [ ] D) Swimming <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El fútbol se dice "soccer" en inglés americano y "football" en inglés británico. En Colombia solemos aprender "soccer".
+"Soccer" (fútbol) es el deporte donde se patea un balón para anotar goles.
 
 ---
 
@@ -52,180 +55,183 @@ El fútbol se dice "soccer" en inglés americano y "football" en inglés britán
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Context:** Sport in a pool.
 
 ### Enunciado
-What sport do you play in a **pool**? 🏊‍♂️
+What sport do you do in a **swimming pool**? 🏊‍♂️
+
+### Options
+- [x] A) Swimming <!-- feedback: Correct! Swimming is the sport of moving through water. -->
+- [ ] B) Baseball <!-- feedback: Incorrect. Baseball is played on a field. -->
+- [ ] C) Cycling <!-- feedback: Incorrect. -->
+- [ ] D) Soccer <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Swimming" significa natación. Es la actividad física que se realiza en el agua.
+
+---
+
+## Question 3 [D5-D6]
+**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v3`
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.85
+**Context:** Using hands and a hoop.
+
+### Enunciado
+In this sport, you **throw** the ball into a high **hoop** (aro). 🏀
 
 ### Options
 - [ ] A) Soccer <!-- feedback: Incorrect. -->
-- [ ] B) Running <!-- feedback: Incorrect. -->
-- [x] C) Swimming <!-- feedback: Correct! Swimming is natación. -->
-- [ ] D) Baseball <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La natación se dice "swimming". Se practica en una piscina (pool).
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What sport uses a **basket** (canasta)? 🏀
-
-### Options
-- [ ] A) Tennis <!-- feedback: Incorrect. -->
-- [x] B) Basketball <!-- feedback: Correct! -->
-- [ ] C) Soccer <!-- feedback: Incorrect. -->
+- [x] B) Basketball <!-- feedback: Correct! Basketball involves throwing the ball into a hoop. -->
+- [ ] C) Tennis <!-- feedback: Incorrect. -->
 - [ ] D) Running <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El baloncesto o básquetbol se dice "basketball".
+"Basketball" (baloncesto) se juega encestando el balón en un aro elevado.
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v4`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Context:** Cycling in Colombia.
 
 ### Enunciado
-What sport uses a **racket** and a yellow ball? 🎾
+What sport uses a **bicycle** and is very famous in Colombia? 🚲
 
 ### Options
-- [x] A) Tennis <!-- feedback: Correct! -->
-- [ ] B) Soccer <!-- feedback: Incorrect. -->
-- [ ] C) Swimming <!-- feedback: Incorrect. -->
+- [ ] A) Skating <!-- feedback: Incorrect. -->
+- [x] B) Cycling <!-- feedback: Correct! Cycling is very popular in Colombia. -->
+- [ ] C) Golf <!-- feedback: Incorrect. -->
+- [ ] D) Volleyball <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Cycling" (ciclismo) es el deporte de montar en bicicleta, muy importante en la cultura deportiva colombiana.
+
+---
+
+## Question 5 [D5-D6]
+**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v5`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.75
+**Context:** Using a racket.
+
+### Enunciado
+To play **Tennis**, you need a ball and a... 🎾
+
+### Options
+- [ ] A) Bat <!-- feedback: Incorrect. Baseball uses a bat. -->
+- [x] B) Racket <!-- feedback: Correct! You hit the ball with a racket in tennis. -->
+- [ ] C) Helmet <!-- feedback: Incorrect. -->
+- [ ] D) Goal <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Racket" significa raqueta. Es el implemento necesario para golpear la pelota en el tenis.
+
+---
+
+## Question 6 [D7-D8]
+**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v6`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.70
+**Context:** Safety equipment.
+
+### Enunciado
+When you go **cycling** or **skating**, what do you wear on your **head** for safety? 🪖
+
+### Options
+- [x] A) A helmet <!-- feedback: Correct! A helmet protects your head. -->
+- [ ] B) A hat <!-- feedback: Incorrect. A hat doesn't protect from falls. -->
+- [ ] C) A cap <!-- feedback: Incorrect. -->
+- [ ] D) A glove <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Helmet" significa casco. Es un elemento de seguridad vital para deportes de velocidad o impacto.
+
+---
+
+## Question 7 [D7-D8]
+**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v7`
+**Bloom:** Apply
+**ICFES:** Lingüística
+**Expected_Success:** 0.65
+**Context:** Identifying sport by action.
+
+### Enunciado
+You are at the **track**. You are moving very fast on your **feet**. You are... 🏃‍♀️
+
+### Options
+- [ ] A) Swimming <!-- feedback: Incorrect. -->
+- [ ] B) Jumping <!-- feedback: Incorrect. Jumping is up and down. -->
+- [x] C) Running <!-- feedback: Correct! Running is moving fast on foot. -->
+- [ ] D) Playing chess <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Running" (correr o atletismo) consiste en desplazarse velozmente a pie.
+
+---
+
+## Question 8 [D7-D8]
+**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v8`
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.60
+**Context:** Grouping sports by equipment.
+
+### Enunciado
+Which group of sports **always** uses a **ball**?
+
+### Options
+- [x] A) Soccer, Basketball, Tennis <!-- feedback: Correct! All three need a ball. -->
+- [ ] B) Swimming, Running, Cycling <!-- feedback: Incorrect. These don't need a ball. -->
+- [ ] C) Skating, Dancing, Jumping <!-- feedback: Incorrect. -->
+- [ ] D) Karate, Boxing, Running <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Analizar los elementos necesarios para cada deporte. El fútbol, baloncesto y tenis son deportes de pelota (ball games).
+
+---
+
+## Question 9 [D9-D10]
+**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v9`
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.55
+**Context:** Identifying sport by shoes.
+
+### Enunciado
+You have **wheels** on the bottom of your **shoes**. You are practicing... ⛸️
+
+### Options
+- [ ] A) Soccer <!-- feedback: Incorrect. -->
+- [x] B) Skating <!-- feedback: Correct! Skating uses shoes with wheels (skates). -->
+- [ ] C) Cycling <!-- feedback: Incorrect. You are on a bike, not wheels on shoes. -->
 - [ ] D) Basketball <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El tenis se dice "tennis". Se juega con una raqueta (racket).
+Analizar el equipo especializado. El patinaje (Skating) se realiza con patines, que son calzado con ruedas.
 
 ---
 
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What is **"Correr"** as a sport? 🏃‍♀️
-
-### Options
-- [ ] A) Walking <!-- feedback: Incorrect. -->
-- [ ] B) Jumping <!-- feedback: Incorrect. -->
-- [x] C) Running <!-- feedback: Correct! Running is correr. -->
-- [ ] D) Sleeping <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Correr se dice "running".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-
-### Enunciado
-You use your **feet** to play this sport:
-
-### Options
-- [x] A) Soccer <!-- feedback: Correct! -->
-- [ ] B) Basketball <!-- feedback: Incorrect. You use hands. -->
-- [ ] C) Tennis <!-- feedback: Incorrect. You use a racket. -->
-- [ ] D) Volleyball <!-- feedback: Incorrect. You use hands. -->
-
-### Explicación Pedagógica
-En el fútbol (soccer), usamos principalmente los pies (feet) para mover el balón.
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-Where do you go **swimming**?
-
-### Options
-- [ ] A) To the park <!-- feedback: Incorrect. -->
-- [x] B) To the pool <!-- feedback: Correct! Pool is piscina. -->
-- [ ] C) To the bedroom <!-- feedback: Incorrect. -->
-- [ ] D) To the kitchen <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Nadamos en la piscina (pool).
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-Complete: **"I play _______ with a orange ball and a basket."**
-
-### Options
-- [ ] A) soccer <!-- feedback: Incorrect. -->
-- [x] B) basketball <!-- feedback: Correct! -->
-- [ ] C) tennis <!-- feedback: Incorrect. -->
-- [ ] D) swimming <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El baloncesto usa un balón naranja y una canasta.
-
----
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-
-### Enunciado
-What do you say when you like a sport?
-
-### Options
-- [x] A) I like soccer <!-- feedback: Correct! -->
-- [ ] B) I soccer like <!-- feedback: Incorrect structure. -->
-- [ ] C) I am soccer <!-- feedback: Incorrect. -->
-- [ ] D) I don't soccer <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Usamos "I like [Sport]" para decir que nos gusta un deporte.
-
----
-
-## Question 10 [D5-D6]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-3-2026-W34-sports-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
+**Bloom:** Evaluate
+**ICFES:** Pragmática
 **Expected_Success:** 0.50
+**Context:** Understanding teamwork.
 
 ### Enunciado
-Which one is **not** a sport?
+In **Soccer**, you play with **11 people** on your team. Is it an **individual** or a **team** sport?
 
 ### Options
-- [ ] A) Tennis <!-- feedback: Incorrect. It is a sport. -->
-- [ ] B) Swimming <!-- feedback: Incorrect. It is a sport. -->
-- [x] C) Eating <!-- feedback: Correct! Eating is not a sport. -->
-- [ ] D) Soccer <!-- feedback: Incorrect. It is a sport. -->
+- [ ] A) Individual sport <!-- feedback: Incorrect. You need many people. -->
+- [x] B) Team sport <!-- feedback: Correct! Working with other people makes it a team sport. -->
+- [ ] C) Solo sport <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Comer (eating) es una necesidad, no un deporte (sport).
-
-
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+Evaluar la naturaleza social del deporte. Los deportes que se juegan en grupo se denominan "Team sports" (deportes de equipo).

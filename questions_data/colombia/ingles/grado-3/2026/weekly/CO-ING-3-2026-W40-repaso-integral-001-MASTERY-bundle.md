@@ -6,24 +6,26 @@ asignatura: "ingles"
 tema: "repaso-integral"
 periodo: "weekly"
 semana: 40
+year: 2026
 protocol_version: "5.2"
 bundle_index: 1
-bundle_size: 8
+bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.65
-rubric_baseline: "General review of all Grade 3 English topics."
+  expected_success_rate: 0.80
+rubric_baseline: "Comprehensive review of all Grade 3 English topics (A1)."
 license: "FREE"
-tier: "legacy"
+tier: "mastery"
+creador: "Jules"
 
 ---
 
 # Weekly Pack W40: Repaso Integral (A1)
 
-Este bundle es un repaso final de los temas más importantes vistos durante el año escolar para Grado 3.
+This final bundle is a comprehensive review of the most important topics covered during the Grade 3 English school year in Colombia.
 
 ---
 
@@ -31,19 +33,20 @@ Este bundle es un repaso final de los temas más importantes vistos durante el a
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.90
+**Expected_Success:** 0.95
+**Context:** Greetings review.
 
 ### Enunciado
-What do you say in the **morning**?
+What do you say to say **"Hola"** in English?
 
 ### Options
-- [ ] A) Good night <!-- feedback: Incorrect. -->
-- [x] B) Good morning <!-- feedback: Correct! -->
-- [ ] C) Goodbye <!-- feedback: Incorrect. -->
-- [ ] D) Hello, afternoon <!-- feedback: Incorrect. -->
+- [x] A) Hello <!-- feedback: Correct! -->
+- [ ] B) Goodbye <!-- feedback: Incorrect. -->
+- [ ] C) Thank you <!-- feedback: Incorrect. -->
+- [ ] D) Please <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El saludo de la mañana es "Good morning".
+"Hello" es el saludo básico para decir hola.
 
 ---
 
@@ -51,99 +54,104 @@ El saludo de la mañana es "Good morning".
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.85
+**Expected_Success:** 0.90
+**Context:** Numbers review.
 
 ### Enunciado
 What number is **"TWENTY"**?
 
 ### Options
-- [ ] A) 2 <!-- feedback: Incorrect. -->
+- [ ] A) 10 <!-- feedback: Incorrect. -->
 - [ ] B) 12 <!-- feedback: Incorrect. -->
 - [x] C) 20 <!-- feedback: Correct! -->
-- [ ] D) 10 <!-- feedback: Incorrect. -->
+- [ ] D) 2 <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El número 20 se escribe "twenty".
+El número 20 se escribe "Twenty" en inglés.
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v3`
-**Bloom:** Remember
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.85
+**Context:** Colors review.
+
+### Enunciado
+The flag of Colombia has **Yellow, Blue,** and... 🇨🇴
+
+### Options
+- [ ] A) Green <!-- feedback: Incorrect. -->
+- [x] B) Red <!-- feedback: Correct! -->
+- [ ] C) White <!-- feedback: Incorrect. -->
+- [ ] D) Black <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Los colores de la bandera son amarillo, azul y rojo (Red).
+
+---
+
+## Question 4 [D5-D6]
+**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v4`
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Context:** Family review.
 
 ### Enunciado
-What color is an **orange**? 🍊
+Your mother's **sister** is your...
 
 ### Options
-- [ ] A) Red <!-- feedback: Incorrect. -->
-- [x] B) Orange <!-- feedback: Correct! -->
-- [ ] C) Blue <!-- feedback: Incorrect. -->
-- [ ] D) Green <!-- feedback: Incorrect. -->
+- [x] A) Aunt <!-- feedback: Correct! -->
+- [ ] B) Uncle <!-- feedback: Incorrect. -->
+- [ ] C) Cousin <!-- feedback: Incorrect. -->
+- [ ] D) Grandmother <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La naranja (fruta) es de color naranja (orange).
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-Where is the **kitchen**?
-
-### Options
-- [ ] A) In the bedroom <!-- feedback: Incorrect. -->
-- [x] B) In the house <!-- feedback: Correct! -->
-- [ ] C) In the school <!-- feedback: Incorrect (usually we call it cafeteria at school). -->
-- [ ] D) In the garden <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La cocina es una parte de la casa (house).
+La hermana de tu madre es tu tía (Aunt).
 
 ---
 
 ## Question 5 [D5-D6]
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v5`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.70
+**Expected_Success:** 0.75
+**Context:** School subjects review.
 
 ### Enunciado
-What is **"León"** in English? 🦁
+In which class do you use **numbers** and **add** 5 + 5?
 
 ### Options
-- [x] A) Lion <!-- feedback: Correct! -->
-- [ ] B) Tiger <!-- feedback: Incorrect. -->
-- [ ] C) Monkey <!-- feedback: Incorrect. -->
-- [ ] D) Bear <!-- feedback: Incorrect. -->
+- [ ] A) Art <!-- feedback: Incorrect. -->
+- [x] B) Math <!-- feedback: Correct! -->
+- [ ] C) English <!-- feedback: Incorrect. -->
+- [ ] D) Science <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-León se dice "lion".
+Las operaciones matemáticas se realizan en la clase de Math.
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.65
+**Expected_Success:** 0.70
+**Context:** Body parts review.
 
 ### Enunciado
-Complete: **"I _______ a student."**
+What do you use to **listen** to music? 👂
 
 ### Options
-- [x] A) am <!-- feedback: Correct! -->
-- [ ] B) is <!-- feedback: Incorrect. -->
-- [ ] C) are <!-- feedback: Incorrect. -->
-- [ ] D) be <!-- feedback: Incorrect. -->
+- [ ] A) Eyes <!-- feedback: Incorrect. -->
+- [x] B) Ears <!-- feedback: Correct! -->
+- [ ] C) Nose <!-- feedback: Incorrect. -->
+- [ ] D) Mouth <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"I am" es la forma correcta del verbo to be para la primera persona.
+Usamos los oídos (Ears) para escuchar.
 
 ---
 
@@ -151,41 +159,80 @@ Complete: **"I _______ a student."**
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.60
+**Expected_Success:** 0.65
+**Context:** Animals review.
 
 ### Enunciado
-What do you wear on your **feet**?
+Which animal is very **big** and has a **long trunk**? 🐘
 
 ### Options
-- [ ] A) Hats <!-- feedback: Incorrect. -->
-- [x] B) Shoes <!-- feedback: Correct! -->
-- [ ] C) Shirts <!-- feedback: Incorrect. -->
-- [ ] D) Pants <!-- feedback: Incorrect. -->
+- [ ] A) Lion <!-- feedback: Incorrect. -->
+- [x] B) Elephant <!-- feedback: Correct! -->
+- [ ] C) Monkey <!-- feedback: Incorrect. -->
+- [ ] D) Snake <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Usamos zapatos (shoes) en los pies.
+El elefante (Elephant) se reconoce por su gran tamaño y su trompa.
 
 ---
 
 ## Question 8 [D7-D8]
 **ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Analyze
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
+**Context:** Time review.
 
 ### Enunciado
-What is **"Mañana"** (el día siguiente)?
+If the clock shows **10:30**, you say it is...
 
 ### Options
-- [ ] A) Today <!-- feedback: Incorrect. -->
-- [ ] B) Yesterday <!-- feedback: Incorrect. -->
-- [x] C) Tomorrow <!-- feedback: Correct! -->
-- [ ] D) Always <!-- feedback: Incorrect. -->
+- [ ] A) Ten o'clock <!-- feedback: Incorrect. -->
+- [x] B) Half past ten <!-- feedback: Correct! -->
+- [ ] C) Ten past half <!-- feedback: Incorrect. -->
+- [ ] D) Half ten <!-- feedback: Incorrect (standard is half past ten). -->
 
 ### Explicación Pedagógica
-Mañana se dice "tomorrow".
+10:30 se dice "half past ten".
 
+---
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+## Question 9 [D9-D10]
+**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v9`
+**Bloom:** Analyze
+**ICFES:** Lingüística
+**Expected_Success:** 0.55
+**Context:** Describing review.
+
+### Enunciado
+"The mouse is **small**. The elephant is **_________**."
+
+### Options
+- [ ] A) Short <!-- feedback: Incorrect. -->
+- [x] B) Big <!-- feedback: Correct! It is the opposite of small in this context. -->
+- [ ] C) Light <!-- feedback: Incorrect. -->
+- [ ] D) New <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+El antónimo de pequeño (small) es grande (big).
+
+---
+
+## Question 10 [D9-D10]
+**ID:** `CO-ING-3-2026-W40-repaso-integral-001-MASTERY-v10`
+**Bloom:** Evaluate
+**ICFES:** Pragmática
+**Expected_Success:** 0.50
+**Context:** Logic of routine.
+
+### Enunciado
+Choose the **incorrect** sequence of a daily routine:
+
+### Options
+- [ ] A) Wake up → Have breakfast <!-- feedback: Incorrect. This sequence is correct. -->
+- [ ] B) Go to school → Have lunch <!-- feedback: Incorrect. This sequence is correct. -->
+- [x] C) Go to sleep → Go to school <!-- feedback: Correct! You cannot go to school while sleeping; this sequence is wrong. -->
+- [ ] D) Do homework → Have dinner <!-- feedback: Incorrect. This sequence is correct. -->
+
+### Explicación Pedagógica
+Evaluar el orden lógico de las acciones. No se puede ir a dormir y luego ir a la escuela inmediatamente sin despertar primero.
