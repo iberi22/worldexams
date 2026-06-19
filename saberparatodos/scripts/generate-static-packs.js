@@ -227,7 +227,7 @@ function parseQuestions(body) {
     // Extract options
     const options = [];
     const optionRegex =
-      /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?([\s\S]*?)(?=^\s*-\s*\[[x ]\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:])|^###\s+|^##\s+|(?![\s\S]))/gim;
+      /^\s*(?:-\s*)?\[([x ])\]\s*(?:\*\*)?(?:Opci(?:o|ó)n\s+)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:=]\s*)?([\s\S]*?)(?=^\s*(?:-\s*)?\[[x ]\]\s*(?:\*\*)?(?:Opci(?:o|ó)n\s+)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:=]\s*)?|^###\s+|^##\s+|(?![\s\S]))/gim;
     let optMatch;
     let correctId = "A";
 
@@ -314,7 +314,11 @@ for (const file of allFiles) {
     const protocol = parseProtocol(data, file);
     if (!protocol || protocol < 3) continue;
 
-    if (content.includes("Distractor 1") || content.includes("Opcion correcta")) {
+    if (
+      content.includes("Distractor 1") ||
+      content.includes("Opcion correcta") ||
+      content.includes("Opcion B")
+    ) {
       console.log(`Skipping dummy placeholder file: ${file}`);
       continue;
     }
