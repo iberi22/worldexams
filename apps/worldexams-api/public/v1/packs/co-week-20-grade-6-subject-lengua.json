@@ -4,7 +4,7 @@
     "subject": "lengua",
     "country": "co",
     "pack_id": "co-week-20-grade-6-subject-lengua",
-    "generated_at": "2026-06-15T20:41:20.903Z"
+    "generated_at": "2026-06-18T23:58:37.501Z"
   },
   "questions": [
     {
@@ -143,9 +143,27 @@
       "options": [
         {
           "letter": "A",
-          "text": "= Poesía, B = Historieta, C = Teatro, D = Novela. \r\n- [ ] B = Novela, C = Teatro, D = Poesía. <!-- feedback: Incorrecto. Identifica mal varios géneros. -->\r\n- [x] A = Novela (narración extensa y descriptiva), B = Poesía (versos, ritmo, imágenes poéticas), C = Teatro (acotaciones, parlamentos, indicaciones escénicas), D = Historieta (viñetas, onomatopeyas, secuencia visual). <!-- feedback: Correcto. Cada versión usa las convenciones de su género: la novela describe con detalle; la poesía condensa la emoción en imágenes rítmicas y versos; el teatro indica acciones y diálogos para representar; la historieta segmenta la acción en viñetas con recursos visuales y onomatopeyas. -->\r\n- [ ] D = Novela, A = Teatro, B = Historieta. <!-- feedback: Incorrecto. Mezcla todas las relaciones. -->",
+          "text": "Poesía, B = Historieta, C = Teatro, D = Novela.",
           "is_correct": false,
           "feedback": "Incorrecto. Las relaciones están mezcladas."
+        },
+        {
+          "letter": "B",
+          "text": "Novela, C = Teatro, D = Poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Identifica mal varios géneros."
+        },
+        {
+          "letter": "A",
+          "text": "Novela (narración extensa y descriptiva), B = Poesía (versos, ritmo, imágenes poéticas), C = Teatro (acotaciones, parlamentos, indicaciones escénicas), D = Historieta (viñetas, onomatopeyas, secuencia visual).",
+          "is_correct": true,
+          "feedback": "Correcto. Cada versión usa las convenciones de su género: la novela describe con detalle; la poesía condensa la emoción en imágenes rítmicas y versos; el teatro indica acciones y diálogos para representar; la historieta segmenta la acción en viñetas con recursos visuales y onomatopeyas."
+        },
+        {
+          "letter": "D",
+          "text": "Novela, A = Teatro, B = Historieta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla todas las relaciones."
         }
       ],
       "correct_answer": "A",
