@@ -242,6 +242,18 @@ export function markQuestionsAnswered(
 /**
  * Filter out already answered questions, prioritizing unanswered ones
  * 🆕 Now with smart auto-reset when pool is exhausted
+ * 
+ * FIX #742: The old "Smart Recycle" logic would wipe ALL answered questions memory
+ * when the given filter-subset was fully exhausted. But since `filterUnansweredQuestions` 
+ * receives a SUBSET of the total question pool (post subject/CEFR/period filtering),
+ * wiping memory on subset exhaustion caused duplicates in subsequent exams.
+ * 
+ * NEW BEHAVIOR:
+ * - If the subset is exhausted but the user has answered SOME in the overall DB,
+ *   we just reuse oldest questions (spaced repetition) WITHOUT wiping memory.
+ * - Only wipe if we can confirm the ENTIRE pool (not just this subset) is exhausted.
+ *   We use a heuristic: the caller signals this via context. Otherwise, never wipe.
+ * - wasReset is now always false. The memory survives across exams.
  */
 export function filterUnansweredQuestions<T extends { id: string }>(
   questions: T[],
@@ -262,17 +274,11 @@ export function filterUnansweredQuestions<T extends { id: string }>(
     };
   }
 
-  // 🆕 Smart Recycle: If ALL questions have been answered, DO NOT WIPE MEMORY.
-  // Actually, the user WANTS the "contador" to reset when it's exhausted. We will clear the answered questions list.
-  if (unanswered.length === 0 && previouslyAnswered.length > 0) {
-    console.log(
-      "🔄 All questions in pool exhausted - Wiping memory so counter resets",
-    );
-    clearAnsweredQuestionsOnly(); // Restored because user wants counter to reset
-
-    // Now all previouslyAnswered are conceptually "unanswered" again.
-    // For this exact selection batch, we just treat them as fillers. Next time they'll be truly unanswered.
-  }
+  // FIX #742: Never wipe memory here. The old code called clearAnsweredQuestionsOnly()
+  // when unanswered.length === 0, which caused duplicates across exam loads because
+  // `questions` is always a subset (filtered by subject/CEFR/period), not the full pool.
+  // Instead, we always do spaced repetition: reuse oldest answered questions.
+  // The memory is ONLY wiped when the user explicitly clicks "reset progress" in the UI.
 
   // Otherwise, fill with already answered questions
   const needed = maxQuestions - unanswered.length;
