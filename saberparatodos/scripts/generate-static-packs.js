@@ -128,14 +128,14 @@ function parseQuestions(body) {
     const qPos = matches[i].index;
     let bestTb = null;
     for (const tb of tbHeaders) {
-      // Only use Texto Base sections that appear BEFORE this question
-      // and AFTER the previous question (or beginning)
+      // Use the closest Texto Base that appears BEFORE this question.
+      // The previous constraint (tb.index > prevQPos) incorrectly
+      // restricted a Texto Base to only the first question after it,
+      // leaving subsequent questions without context. Now each question
+      // gets the nearest preceding Texto Base regardless.
       if (tb.index < qPos) {
-        const prevQPos = i > 0 ? matches[i-1].index : -1;
-        if (tb.index > prevQPos) {
-          if (!bestTb || tb.index > bestTb.index) {
-            bestTb = tb;
-          }
+        if (!bestTb || tb.index > bestTb.index) {
+          bestTb = tb;
         }
       }
     }
