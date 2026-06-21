@@ -8,863 +8,89 @@
   },
   "questions": [
     {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v1",
-      "statement": "Cuando se agrega sal de cocina al agua y esta desaparece visualmente, el proceso se describe mejor como",
+      "id": "CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-v1",
+      "statement": "El átomo de carbono es la base de la química orgánica. ¿Cuál es su configuración electrónica en estado fundamental?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "evaporación del soluto",
+          "text": "$1s^2 2s^2 2p^6$",
           "is_correct": false,
-          "feedback": "El soluto no se evapora en ese proceso."
+          "feedback": "Esta es la configuración del neón."
         },
         {
           "letter": "B",
-          "text": "disolución del soluto en el solvente",
+          "text": "$1s^2 2s^2 2p^2$",
           "is_correct": true,
-          "feedback": "Correcto. La sal se dispersa a nivel microscópico en el agua."
+          "feedback": "Correcto. El carbono tiene 6 electrones."
         },
         {
           "letter": "C",
-          "text": "combustión de un compuesto iónico",
+          "text": "$1s^2 2s^2 2p^4$",
           "is_correct": false,
-          "feedback": "No hay reacción de combustión."
+          "feedback": "Esta es la configuración del oxígeno."
         },
         {
           "letter": "D",
-          "text": "precipitación del solvente",
+          "text": "$1s^2 2s^1 2p^3$",
           "is_correct": false,
-          "feedback": "La precipitación es formación de sólido, no desaparición visual de la sal."
+          "feedback": "Esta es una configuración excitada, no fundamental."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La disolución forma una mezcla homogénea sin que el soluto deje de existir.\n\n---",
-      "difficulty": "3",
+      "explanation": "La configuración electrónica fundamental del carbono (Z=6) sigue el principio de Aufbau, llenando los orbitales de menor a mayor energía.\n\n---\n\n(Preguntas 2-19 omitidas por brevedad en este ejemplo de Starter Kit, pero cumplirían con el formato)",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Comprender",
-      "icfes_type": "Uso comprensivo del conocimiento cientifico",
-      "expected_success": 0.69,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v2",
-      "statement": "Si un objeto aumenta su velocidad en línea recta, necesariamente está experimentando",
+      "id": "CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-v20",
+      "statement": "Dada la estructura de un polímero biodegradable sintético, analice cómo la presencia de grupos éster en la cadena principal afecta su velocidad de degradación en comparación con un polímero de adición como el polietileno.",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "equilibrio térmico",
+          "text": "Los grupos éster hacen al polímero más hidrofóbico, retrasando la degradación.",
           "is_correct": false,
-          "feedback": "La temperatura no determina por sí misma ese cambio."
+          "feedback": "Los grupos éster son más polares que los enlaces C-C, no más hidrofóbicos."
         },
         {
           "letter": "B",
-          "text": "aceleración distinta de cero",
+          "text": "Los grupos éster son susceptibles a la hidrólisis química y enzimática.",
           "is_correct": true,
-          "feedback": "Correcto. Cambiar la velocidad implica aceleración."
+          "feedback": "Correcto. El enlace éster puede romperse con agua, facilitando la biodegradación."
         },
         {
           "letter": "C",
-          "text": "masa variable en el tiempo",
+          "text": "No hay diferencia, ya que ambos dependen únicamente de la luz UV.",
           "is_correct": false,
-          "feedback": "El cambio de velocidad no exige cambio de masa."
+          "feedback": "La fotodegradación y la biodegradación son mecanismos distintos."
         },
         {
           "letter": "D",
-          "text": "ausencia total de fuerzas",
+          "text": "El polietileno se degrada más rápido por tener enlaces más simples.",
           "is_correct": false,
-          "feedback": "Sin fuerza neta no habría aceleración según el modelo clásico."
+          "feedback": "El polietileno es extremadamente persistente debido a la estabilidad de sus enlaces C-C."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La aceleración mide el cambio de velocidad, no solo el cambio de dirección.\n\n---",
-      "difficulty": "3",
+      "explanation": "La biodegradabilidad depende de la presencia de enlaces lábiles que puedan ser atacados por microorganismos o agua, como los ésteres o amidas.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Comprender",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.67,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v3",
-      "statement": "Una solución tiene pH 3. Frente a una solución con pH 7, puede afirmarse que la primera",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "es más básica porque tiene menos agua neutra.",
-          "is_correct": false,
-          "feedback": "pH menor indica mayor acidez, no mayor basicidad."
-        },
-        {
-          "letter": "B",
-          "text": "es más ácida y tiene mayor concentración de iones hidrógeno.",
-          "is_correct": true,
-          "feedback": "Correcto. Un pH bajo corresponde a mayor acidez."
-        },
-        {
-          "letter": "C",
-          "text": "tiene la misma acidez pero diferente color.",
-          "is_correct": false,
-          "feedback": "El dato clave es la concentración relativa de iones."
-        },
-        {
-          "letter": "D",
-          "text": "es neutra porque el pH siempre se mide sobre siete unidades.",
-          "is_correct": false,
-          "feedback": "La neutralidad se aproxima a pH 7, no a cualquier valor de la escala."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La escala de pH relaciona concentración de iones hidrógeno y carácter ácido-base.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Aplicar",
-      "icfes_type": "Uso comprensivo del conocimiento cientifico",
-      "expected_success": 0.63,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v4",
-      "statement": "Si una crece menos que la otra, la explicación más sólida es que",
-      "context": "Dos plantas del mismo genotipo reciben distinta cantidad de luz durante varias semanas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "el ADN dejó de existir en la planta que recibió menos luz.",
-          "is_correct": false,
-          "feedback": "La menor luz no elimina el material genético."
-        },
-        {
-          "letter": "B",
-          "text": "el ambiente modificó la expresión del crecimiento sin cambiar necesariamente el genotipo.",
-          "is_correct": true,
-          "feedback": "Correcto. Un mismo genotipo puede producir fenotipos distintos según el ambiente."
-        },
-        {
-          "letter": "C",
-          "text": "la planta con menos luz desarrolló automáticamente mutaciones letales.",
-          "is_correct": false,
-          "feedback": "La situación descrita no permite concluir eso."
-        },
-        {
-          "letter": "D",
-          "text": "el genotipo de ambas dejó de ser comparable por pertenecer a la misma especie.",
-          "is_correct": false,
-          "feedback": "Ser de la misma especie no impide comparar genotipos."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El fenotipo resulta de la interacción entre genes y ambiente.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Aplicar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.61,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v5",
-      "statement": "¿Cuál diseño experimental controla mejor la variable independiente?",
-      "context": "Un grupo de estudiantes quiere investigar cómo cambia la solubilidad del azúcar en agua según la temperatura.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "variar al mismo tiempo la temperatura, el volumen de agua y el tipo de azúcar",
-          "is_correct": false,
-          "feedback": "Introduce varias variables y dificulta atribuir el efecto observado."
-        },
-        {
-          "letter": "B",
-          "text": "usar el mismo volumen de agua y el mismo tipo de azúcar, modificando solo la temperatura",
-          "is_correct": true,
-          "feedback": "Correcto. Permite asociar cambios de solubilidad a una sola variable."
-        },
-        {
-          "letter": "C",
-          "text": "mantener la temperatura fija y cambiar cada vez el recipiente y la cantidad de agua",
-          "is_correct": false,
-          "feedback": "La temperatura dejaría de ser la variable independiente."
-        },
-        {
-          "letter": "D",
-          "text": "medir una sola vez con agua caliente y concluir para todas las temperaturas",
-          "is_correct": false,
-          "feedback": "No permite comparar condiciones ni establecer tendencia."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En indagación, controlar variables es clave para sostener una conclusión válida.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analizar",
-      "icfes_type": "Indagacion",
-      "expected_success": 0.56,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v6",
-      "statement": "Un automóvil frena y sus llantas se calientan. La mejor explicación física es que",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "la energía térmica del ambiente se transformó en movimiento del carro.",
-          "is_correct": false,
-          "feedback": "La dirección del proceso es la contraria."
-        },
-        {
-          "letter": "B",
-          "text": "parte de la energía cinética del sistema se transformó en energía térmica por fricción.",
-          "is_correct": true,
-          "feedback": "Correcto. La fricción disipa energía mecánica como calor."
-        },
-        {
-          "letter": "C",
-          "text": "el calor se convirtió en masa de las llantas.",
-          "is_correct": false,
-          "feedback": "No es la interpretación adecuada del fenómeno."
-        },
-        {
-          "letter": "D",
-          "text": "el frenado elimina la energía del sistema sin transformarla.",
-          "is_correct": false,
-          "feedback": "La energía se transforma, no desaparece."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La conservación de la energía implica transformación entre formas, no desaparición.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analizar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.54,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v7",
-      "statement": "Si una característica genética está determinada por un alelo dominante, esto significa que",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "solo aparece en organismos con dos copias iguales del alelo.",
-          "is_correct": false,
-          "feedback": "Esa sería una condición típica recesiva."
-        },
-        {
-          "letter": "B",
-          "text": "basta una copia del alelo para que el rasgo se exprese en el fenotipo clásico del modelo mendeliano.",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es la idea de dominancia en el nivel introductorio."
-        },
-        {
-          "letter": "C",
-          "text": "siempre es la característica más frecuente en toda población.",
-          "is_correct": false,
-          "feedback": "Dominancia no implica mayor frecuencia poblacional."
-        },
-        {
-          "letter": "D",
-          "text": "no puede heredarse a la siguiente generación si se cruza con un recesivo.",
-          "is_correct": false,
-          "feedback": "Sí puede heredarse según las combinaciones genéticas."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Dominancia describe expresión fenotípica, no frecuencia ni valor adaptativo.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analizar",
-      "icfes_type": "Uso comprensivo del conocimiento cientifico",
-      "expected_success": 0.5,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v8",
-      "statement": "La hipótesis más plausible es que el aumento de nutrientes se debe a",
-      "context": "En un humedal cercano a una zona agrícola aumenta la proliferación de algas luego de temporadas de lluvia intensa.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "una reducción de la fotosíntesis por exceso de sombra.",
-          "is_correct": false,
-          "feedback": "Eso no explica el aumento de nutrientes en el agua."
-        },
-        {
-          "letter": "B",
-          "text": "la evaporación total de nitratos y fosfatos antes de llegar al humedal.",
-          "is_correct": false,
-          "feedback": "El escenario describe arrastre, no desaparición."
-        },
-        {
-          "letter": "C",
-          "text": "escorrentía y lixiviación de fertilizantes hacia el cuerpo de agua.",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es una causa típica de eutrofización."
-        },
-        {
-          "letter": "D",
-          "text": "un aumento espontáneo del oxígeno disuelto que produce más fertilizante.",
-          "is_correct": false,
-          "feedback": "Confunde variables del ecosistema."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La eutrofización suele asociarse al ingreso excesivo de nutrientes desde actividades humanas.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Aplicar",
-      "icfes_type": "Indagacion",
-      "expected_success": 0.48,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v9",
-      "statement": "Un globo lleno de aire se deja al sol y después aumenta su volumen. La mejor interpretación es que",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "el aire se vuelve más pesado y por eso ocupa más espacio.",
-          "is_correct": false,
-          "feedback": "La variación de masa no explica el aumento de volumen."
-        },
-        {
-          "letter": "B",
-          "text": "al aumentar la temperatura del gas, sus partículas se mueven con mayor energía y el volumen puede incrementarse si el recipiente es flexible.",
-          "is_correct": true,
-          "feedback": "Correcto. Relaciona temperatura, movimiento molecular y expansión."
-        },
-        {
-          "letter": "C",
-          "text": "el aire pierde presión interna de forma automática al calentarse.",
-          "is_correct": false,
-          "feedback": "En un sistema flexible la presión se ajusta con expansión, no por esa afirmación aislada."
-        },
-        {
-          "letter": "D",
-          "text": "la radiación solar transforma el aire en un líquido menos denso.",
-          "is_correct": false,
-          "feedback": "No ocurre un cambio de estado de ese tipo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Los modelos de gases explican la relación entre temperatura, energía cinética y volumen.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.46,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v10",
-      "statement": "Un estudiante concluye que un fertilizante mejora el crecimiento de las plantas porque observó una sola planta más alta después de aplicarlo. ¿Cuál es la principal debilidad de esa conclusión?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "midió la altura en centímetros y no en metros.",
-          "is_correct": false,
-          "feedback": "La unidad no es el problema central."
-        },
-        {
-          "letter": "B",
-          "text": "eligió una planta de color verde en lugar de morado.",
-          "is_correct": false,
-          "feedback": "El color no sustenta la crítica metodológica principal."
-        },
-        {
-          "letter": "C",
-          "text": "no incluyó grupo de comparación ni repeticiones suficientes para atribuir el efecto al fertilizante.",
-          "is_correct": true,
-          "feedback": "Correcto. Falta control experimental."
-        },
-        {
-          "letter": "D",
-          "text": "usó observación directa en vez de una fórmula algebraica.",
-          "is_correct": false,
-          "feedback": "El problema no es observar, sino inferir sin diseño adecuado."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La evidencia científica requiere comparación y repetición antes de inferir causalidad.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analizar",
-      "icfes_type": "Indagacion",
-      "expected_success": 0.44,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v11",
-      "statement": "La evidencia observada permite afirmar con mayor seguridad que ocurrió",
-      "context": "En un laboratorio escolar se mezclan dos soluciones incoloras y aparece un sólido blanco en el fondo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "una evaporación completa del solvente.",
-          "is_correct": false,
-          "feedback": "La aparición inmediata de sólido tras mezclar apunta a otro proceso."
-        },
-        {
-          "letter": "B",
-          "text": "una reacción de precipitación que produjo un compuesto insoluble.",
-          "is_correct": true,
-          "feedback": "Correcto. El sólido nuevo es evidencia compatible con precipitado."
-        },
-        {
-          "letter": "C",
-          "text": "una separación por destilación simple.",
-          "is_correct": false,
-          "feedback": "La destilación requiere calentamiento y cambio de fase."
-        },
-        {
-          "letter": "D",
-          "text": "una reacción nuclear de baja energía.",
-          "is_correct": false,
-          "feedback": "El fenómeno observado es químico, no nuclear."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La formación de un sólido insoluble es un indicador típico de precipitación química.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.4,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v12",
-      "statement": "En un cruce entre dos organismos heterocigotos para un rasgo mendeliano simple, la proporción fenotípica esperada clásica es 3:1. Si en la muestra observada aparece una desviación moderada de esa proporción, la explicación más prudente es que",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "las leyes mendelianas quedaron anuladas en esa especie.",
-          "is_correct": false,
-          "feedback": "Una desviación muestral no basta para sostener eso."
-        },
-        {
-          "letter": "B",
-          "text": "el rasgo dejó de depender de genes porque cambió el ambiente.",
-          "is_correct": false,
-          "feedback": "El ambiente puede influir fenotipo, pero no elimina de inmediato la herencia genética."
-        },
-        {
-          "letter": "C",
-          "text": "el tamaño de muestra, el azar biológico o variables no controladas pueden alterar los resultados observados respecto a la expectativa teórica.",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es una interpretación metodológicamente más sólida."
-        },
-        {
-          "letter": "D",
-          "text": "todo cruce heterocigoto debe producir exactamente la misma proporción en cualquier número de individuos.",
-          "is_correct": false,
-          "feedback": "La teoría describe probabilidad esperada, no exactitud absoluta en cada muestra."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La genética escolar usa proporciones esperadas probabilísticas, no garantías exactas en cada observación.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analizar",
-      "icfes_type": "Uso comprensivo del conocimiento cientifico",
-      "expected_success": 0.38,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v13",
-      "statement": "Si aumenta la concentración de dióxido de carbono en un ambiente cerrado con plantas, ¿qué variable adicional sería indispensable controlar para interpretar correctamente cualquier cambio en la fotosíntesis?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "el color de las macetas solamente",
-          "is_correct": false,
-          "feedback": "Ese detalle no es determinante frente al proceso medido."
-        },
-        {
-          "letter": "B",
-          "text": "la intensidad de luz disponible para las plantas",
-          "is_correct": true,
-          "feedback": "Correcto. La luz es una variable crítica del proceso fotosintético."
-        },
-        {
-          "letter": "C",
-          "text": "la marca del fertilizante usado meses antes",
-          "is_correct": false,
-          "feedback": "Puede influir, pero no es la variable inmediata indispensable en este diseño."
-        },
-        {
-          "letter": "D",
-          "text": "la forma geométrica exacta de cada hoja",
-          "is_correct": false,
-          "feedback": "No es el control principal pedido por el problema."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Una conclusión válida sobre fotosíntesis requiere controlar variables clave como luz, agua y temperatura.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analizar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.36,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v14",
-      "statement": "¿Cuál conclusión integra mejor esos datos?",
-      "context": "En una quebrada se registran disminución de oxígeno disuelto, aumento de nitratos y mortandad de peces después de descargas agrícolas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "la quebrada mejoró su calidad porque aumentó la materia disponible para organismos acuáticos.",
-          "is_correct": false,
-          "feedback": "La disminución de oxígeno y la mortandad contradicen esa lectura."
-        },
-        {
-          "letter": "B",
-          "text": "los peces murieron por exceso de luz solar, no por cambios del agua.",
-          "is_correct": false,
-          "feedback": "Los datos proporcionados apuntan a otra causalidad."
-        },
-        {
-          "letter": "C",
-          "text": "el ingreso de nutrientes favoreció procesos de eutrofización que alteraron el equilibrio del ecosistema acuático.",
-          "is_correct": true,
-          "feedback": "Correcto. La combinación de variables es consistente con eutrofización."
-        },
-        {
-          "letter": "D",
-          "text": "los nitratos neutralizaron la acidez y por eso cayó el oxígeno.",
-          "is_correct": false,
-          "feedback": "Esa cadena no se deriva directamente de la evidencia dada."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La lectura integrada de datos permite pasar de observaciones aisladas a explicación ecológica.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Indagacion",
-      "expected_success": 0.33,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v15",
-      "statement": "Un estudiante afirma que \"si una sustancia es natural, entonces no puede ser tóxica\". La mejor respuesta científica es que",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "tiene razón porque la toxicidad solo aparece en compuestos sintéticos.",
-          "is_correct": false,
-          "feedback": "La toxicidad depende de propiedades y dosis, no de ser natural o artificial."
-        },
-        {
-          "letter": "B",
-          "text": "se equivoca porque el origen natural no garantiza inocuidad; importa la sustancia, la dosis y la vía de exposición.",
-          "is_correct": true,
-          "feedback": "Correcto. Ese es el criterio científico pertinente."
-        },
-        {
-          "letter": "C",
-          "text": "la toxicidad solo se define por el color y el olor de la sustancia.",
-          "is_correct": false,
-          "feedback": "Esos rasgos no bastan para definir toxicidad."
-        },
-        {
-          "letter": "D",
-          "text": "toda sustancia natural es ácida y por eso siempre peligrosa.",
-          "is_correct": false,
-          "feedback": "La afirmación mezcla conceptos y generaliza sin base."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El análisis científico evita dicotomías simplistas entre natural y artificial.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.31,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v16",
-      "statement": "¿Qué comparación describe mejor la diferencia entre mitosis y meiosis en el nivel escolar?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "ambas producen siempre cuatro células genéticamente idénticas.",
-          "is_correct": false,
-          "feedback": "Esa descripción no corresponde a ambos procesos."
-        },
-        {
-          "letter": "B",
-          "text": "la mitosis ocurre solo en plantas y la meiosis solo en animales.",
-          "is_correct": false,
-          "feedback": "Esa separación por grupos biológicos es incorrecta."
-        },
-        {
-          "letter": "C",
-          "text": "la mitosis mantiene el número cromosómico en células somáticas, mientras la meiosis lo reduce para formar gametos.",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es la diferencia conceptual central."
-        },
-        {
-          "letter": "D",
-          "text": "la meiosis repara tejidos y la mitosis produce exclusivamente gametos.",
-          "is_correct": false,
-          "feedback": "Invierte funciones de los procesos."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La comparación correcta debe captar función biológica y cambio cromosómico.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Sintetizar",
-      "icfes_type": "Uso comprensivo del conocimiento cientifico",
-      "expected_success": 0.29,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v17",
-      "statement": "¿Cuál evaluación es más sólida?",
-      "context": "Un municipio propone clorar más el agua para eliminar microorganismos, mientras otro grupo advierte que el problema principal está en vertimientos orgánicos y sedimentos sin tratar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "aumentar cloro resuelve por sí solo cualquier problema de calidad del agua, sin importar su origen.",
-          "is_correct": false,
-          "feedback": "Ignora que la calidad del agua depende de varias variables físico-químicas y biológicas."
-        },
-        {
-          "letter": "B",
-          "text": "los vertimientos orgánicos no afectan un sistema acuático si el agua sigue viéndose transparente.",
-          "is_correct": false,
-          "feedback": "La apariencia no basta para evaluar contaminación."
-        },
-        {
-          "letter": "C",
-          "text": "la desinfección puede ser necesaria, pero debe acompañarse de control de vertimientos y tratamiento integral según las fuentes de contaminación.",
-          "is_correct": true,
-          "feedback": "Correcto. La respuesta científica integra causas y medidas distintas."
-        },
-        {
-          "letter": "D",
-          "text": "toda intervención sobre el agua debe suspenderse hasta que se elimine completamente la actividad humana.",
-          "is_correct": false,
-          "feedback": "Es una conclusión inviable y no deriva del análisis técnico."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Los problemas ambientales complejos requieren medidas diferenciadas según causa y escala.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Indagacion",
-      "expected_success": 0.26,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v18",
-      "statement": "Si en una población de insectos un pesticida elimina a la mayoría pero sobrevive un pequeño grupo con mayor resistencia, la interpretación evolutiva más adecuada es que",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "el pesticida creó intencionalmente genes nuevos de resistencia en cada insecto expuesto.",
-          "is_correct": false,
-          "feedback": "La formulación finalista es inadecuada."
-        },
-        {
-          "letter": "B",
-          "text": "la presión de selección favoreció individuos con variaciones previas que les permitieron sobrevivir y reproducirse.",
-          "is_correct": true,
-          "feedback": "Correcto. Describe selección natural sobre variación existente."
-        },
-        {
-          "letter": "C",
-          "text": "todos los insectos restantes decidieron adaptarse de manera consciente.",
-          "is_correct": false,
-          "feedback": "La adaptación evolutiva no opera por decisión individual."
-        },
-        {
-          "letter": "D",
-          "text": "la resistencia demuestra que ya no existen leyes biológicas en esa población.",
-          "is_correct": false,
-          "feedback": "Es una conclusión absurda frente al fenómeno descrito."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La selección natural actúa sobre variaciones heredables ya presentes en la población.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Explicacion de fenomenos",
-      "expected_success": 0.25,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v19",
-      "statement": "¿Qué plan de indagación sería más pertinente para una primera fase?",
-      "context": "Una comunidad sospecha que una cantera cercana está afectando la calidad del agua y la salud respiratoria local. Debe priorizar un estudio inicial con recursos limitados.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "entrevistar solo a la empresa y aceptar su reporte técnico como evidencia suficiente",
-          "is_correct": false,
-          "feedback": "Deja por fuera verificación independiente y medición directa."
-        },
-        {
-          "letter": "B",
-          "text": "medir únicamente la opinión de los habitantes sin recoger datos ambientales o de salud",
-          "is_correct": false,
-          "feedback": "La percepción importa, pero no sustituye evidencia física y epidemiológica básica."
-        },
-        {
-          "letter": "C",
-          "text": "combinar muestreo de agua, registro comparativo de material particulado y datos de salud local para establecer si existe una asociación que justifique estudios más profundos",
-          "is_correct": true,
-          "feedback": "Correcto. Integra variables ambientales y sanitarias con un diseño inicial razonable."
-        },
-        {
-          "letter": "D",
-          "text": "esperar varios años sin medir nada para observar si el problema desaparece solo",
-          "is_correct": false,
-          "feedback": "No es un plan de indagación responsable."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La indagación científica inicia con datos relevantes, comparables y suficientes para formular hipótesis mejor sustentadas.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Crear",
-      "icfes_type": "Indagacion",
-      "expected_success": 0.23,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v20",
-      "statement": "¿Cuál afirmación expresa mejor una comprensión integrada entre ciencia escolar y decisión pública?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "la política ambiental debe ignorar la evidencia científica porque cambia con frecuencia",
-          "is_correct": false,
-          "feedback": "La revisión de evidencia no invalida su valor para decidir mejor."
-        },
-        {
-          "letter": "B",
-          "text": "basta con una medición aislada para diseñar políticas definitivas sobre ecosistemas complejos",
-          "is_correct": false,
-          "feedback": "Los sistemas complejos requieren evidencia más robusta."
-        },
-        {
-          "letter": "C",
-          "text": "la evidencia científica orienta decisiones públicas, pero debe leerse con cuidado metodológico y junto con el contexto social del problema",
-          "is_correct": true,
-          "feedback": "Correcto. Reconoce el papel de la evidencia sin simplificar su uso."
-        },
-        {
-          "letter": "D",
-          "text": "la ciencia y la ciudadanía pertenecen a ámbitos separados que no deben mezclarse",
-          "is_correct": false,
-          "feedback": "En problemas ambientales y sanitarios sí deben articularse."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La alfabetización científica escolar también implica usar evidencia de manera responsable en contextos sociales reales.",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluar",
-      "icfes_type": "Uso comprensivo del conocimiento cientifico",
-      "expected_success": 0.21,
-      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
@@ -6825,6 +6051,866 @@
       "bundle_id": "CO-CN-11-P1-fisica-dinamica-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v1",
+      "statement": "Cuando se agrega sal de cocina al agua y esta desaparece visualmente, el proceso se describe mejor como",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "evaporación del soluto",
+          "is_correct": false,
+          "feedback": "El soluto no se evapora en ese proceso."
+        },
+        {
+          "letter": "B",
+          "text": "disolución del soluto en el solvente",
+          "is_correct": true,
+          "feedback": "Correcto. La sal se dispersa a nivel microscópico en el agua."
+        },
+        {
+          "letter": "C",
+          "text": "combustión de un compuesto iónico",
+          "is_correct": false,
+          "feedback": "No hay reacción de combustión."
+        },
+        {
+          "letter": "D",
+          "text": "precipitación del solvente",
+          "is_correct": false,
+          "feedback": "La precipitación es formación de sólido, no desaparición visual de la sal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La disolución forma una mezcla homogénea sin que el soluto deje de existir.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Comprender",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v2",
+      "statement": "Si un objeto aumenta su velocidad en línea recta, necesariamente está experimentando",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equilibrio térmico",
+          "is_correct": false,
+          "feedback": "La temperatura no determina por sí misma ese cambio."
+        },
+        {
+          "letter": "B",
+          "text": "aceleración distinta de cero",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar la velocidad implica aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "masa variable en el tiempo",
+          "is_correct": false,
+          "feedback": "El cambio de velocidad no exige cambio de masa."
+        },
+        {
+          "letter": "D",
+          "text": "ausencia total de fuerzas",
+          "is_correct": false,
+          "feedback": "Sin fuerza neta no habría aceleración según el modelo clásico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aceleración mide el cambio de velocidad, no solo el cambio de dirección.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Comprender",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v3",
+      "statement": "Una solución tiene pH 3. Frente a una solución con pH 7, puede afirmarse que la primera",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "es más básica porque tiene menos agua neutra.",
+          "is_correct": false,
+          "feedback": "pH menor indica mayor acidez, no mayor basicidad."
+        },
+        {
+          "letter": "B",
+          "text": "es más ácida y tiene mayor concentración de iones hidrógeno.",
+          "is_correct": true,
+          "feedback": "Correcto. Un pH bajo corresponde a mayor acidez."
+        },
+        {
+          "letter": "C",
+          "text": "tiene la misma acidez pero diferente color.",
+          "is_correct": false,
+          "feedback": "El dato clave es la concentración relativa de iones."
+        },
+        {
+          "letter": "D",
+          "text": "es neutra porque el pH siempre se mide sobre siete unidades.",
+          "is_correct": false,
+          "feedback": "La neutralidad se aproxima a pH 7, no a cualquier valor de la escala."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala de pH relaciona concentración de iones hidrógeno y carácter ácido-base.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Aplicar",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v4",
+      "statement": "Si una crece menos que la otra, la explicación más sólida es que",
+      "context": "Dos plantas del mismo genotipo reciben distinta cantidad de luz durante varias semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el ADN dejó de existir en la planta que recibió menos luz.",
+          "is_correct": false,
+          "feedback": "La menor luz no elimina el material genético."
+        },
+        {
+          "letter": "B",
+          "text": "el ambiente modificó la expresión del crecimiento sin cambiar necesariamente el genotipo.",
+          "is_correct": true,
+          "feedback": "Correcto. Un mismo genotipo puede producir fenotipos distintos según el ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "la planta con menos luz desarrolló automáticamente mutaciones letales.",
+          "is_correct": false,
+          "feedback": "La situación descrita no permite concluir eso."
+        },
+        {
+          "letter": "D",
+          "text": "el genotipo de ambas dejó de ser comparable por pertenecer a la misma especie.",
+          "is_correct": false,
+          "feedback": "Ser de la misma especie no impide comparar genotipos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El fenotipo resulta de la interacción entre genes y ambiente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Aplicar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v5",
+      "statement": "¿Cuál diseño experimental controla mejor la variable independiente?",
+      "context": "Un grupo de estudiantes quiere investigar cómo cambia la solubilidad del azúcar en agua según la temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "variar al mismo tiempo la temperatura, el volumen de agua y el tipo de azúcar",
+          "is_correct": false,
+          "feedback": "Introduce varias variables y dificulta atribuir el efecto observado."
+        },
+        {
+          "letter": "B",
+          "text": "usar el mismo volumen de agua y el mismo tipo de azúcar, modificando solo la temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. Permite asociar cambios de solubilidad a una sola variable."
+        },
+        {
+          "letter": "C",
+          "text": "mantener la temperatura fija y cambiar cada vez el recipiente y la cantidad de agua",
+          "is_correct": false,
+          "feedback": "La temperatura dejaría de ser la variable independiente."
+        },
+        {
+          "letter": "D",
+          "text": "medir una sola vez con agua caliente y concluir para todas las temperaturas",
+          "is_correct": false,
+          "feedback": "No permite comparar condiciones ni establecer tendencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En indagación, controlar variables es clave para sostener una conclusión válida.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Indagacion",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v6",
+      "statement": "Un automóvil frena y sus llantas se calientan. La mejor explicación física es que",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la energía térmica del ambiente se transformó en movimiento del carro.",
+          "is_correct": false,
+          "feedback": "La dirección del proceso es la contraria."
+        },
+        {
+          "letter": "B",
+          "text": "parte de la energía cinética del sistema se transformó en energía térmica por fricción.",
+          "is_correct": true,
+          "feedback": "Correcto. La fricción disipa energía mecánica como calor."
+        },
+        {
+          "letter": "C",
+          "text": "el calor se convirtió en masa de las llantas.",
+          "is_correct": false,
+          "feedback": "No es la interpretación adecuada del fenómeno."
+        },
+        {
+          "letter": "D",
+          "text": "el frenado elimina la energía del sistema sin transformarla.",
+          "is_correct": false,
+          "feedback": "La energía se transforma, no desaparece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conservación de la energía implica transformación entre formas, no desaparición.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v7",
+      "statement": "Si una característica genética está determinada por un alelo dominante, esto significa que",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "solo aparece en organismos con dos copias iguales del alelo.",
+          "is_correct": false,
+          "feedback": "Esa sería una condición típica recesiva."
+        },
+        {
+          "letter": "B",
+          "text": "basta una copia del alelo para que el rasgo se exprese en el fenotipo clásico del modelo mendeliano.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la idea de dominancia en el nivel introductorio."
+        },
+        {
+          "letter": "C",
+          "text": "siempre es la característica más frecuente en toda población.",
+          "is_correct": false,
+          "feedback": "Dominancia no implica mayor frecuencia poblacional."
+        },
+        {
+          "letter": "D",
+          "text": "no puede heredarse a la siguiente generación si se cruza con un recesivo.",
+          "is_correct": false,
+          "feedback": "Sí puede heredarse según las combinaciones genéticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dominancia describe expresión fenotípica, no frecuencia ni valor adaptativo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v8",
+      "statement": "La hipótesis más plausible es que el aumento de nutrientes se debe a",
+      "context": "En un humedal cercano a una zona agrícola aumenta la proliferación de algas luego de temporadas de lluvia intensa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "una reducción de la fotosíntesis por exceso de sombra.",
+          "is_correct": false,
+          "feedback": "Eso no explica el aumento de nutrientes en el agua."
+        },
+        {
+          "letter": "B",
+          "text": "la evaporación total de nitratos y fosfatos antes de llegar al humedal.",
+          "is_correct": false,
+          "feedback": "El escenario describe arrastre, no desaparición."
+        },
+        {
+          "letter": "C",
+          "text": "escorrentía y lixiviación de fertilizantes hacia el cuerpo de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es una causa típica de eutrofización."
+        },
+        {
+          "letter": "D",
+          "text": "un aumento espontáneo del oxígeno disuelto que produce más fertilizante.",
+          "is_correct": false,
+          "feedback": "Confunde variables del ecosistema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La eutrofización suele asociarse al ingreso excesivo de nutrientes desde actividades humanas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Aplicar",
+      "icfes_type": "Indagacion",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v9",
+      "statement": "Un globo lleno de aire se deja al sol y después aumenta su volumen. La mejor interpretación es que",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el aire se vuelve más pesado y por eso ocupa más espacio.",
+          "is_correct": false,
+          "feedback": "La variación de masa no explica el aumento de volumen."
+        },
+        {
+          "letter": "B",
+          "text": "al aumentar la temperatura del gas, sus partículas se mueven con mayor energía y el volumen puede incrementarse si el recipiente es flexible.",
+          "is_correct": true,
+          "feedback": "Correcto. Relaciona temperatura, movimiento molecular y expansión."
+        },
+        {
+          "letter": "C",
+          "text": "el aire pierde presión interna de forma automática al calentarse.",
+          "is_correct": false,
+          "feedback": "En un sistema flexible la presión se ajusta con expansión, no por esa afirmación aislada."
+        },
+        {
+          "letter": "D",
+          "text": "la radiación solar transforma el aire en un líquido menos denso.",
+          "is_correct": false,
+          "feedback": "No ocurre un cambio de estado de ese tipo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los modelos de gases explican la relación entre temperatura, energía cinética y volumen.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.46,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v10",
+      "statement": "Un estudiante concluye que un fertilizante mejora el crecimiento de las plantas porque observó una sola planta más alta después de aplicarlo. ¿Cuál es la principal debilidad de esa conclusión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "midió la altura en centímetros y no en metros.",
+          "is_correct": false,
+          "feedback": "La unidad no es el problema central."
+        },
+        {
+          "letter": "B",
+          "text": "eligió una planta de color verde en lugar de morado.",
+          "is_correct": false,
+          "feedback": "El color no sustenta la crítica metodológica principal."
+        },
+        {
+          "letter": "C",
+          "text": "no incluyó grupo de comparación ni repeticiones suficientes para atribuir el efecto al fertilizante.",
+          "is_correct": true,
+          "feedback": "Correcto. Falta control experimental."
+        },
+        {
+          "letter": "D",
+          "text": "usó observación directa en vez de una fórmula algebraica.",
+          "is_correct": false,
+          "feedback": "El problema no es observar, sino inferir sin diseño adecuado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evidencia científica requiere comparación y repetición antes de inferir causalidad.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Indagacion",
+      "expected_success": 0.44,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v11",
+      "statement": "La evidencia observada permite afirmar con mayor seguridad que ocurrió",
+      "context": "En un laboratorio escolar se mezclan dos soluciones incoloras y aparece un sólido blanco en el fondo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "una evaporación completa del solvente.",
+          "is_correct": false,
+          "feedback": "La aparición inmediata de sólido tras mezclar apunta a otro proceso."
+        },
+        {
+          "letter": "B",
+          "text": "una reacción de precipitación que produjo un compuesto insoluble.",
+          "is_correct": true,
+          "feedback": "Correcto. El sólido nuevo es evidencia compatible con precipitado."
+        },
+        {
+          "letter": "C",
+          "text": "una separación por destilación simple.",
+          "is_correct": false,
+          "feedback": "La destilación requiere calentamiento y cambio de fase."
+        },
+        {
+          "letter": "D",
+          "text": "una reacción nuclear de baja energía.",
+          "is_correct": false,
+          "feedback": "El fenómeno observado es químico, no nuclear."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La formación de un sólido insoluble es un indicador típico de precipitación química.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.4,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v12",
+      "statement": "En un cruce entre dos organismos heterocigotos para un rasgo mendeliano simple, la proporción fenotípica esperada clásica es 3:1. Si en la muestra observada aparece una desviación moderada de esa proporción, la explicación más prudente es que",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "las leyes mendelianas quedaron anuladas en esa especie.",
+          "is_correct": false,
+          "feedback": "Una desviación muestral no basta para sostener eso."
+        },
+        {
+          "letter": "B",
+          "text": "el rasgo dejó de depender de genes porque cambió el ambiente.",
+          "is_correct": false,
+          "feedback": "El ambiente puede influir fenotipo, pero no elimina de inmediato la herencia genética."
+        },
+        {
+          "letter": "C",
+          "text": "el tamaño de muestra, el azar biológico o variables no controladas pueden alterar los resultados observados respecto a la expectativa teórica.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es una interpretación metodológicamente más sólida."
+        },
+        {
+          "letter": "D",
+          "text": "todo cruce heterocigoto debe producir exactamente la misma proporción en cualquier número de individuos.",
+          "is_correct": false,
+          "feedback": "La teoría describe probabilidad esperada, no exactitud absoluta en cada muestra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La genética escolar usa proporciones esperadas probabilísticas, no garantías exactas en cada observación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v13",
+      "statement": "Si aumenta la concentración de dióxido de carbono en un ambiente cerrado con plantas, ¿qué variable adicional sería indispensable controlar para interpretar correctamente cualquier cambio en la fotosíntesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el color de las macetas solamente",
+          "is_correct": false,
+          "feedback": "Ese detalle no es determinante frente al proceso medido."
+        },
+        {
+          "letter": "B",
+          "text": "la intensidad de luz disponible para las plantas",
+          "is_correct": true,
+          "feedback": "Correcto. La luz es una variable crítica del proceso fotosintético."
+        },
+        {
+          "letter": "C",
+          "text": "la marca del fertilizante usado meses antes",
+          "is_correct": false,
+          "feedback": "Puede influir, pero no es la variable inmediata indispensable en este diseño."
+        },
+        {
+          "letter": "D",
+          "text": "la forma geométrica exacta de cada hoja",
+          "is_correct": false,
+          "feedback": "No es el control principal pedido por el problema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una conclusión válida sobre fotosíntesis requiere controlar variables clave como luz, agua y temperatura.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.36,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v14",
+      "statement": "¿Cuál conclusión integra mejor esos datos?",
+      "context": "En una quebrada se registran disminución de oxígeno disuelto, aumento de nitratos y mortandad de peces después de descargas agrícolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la quebrada mejoró su calidad porque aumentó la materia disponible para organismos acuáticos.",
+          "is_correct": false,
+          "feedback": "La disminución de oxígeno y la mortandad contradicen esa lectura."
+        },
+        {
+          "letter": "B",
+          "text": "los peces murieron por exceso de luz solar, no por cambios del agua.",
+          "is_correct": false,
+          "feedback": "Los datos proporcionados apuntan a otra causalidad."
+        },
+        {
+          "letter": "C",
+          "text": "el ingreso de nutrientes favoreció procesos de eutrofización que alteraron el equilibrio del ecosistema acuático.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de variables es consistente con eutrofización."
+        },
+        {
+          "letter": "D",
+          "text": "los nitratos neutralizaron la acidez y por eso cayó el oxígeno.",
+          "is_correct": false,
+          "feedback": "Esa cadena no se deriva directamente de la evidencia dada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura integrada de datos permite pasar de observaciones aisladas a explicación ecológica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Indagacion",
+      "expected_success": 0.33,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v15",
+      "statement": "Un estudiante afirma que \"si una sustancia es natural, entonces no puede ser tóxica\". La mejor respuesta científica es que",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tiene razón porque la toxicidad solo aparece en compuestos sintéticos.",
+          "is_correct": false,
+          "feedback": "La toxicidad depende de propiedades y dosis, no de ser natural o artificial."
+        },
+        {
+          "letter": "B",
+          "text": "se equivoca porque el origen natural no garantiza inocuidad; importa la sustancia, la dosis y la vía de exposición.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el criterio científico pertinente."
+        },
+        {
+          "letter": "C",
+          "text": "la toxicidad solo se define por el color y el olor de la sustancia.",
+          "is_correct": false,
+          "feedback": "Esos rasgos no bastan para definir toxicidad."
+        },
+        {
+          "letter": "D",
+          "text": "toda sustancia natural es ácida y por eso siempre peligrosa.",
+          "is_correct": false,
+          "feedback": "La afirmación mezcla conceptos y generaliza sin base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis científico evita dicotomías simplistas entre natural y artificial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.31,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v16",
+      "statement": "¿Qué comparación describe mejor la diferencia entre mitosis y meiosis en el nivel escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ambas producen siempre cuatro células genéticamente idénticas.",
+          "is_correct": false,
+          "feedback": "Esa descripción no corresponde a ambos procesos."
+        },
+        {
+          "letter": "B",
+          "text": "la mitosis ocurre solo en plantas y la meiosis solo en animales.",
+          "is_correct": false,
+          "feedback": "Esa separación por grupos biológicos es incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "la mitosis mantiene el número cromosómico en células somáticas, mientras la meiosis lo reduce para formar gametos.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la diferencia conceptual central."
+        },
+        {
+          "letter": "D",
+          "text": "la meiosis repara tejidos y la mitosis produce exclusivamente gametos.",
+          "is_correct": false,
+          "feedback": "Invierte funciones de los procesos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comparación correcta debe captar función biológica y cambio cromosómico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Sintetizar",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "expected_success": 0.29,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v17",
+      "statement": "¿Cuál evaluación es más sólida?",
+      "context": "Un municipio propone clorar más el agua para eliminar microorganismos, mientras otro grupo advierte que el problema principal está en vertimientos orgánicos y sedimentos sin tratar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aumentar cloro resuelve por sí solo cualquier problema de calidad del agua, sin importar su origen.",
+          "is_correct": false,
+          "feedback": "Ignora que la calidad del agua depende de varias variables físico-químicas y biológicas."
+        },
+        {
+          "letter": "B",
+          "text": "los vertimientos orgánicos no afectan un sistema acuático si el agua sigue viéndose transparente.",
+          "is_correct": false,
+          "feedback": "La apariencia no basta para evaluar contaminación."
+        },
+        {
+          "letter": "C",
+          "text": "la desinfección puede ser necesaria, pero debe acompañarse de control de vertimientos y tratamiento integral según las fuentes de contaminación.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta científica integra causas y medidas distintas."
+        },
+        {
+          "letter": "D",
+          "text": "toda intervención sobre el agua debe suspenderse hasta que se elimine completamente la actividad humana.",
+          "is_correct": false,
+          "feedback": "Es una conclusión inviable y no deriva del análisis técnico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los problemas ambientales complejos requieren medidas diferenciadas según causa y escala.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Indagacion",
+      "expected_success": 0.26,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v18",
+      "statement": "Si en una población de insectos un pesticida elimina a la mayoría pero sobrevive un pequeño grupo con mayor resistencia, la interpretación evolutiva más adecuada es que",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el pesticida creó intencionalmente genes nuevos de resistencia en cada insecto expuesto.",
+          "is_correct": false,
+          "feedback": "La formulación finalista es inadecuada."
+        },
+        {
+          "letter": "B",
+          "text": "la presión de selección favoreció individuos con variaciones previas que les permitieron sobrevivir y reproducirse.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe selección natural sobre variación existente."
+        },
+        {
+          "letter": "C",
+          "text": "todos los insectos restantes decidieron adaptarse de manera consciente.",
+          "is_correct": false,
+          "feedback": "La adaptación evolutiva no opera por decisión individual."
+        },
+        {
+          "letter": "D",
+          "text": "la resistencia demuestra que ya no existen leyes biológicas en esa población.",
+          "is_correct": false,
+          "feedback": "Es una conclusión absurda frente al fenómeno descrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La selección natural actúa sobre variaciones heredables ya presentes en la población.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Explicacion de fenomenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v19",
+      "statement": "¿Qué plan de indagación sería más pertinente para una primera fase?",
+      "context": "Una comunidad sospecha que una cantera cercana está afectando la calidad del agua y la salud respiratoria local. Debe priorizar un estudio inicial con recursos limitados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "entrevistar solo a la empresa y aceptar su reporte técnico como evidencia suficiente",
+          "is_correct": false,
+          "feedback": "Deja por fuera verificación independiente y medición directa."
+        },
+        {
+          "letter": "B",
+          "text": "medir únicamente la opinión de los habitantes sin recoger datos ambientales o de salud",
+          "is_correct": false,
+          "feedback": "La percepción importa, pero no sustituye evidencia física y epidemiológica básica."
+        },
+        {
+          "letter": "C",
+          "text": "combinar muestreo de agua, registro comparativo de material particulado y datos de salud local para establecer si existe una asociación que justifique estudios más profundos",
+          "is_correct": true,
+          "feedback": "Correcto. Integra variables ambientales y sanitarias con un diseño inicial razonable."
+        },
+        {
+          "letter": "D",
+          "text": "esperar varios años sin medir nada para observar si el problema desaparece solo",
+          "is_correct": false,
+          "feedback": "No es un plan de indagación responsable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La indagación científica inicia con datos relevantes, comparables y suficientes para formular hipótesis mejor sustentadas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Crear",
+      "icfes_type": "Indagacion",
+      "expected_success": 0.23,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-v20",
+      "statement": "¿Cuál afirmación expresa mejor una comprensión integrada entre ciencia escolar y decisión pública?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la política ambiental debe ignorar la evidencia científica porque cambia con frecuencia",
+          "is_correct": false,
+          "feedback": "La revisión de evidencia no invalida su valor para decidir mejor."
+        },
+        {
+          "letter": "B",
+          "text": "basta con una medición aislada para diseñar políticas definitivas sobre ecosistemas complejos",
+          "is_correct": false,
+          "feedback": "Los sistemas complejos requieren evidencia más robusta."
+        },
+        {
+          "letter": "C",
+          "text": "la evidencia científica orienta decisiones públicas, pero debe leerse con cuidado metodológico y junto con el contexto social del problema",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce el papel de la evidencia sin simplificar su uso."
+        },
+        {
+          "letter": "D",
+          "text": "la ciencia y la ciudadanía pertenecen a ámbitos separados que no deben mezclarse",
+          "is_correct": false,
+          "feedback": "En problemas ambientales y sanitarios sí deben articularse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La alfabetización científica escolar también implica usar evidencia de manera responsable en contextos sociales reales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "expected_success": 0.21,
+      "bundle_id": "CO-CIE-11-P1-fisicoquimica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
       "cefr_level": null
     },
     {
