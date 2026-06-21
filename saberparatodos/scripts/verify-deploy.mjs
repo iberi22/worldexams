@@ -2,7 +2,7 @@
 /**
  * verify-deploy.mjs
  * 
- * Verifica el deploy de v0.14.0 en producción:
+ * Verifica el deploy en producción:
  * 1. Endpoints HTTP responden correctamente
  * 2. Packs estáticos tienen campo `context`
  * 3. Current.json tiene versión correcta
@@ -10,17 +10,31 @@
  * 
  * Uso: node scripts/verify-deploy.mjs [baseUrl]
  * Default: https://saberparatodos.space
- * Preview: node scripts/verify-deploy.mjs https://xxx.saberparatodos.pages.dev
  */
+
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// 1. Leer versión de package.json
+const pkgPath = path.join(__dirname, '..', 'package.json');
+const pkg = JSON.parse(fs.readFileSync(pkgPath, 'utf8'));
+const EXPECTED_VERSION = pkg.version;
 
 const BASE = process.argv[2] || 'https://saberparatodos.space';
 
 const API_PACKS = `${BASE}/api/packs/current.json`;
+const API_METADATA = `${BASE}/api/packs/metadata.json`;
 const API_GENERATE = `${BASE}/api/exam/generate`;
-const STATIC_PACKS = [
+
+// Fallback STATIC_PACKS si falla la lectura dinámica
+const DEFAULT_STATIC_PACKS = [
   'co-week-1-grade-11-subject-matematicas.json',
   'co-week-1-grade-3-subject-lectura_critica.json',
-  'global-ingles-week-1-grade-6-subject-ingles.json'
+  'week-1-grade-6-subject-ingles.json'
 ];
 
 let passed = 0;
@@ -40,8 +54,49 @@ async function fetchJSON(url) {
   return { status: res.status, data: await res.json() };
 }
 
+function samplePacks(packs, count = 3) {
+  if (!packs || packs.length === 0) return [];
+
+  // Agrupar por subject para intentar diversificar
+  const bySubject = {};
+  for (const p of packs) {
+    const match = p.match(/subject-(.+)$/);
+    const sub = match ? match[1] : 'unknown';
+    if (!bySubject[sub]) bySubject[sub] = [];
+    bySubject[sub].push(p);
+  }
+
+  const subjects = Object.keys(bySubject);
+  const selected = [];
+
+  // Intentar tomar de distintos subjects
+  for (let i = 0; i < count; i++) {
+    if (subjects.length === 0) break;
+    const subIdx = Math.floor(Math.random() * subjects.length);
+    const sub = subjects[subIdx];
+    const subPacks = bySubject[sub];
+    const packIdx = Math.floor(Math.random() * subPacks.length);
+
+    selected.push(subPacks[packIdx] + '.json');
+
+    // Remover subject usado para diversificar
+    subjects.splice(subIdx, 1);
+  }
+
+  // Si no hay suficientes subjects, rellenar con random
+  while (selected.length < count && packs.length > 0) {
+    const p = packs[Math.floor(Math.random() * packs.length)] + '.json';
+    if (!selected.includes(p)) {
+      selected.push(p);
+    }
+    if (selected.length >= packs.length) break;
+  }
+
+  return selected;
+}
+
 async function main() {
-  console.log(`\n🔍 Verify Deploy — ${BASE}\n`);
+  console.log(`\n🔍 Verify Deploy — ${BASE} (Expected v${EXPECTED_VERSION})\n`);
 
   // 1. Salud básica
   try {
@@ -57,20 +112,33 @@ async function main() {
   try {
     const { data } = await fetchJSON(API_PACKS);
     result(true, '📦 current.json', `version=${data.version}, last_update=${data.last_update}`);
-    result(data.version === '0.14.0', '🏷️ Version v0.14.0', `got ${data.version}`);
+    result(data.version === EXPECTED_VERSION, `🏷️ Version v${EXPECTED_VERSION}`, `got ${data.version}`);
   } catch (e) {
     result(false, '📦 current.json', e.message);
   }
 
-  // 3. Packs estáticos con context
-  for (const pack of STATIC_PACKS) {
+  // 3. Obtener packs dinámicos
+  let staticPacks = DEFAULT_STATIC_PACKS;
+  try {
+    const { data } = await fetchJSON(API_METADATA);
+    if (data.packs && Array.isArray(data.packs)) {
+      staticPacks = samplePacks(data.packs, 3);
+      result(true, '📂 Dynamic pack discovery', `Sampled ${staticPacks.join(', ')}`);
+    } else {
+      result(false, '📂 Dynamic pack discovery', 'Invalid metadata format');
+    }
+  } catch (e) {
+    result(false, '📂 Dynamic pack discovery', `Using fallbacks: ${e.message}`);
+  }
+
+  // 4. Packs estáticos con context
+  for (const pack of staticPacks) {
     try {
       const url = `${BASE}/api/packs/${pack}`;
       const { data } = await fetchJSON(url);
       const questions = data.questions || [];
       const withCtx = questions.filter(q => q.context && q.context.length > 0).length;
       const anyCtx = withCtx > 0;
-      // También chequea via endpoint directo del API Gateway
       result(anyCtx, `📚 ${pack}`, `${questions.length} preguntas, ${withCtx} con context`);
     } catch (e) {
       // Fallback al gateway estático
@@ -86,7 +154,7 @@ async function main() {
     }
   }
 
-  // 4. Generar examen de 10 preguntas
+  // 5. Generar examen de 10 preguntas
   try {
     const genRes = await fetch(API_GENERATE, {
       method: 'POST',
@@ -109,20 +177,15 @@ async function main() {
     result(false, '🧪 Examen 10 preguntas', e.message);
   }
 
-  // 5. SharedContextLayout (split-pane / modal drawer)
-  // Verificamos que el HTML renderizado contenga el selector correcto
+  // 6. SharedContextLayout
   try {
-    const examSamples = [
-      'co-week-1-grade-11-subject-matematicas',
-      'co-week-1-grade-3-subject-lectura_critica'
-    ];
-    for (const sample of examSamples) {
-      const url = `${BASE}/exam/${sample}`;
-      const res = await fetch(url);
-      const html = await res.text();
-      const hasSharedLayout = html.includes('shared') || html.includes('context-layout') || html.includes('SplitPane');
-      result(res.status === 200, `🖥️ ${sample} layout`, `HTTP ${res.status}${hasSharedLayout ? ', SharedLayout detectado' : ', sin SharedLayout en HTML'}`);
-    }
+    // Usamos el primer pack sampleado (sin el .json)
+    const sample = staticPacks[0].replace('.json', '');
+    const url = `${BASE}/exam/${sample}`;
+    const res = await fetch(url);
+    const html = await res.text();
+    const hasSharedLayout = html.includes('shared') || html.includes('context-layout') || html.includes('SplitPane');
+    result(res.status === 200, `🖥️ ${sample} layout`, `HTTP ${res.status}${hasSharedLayout ? ', SharedLayout detectado' : ', sin SharedLayout en HTML'}`);
   } catch (e) {
     result(false, '🖥️ Exam page check', e.message);
   }
