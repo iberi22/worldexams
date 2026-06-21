@@ -866,6 +866,806 @@
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v1",
+      "statement": "En una clase de matemática de un colegio de Palermo, la profesora escribe en el pizarrón la expresión $3(x + 2) - 2x$. Si la simplificás, ¿qué expresión obtenés?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 6$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$5x + 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x + 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$3x + 4$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $3(x+2) = 3x + 6$, luego $3x + 6 - 2x = x + 6$.\n**Distractores:**\n- B) Suma coeficientes en lugar de distribuir.\n- C) Omite el 6 de la distribución.\n- D) Distribuye mal el 3.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v2",
+      "statement": "Martina va a comprar **facturas** para el desayuno. Le pide al almacenero de su barrio en Córdoba: \"Deme $x$ docenas de facturas\". Si cada docena cuesta **\\$450** y encima compra **2 medialunas sueltas** a **\\$120 cada una**, ¿cuál expresión representa lo que gasta Martina en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$450x + 240$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$450x + 120$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$450 + 240x$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$(450 + 120)x$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $450x$ por las $x$ docenas más $2 \\times 120 = 240$ por las medialunas sueltas.\n**Distractores:**\n- B) Solo cuenta una medialuna.\n- C) Invierte variable y constante.\n- D) Agrega todo como si fuera un producto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v3",
+      "statement": "En la fábrica de alfajores \"La Marplatense\", el costo de producción por caja está dado por $C(x) = 3x^2 + 12x + 5$, donde $x$ es la cantidad de cientos de cajas. ¿Cuánto vale $C(2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "41",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "53",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "35",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $C(2) = 3(4) + 12(2) + 5 = 12 + 24 + 5 = 41$.\n**Distractores:**\n- B) Olvida el término lineal.\n- C) Error al calcular $2^2$.\n- D) Olvida la constante.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v4",
+      "statement": "Resolvé la ecuación $2x - 7 = 3x + 5$ y decí cuánto vale $x$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-12$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $2x - 7 = 3x + 5 \\implies -7 - 5 = 3x - 2x \\implies -12 = x$.\n**Distractores:**\n- B) Invierte el signo al despejar.\n- C) Error al pasar términos.\n- D) Error de signo y operación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v5",
+      "statement": "En la verdulería \"El Progreso\" de Mendoza, el dueño nota que la ganancia semanal $G$ (en miles de pesos) sigue la función $G(x) = -2x^2 + 12x - 10$, donde $x$ es la cantidad de cajones de tomates vendidos. ¿Cuántos cajones debe vender para que la ganancia sea máxima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. El vértice de la parábola es $x_v = -\\frac{b}{2a} = -\\frac{12}{2(-2)} = 3$.\n**Distractores:**\n- B) Confunde $b$ con $x_v$.\n- C) Aproxima mal.\n- D) Usa $a$ en vez de $b$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v6",
+      "statement": "Factorizá completamente el polinomio $x^2 - 7x + 12$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 3)(x - 4)$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)(x + 4)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 3)(x + 4)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 3)(x - 4)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. Dos números que sumen $-7$ y multipliquen $12$ son $-3$ y $-4$.\n**Distractores:**\n- B) Los signos están invertidos.\n- C) La suma da $+1$, no $-7$.\n- D) La suma da $-1$, no $-7$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v7",
+      "statement": "Un grupo de amigos de La Boca arma una peña folclórica. El número de asistentes $A$ (en decenas) $t$ horas después de abrir las puertas sigue $A(t) = -t^2 + 8t + 20$. ¿En qué momento se alcanza la máxima cantidad de asistentes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 horas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "2 horas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "8 horas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "6 horas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $t_v = -\\frac{8}{2(-1)} = 4$.\n**Distractores:**\n- B) Calcula mal $b/2a$ con signo.\n- C) Usa $b$ directamente.\n- D) Aproximación errónea.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v8",
+      "statement": "Resolvé el sistema:\n\n\\[\n\\begin{cases}\nx + y = 10 \\\\\n2x - y = 5\n\\end{cases}\n\\]",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5, y = 5$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3, y = 7$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 6, y = 4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4, y = 6$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. Sumando: $3x = 15 \\implies x = 5$, luego $5 + y = 10 \\implies y = 5$.\n**Distractores:**\n- B) No satisface la segunda ecuación ($6 - 7 = -1 \\neq 5$).\n- C) $12 - 4 = 8 \\neq 5$.\n- D) $8 - 6 = 2 \\neq 5$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v9",
+      "statement": "En una fábrica de muebles de Villa Crespo, el ingreso mensual $I$ (en millones de pesos) por producir $x$ juegos de living es $I(x) = 250x - 5x^2$. Si el costo es $C(x) = 80x + 180$, la ganancia $G(x) = I(x) - C(x)$ es una función cuadrática. ¿Cuál es su expresión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$G(x) = -5x^2 + 170x - 180$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$G(x) = 5x^2 + 170x - 180$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$G(x) = -5x^2 + 330x - 180$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$G(x) = -5x^2 + 170x + 180$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $G(x) = (250x - 5x^2) - (80x + 180) = -5x^2 + 170x - 180$.\n**Distractores:**\n- B) Signo incorrecto en el término cuadrático.\n- C) Suma en vez de restar los costos.\n- D) Error de signo en la constante.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v10",
+      "statement": "Encontrá las raíces de $P(x) = x^3 - 4x^2 + x + 6$ sabiendo que $x = -1$ es una raíz.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1, 2, 3$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$-1, -2, -3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$-1, 1, 4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$-1, -2, 3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. Dividiendo por $(x+1)$: $x^2 - 5x + 6 = (x-2)(x-3)$. Raíces: $-1, 2, 3$.\n**Distractores:**\n- B) Signos incorrectos en las raíces del cociente.\n- C) No factoriza el cociente correctamente.\n- D) Una raíz con signo incorrecto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v11",
+      "statement": "La cantidad de litros de yerba mate que vende un almacén de Rosario sigue la función $Y(m) = m^2 - 7m + 12$, donde $m$ es el mes del año. ¿En qué meses la venta fue cero?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 3$ y $m = 4$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$m = 2$ y $m = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$m = 1$ y $m = 12$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$m = 4$ y $m = 5$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $m^2 - 7m + 12 = 0 \\implies (m-3)(m-4) = 0$.\n**Distractores:**\n- B) Raíces de $m^2 - 8m + 12$.\n- C) No resuelve la ecuación.\n- D) Confunde $4$ con raíz correcta pero la otra es $3$, no $5$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v12",
+      "statement": "El precio de un kilo de dulce de leche en un supermercado de San Telmo aumentó un 15% en enero y luego bajó un 10% en febrero. Si al inicio costaba $\\$C$, ¿cuál es la expresión del precio final después de los dos movimientos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C \\cdot 1.15 \\cdot 0.90$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$C \\cdot (1.15 - 0.10)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$C \\cdot 1.05$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$C \\cdot (1 + 0.15 - 0.10)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. Aumento del 15% = factor $1.15$, descuento del 10% = factor $0.90$. El orden importa y son multiplicativos.\n**Distractores:**\n- B) No se suman/restan porcentajes directamente.\n- C) Asume que $15 - 10 = 5\\%$ y aplica $1.05$, lo cual es incorrecto ($1.15 \\times 0.90 = 1.035$, o sea $3.5\\%$ de aumento neto).\n- D) Mismo error conceptual que B.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v13",
+      "statement": "Resolvé la ecuación exponencial: $2^{x+1} = 16$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $16 = 2^4$, entonces $2^{x+1} = 2^4 \\implies x + 1 = 4 \\implies x = 3$.\n**Distractores:**\n- B) Confunde el exponente con la base.\n- C) Multiplica $2 \\times 8$ en vez de igualar exponentes.\n- D) Asume $x+1 = 3$ en lugar de $4$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v14",
+      "statement": "En la clase de matemática del Nacional Buenos Aires, la profesora pide hallar el valor de $\\log_3(27) + \\log_2(8)$. ¿Cuál es el resultado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$35$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $\\log_3(27) = 3$ porque $3^3=27$; $\\log_2(8) = 3$ porque $2^3=8$. $3+3=6$.\n**Distractores:**\n- B) Confunde un logaritmo.\n- C) Multiplica $27$ y $8$ y luego intenta log.\n- D) Solo calcula un logaritmo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v15",
+      "statement": "La ganancia de un local de empanadas en Córdoba está modelada por $G(x) = -0.5x^2 + 4x - 6$ donde $x$ son cientos de empanadas vendidas por día. ¿Cuál es la ganancia máxima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$2000 (2 unidades)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\$8000 (8 unidades)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\$3000 (3 unidades)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\$5000 (5 unidades)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $x_v = -\\frac{4}{2(-0.5)} = 4$. $G(4) = -0.5(16) + 16 - 6 = -8 + 10 = 2$ (miles de pesos = \\$2000).\n**Distractores:**\n- B) Usa mal la fórmula del vértice.\n- C) Error de cálculo en G(4).\n- D) Confunde el vértice con otro valor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v16",
+      "statement": "Simplificá la expresión $\\frac{x^2 - 9}{x^2 + 6x + 9}$ al máximo, indicando la restricción.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x - 3}{x + 3}$, con $x \\neq -3$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x + 3}{x - 3}$, con $x \\neq 3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x - 3}{x + 3}$, con $x \\neq 3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x - 3$, con $x \\neq -3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. Numerador: $(x-3)(x+3)$. Denominador: $(x+3)^2$. Se simplifica $(x+3)$ y queda $\\frac{x-3}{x+3}$, con $x \\neq -3$.\n**Distractores:**\n- B) Invierte la fracción resultante.\n- C) Restricción incorrecta.\n- D) Simplifica mal (cancela todo el denominador).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v17",
+      "statement": "Resolvé la ecuación logarítmica: $\\log(x) + \\log(x - 1) = \\log(6)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$x = -2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$ y $x = -2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $\\log(x(x-1)) = \\log 6 \\implies x^2 - x - 6 = 0 \\implies (x-3)(x+2) = 0$, pero $x > 1$ por dominio, así que solo $x=3$.\n**Distractores:**\n- B) Descarta la solución positiva.\n- C) No descarta la solución negativa (fuera de dominio).\n- D) Error al resolver la cuadrática.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v18",
+      "statement": "Un micro de la línea 60 recorre la Avenida Santa Fe. La función $f(t) = -2t^2 + 16t + 1$ modela su distancia (en cuadras) desde el Obelisco $t$ minutos después de salir. ¿Cuánto tarda en llegar a la distancia máxima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 minutos",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "8 minutos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "2 minutos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "6 minutos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $t_v = -\\frac{16}{2(-2)} = 4$ minutos.\n**Distractores:**\n- B) Usa $b$ directamente.\n- C) Calcula mal el signo.\n- D) Error aritmético.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v19",
+      "statement": "Hallá el conjunto solución de la inecuación $x^2 - 3x - 10 \\leq 0$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-2, 5]$",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, -2] \\cup [5, \\infty)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$(-2, 5)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$[-5, 2]$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. Raíces: $x^2 - 3x - 10 = (x-5)(x+2) = 0 \\implies x = -2$ y $x = 5$. Como la parábola abre hacia arriba, es $\\leq 0$ entre las raíces, incluyéndolas.\n**Distractores:**\n- B) Es la solución de $\\geq 0$.\n- C) Intervalo abierto (excluye las raíces).\n- D) Raíces incorrectas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-P1-algebra-001-MASTERY-v20",
+      "statement": "En un concurso de preguntas y respuestas en la Feria del Libro de Buenos Aires, el puntaje $P(n)$ tras $n$ rondas sigue la función $P(n) = 3n^2 - 5n + 2$. Si el ganador llegó a 114 puntos, ¿cuántas rondas se jugaron?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 rondas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "6 rondas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "8 rondas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "9 rondas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Correcta:** A. $P(7) = 3(49) - 35 + 2 = 147 - 35 + 2 = 114$.\n**Distractores:**\n- B) $P(6) = 3(36) - 30 + 2 = 108 - 30 + 2 = 80$, insuficiente.\n- C) $P(8) = 3(64) - 40 + 2 = 192 - 40 + 2 = 154$, se pasa.\n- D) $P(9) = 3(81) - 45 + 2 = 243 - 45 + 2 = 200$, muy alto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
     }
   ]
 }
