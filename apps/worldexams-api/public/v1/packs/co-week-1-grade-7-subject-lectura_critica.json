@@ -8,6 +8,1896 @@
   },
   "questions": [
     {
+      "id": "q-0",
+      "statement": "¿Qué porcentaje de casos de ciberacoso en Colombia afecta a niños de 10 a 13 años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "40%.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "60%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "80%.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato estadístico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Qué ley colombiana menciona la Postura 2 sobre convivencia escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ley 100 de 1993.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Ley 115 de 1994.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Ley 1620 de 2013.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Ley 2232 de 2022.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de una referencia legal explícita.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Cuál es la tesis de la Postura 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las redes sociales son buenas para los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Debe prohibirse el registro en redes a menores de 14 años.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Los padres deben educar a los hijos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Las redes sociales deben ser gratuitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la tesis o postura central.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Cuál es la tesis de la Postura 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir las redes es la mejor solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La solución no es prohibir sino educar digitalmente.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Los niños no deben usar tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Las redes sociales deben eliminarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la tesis alternativa.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué tipo de argumento usa la Postura 1 al citar al ICBF?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad institucional (ICBF).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento lógico-deductivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de experiencia personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento del argumento basado en una fuente institucional confiable.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué tipo de argumento usa la Postura 2 al mencionar la psicóloga infantil María Restrepo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad profesional (experta en psicología infantil).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento legal.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento histórico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento del argumento basado en la autoridad de un experto.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Cuál es la premisa principal de la Postura 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los niños no saben usar el celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Los niños menores de 14 años no están preparados emocionalmente para redes sociales.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Los padres no saben educar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Las redes son ilegales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la premisa o afirmación base del argumento.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Cuál es la premisa principal de la Postura 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibición siempre funciona.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir no resuelve y los jóvenes buscarán formas de acceder igualmente.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Las redes son seguras para todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La educación digital es innecesaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la premisa base de la argumentación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Cuál es la conclusión de la Postura 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los niños deben usar más redes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Se debe aprobar una ley que prohíba el acceso a menores de 14 años.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Los profesores deben vigilar las redes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Las redes deben cerrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la conclusión a la que llega el argumentador.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Cuál es la principal diferencia en el enfoque de ambas posturas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una está a favor y otra en contra de la tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una propone prohibición como solución, la otra propone educación como solución.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Una habla de niños y otra de adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una es del gobierno y otra de psicólogos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparación de enfoques argumentativos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "¿Qué contraargumento usa implícitamente la Postura 2 contra la prohibición?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la prohibición es imposible.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la prohibición genera el efecto contrario (los jóvenes querrán acceder más).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que la prohibición es barata.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la prohibición ayuda a los padres.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia del contraargumento del \"efecto prohibición\".",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "¿Qué frase de la Postura 1 refuerza su argumento con un llamado emocional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Estudios del ICBF muestran\".",
+          "is_correct": false,
+          "feedback": "Incorrecto (es racional)."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los niños deben ser niños, no influencers\".",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "\"La Ley 1620 de 2013\".",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "\"El 40% de los casos\".",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de recursos persuasivos emocionales en la argumentación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "¿Qué postura presenta una solución más integral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Postura 1, porque prohíbe directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La Postura 2, porque combina educación a niños, padres y profesores.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son igual de integrales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es integral.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación crítica de la calidad de las soluciones propuestas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "¿Qué relación hay entre la Ley 1620 de 2013 y el argumento de la Postura 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ley contradice la postura.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La postura usa la ley como evidencia de que ya existen herramientas legales para convivencia escolar.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La ley no tiene relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La ley prohíbe las redes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de cómo una referencia legal apoya un argumento.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "¿Qué fortaleza tiene el argumento de la Postura 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se basa en datos concretos del ICBF y propone una solución clara y medible.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Es más divertida para los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "No necesita regulación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ignora el problema del ciberacoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de las fortalezas argumentativas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Qué técnica de extracción se debate en el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minería a cielo abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Fracking o fracturación hidráulica.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Perforación submarina.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Refinación química.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del tema central del debate.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Dónde se han autorizado proyectos piloto de fracking en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el Amazonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En la Costa Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "En el Magdalena Medio.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "En la Orinoquía.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de la ubicación geográfica de los proyectos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Cuál es la tesis de la Posición A?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fracking debe prohibirse totalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El fracking es necesario para la seguridad energética si se hace con control ambiental.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "El fracking contamina el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto (es de la B)."
+        },
+        {
+          "letter": "D",
+          "text": "El fracking no genera empleos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la tesis o postura central del argumentador.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Cuál es la tesis de la Posición B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fracking es seguro.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El fracking debe regularse.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "El fracking debe rechazarse porque contamina el agua, causa sismos y fomenta la dependencia fósil.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El fracking genera empleos verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de la postura contraria.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué tipo de argumento usa la Posición A al mencionar a Estados Unidos y Canadá?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad o ejemplo internacional.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento religioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento estético.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del tipo de argumento basado en ejemplos de otros países.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué tipo de argumento usa la Posición B al mencionar Argentina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento por analogía o ejemplo de consecuencias reales.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento lógico-deductivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del argumento basado en casos de otros países como advertencia.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué contraargumento implícito podría dar la Posición A a la crítica sobre contaminación del agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negar que contamine.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Afirmar que con regulaciones estrictas y tecnología moderna se puede minimizar el riesgo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Decir que el agua no importa.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar el argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de un contraargumento posible a partir de la postura defendida.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué argumento usa la Posición A sobre las energías renovables?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las renovables no funcionan.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el fracking es una solución temporal mientras se desarrollan renovables.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el fracking es una energía renovable.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que las renovables son más contaminantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un argumento de transición energética.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Qué argumento ambiental usa la Posición B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el fracking mejora el ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el fracking contamina acuíferos y puede causar sismos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el fracking reduce la contaminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el fracking es ecológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de argumentos ambientales específicos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Qué argumento económico usa la Posición A?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el fracking es caro.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que genera empleos y garantiza seguridad energética.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el fracking no da ganancias.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el fracking solo beneficia a extranjeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de argumentos económicos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "¿Qué argumento social usa la Posición B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos quieren fracking.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que las comunidades de otros países ya sufren las consecuencias.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el fracking une a las comunidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el fracking es popular.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del argumento basado en impacto social y comunitario.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "¿Qué elemento estructural comparten ambos textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos usan datos estadísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos presentan una tesis y la respaldan con argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos narran una historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos describen un proceso técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de la estructura argumentativa común.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis de estructura",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "¿Cuál de las dos posiciones usa argumentos más concretos y verificables?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Posición A: porque habla de empleos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Posición B: porque menciona casos específicos (Argentina, EE.UU., sismos) y el contexto sísmico colombiano.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna usa argumentos concretos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de la solidez de los argumentos presentados.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "¿Qué pregunta retórica usa la Posición B y con qué propósito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¿Queremos más empleos?\" para convencer.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "\"¿queremos más temblores?\" para generar preocupación y rechazo emocional.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "\"¿Es seguro?\" para informar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "\"¿Es legal?\" para confundir.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del uso de preguntas retóricas como recurso argumentativo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "Si tuvieras que tomar una decisión, ¿qué información adicional necesitarías?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, ya tengo toda la información.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Estudios ambientales colombianos independientes, datos de empleo real y alternativas energéticas disponibles.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la opinión del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la opinión de las comunidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reflexión sobre la necesidad de información complementaria para formar una opinión informada.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-7-2026-P1-textos-argumentativos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de un texto expositivo?",
+      "context": "En la clase de lengua castellana del Colegio San José de Sincelejo, la profesora explica los diferentes tipos de textos según su propósito comunicativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer al lector de una opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito de un texto argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia con personajes y conflicto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito de un texto narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "Informar, explicar o presentar información de manera objetiva sobre un tema.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expositivo busca transmitir conocimiento de forma clara y objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "Describir emociones y sentimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a textos poéticos o líricos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos expositivos (como enciclopedias, libros de texto, artículos científicos) tienen como objetivo informar o explicar un tema de manera objetiva, sin incluir opiniones personales del autor.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v2",
+      "statement": "¿Cómo se llama la oración que expresa la información más importante de un párrafo?",
+      "context": "La profesora de la I.E. Técnica de Sincelejo pide a los estudiantes que lean un párrafo y encuentren la oración más importante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración secundaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las secundarias apoyan o amplían la idea principal."
+        },
+        {
+          "letter": "B",
+          "text": "Oración exclamativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclamativa expresa emoción, no relevancia temática."
+        },
+        {
+          "letter": "C",
+          "text": "Oración temática o idea principal.",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal es la oración que contiene el mensaje central del párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coordinada se refiere a un tipo de relación sintáctica, no a contenido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La idea principal es la oración que resume el contenido esencial de un párrafo. Puede estar al inicio, en medio o al final. Las demás oraciones son ideas secundarias que la apoyan o desarrollan.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v3",
+      "statement": "¿Cuál es la idea principal del texto?",
+      "context": "Lee el siguiente texto:\r\n\r\n\"El páramo de Sumapaz es el más grande del mundo. Se encuentra en Colombia, cerca de Bogotá. En este ecosistema viven especies únicas como el frailejón y el oso de anteojos. Los páramos son importantes porque regulan el agua que consumen millones de personas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los páramos, especialmente el de Sumapaz, son ecosistemas importantes porque regulan el agua.",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal es la importancia de los páramos en la regulación del agua."
+        },
+        {
+          "letter": "B",
+          "text": "El frailejón es una planta que solo crece en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una idea secundaria, un ejemplo."
+        },
+        {
+          "letter": "C",
+          "text": "El páramo de Sumapaz está cerca de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato específico secundario."
+        },
+        {
+          "letter": "D",
+          "text": "El oso de anteojos vive en los páramos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otro detalle secundario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para identificar la idea principal, pregúntate: \"¿De qué trata el texto en su conjunto?\" y \"¿Cuál es la información más importante que el autor quiere transmitir?\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v4",
+      "statement": "¿Qué tipo de argumento es aquel que utiliza la opinión de un experto o autoridad en el tema para respaldar una idea?",
+      "context": "En la clase de lenguaje del Colegio La Salle de Barranquilla, se analizan diferentes formas de argumentar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de autoridad cita a una persona o fuente reconocida como experta en el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de experiencia personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se basa en vivencias propias."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de causa-efecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Establece una relación de causalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Apela a los sentimientos del receptor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de autoridad utiliza la credibilidad de expertos, instituciones o fuentes reconocidas para dar validez a una afirmación. Ejemplo: \"Según la OMS, la vacunación es segura.\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes oraciones expresa una idea secundaria del texto?",
+      "context": "Lee el siguiente fragmento:\r\n\r\n\"Colombia es uno de los países con mayor biodiversidad del mundo. Ocupa el primer lugar en aves y orquídeas, el segundo en plantas, anfibios y peces de agua dulce, y el tercero en reptiles. Esta riqueza natural se debe a su ubicación geográfica y variedad de climas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia tiene gran biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la idea principal del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La ubicación geográfica y variedad de climas explican la biodiversidad colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También es parte de la idea principal."
+        },
+        {
+          "letter": "C",
+          "text": "Colombia ocupa el primer lugar mundial en aves y orquídeas.",
+          "is_correct": true,
+          "feedback": "Correcto. Este es un detalle específico que apoya la idea principal."
+        },
+        {
+          "letter": "D",
+          "text": "La biodiversidad es importante para el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparece en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las ideas secundarias aportan detalles, ejemplos o datos específicos que desarrollan, explican o complementan la idea principal sin ser el mensaje central.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v6",
+      "statement": "¿Qué tipo de argumento utilizó el estudiante en la segunda parte de su intervención?",
+      "context": "En el debate del colegio San José de Cali, un estudiante dice: \"Debemos cuidar el agua porque sin ella no podemos vivir. Además, el año pasado en el municipio de El Espinal se quedaron sin agua potable y fue una emergencia.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No citó a un experto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de ejemplo o experiencia concreta.",
+          "is_correct": true,
+          "feedback": "Correcto. Usó un caso específico (El Espinal) para respaldar su afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento deductivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No va de lo general a lo particular."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede generar empatía, el énfasis está en un ejemplo concreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento mediante ejemplo utiliza un caso particular o una experiencia concreta para apoyar una idea general. Es efectivo porque hace tangible la argumentación.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v7",
+      "statement": "¿Qué tipo de texto es este?",
+      "context": "La profesora de la I.E. Normal Superior de Ocaña pide a los estudiantes que identifiquen el tipo de texto. El texto describe las características de los mamíferos sin incluir opiniones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto argumentativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca convencer ni tiene opiniones."
+        },
+        {
+          "letter": "B",
+          "text": "Texto expositivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Su propósito es informar y explicar de manera objetiva las características de los mamíferos."
+        },
+        {
+          "letter": "C",
+          "text": "Texto narrativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuenta una historia con personajes ni conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Texto poético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene recursos poéticos como rima o métrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos expositivos se caracterizan por su objetividad, claridad y estructura organizada (introducción, desarrollo, conclusión). Su función es informativa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v8",
+      "statement": "¿Cuál es la estructura del texto anterior?",
+      "context": "Lee el siguiente texto:\r\n\r\n\"El reciclaje es importante para reducir la contaminación. Por un lado, disminuye la cantidad de basura que llega a los rellenos sanitarios. Por otro lado, permite ahorrar energía y materias primas. Además, genera empleos en la industria del reciclaje.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causa-consecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no presenta una relación causal principal."
+        },
+        {
+          "letter": "B",
+          "text": "Problema-solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque podría implicarlo, la estructura es otra."
+        },
+        {
+          "letter": "C",
+          "text": "Enumeración de beneficios.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto enumera las ventajas del reciclaje usando conectores como \"por un lado\", \"por otro lado\", \"además\"."
+        },
+        {
+          "letter": "D",
+          "text": "Comparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara dos o más elementos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos expositivos pueden organizarse de diferentes formas: enumeración, comparación, causa-efecto, problema-solución. Identificar la estructura ayuda a comprender mejor el contenido.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v9",
+      "statement": "¿Qué tipo de argumento se utiliza en esta afirmación?",
+      "context": "En el periódico escolar del Colegio Simón Bolívar de Santa Marta, un artículo argumenta: \"La jornada escolar debería empezar más tarde porque los adolescentes necesitan dormir más para rendir académicamente.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita a ningún experto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de causa-efecto.",
+          "is_correct": true,
+          "feedback": "Correcto. Establece una relación causal: más sueño → mejor rendimiento académico."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de ejemplo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta un caso concreto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a sentimientos, sino a una relación lógica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento de causa-efecto establece que un fenómeno es la causa de otro. Se usa mucho en textos argumentativos para explicar por qué algo debería ser de determinada manera.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes opciones NO es una idea secundaria que podría apoyar la idea principal?",
+      "context": "Lee el siguiente párrafo:\r\n\r\n\"El acceso a internet es un derecho fundamental en el siglo XXI. Quienes no tienen conexión quedan excluidos de oportunidades educativas, laborales y sociales.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En Colombia, el 40% de los hogares rurales no tiene acceso a internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este dato apoya la idea principal."
+        },
+        {
+          "letter": "B",
+          "text": "Muchos estudiantes no pudieron tomar clases virtuales durante la pandemia por falta de conexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este ejemplo apoya la idea."
+        },
+        {
+          "letter": "C",
+          "text": "Internet fue creado en 1969 por el Departamento de Defensa de EE.UU.",
+          "is_correct": true,
+          "feedback": "Correcto. Este dato histórico no apoya la tesis de que el acceso es un derecho."
+        },
+        {
+          "letter": "D",
+          "text": "Personas sin internet tienen menos oportunidades de acceder a trabajos bien remunerados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento que apoya la idea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No toda la información relacionada con un tema apoya la idea principal. Es importante distinguir entre datos relevantes para la tesis y datos meramente informativos pero tangenciales.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v11",
+      "statement": "¿Qué tipo de argumento es la referencia a la UNESCO?",
+      "context": "En clase de lenguaje del Colegio María Auxiliadora de Pasto, se lee un artículo que dice: \"Según la UNESCO, Colombia tiene más de 60 lenguas indígenas vivas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de experiencia personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una experiencia individual."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a emociones."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de autoridad.",
+          "is_correct": true,
+          "feedback": "Correcto. La UNESCO es una organización reconocida mundialmente, por lo que su información tiene credibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de causa-efecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece causalidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto cita a una organización o experto reconocido para respaldar una afirmación, estamos ante un argumento de autoridad. La credibilidad de la fuente fortalece el argumento.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v12",
+      "statement": "Ambos estudiantes usan argumentos. ¿Cuál de ellos presenta un argumento basado en un beneficio concreto?",
+      "context": "Lee este fragmento de un foro escolar:\r\n\r\n\"Estudiante A: 'La educación virtual es mejor porque cada uno avanza a su propio ritmo.'\r\nEstudiante B: 'No estoy de acuerdo. La educación presencial permite interactuar con compañeros y profesores, lo que enriquece el aprendizaje.'\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudiante A, porque menciona el ritmo personal.",
+          "is_correct": false,
+          "feedback": "Correcto. Es un beneficio concreto de la educación virtual."
+        },
+        {
+          "letter": "B",
+          "text": "El estudiante B, porque menciona la interacción.",
+          "is_correct": false,
+          "feedback": "Correcto también. Ambos presentan beneficios."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos presentan argumentos basados en supuestos beneficios.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada uno destaca una ventaja de su opción preferida."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque solo opinan sin fundamentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí presentan razones para apoyar sus posturas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un debate, cada parte suele presentar argumentos a favor de su posición. Identificar y evaluar la calidad de esos argumentos es una habilidad fundamental de la lectura crítica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v13",
+      "statement": "¿Qué debilidad tiene este argumento?",
+      "context": "Lee el siguiente argumento: \"La mayoría de los colombianos apoya el acuerdo de paz, por lo tanto es una buena política.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene debilidades, la opinión mayoritaria es suficiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría no siempre tiene la razón."
+        },
+        {
+          "letter": "B",
+          "text": "Comete la falacia \"ad populum\": apelar a la mayoría no garantiza que algo sea correcto o beneficioso.",
+          "is_correct": true,
+          "feedback": "Correcto. La popularidad de una idea no determina su validez ética o práctica."
+        },
+        {
+          "letter": "C",
+          "text": "Usa un argumento de autoridad que no es válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita a ninguna autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "Es un argumento emocional que busca manipular.",
+          "is_correct": false,
+          "feedback": "Parcialmente cierto, pero la falacia específica es ad populum."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia ad populum (o argumento de la mayoría) consiste en afirmar que algo es verdadero o bueno simplemente porque mucha gente lo cree o lo apoya. La validez de un argumento no depende de cuántos lo apoyen.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v14",
+      "statement": "¿Cuál de las siguientes afirmaciones es un hecho (objetivo) y no una opinión?",
+      "context": "En la clase de lenguaje del Colegio Cooperativo de Ibagué, se analiza la diferencia entre hecho y opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El helado de chocolate es el mejor sabor.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión subjetiva."
+        },
+        {
+          "letter": "B",
+          "text": "\"La clase de matemáticas es muy aburrida.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los estudiantes deberían tener más tiempo de descanso.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión (deber ser)."
+        },
+        {
+          "letter": "D",
+          "text": "\"Colombia tiene una extensión de aproximadamente 1.141.748 km².\"",
+          "is_correct": true,
+          "feedback": "Correcto. Es un hecho verificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un hecho es una afirmación objetiva que puede verificarse (datos, medidas, eventos históricos). Una opinión expresa una creencia, valoración o sentimiento personal. Diferenciarlos es clave para la lectura crítica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-7-P1-comprehensive-001-MASTERY-v15",
+      "statement": "¿Qué tipo de estructura argumentativa tiene este texto?",
+      "context": "Un artículo de opinión afirma: \"Si no protegemos los páramos colombianos, las grandes ciudades como Bogotá y Medellín se quedarán sin agua. Por lo tanto, el gobierno debe prohibir la minería en estos ecosistemas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura deductiva: premisa general → conclusión particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura es otra."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura causal: si A (no proteger páramos) entonces B (falta de agua), por lo tanto C (prohibir minería).",
+          "is_correct": true,
+          "feedback": "Correcto. El texto establece una cadena de causa y efecto para llegar a una conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura de problema-solución sin relación causal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay relación causal."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura narrativa con inicio, nudo y desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una narración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La argumentación causal establece una relación de causa y efecto: la no protección de páramos genera escasez de agua, lo que justifica la conclusión (prohibir la minería). Identificar la estructura ayuda a evaluar la solidez del argumento.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
       "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v1",
       "statement": "¿Cuál es el propósito principal de un texto argumentativo?",
       "context": "En el colegio La Salle de Medellín, la profesora de Lectura Crítica explica las características de los textos argumentativos.",

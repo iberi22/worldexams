@@ -8,6 +8,826 @@
   },
   "questions": [
     {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v1",
+      "statement": "¿Cómo se denominan dos ángulos cuya suma es exactamente $180^\\circ$?",
+      "context": "Propiedades de los ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulos complementarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos complementarios son los que suman $90^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulos suplementarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, los ángulos suplementarios suman un ángulo llano ($180^\\circ$)."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulos adyacentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los adyacentes suelen ser suplementarios, el término que define la suma de $180^\\circ$ es suplementario."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulos rectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo recto mide exactamente $90^\\circ$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación y terminología básica de las relaciones angulares en geometría plana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v2",
+      "statement": "En un triángulo rectángulo, si los catetos miden $3$ cm y $4$ cm, ¿cuál es la longitud de la hipotenusa?",
+      "context": "Teorema de Pitágoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se han sumado los catetos directamente, olvidando elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando el Teorema de Pitágoras: $h = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{7}$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "$25$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de la hipotenusa al cuadrado, falta extraer la raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación directa del Teorema de Pitágoras para la resolución de triángulos rectángulos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v3",
+      "statement": "Calcula el área de un triángulo cuya base mide $10$ m y su altura es de $8$ m.",
+      "context": "Área de polígonos regulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha multiplicado base por altura pero se ha olvidado dividir entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "$40$ m²",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $(base \\times altura) / 2 = (10 \\times 8) / 2 = 40$."
+        },
+        {
+          "letter": "C",
+          "text": "$18$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se han sumado la base y la altura en lugar de multiplicarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$20$ m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de superficies básicas en figuras planas utilizando fórmulas estándar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v4",
+      "statement": "¿A cuántos grados sexagesimales equivalen $\\pi$ radianes?",
+      "context": "Conversión de unidades angulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi / 2$ radianes equivalen a $90^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$180^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. La equivalencia fundamental en trigonometría es que $\\pi$ radianes son $180^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$360^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\pi$ radianes equivalen a una vuelta completa ($360^\\circ$)."
+        },
+        {
+          "letter": "D",
+          "text": "$45^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi / 4$ radianes equivalen a $45^\\circ$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conocimiento de los sistemas de medición angular y sus equivalencias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v5",
+      "statement": "En un triángulo rectángulo, el **seno** de un ángulo agudo se define como la razón entre:",
+      "context": "Definición de razones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cateto contiguo y la hipotenusa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición del coseno."
+        },
+        {
+          "letter": "B",
+          "text": "El cateto opuesto y la hipotenusa.",
+          "is_correct": true,
+          "feedback": "Correcto. El seno es la relación entre el lado opuesto al ángulo y el lado más largo del triángulo rectángulo."
+        },
+        {
+          "letter": "C",
+          "text": "El cateto opuesto y el cateto contiguo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "La hipotenusa y el cateto opuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la cosecante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de las razones trigonométricas fundamentales en el triángulo rectángulo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v6",
+      "statement": "Un árbol en Malabo proyecta una sombra de $6$ metros al mismo tiempo que una vara vertical de $1$ metro proyecta una sombra de $0.5$ metros. ¿Cuál es la altura del árbol?",
+      "context": "Teorema de Tales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha multiplicado por $0.5$ en lugar de dividir."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos (Tales): $h / 6 = 1 / 0.5 \\Rightarrow h = 6 / 0.5 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$6.5$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar medidas en lugar de usar proporciones."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la proporción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del Teorema de Tales y la semejanza de triángulos para la medición indirecta de objetos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v7",
+      "statement": "Si $\\sin(\\alpha) = 0.6$ y $\\alpha$ es un ángulo del primer cuadrante, ¿cuál es el valor de $\\cos(\\alpha)$?",
+      "context": "Identidades trigonométricas básicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha restado de 1 sin elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$0.8$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin^2\\alpha + \\cos^2\\alpha = 1 \\Rightarrow 0.6^2 + \\cos^2\\alpha = 1 \\Rightarrow \\cos\\alpha = \\sqrt{1 - 0.36} = \\sqrt{0.64} = 0.8$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del coseno al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno solo es 1 cuando el seno es 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la identidad fundamental de la trigonometría para relacionar seno y coseno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v8",
+      "statement": "¿Cuál es la suma de los ángulos interiores de un pentágono regular?",
+      "context": "Propiedades de los polígonos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$360^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma de los ángulos exteriores de cualquier polígono convexo (y la suma de los interiores de un cuadrilátero)."
+        },
+        {
+          "letter": "B",
+          "text": "$540^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula es $(n - 2) \\cdot 180^\\circ$. Para un pentágono ($n=5$): $(5 - 2) \\cdot 180 = 3 \\cdot 180 = 540$."
+        },
+        {
+          "letter": "C",
+          "text": "$720^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma para un hexágono."
+        },
+        {
+          "letter": "D",
+          "text": "$108^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de UN solo ángulo interior, no la suma de todos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Generalización de las propiedades de los ángulos en polígonos convexos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v9",
+      "statement": "¿Cuál es el valor exacto de $\\tan(45^\\circ)$?",
+      "context": "Razones trigonométricas de ángulos notables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan(0^\\circ) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. En un ángulo de $45^\\circ$, el cateto opuesto y el contiguo son iguales, por lo que su razón es 1."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del seno y coseno de $45^\\circ$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\tan(60^\\circ)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los valores de las razones trigonométricas para ángulos fundamentales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v10",
+      "statement": "¿Cuál es la pendiente de una recta que es perpendicular a otra recta cuya pendiente es $m = -3$?",
+      "context": "Posiciones relativas de rectas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rectas con la misma pendiente son paralelas, no perpendiculares."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se ha cambiado el signo, pero falta el inverso."
+        },
+        {
+          "letter": "C",
+          "text": "$1/3$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente de la perpendicular es el opuesto del inverso: $m' = -1/m$."
+        },
+        {
+          "letter": "D",
+          "text": "$-1/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha tomado el inverso pero no se ha cambiado el signo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión de la relación entre las pendientes de rectas perpendiculares en el plano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v11",
+      "statement": "En un triángulo cualquiera, los lados $a$ y $b$ miden $5$ y $8$ unidades respectivamente, y el ángulo entre ellos es de $60^\\circ$. Calcula el valor del lado $c^2$. (Dato: $\\cos(60^\\circ) = 0.5$).",
+      "context": "Teorema del Coseno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$89$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha calculado $a^2 + b^2$ olvidando el término del coseno."
+        },
+        {
+          "letter": "B",
+          "text": "$49$",
+          "is_correct": true,
+          "feedback": "Correcto. $c^2 = a^2 + b^2 - 2ab \\cdot \\cos(C) = 25 + 64 - 2(5)(8)(0.5) = 89 - 40 = 49$."
+        },
+        {
+          "letter": "C",
+          "text": "$129$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la fórmula del Teorema del Coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del lado $c$, pero la pregunta pide $c^2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del Teorema del Coseno para resolver triángulos no rectángulos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v12",
+      "statement": "¿Cuál es el radio de una circunferencia cuya ecuación es $(x - 2)^2 + (y + 3)^2 = 16$?",
+      "context": "Ecuación de la circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor a la derecha de la igualdad en la ecuación canónica es $r^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. $r^2 = 16 \\Rightarrow r = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión con la coordenada $x$ del centro."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha dividido por 2 en lugar de extraer la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los elementos de una circunferencia a partir de su ecuación canónica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v13",
+      "statement": "En un triángulo, el lado $a = 10$ y su ángulo opuesto $A = 30^\\circ$. ¿Cuál es el valor del diámetro de la circunferencia circunscrita a dicho triángulo? (Dato: $\\sin(30^\\circ) = 0.5$).",
+      "context": "Teorema del Seno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del radio si se aplica mal la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Por el Teorema del Seno: $a / \\sin(A) = 2R$ (diámetro). $10 / 0.5 = 20$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división."
+        },
+        {
+          "letter": "D",
+          "text": "$40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la constante del teorema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del Teorema del Seno para relacionar los lados de un triángulo con el radio de su circunferencia circunscrita.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v14",
+      "statement": "Calcula la distancia entre los puntos $P(1, 2)$ y $Q(4, 6)$ en el plano cartesiano.",
+      "context": "Distancia entre dos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se han sumado las diferencias de las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{(4 - 1)^2 + (6 - 2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta extraer la raíz cuadrada del resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo interno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de distancias euclidianas mediante la aplicación del teorema de Pitágoras en coordenadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v15",
+      "statement": "Si un ángulo inscrito en una circunferencia abarca un arco de $80^\\circ$, ¿cuánto mide dicho ángulo?",
+      "context": "Ángulos en la circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor del ángulo central que abarca el mismo arco."
+        },
+        {
+          "letter": "B",
+          "text": "$40^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Un ángulo inscrito mide la mitad del arco que abarca."
+        },
+        {
+          "letter": "C",
+          "text": "$160^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha multiplicado por 2 en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$20^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación entre ángulos inscritos, centrales y la medida del arco en una circunferencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v16",
+      "statement": "Calcula el área de un sector circular de $60^\\circ$ en un círculo de radio $6$ cm. (Dato: Usa $\\pi$ como símbolo).",
+      "context": "Área de sectores circulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el área del círculo completo."
+        },
+        {
+          "letter": "B",
+          "text": "$6\\pi$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Área sector = $(60/360) \\cdot \\pi \\cdot 6^2 = (1/6) \\cdot 36\\pi = 6\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la proporción del sector circular."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha olvidado incluir el factor $\\pi$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación de áreas parciales de un círculo mediante la proporcionalidad del ángulo central.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v17",
+      "statement": "Si $\\sin(\\alpha) = 3/5$ y $\\alpha$ es un ángulo del primer cuadrante, ¿cuál es el valor de $\\sin(2\\alpha)$?",
+      "context": "Fórmulas de ángulo doble.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno no puede ser mayor que 1; se ha multiplicado el valor del seno por 2 directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$9/25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ha elevado el seno al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$24/25$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin(2\\alpha) = 2 \\cdot \\sin\\alpha \\cdot \\cos\\alpha$. Como $\\sin\\alpha = 3/5$, entonces $\\cos\\alpha = 4/5$. $\\sin(2\\alpha) = 2 \\cdot (3/5) \\cdot (4/5) = 24/25$."
+        },
+        {
+          "letter": "D",
+          "text": "$12/25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó el factor 2 de la fórmula del ángulo doble."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso de identidades trigonométricas de ángulo doble y relaciones fundamentales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v18",
+      "statement": "En la elipse de ecuación $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$, ¿cuál es la distancia desde el centro a cada uno de los focos?",
+      "context": "Ecuación de la elipse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el semieje mayor ($a$)."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el semieje menor ($b$)."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. En la elipse, $a^2 = b^2 + c^2$. $c = \\sqrt{25 - 9} = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $c^2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo de la semidistancia focal en elipses a partir de sus semiejes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v19",
+      "statement": "¿Cuáles son las soluciones de la ecuación $2\\sin(x) - 1 = 0$ en el intervalo $[0, 360^\\circ]$?",
+      "context": "Ecuaciones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la segunda solución en el segundo cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$30^\\circ$ y $150^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin(x) = 1/2$. El seno es positivo en el 1er y 2do cuadrante. $x_1 = 30^\\circ$, $x_2 = 180 - 30 = 150^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$30^\\circ$ y $330^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $330^\\circ$ está en el 4to cuadrante, donde el seno es negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$60^\\circ$ y $120^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos ángulos corresponden a $\\sin(x) = \\sqrt{3}/2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones trigonométricas lineales considerando la periodicidad y los signos en los cuadrantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-v20",
+      "statement": "Dada una parábola con foco en $(0, 2)$ y directriz $y = -2$, ¿cuál es su ecuación canónica?",
+      "context": "Lugar geométrico de la parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 = 8y$",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice está en el origen $(0,0)$ y la distancia focal $p = 2$. La ecuación es $x^2 = 4py = 4(2)y = 8y$."
+        },
+        {
+          "letter": "B",
+          "text": "$y^2 = 8x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta parábola abriría hacia la derecha, pero el foco y directriz indican apertura vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 = -8y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abriría hacia abajo, pero el foco está por encima de la directriz."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 = 4y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el valor del parámetro $p$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Deducción de la ecuación de una parábola a partir de sus elementos definitorios (foco y directriz).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "bundle_id": "GQ-MAT-11-P1-geometria-y-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
       "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v1",
       "statement": "¿A que conjunto numerico pertenece el numero $\\sqrt{2}$, que representa la relacion entre la diagonal y el lado de una baldosa cuadrada en el Mercado Central de Malabo?",
       "context": "En una tienda en Malabo, se venden sacos de arroz. Un comerciante quiere clasificar los precios de los productos segun el conjunto numerico al que pertenecen.",

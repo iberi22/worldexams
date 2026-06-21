@@ -846,6 +846,846 @@
       "periodo": 1,
       "protocol_version": "5.1",
       "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v1",
+      "statement": "Guatemala es considerada un país megadiverso. ¿Cómo se denomina al conjunto de seres vivos de diferentes especies que conviven e interactúan en un área determinada de la selva de Petén?",
+      "context": "Biodiversidad de la Reserva de la Biosfera Maya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Población",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una población incluye solo individuos de la misma especie; en la selva conviven múltiples especies."
+        },
+        {
+          "letter": "B",
+          "text": "Comunidad o Biocenosis",
+          "is_correct": true,
+          "feedback": "Correcto. La comunidad biótica está formada por todas las poblaciones de distintas especies que comparten un hábitat."
+        },
+        {
+          "letter": "C",
+          "text": "Ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ecosistema incluye tanto a los seres vivos (comunidad) como a los factores abióticos (suelo, clima, agua)."
+        },
+        {
+          "letter": "D",
+          "text": "Bioma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bioma es una unidad geográfica mucho más grande con climas y vegetación similares a escala continental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los niveles de organización ecológica: distinción entre población, comunidad y ecosistema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v2",
+      "statement": "En el Corredor Seco de Guatemala, las plantas han desarrollado adaptaciones para conservar agua. ¿Cuál de los siguientes es un factor",
+      "context": "Adaptaciones en el Corredor Seco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de cabras pastando.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cabras son seres vivos, por lo tanto, representan un factor biótico."
+        },
+        {
+          "letter": "B",
+          "text": "La competencia entre arbustos espinosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interacción entre organismos es un factor biótico."
+        },
+        {
+          "letter": "C",
+          "text": "La escasez de precipitaciones (lluvia).",
+          "is_correct": true,
+          "feedback": "Correcto. El agua, la temperatura y el suelo son componentes físicos y químicos no vivos (abióticos)."
+        },
+        {
+          "letter": "D",
+          "text": "Los microorganismos descomponedores del suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque están en el suelo, las bacterias y hongos son componentes vivos (bióticos)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciación entre factores bióticos y abióticos en un ecosistema terrestre específico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v3",
+      "statement": "En la cadena alimentaria del Lago de Atitlán, las algas son consumidas por pequeños peces. ¿Qué papel ecológico desempeñan las algas en este sistema?",
+      "context": "Relaciones alimentarias en el Lago de Atitlán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores primarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores primarios son los animales que comen plantas o algas."
+        },
+        {
+          "letter": "B",
+          "text": "Productores primarios",
+          "is_correct": true,
+          "feedback": "Correcto. Las algas realizan fotosíntesis y transforman la energía solar en energía química, siendo la base de la cadena."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores (bacterias/hongos) degradan la materia orgánica muerta, no producen energía de la luz."
+        },
+        {
+          "letter": "D",
+          "text": "Consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores secundarios son carnívoros que se alimentan de herbívoros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de los niveles tróficos y la función de los organismos autótrofos en el flujo de energía.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v4",
+      "statement": "El Quetzal (*Pharomachrus mocinno*) vive principalmente en los bosques nubosos de Guatemala. ¿Cómo se define el \"nicho ecológico\" de esta ave nacional?",
+      "context": "El Quetzal y su hábitat.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lugar físico exacto donde construye su nido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar físico se denomina hábitat, no nicho."
+        },
+        {
+          "letter": "B",
+          "text": "La función que cumple en el bosque, como comer frutos y dispersar semillas.",
+          "is_correct": true,
+          "feedback": "Correcto. El nicho es el \"oficio\" o papel biológico del organismo, incluyendo su alimentación y relaciones."
+        },
+        {
+          "letter": "C",
+          "text": "El conjunto de todos los quetzales que viven en la Sierra de las Minas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se define como una población."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de clima templado y húmedo que prefiere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima es un factor ambiental del hábitat."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinción conceptual entre hábitat (donde vive) y nicho ecológico (qué hace y cómo interactúa).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v5",
+      "statement": "Durante el día, un árbol de ceiba en la selva petenera realiza tanto fotosíntesis como respiración celular. ¿Cuál es la diferencia principal en el intercambio de gases entre estos dos procesos?",
+      "context": "Fotosíntesis y respiración en el bosque tropical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos procesos consumen oxígeno y liberan dióxido de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis consume $CO_2$ y libera oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "La fotosíntesis consume $CO_2$ y libera $O_2$, mientras la respiración consume $O_2$ y libera $CO_2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Son procesos complementarios; la fotosíntesis fabrica azúcares y la respiración libera su energía."
+        },
+        {
+          "letter": "C",
+          "text": "La respiración solo ocurre de noche cuando no hay luz solar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración celular es constante las 24 horas para mantener viva a la célula."
+        },
+        {
+          "letter": "D",
+          "text": "La fotosíntesis ocurre en las mitocondrias y la respiración en los cloroplastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones están invertidas; la fotosíntesis es en cloroplastos y la respiración en mitocondrias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis comparativo de los procesos bioenergéticos fundamentales en las células vegetales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v6",
+      "statement": "La deforestación masiva en las montañas de Guatemala afecta el ciclo hidrológico local. ¿Cuál es el proceso biológico por el cual los árboles liberan vapor de agua a la atmósfera, contribuyendo a la formación de nubes?",
+      "context": "Ciclo del agua y deforestación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condensación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condensación es el paso de gas a líquido, lo que ocurre cuando se forman las nubes."
+        },
+        {
+          "letter": "B",
+          "text": "Infiltración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infiltración es el paso del agua desde la superficie hacia el interior del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Transpiración",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas pierden agua en forma de vapor a través de los estomas de sus hojas."
+        },
+        {
+          "letter": "D",
+          "text": "Precipitación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precipitación es la caída de agua desde la atmósfera (lluvia, granizo)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión del papel de los seres vivos en los ciclos biogeoquímicos, específicamente en el ciclo del agua.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v7",
+      "statement": "En las raíces de muchas plantas leguminosas en Guatemala (como el frijol), viven bacterias del género *Rhizobium* que fijan nitrógeno para la planta, mientras esta les da refugio y azúcares. ¿Cómo se clasifica esta relación?",
+      "context": "Relaciones de simbiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el parasitismo un organismo se beneficia dañando al otro."
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos organismos obtienen un beneficio vital de su interacción."
+        },
+        {
+          "letter": "C",
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el comensalismo uno se beneficia y el otro es indiferente."
+        },
+        {
+          "letter": "D",
+          "text": "Depredación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La depredación implica que un organismo mata a otro para alimentarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación y aplicación de los tipos de interacciones biológicas interespecíficas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v8",
+      "statement": "Tras una erupción del Volcán de Fuego, el terreno queda cubierto de lava sólida (roca desnuda). ¿Cómo se denomina al proceso de colonización gradual de este nuevo terreno por parte de líquenes, luego hierbas y finalmente arbustos?",
+      "context": "Sucesión ecológica tras una erupción volcánica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión primaria",
+          "is_correct": true,
+          "feedback": "Correcto. Ocurre en lugares donde nunca ha habido suelo o comunidad previa (como roca volcánica nueva)."
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión secundaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sucesión secundaria ocurre tras un disturbio (incendio) donde el suelo ya existe."
+        },
+        {
+          "letter": "C",
+          "text": "Clímax ecológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clímax es el estado final de estabilidad de un ecosistema, no el proceso de inicio."
+        },
+        {
+          "letter": "D",
+          "text": "Evolución biológica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución se refiere a cambios genéticos en poblaciones a lo largo del tiempo, no a la colonización de terrenos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la dinámica de los ecosistemas y los cambios estructurales a lo largo del tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v9",
+      "statement": "En una pirámide de energía de una selva tropical, solo el 10% de la energía de un nivel trófico pasa al siguiente. Si las plantas (productores) tienen 10,000 kJ de energía, ¿cuánta energía estará disponible para los carnívoros finales (consumidores terciarios)?",
+      "context": "Eficiencia energética en pirámides tróficas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,000 kJ",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la energía para los herbívoros (consumidores primarios)."
+        },
+        {
+          "letter": "B",
+          "text": "100 kJ",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la energía para los consumidores secundarios."
+        },
+        {
+          "letter": "C",
+          "text": "10 kJ",
+          "is_correct": true,
+          "feedback": "Correcto. Nivel 1 (10,000) -> Nivel 2 (1,000) -> Nivel 3 (100) -> Nivel 4 (10)."
+        },
+        {
+          "letter": "D",
+          "text": "1 kJ",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de las potencias de diez al aplicar la regla del diezmo ecológico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de las leyes de la termodinámica al flujo de energía en las redes alimentarias.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v10",
+      "statement": "En la costa del Pacífico guatemalteco, algunas tortugas marinas nacen con aletas un poco más fuertes que otras, lo que les permite llegar más rápido al mar y evitar depredadores. ¿Cómo llamaría Darwin a esta ventaja que les permite sobrevivir y reproducirse mejor?",
+      "context": "Adaptación y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutación inducida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Darwin no conocía el término mutación; él hablaba de variaciones naturales."
+        },
+        {
+          "letter": "B",
+          "text": "Adaptación",
+          "is_correct": true,
+          "feedback": "Correcto. Una adaptación es un rasgo heredado que aumenta la probabilidad de supervivencia y éxito reproductivo."
+        },
+        {
+          "letter": "C",
+          "text": "Uso y desuso de órganos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la teoría de Lamarck, donde el esfuerzo individual cambiaba al organismo."
+        },
+        {
+          "letter": "D",
+          "text": "Generación espontánea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Idea antigua que sugería que la vida surgía de la materia inerte sin padres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de los principios básicos de la evolución por selección natural aplicados a poblaciones locales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v11",
+      "statement": "En la década de 1950, se introdujo la lobina negra (*Micropterus salmoides*) en el Lago de Atitlán para la pesca deportiva. ¿Cuál fue el impacto ecológico más grave de esta acción sobre el Pato Poc (*Podilymbus gigas*), ave endémica del lago?",
+      "context": "Introducción de especies exóticas en el Lago de Atitlán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Pato Poc y la lobina se hicieron amigos y cooperaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la naturaleza, la introducción de depredadores rara vez termina en cooperación."
+        },
+        {
+          "letter": "B",
+          "text": "La lobina limpió el lago de algas, mejorando el hábitat del pato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lobina es carnívora, no come algas."
+        },
+        {
+          "letter": "C",
+          "text": "La lobina compitió por comida y depredó a los polluelos del pato, contribuyendo a su extinción.",
+          "is_correct": true,
+          "feedback": "Correcto. Las especies invasoras suelen desplazar o eliminar a las especies locales sensibles."
+        },
+        {
+          "letter": "D",
+          "text": "El pato aprendió a comer lobinas y su población aumentó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Pato Poc no pudo adaptarse a la presión de este nuevo depredador y competidor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de las consecuencias biológicas de la introducción de especies exóticas en ecosistemas cerrados o vulnerables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v12",
+      "statement": "El aumento de gases como el $CO_2$ y el metano en la atmósfera terrestre está provocando el calentamiento global. ¿Cuál es el mecanismo físico por el cual estos gases elevan la temperatura del planeta?",
+      "context": "Efecto invernadero y cambio climático.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reaccionan químicamente con el nitrógeno del aire generando calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una reacción química exotérmica lo que calienta el aire."
+        },
+        {
+          "letter": "B",
+          "text": "Atrapan la radiación infrarroja (calor) que la Tierra intenta emitir hacia el espacio.",
+          "is_correct": true,
+          "feedback": "Correcto. Los gases dejan pasar la luz solar pero bloquean la salida del calor terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "Destruyen la capa de ozono permitiendo que pase más luz visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto invernadero y el agujero de la capa de ozono son fenómenos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentan la intensidad de las erupciones volcánicas en el cinturón de fuego.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que los gases atmosféricos controlen la actividad tectónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del fenómeno del efecto invernadero y su relación con el balance radiativo de la Tierra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v13",
+      "statement": "Muchos lagos en Guatemala sufren de \"eutrofización\" debido al exceso de fertilizantes y aguas negras que llegan a ellos. ¿Cuál es la consecuencia directa de este proceso que causa la muerte masiva de peces?",
+      "context": "Eutrofización en lagos de Guatemala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se vuelve demasiado transparente y los peces se queman.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización vuelve el agua turbia debido al crecimiento excesivo de algas."
+        },
+        {
+          "letter": "B",
+          "text": "Los peces se comen todas las algas y mueren de indigestión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el exceso de comida, sino las condiciones químicas del agua."
+        },
+        {
+          "letter": "C",
+          "text": "La descomposición de algas muertas agota el oxígeno disuelto en el agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Las bacterias consumen el oxígeno al degradar la materia orgánica, asfixiando a los peces."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de fósforo endurece las escamas de los peces impidiendo su movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto es sistémico sobre la calidad del agua, no mecánico sobre los peces."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de los procesos de contaminación orgánica y su impacto en la dinámica de las comunidades acuáticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v14",
+      "statement": "Los manglares de las costas de Guatemala son vitales para la protección contra tormentas y son criaderos de peces. Si se eliminan para construir hoteles, ¿qué pérdida económica y ecológica es más probable a largo plazo?",
+      "context": "Servicios ecosistémicos de los manglares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de la producción de madera de pino en las montañas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una relación directa entre los manglares costeros y la silvicultura de montaña."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de la erosión costera y la disminución de la pesca local.",
+          "is_correct": true,
+          "feedback": "Correcto. Los manglares actúan como barrera física y refugio biológico indispensable."
+        },
+        {
+          "letter": "C",
+          "text": "La mejora de la calidad del agua potable en la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los manglares filtran agua costera, no tienen impacto en el suministro de la Ciudad de Guatemala."
+        },
+        {
+          "letter": "D",
+          "text": "La desaparición total de los volcanes de la cadena volcánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ecosistemas costeros no afectan la geología volcánica del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de los servicios ecosistémicos y las consecuencias de la alteración del paisaje natural por actividades humanas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v15",
+      "statement": "En un ecosistema contaminado con mercurio por la minería ilegal, se mide la concentración del metal en diferentes organismos. ¿Dónde esperaría encontrar la mayor concentración de mercurio debido al proceso de biomagnificación?",
+      "context": "Bioacumulación de toxinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las plantas acuáticas que absorben el agua directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen la concentración más baja por ser el inicio de la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "En los pequeños peces herbívoros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen más que las plantas, pero menos que sus depredadores."
+        },
+        {
+          "letter": "C",
+          "text": "En el agua del río donde se diluye el metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mercurio se acumula en los tejidos grasos de los seres vivos en concentraciones mucho mayores que en el agua."
+        },
+        {
+          "letter": "D",
+          "text": "En los cocodrilos o aves rapaces que comen otros peces.",
+          "is_correct": true,
+          "feedback": "Correcto. Las toxinas no eliminables se acumulan y concentran en los niveles más altos de la pirámide trófica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicación de conceptos de flujo de materia y acumulación de sustancias tóxicas en las redes alimentarias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v16",
+      "statement": "El ADN es la molécula que contiene las instrucciones para la vida. ¿Qué parte de la estructura del ADN es la que realmente \"escribe\" el código genético que diferencia a un jaguar de un venado?",
+      "context": "Estructura del ADN y herencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cadena de azúcares y fosfatos de los lados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la estructura de soporte, igual en todos los seres vivos."
+        },
+        {
+          "letter": "B",
+          "text": "La secuencia específica de las bases nitrogenadas (A, T, C, G).",
+          "is_correct": true,
+          "feedback": "Correcto. El orden de las bases es lo que determina la información para fabricar proteínas específicas."
+        },
+        {
+          "letter": "C",
+          "text": "El número total de moléculas de hidrógeno en la célula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los átomos individuales no llevan información por sí mismos."
+        },
+        {
+          "letter": "D",
+          "text": "La forma de doble hélice de la molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma es universal para todo el ADN, lo que cambia es el contenido interno de la secuencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de la base molecular de la herencia y la codificación de la información biológica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v17",
+      "statement": "Para que una planta de café produzca cafeína, debe seguir las instrucciones de sus genes. ¿Cuál es el orden correcto del flujo de información genética (Dogma Central) dentro de sus células?",
+      "context": "Transcripción y Traducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteína -> ARN -> ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. La información no fluye desde las proteínas hacia los ácidos nucleicos."
+        },
+        {
+          "letter": "B",
+          "text": "ARN -> ADN -> Proteína",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este flujo solo ocurre parcialmente en algunos virus, no en el proceso normal de las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "ADN -> ARN -> Proteína",
+          "is_correct": true,
+          "feedback": "Correcto. El ADN se transcribe a ARN y este se traduce a proteína en el ribosoma."
+        },
+        {
+          "letter": "D",
+          "text": "ADN -> Proteína -> ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN es un intermediario necesario en la síntesis de proteínas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Modelización del flujo de información genética en los sistemas vivos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v18",
+      "statement": "Se han desarrollado variedades de maíz \"BT\" que contienen un gen de una bacteria para resistir plagas sin usar pesticidas químicos. ¿Cómo se denomina técnicamente a estos organismos que contienen genes de otra especie?",
+      "context": "Ingeniería genética y cultivos en Guatemala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un clon es una copia genéticamente idéntica de un solo organismo."
+        },
+        {
+          "letter": "B",
+          "text": "Organismos Transgénicos (OGM)",
+          "is_correct": true,
+          "feedback": "Correcto. Son organismos cuyo genoma ha sido modificado mediante la inserción de ADN de una especie diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Híbridos naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los híbridos resultan del cruce sexual entre dos variedades o especies cercanas, no por inserción de genes en laboratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Especies mutantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque su ADN cambió, el término técnico preciso para esta tecnología es transgénico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de las aplicaciones y definiciones de la biotecnología moderna en la agricultura.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v19",
+      "statement": "La tecnología CRISPR-Cas9 permite \"editar\" el ADN con alta precisión. Si se propusiera usar esta técnica para eliminar a todos los mosquitos que transmiten el dengue en Guatemala, ¿cuál sería el mayor riesgo ecológico a considerar?",
+      "context": "Ética y Biotecnología.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los mosquitos se vuelvan gigantes y ataquen a las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es ciencia ficción y no corresponde a los efectos biológicos reales de la edición genética."
+        },
+        {
+          "letter": "B",
+          "text": "Que la herramienta CRISPR se escape y empiece a editar a los humanos por el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La técnica requiere manipulación directa en laboratorio o vectores específicos, no se transmite por el aire."
+        },
+        {
+          "letter": "C",
+          "text": "La alteración de las redes tróficas, ya que los mosquitos son alimento para otras especies como aves y murciélagos.",
+          "is_correct": true,
+          "feedback": "Correcto. La eliminación de una especie puede causar efectos en cascada impredecibles en el ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ADN de los mosquitos se convierta en oro y cause una crisis económica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene fundamento biológico ni químico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación ética y ecológica de las intervenciones biotecnológicas a gran escala en el medio ambiente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ciencias-001-v20",
+      "statement": "Se ha observado que el estrés ambiental (como una gran sequía en el Altiplano) puede dejar marcas químicas en el ADN de las plantas que afectan a sus \"hijas\" sin cambiar la secuencia de letras (A,T,C,G). ¿Qué rama de la biología estudia estos cambios heredables en la expresión de los genes?",
+      "context": "Epigenética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Genética Mendeliana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centra en la herencia de rasgos a través de los genes, no en las modificaciones químicas externas."
+        },
+        {
+          "letter": "B",
+          "text": "Epigenética",
+          "is_correct": true,
+          "feedback": "Correcto. Estudia cómo el ambiente modifica la expresión de los genes mediante marcas como la metilación."
+        },
+        {
+          "letter": "C",
+          "text": "Paleontología",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el estudio de los fósiles y la vida antigua."
+        },
+        {
+          "letter": "D",
+          "text": "Citología",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el estudio general de la estructura y función de las células."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conocimiento de las fronteras modernas de la biología: regulación génica y herencia no convencional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
     }
   ]
 }
