@@ -4808,806 +4808,6 @@
       "cefr_level": "C1"
     },
     {
-      "id": "UNI-ENG-C1-academic-writing-001-v1",
-      "statement": "**Definition:** To express an idea in a different form while keeping the original meaning.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Plagiarize",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Paraphrase",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Summarize",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Annotate",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** **Paraphrase** means restating something in your own words. Essential for academic writing to avoid plagiarism.\r\n*Español: **Parafrasear** es reformular una idea con tus propias palabras.*\r\n\r\n**Vocabulary Table:**\r\n| English | Español | Example |\r\n|---------|---------|---------|\r\n| Paraphrase | Parafrasear | You should paraphrase, not copy directly. |\r\n| Plagiarize | Plagiar | Plagiarizing is academic dishonesty. |\r\n| Summarize | Resumir | Summarize the main arguments. |\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v2",
-      "statement": "**Definition:** A formal statement of the meaning or significance of a word or phrase.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hypothesis",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Thesis",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Definition",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Conclusion",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** A **definition** clarifies the meaning of a term. In academic writing, defining key terms is essential.\r\n*Español: Una **definición** aclara el significado de un término.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v3",
-      "statement": "Choose the most appropriate formal verb.",
-      "context": "**Email to professor:**\r\n\"Dear Professor Smith,\r\n\r\nI am writing to _______ your permission to submit my assignment two days after the deadline due to unforeseen circumstances.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "get",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "ask for",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "request",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "want",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Request** is the formal register equivalent of \"ask for.\" In academic correspondence, formal verbs are expected.\r\n*Español: **Request** es la forma formal de \"pedir\".*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v4",
-      "statement": "Choose the hedging expression that maintains academic caution.",
-      "context": "**Academic sentence:**\r\n\"The results _______ that social media has a negative impact on adolescent mental health.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "prove",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "show",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "suggest",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "confirm",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Suggest** is hedging language—it avoids absolute claims. Academic writing requires caution; \"prove\" is too strong without exhaustive evidence.\r\n*Español: **Suggest** es lenguaje cauteloso que evita afirmaciones absolutas.*\r\n\r\n**IELTS/CAE Tip:** Use hedging (may, could, suggest, appear to) to sound more academic.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v5",
-      "statement": "Choose the connector that introduces a limitation or caveat.",
-      "context": "**Text:**\r\n\"The study found significant correlations. _______, the sample size was relatively small, which limits generalizability.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Furthermore",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Therefore",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Nevertheless",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Similarly",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Nevertheless** signals a contrast/concession. It acknowledges the positive finding while introducing a limitation.\r\n*Español: **Nevertheless (sin embargo)** introduce una limitación o contraste.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v6",
-      "statement": "What can be inferred about the author's stance on technology in education?",
-      "context": "**Reading passage:**\r\n\"While proponents of technology in education emphasize enhanced engagement, critics argue that excessive screen time may impair students' ability to concentrate during traditional lectures. This dichotomy reflects broader debates about the role of digital tools in shaping cognitive development.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The author strongly supports technology integration.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "The author completely rejects digital tools.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "The author presents a balanced perspective without taking a definitive side.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "The author believes technology has no impact on learning.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** The author uses \"proponents... critics\" and \"this dichotomy\" to present both sides neutrally, indicating a balanced stance.\r\n*Español: El autor presenta ambos lados del debate sin tomar partido definitivo.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v7",
-      "statement": "Which thesis statement best addresses the prompt with a clear argument?",
-      "context": "**Essay prompt:** \"Discuss the impact of remote work on urban development.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Remote work is popular today.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "This essay will discuss remote work and cities.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "The widespread adoption of remote work has fundamentally altered urban dynamics, leading to decreased demand for commercial real estate and a resurgence of suburban living.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Remote work affects things in different ways.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** Option C is a strong thesis: it makes a **specific claim** (decreased commercial RE, suburban resurgence) rather than vague statements.\r\n*Español: La opción C hace una afirmación específica y argumentable.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v8",
-      "statement": "Choose the appropriate reporting verb for introducing a researcher's claim.",
-      "context": "**Sentence requiring attribution:**\r\n\"According to _______, emotional intelligence is as important as cognitive intelligence for leadership success (Goleman, 1995).\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Goleman thinks",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Goleman argues",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Goleman says",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Goleman tells",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** **Argues** is appropriate for introducing a scholar's position in academic writing. \"Says\" is too informal; \"tells\" requires an object.\r\n*Español: **Argues** es apropiado para introducir la posición de un académico.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v9",
-      "statement": "Identify the grammatical error.",
-      "context": "**Sentence with error:**\r\n\"The data shows that most participants was satisfied with the service.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"shows\" should be \"show\"",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "\"was\" should be \"were\"",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "\"participants\" should be \"participant\"",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "\"satisfied\" should be \"satisfying\"",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** \"Participants\" is plural, so it requires **were**. \"Data\" can be treated as singular or plural (U.S. vs. U.K.), but \"participants\" is clearly plural.\r\n*Español: \"Participants\" es plural, así que requiere **were**.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-academic-writing-001-v10",
-      "statement": "Which sentence best synthesizes both sources?",
-      "context": "**Two sources:**\r\n- Source A: \"Globalization has led to economic growth in developing nations.\"\r\n- Source B: \"The benefits of globalization are unevenly distributed, often favoring multinational corporations.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Globalization is entirely positive for developing countries.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Globalization has no clear effects on global economies.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "While globalization has contributed to economic growth in developing nations, its benefits tend to disproportionately advantage multinational corporations.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Source A and Source B completely contradict each other.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** Synthesis combines ideas from multiple sources into a coherent argument. Option C integrates both perspectives using a concessive structure (\"While... its benefits...\").\r\n*Español: La síntesis combina ideas de múltiples fuentes en un argumento coherente.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v1",
-      "statement": "**Definition:** Determine the value of assets and liabilities.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Appreciate",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Assess",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Amortize",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Arbitrate",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** **Assess** means to evaluate or estimate the nature, ability, or quality of something. In finance, it's used for valuation.\r\n*Español: **Assess** (evaluar/tasar) es determinar el valor.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v2",
-      "statement": "What does \"go back to the drawing board\" mean?",
-      "context": "**Meeting:**\r\n\"We need to go back to the drawing board regarding this marketing strategy.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Draw a new logo.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Consult the art department.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Start over from the beginning because the previous plan failed.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Continue with the current plan but document it better.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Go back to the drawing board** is an idiom meaning to start planning a project again because the first attempt failed.\r\n*Español: Empezar de nuevo desde cero tras un fracaso.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v3",
-      "statement": "Choose the formal verb to complete the phrase.",
-      "context": "**Email:**\r\n\"We would like to _______ our sincere apologies for the inconvenience caused.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "give",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "extend",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "tell",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "say",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** **Extend** (one's apologies/condolences) is the standard formal collocation. \"Give\" is too casual.\r\n*Español: **Extend** es la colocación formal para ofrecer disculpas.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v4",
-      "statement": "What is the speaker proposing?",
-      "context": "**Negotiation:**\r\n\"We are willing to meet you halfway on the price.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "To meet physically in the middle of the room.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "To pay half of the price.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "To reach a compromise.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "To cancel the deal.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Meet halfway** is a metaphor for compromise, where both sides give up something to reach an agreement.\r\n*Español: **Meet halfway** significa llegar a un compromiso.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v5",
-      "statement": "Choose the verb that logically follows logical market saturation.",
-      "context": "**Report:**\r\n\"The market has saturated; consequently, profit margins are _______.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "skyrocketing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "expanding",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "soaring",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "dwindling",
-          "is_correct": true,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "**English:** If a market is **saturated** (full), growth is hard, so margins typically **dwindle** (diminish/shrink). The other options imply growth.\r\n*Español: Si el mercado está saturado, los márgenes **disminuyen (dwindle)**.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v6",
-      "statement": "What crime did the CEO commit?",
-      "context": "**Statement:**\r\n\"The CEO was accused of embezzlement.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hiring unqualified staff.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Stealing or misappropriating funds placed in one's trust.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Lying on a resume.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Leaving work early.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** **Embezzlement** is a specific white-collar crime involving the theft of assets (money) by a person in a position of trust.\r\n*Español: **Embezzlement** es desfalco o malversación de fondos.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v7",
-      "statement": "Choose the particle that means \"failed to happen.\"",
-      "context": "**Sentence:**\r\n\"The deal fell _______ at the last minute.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "out",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "off",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "through",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "down",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Fall through** means to fail or come to nothing (referring to plans, arrangements, or deals).\r\n*Español: **Fall through** significa fracasar o no concretarse (un trato/plan).*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v8",
-      "statement": "Choose the correct modal structure for a past unfulfilled possibility.",
-      "context": "**Situation:** The project failed. It was possible to save it, but nobody tried.\r\n**Sentence:**\r\n\"We _______ the project, but we didn't act in time.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "could save",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "must have saved",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "could have saved",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "should save",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "**English:** **Could have + past participle** expresses a possibility in the past that was not realized.\r\n*Español: Posibilidad pasada no realizada.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v9",
-      "statement": "Choose the correct concession connector.",
-      "context": "**Sentence:**\r\n\"_______ high inflation, consumer spending has remained robust.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Even",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Notwithstanding",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Whereas",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Although",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "**English:** **Notwithstanding** is a formal preposition meaning \"in spite of.\" \"Although\" would require a clause (\"Although inflation is high\"), not a noun phrase.\r\n*Español: **Notwithstanding** (a pesar de) es una preposición formal.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
-      "id": "UNI-ENG-C1-business-elite-001-v10",
-      "statement": "What does \"binding\" mean in this legal/business context?",
-      "context": "**Describing a contract:**\r\n\"The contract is binding.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "It is held together by glue.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "It is optional.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "It is temporary.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "It implies a legal obligation that must be fulfilled.",
-          "is_correct": true,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "**English:** A **binding** agreement forces the parties to adhere to the terms under penalty of law.\r\n*Español: **Binding** significa vinculante u obligatorio legalmente.*\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": "C1"
-    },
-    {
       "id": "UNI-ENG-C1-C2-diagnostic-001-v1",
       "statement": "Choose the word that best completes the sentence:\n\"The CEO's decision to downsize the company was met with _______ from the employees, who felt their loyalty had been betrayed.\"",
       "context": "",
@@ -6466,6 +5666,806 @@
       "periodo": 1,
       "protocol_version": "5.1",
       "cefr_level": "C1/C2"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v1",
+      "statement": "**Definition:** To express an idea in a different form while keeping the original meaning.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plagiarize",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Paraphrase",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Summarize",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Annotate",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Paraphrase** means restating something in your own words. Essential for academic writing to avoid plagiarism.\r\n*Español: **Parafrasear** es reformular una idea con tus propias palabras.*\r\n\r\n**Vocabulary Table:**\r\n| English | Español | Example |\r\n|---------|---------|---------|\r\n| Paraphrase | Parafrasear | You should paraphrase, not copy directly. |\r\n| Plagiarize | Plagiar | Plagiarizing is academic dishonesty. |\r\n| Summarize | Resumir | Summarize the main arguments. |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v2",
+      "statement": "**Definition:** A formal statement of the meaning or significance of a word or phrase.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hypothesis",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Thesis",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Definition",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Conclusion",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** A **definition** clarifies the meaning of a term. In academic writing, defining key terms is essential.\r\n*Español: Una **definición** aclara el significado de un término.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v3",
+      "statement": "Choose the most appropriate formal verb.",
+      "context": "**Email to professor:**\r\n\"Dear Professor Smith,\r\n\r\nI am writing to _______ your permission to submit my assignment two days after the deadline due to unforeseen circumstances.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "ask for",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "request",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "want",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Request** is the formal register equivalent of \"ask for.\" In academic correspondence, formal verbs are expected.\r\n*Español: **Request** es la forma formal de \"pedir\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v4",
+      "statement": "Choose the hedging expression that maintains academic caution.",
+      "context": "**Academic sentence:**\r\n\"The results _______ that social media has a negative impact on adolescent mental health.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "prove",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "show",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "suggest",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "confirm",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Suggest** is hedging language—it avoids absolute claims. Academic writing requires caution; \"prove\" is too strong without exhaustive evidence.\r\n*Español: **Suggest** es lenguaje cauteloso que evita afirmaciones absolutas.*\r\n\r\n**IELTS/CAE Tip:** Use hedging (may, could, suggest, appear to) to sound more academic.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v5",
+      "statement": "Choose the connector that introduces a limitation or caveat.",
+      "context": "**Text:**\r\n\"The study found significant correlations. _______, the sample size was relatively small, which limits generalizability.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Furthermore",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Therefore",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Nevertheless",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Similarly",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Nevertheless** signals a contrast/concession. It acknowledges the positive finding while introducing a limitation.\r\n*Español: **Nevertheless (sin embargo)** introduce una limitación o contraste.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v6",
+      "statement": "What can be inferred about the author's stance on technology in education?",
+      "context": "**Reading passage:**\r\n\"While proponents of technology in education emphasize enhanced engagement, critics argue that excessive screen time may impair students' ability to concentrate during traditional lectures. This dichotomy reflects broader debates about the role of digital tools in shaping cognitive development.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The author strongly supports technology integration.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The author completely rejects digital tools.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The author presents a balanced perspective without taking a definitive side.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The author believes technology has no impact on learning.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The author uses \"proponents... critics\" and \"this dichotomy\" to present both sides neutrally, indicating a balanced stance.\r\n*Español: El autor presenta ambos lados del debate sin tomar partido definitivo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v7",
+      "statement": "Which thesis statement best addresses the prompt with a clear argument?",
+      "context": "**Essay prompt:** \"Discuss the impact of remote work on urban development.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remote work is popular today.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "This essay will discuss remote work and cities.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The widespread adoption of remote work has fundamentally altered urban dynamics, leading to decreased demand for commercial real estate and a resurgence of suburban living.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Remote work affects things in different ways.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Option C is a strong thesis: it makes a **specific claim** (decreased commercial RE, suburban resurgence) rather than vague statements.\r\n*Español: La opción C hace una afirmación específica y argumentable.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v8",
+      "statement": "Choose the appropriate reporting verb for introducing a researcher's claim.",
+      "context": "**Sentence requiring attribution:**\r\n\"According to _______, emotional intelligence is as important as cognitive intelligence for leadership success (Goleman, 1995).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Goleman thinks",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Goleman argues",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Goleman says",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Goleman tells",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Argues** is appropriate for introducing a scholar's position in academic writing. \"Says\" is too informal; \"tells\" requires an object.\r\n*Español: **Argues** es apropiado para introducir la posición de un académico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v9",
+      "statement": "Identify the grammatical error.",
+      "context": "**Sentence with error:**\r\n\"The data shows that most participants was satisfied with the service.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"shows\" should be \"show\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\"was\" should be \"were\"",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"participants\" should be \"participant\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\"satisfied\" should be \"satisfying\"",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Participants\" is plural, so it requires **were**. \"Data\" can be treated as singular or plural (U.S. vs. U.K.), but \"participants\" is clearly plural.\r\n*Español: \"Participants\" es plural, así que requiere **were**.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-academic-writing-001-v10",
+      "statement": "Which sentence best synthesizes both sources?",
+      "context": "**Two sources:**\r\n- Source A: \"Globalization has led to economic growth in developing nations.\"\r\n- Source B: \"The benefits of globalization are unevenly distributed, often favoring multinational corporations.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Globalization is entirely positive for developing countries.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Globalization has no clear effects on global economies.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "While globalization has contributed to economic growth in developing nations, its benefits tend to disproportionately advantage multinational corporations.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Source A and Source B completely contradict each other.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Synthesis combines ideas from multiple sources into a coherent argument. Option C integrates both perspectives using a concessive structure (\"While... its benefits...\").\r\n*Español: La síntesis combina ideas de múltiples fuentes en un argumento coherente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-academic-writing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v1",
+      "statement": "**Definition:** Determine the value of assets and liabilities.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appreciate",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Assess",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Amortize",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Arbitrate",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Assess** means to evaluate or estimate the nature, ability, or quality of something. In finance, it's used for valuation.\r\n*Español: **Assess** (evaluar/tasar) es determinar el valor.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v2",
+      "statement": "What does \"go back to the drawing board\" mean?",
+      "context": "**Meeting:**\r\n\"We need to go back to the drawing board regarding this marketing strategy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Draw a new logo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Consult the art department.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Start over from the beginning because the previous plan failed.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Continue with the current plan but document it better.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Go back to the drawing board** is an idiom meaning to start planning a project again because the first attempt failed.\r\n*Español: Empezar de nuevo desde cero tras un fracaso.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v3",
+      "statement": "Choose the formal verb to complete the phrase.",
+      "context": "**Email:**\r\n\"We would like to _______ our sincere apologies for the inconvenience caused.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "give",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "extend",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "tell",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "say",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Extend** (one's apologies/condolences) is the standard formal collocation. \"Give\" is too casual.\r\n*Español: **Extend** es la colocación formal para ofrecer disculpas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v4",
+      "statement": "What is the speaker proposing?",
+      "context": "**Negotiation:**\r\n\"We are willing to meet you halfway on the price.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To meet physically in the middle of the room.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "To pay half of the price.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "To reach a compromise.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "To cancel the deal.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Meet halfway** is a metaphor for compromise, where both sides give up something to reach an agreement.\r\n*Español: **Meet halfway** significa llegar a un compromiso.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v5",
+      "statement": "Choose the verb that logically follows logical market saturation.",
+      "context": "**Report:**\r\n\"The market has saturated; consequently, profit margins are _______.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "skyrocketing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "expanding",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "soaring",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "dwindling",
+          "is_correct": true,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "**English:** If a market is **saturated** (full), growth is hard, so margins typically **dwindle** (diminish/shrink). The other options imply growth.\r\n*Español: Si el mercado está saturado, los márgenes **disminuyen (dwindle)**.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v6",
+      "statement": "What crime did the CEO commit?",
+      "context": "**Statement:**\r\n\"The CEO was accused of embezzlement.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiring unqualified staff.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Stealing or misappropriating funds placed in one's trust.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lying on a resume.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Leaving work early.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Embezzlement** is a specific white-collar crime involving the theft of assets (money) by a person in a position of trust.\r\n*Español: **Embezzlement** es desfalco o malversación de fondos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v7",
+      "statement": "Choose the particle that means \"failed to happen.\"",
+      "context": "**Sentence:**\r\n\"The deal fell _______ at the last minute.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "out",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "off",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "through",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "down",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Fall through** means to fail or come to nothing (referring to plans, arrangements, or deals).\r\n*Español: **Fall through** significa fracasar o no concretarse (un trato/plan).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v8",
+      "statement": "Choose the correct modal structure for a past unfulfilled possibility.",
+      "context": "**Situation:** The project failed. It was possible to save it, but nobody tried.\r\n**Sentence:**\r\n\"We _______ the project, but we didn't act in time.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could save",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "must have saved",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "could have saved",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "should save",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Could have + past participle** expresses a possibility in the past that was not realized.\r\n*Español: Posibilidad pasada no realizada.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v9",
+      "statement": "Choose the correct concession connector.",
+      "context": "**Sentence:**\r\n\"_______ high inflation, consumer spending has remained robust.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Even",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Notwithstanding",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Whereas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Notwithstanding** is a formal preposition meaning \"in spite of.\" \"Although\" would require a clause (\"Although inflation is high\"), not a noun phrase.\r\n*Español: **Notwithstanding** (a pesar de) es una preposición formal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
+    },
+    {
+      "id": "UNI-ENG-C1-business-elite-001-v10",
+      "statement": "What does \"binding\" mean in this legal/business context?",
+      "context": "**Describing a contract:**\r\n\"The contract is binding.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is held together by glue.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It is optional.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is temporary.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It implies a legal obligation that must be fulfilled.",
+          "is_correct": true,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "**English:** A **binding** agreement forces the parties to adhere to the terms under penalty of law.\r\n*Español: **Binding** significa vinculante u obligatorio legalmente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-C1-business-elite-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "C1"
     },
     {
       "id": "UNI-ENG-C2-global-issues-001-v1",

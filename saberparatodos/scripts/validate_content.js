@@ -129,6 +129,13 @@ function isPlaceholderSection(section) {
   if (/continued with same format/i.test(section)) return true;
   if (/full bilingual explanations/i.test(section)) return true;
   if (/\[each question has/i.test(section)) return true;
+
+  // Detect ungenerated placeholder text in body or options
+  if (/\bOpcion [B-D]\b/i.test(section)) return true;
+  if (/\bDistractor [1-3]\b/i.test(section)) return true;
+  if (/\bOpcion correcta\b/i.test(section)) return true;
+  if (/Pregunta sobre\s+[\w\s-]+- Grado/i.test(section)) return true;
+
   return false;
 }
 
