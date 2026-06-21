@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v1",
+      "statement": "Actual in English means:",
+      "context": "Cognate.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "Real",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Same as actual."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "Current",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "False friend actual means current in Spanish."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "Now",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "Actually means",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Realmente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Actual not actual.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v2",
+      "statement": "Embarazada in Spanish does not mean:",
+      "context": "False friend.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "Embarrassed",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "False friend embarazada pregnant."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "Pregnant",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "True meaning."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Ashamed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Close but not."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Upset",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Embarazada pregnant not embarrassed.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v3",
+      "statement": "The arid desert had very little rain. Arid means:",
+      "context": "Context clues.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dry",
+          "is_correct": true,
+          "feedback": "Context signal very little rain."
+        },
+        {
+          "letter": "B",
+          "text": "Wet",
+          "is_correct": false,
+          "feedback": "Opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Cold",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "Green",
+          "is_correct": false,
+          "feedback": "Not."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arid dry context.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v3",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v4",
+      "statement": "Analyze means:",
+      "context": "Academic word.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "Examine carefully",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Academic."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Remove",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "Create",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Destroy",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Analyze examine.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v5",
+      "statement": "Best for essay: The data indicate a trend.",
+      "context": "Formal vocabulary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "indicate",
+          "is_correct": true,
+          "feedback": "Formal."
+        },
+        {
+          "letter": "B",
+          "text": "show",
+          "is_correct": false,
+          "feedback": "Less formal."
+        },
+        {
+          "letter": "C",
+          "text": "say",
+          "is_correct": false,
+          "feedback": "Informal."
+        },
+        {
+          "letter": "D",
+          "text": "tell",
+          "is_correct": false,
+          "feedback": "Informal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Indicate formal.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v6",
+      "statement": "Significant is closest to:",
+      "context": "Synonyms.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "Important",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Significant."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "Small",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "Fast",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "Large",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not exactly."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Significant important.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v7",
+      "statement": "Which is correct?",
+      "context": "Collocations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make a decision",
+          "is_correct": true,
+          "feedback": "Collocation."
+        },
+        {
+          "letter": "B",
+          "text": "do a decision",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "C",
+          "text": "take a decision",
+          "is_correct": false,
+          "feedback": "British."
+        },
+        {
+          "letter": "D",
+          "text": "give a decision",
+          "is_correct": false,
+          "feedback": "Not."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Make a decision collocation.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v8",
+      "statement": "The root of unpredictable is:",
+      "context": "Root words.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dict",
+          "is_correct": true,
+          "feedback": "Say root."
+        },
+        {
+          "letter": "B",
+          "text": "pre",
+          "is_correct": false,
+          "feedback": "Before prefix."
+        },
+        {
+          "letter": "C",
+          "text": "un",
+          "is_correct": false,
+          "feedback": "Not prefix."
+        },
+        {
+          "letter": "D",
+          "text": "able",
+          "is_correct": false,
+          "feedback": "Suffix."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dict root.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v9",
+      "statement": "International has:",
+      "context": "Affixes.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "inter between nation al",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "Prefix only",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also suffix."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "Suffix only",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also prefix."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "No affixes",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Has both."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Inter prefix al suffix.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v10",
+      "statement": "Find: I am agree with you.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am agree",
+          "is_correct": true,
+          "feedback": "Agree verb not adjective."
+        },
+        {
+          "letter": "B",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "with you",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "you",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agree no am.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v11",
+      "statement": "Which is most formal: kids children offspring.",
+      "context": "Register.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "offspring",
+          "is_correct": true,
+          "feedback": "Most formal."
+        },
+        {
+          "letter": "B",
+          "text": "children",
+          "is_correct": false,
+          "feedback": "Neutral."
+        },
+        {
+          "letter": "C",
+          "text": "kids",
+          "is_correct": false,
+          "feedback": "Informal."
+        },
+        {
+          "letter": "D",
+          "text": "young",
+          "is_correct": false,
+          "feedback": "Not formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Offspring formal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v6",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle-v12",
+      "statement": "The synonym of abundant is:",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "plentiful",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Abundant."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "scarce",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "rare",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "limited",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "explanation": "Abundant plentiful.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W39-vocabulary-context-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v7",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v11",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W39-final-project-001-MASTERY-v12",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W39-final-project-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

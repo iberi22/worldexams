@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v1",
+      "statement": "Rice is grown in Colombia.",
+      "context": "Form.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "is",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Passive is grown."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "grows",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "grew",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past active."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past passive."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Present passive be participle.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v2",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v2",
+      "statement": "Letters are delivered daily.",
+      "context": "Plural.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "are",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Plural are."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Singular."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "deliver",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Plural are participle.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v3",
+      "statement": "The painting was painted by artist.",
+      "context": "Agent by.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was painted",
+          "is_correct": true,
+          "feedback": "Passive by agent."
+        },
+        {
+          "letter": "B",
+          "text": "painted",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "is painting",
+          "is_correct": false,
+          "feedback": "Active continuous."
+        },
+        {
+          "letter": "D",
+          "text": "paints",
+          "is_correct": false,
+          "feedback": "Active."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Passive by agent.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v3",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v4",
+      "statement": "Active: Students clean. Passive: Classroom is cleaned.",
+      "context": "Object subject.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "is cleaned",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Subject classroom."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "cleaned",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing aux."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "cleans",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "was cleaned",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Passive object be participle.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v5",
+      "statement": "The chef cooks. Passive: The meal is cooked.",
+      "context": "Active to passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is cooked",
+          "is_correct": true,
+          "feedback": "Present passive."
+        },
+        {
+          "letter": "B",
+          "text": "cooks",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "is cooking",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "D",
+          "text": "cooked",
+          "is_correct": false,
+          "feedback": "Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Present passive be participle.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v4",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v6",
+      "statement": "Homework is not done.",
+      "context": "Negative passive.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "is not",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Passive negative."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "does not",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "was not",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "not",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing be."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Passive negative be not participle.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v7",
+      "statement": "Is English taught at your school?",
+      "context": "Passive question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is taught",
+          "is_correct": true,
+          "feedback": "Question."
+        },
+        {
+          "letter": "B",
+          "text": "Does teach",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "Do taught",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "Are taught",
+          "is_correct": false,
+          "feedback": "English singular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Passive Q be subject participle.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v8",
+      "statement": "Window broke vs Window was broken:",
+      "context": "Active vs passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First active Second passive",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "Both active",
+          "is_correct": false,
+          "feedback": "Second passive."
+        },
+        {
+          "letter": "D",
+          "text": "Both passive",
+          "is_correct": false,
+          "feedback": "First active."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Active does passive receives.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v9",
+      "statement": "Passive used when:",
+      "context": "When passive.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "agent unknown or unimportant",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "we want agent",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "subject does",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "facts",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not main reason."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Passive agent unknown.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v10",
+      "statement": "Find: Homework is do by students.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Done."
+        },
+        {
+          "letter": "B",
+          "text": "homework",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "by students",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Passive be participle done.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v11",
+      "statement": "Best: The experiment was conducted.",
+      "context": "Scientific writing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was conducted",
+          "is_correct": true,
+          "feedback": "Passive."
+        },
+        {
+          "letter": "B",
+          "text": "We did",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "I did",
+          "is_correct": false,
+          "feedback": "Personal."
+        },
+        {
+          "letter": "D",
+          "text": "Someone",
+          "is_correct": false,
+          "feedback": "Vague."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Passive preferred scientific.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v6",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle-v12",
+      "statement": "Recycling is collected weekly.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "is collected",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Passive."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "collects",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "collected",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing aux."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "was collected",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Present passive procedure.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W16-passive-voice-present-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v7",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v8",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v10",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v11",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W16-predictions-001-MASTERY-v12",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W16-predictions-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

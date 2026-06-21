@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v1",
+      "statement": "The house was built in 1990.",
+      "context": "Past passive form.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "was built",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past passive was built."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "built",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing was."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "was build",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong participle."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "is built",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Past passive was built.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v2",
+      "statement": "The letters were sent yesterday.",
+      "context": "Plural past.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "were sent",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past passive were."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "was sent",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Letters plural."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "are sent",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "sent",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing were."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Were for plural.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v3",
+      "statement": "The cake was baked by my grandmother.",
+      "context": "Agent in past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was baked",
+          "is_correct": true,
+          "feedback": "Past passive by agent."
+        },
+        {
+          "letter": "B",
+          "text": "baked",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "was bake",
+          "is_correct": false,
+          "feedback": "Wrong form."
+        },
+        {
+          "letter": "D",
+          "text": "is baked",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Past passive by agent.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v3",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v4",
+      "statement": "Pizza is eaten vs Pizza was eaten:",
+      "context": "Past vs present.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "First now Second then",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Same time",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "Both now",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Second then."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Both then",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "First now."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Present vs past passive.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v5",
+      "statement": "The window was not broken.",
+      "context": "Past negative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was not",
+          "is_correct": true,
+          "feedback": "Past passive negative."
+        },
+        {
+          "letter": "B",
+          "text": "did not",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "were not",
+          "is_correct": false,
+          "feedback": "Window singular."
+        },
+        {
+          "letter": "D",
+          "text": "not broken",
+          "is_correct": false,
+          "feedback": "Missing was."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Was not participle.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v6",
+      "statement": "When was the building constructed?",
+      "context": "Past passive Q.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "was constructed",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Past passive Q."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "did construct",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "was construct",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "is constructed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Was subject past participle.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v7",
+      "statement": "The city of Cartagena was founded in 1533.",
+      "context": "History.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was founded",
+          "is_correct": true,
+          "feedback": "Past passive."
+        },
+        {
+          "letter": "B",
+          "text": "founded",
+          "is_correct": false,
+          "feedback": "Missing aux."
+        },
+        {
+          "letter": "C",
+          "text": "is founded",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "was founding",
+          "is_correct": false,
+          "feedback": "Continuous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Was founded history.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v8",
+      "statement": "Columbus discovered America. Passive:",
+      "context": "Active to past passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "America was discovered by Columbus",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "America discovered Columbus",
+          "is_correct": false,
+          "feedback": "Wrong order."
+        },
+        {
+          "letter": "C",
+          "text": "Columbus was discovered",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "America is discovered",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Active to past passive.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v9",
+      "statement": "The artifacts were found in 1920.",
+      "context": "Choose correct.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "were found",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "found",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing aux."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "was found",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Artifacts plural."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "are found",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Were for plural.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v10",
+      "statement": "Find: The car was steal last night.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was steal",
+          "is_correct": true,
+          "feedback": "Was stolen."
+        },
+        {
+          "letter": "B",
+          "text": "car",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "last night",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "The",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Past participle stolen.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v11",
+      "statement": "Best: The museum was opened in 1950.",
+      "context": "Historical report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was opened",
+          "is_correct": true,
+          "feedback": "Passive formal."
+        },
+        {
+          "letter": "B",
+          "text": "They opened",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "Opened",
+          "is_correct": false,
+          "feedback": "Missing was."
+        },
+        {
+          "letter": "D",
+          "text": "is opened",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Historical passive.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v6",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle-v12",
+      "statement": "The documents were signed by the minister.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "were signed",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "was signed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Documents plural."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "are signed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "signed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing aux."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "explanation": "Were signed.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W23-passive-voice-past-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v7",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v11",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-v12",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W23-reading-environment-p3-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

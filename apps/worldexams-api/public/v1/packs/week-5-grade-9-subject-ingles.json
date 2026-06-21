@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v1",
+      "statement": "He eats breakfast at 7 am.",
+      "context": "Review present simple.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "eats",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Third person."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "eat",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Base."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "eating",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "ate",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "He eats.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v2",
+      "statement": "They visited the museum.",
+      "context": "Review past simple.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "visited",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Regular past."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "visit",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "visits",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Third."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "are visiting",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Ed past.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v3",
+      "statement": "We are going to travel next week.",
+      "context": "Review future going to.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "Plan."
+        },
+        {
+          "letter": "B",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Predict."
+        },
+        {
+          "letter": "C",
+          "text": "travel",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "traveled",
+          "is_correct": false,
+          "feedback": "Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Going to plan.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v3",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v4",
+      "statement": "The food is delicious.",
+      "context": "Review adjectives.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "delicious",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Adj after is."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "deliciously",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Adv."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "deliciousness",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Noun."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "deliciouser",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Adj after is.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v5",
+      "statement": "He always arrives on time.",
+      "context": "Review time expressions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "always",
+          "is_correct": true,
+          "feedback": "After he."
+        },
+        {
+          "letter": "B",
+          "text": "arrives always",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "C",
+          "text": "Always he",
+          "is_correct": false,
+          "feedback": "Poor."
+        },
+        {
+          "letter": "D",
+          "text": "on time always",
+          "is_correct": false,
+          "feedback": "Wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Always before verb.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v6",
+      "statement": "Did you enjoy the party?",
+      "context": "Review questions.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "Did enjoy",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past question."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "Did enjoyed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Enjoyed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not question."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Do enjoy",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Did base.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v7",
+      "statement": "She does not like coffee.",
+      "context": "Review negatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does not like",
+          "is_correct": true,
+          "feedback": "Negative."
+        },
+        {
+          "letter": "B",
+          "text": "does not likes",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "C",
+          "text": "not like",
+          "is_correct": false,
+          "feedback": "Missing does."
+        },
+        {
+          "letter": "D",
+          "text": "does not liked",
+          "is_correct": false,
+          "feedback": "Wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Does not base.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v8",
+      "statement": "I lived in Cali for 5 years (I no longer live).",
+      "context": "Review tense choice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lived",
+          "is_correct": true,
+          "feedback": "Past state."
+        },
+        {
+          "letter": "B",
+          "text": "have lived",
+          "is_correct": false,
+          "feedback": "Still live."
+        },
+        {
+          "letter": "C",
+          "text": "live",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "am living",
+          "is_correct": false,
+          "feedback": "Temporary."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Past simple finished.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v9",
+      "statement": "Find: She go to the gym every Monday.",
+      "context": "Review error detection.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "go",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Goes."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "She",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "gym",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "every Monday",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "She goes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v10",
+      "statement": "She woke up had breakfast and went to school.",
+      "context": "Review sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "woke had went",
+          "is_correct": true,
+          "feedback": "Sequence."
+        },
+        {
+          "letter": "B",
+          "text": "wakes has goes",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "C",
+          "text": "had woke",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "went had woke",
+          "is_correct": false,
+          "feedback": "Wrong order."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Past sequence.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v11",
+      "statement": "Seldom is more formal than rarely.",
+      "context": "Review formal frequency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "seldom",
+          "is_correct": true,
+          "feedback": "Formal."
+        },
+        {
+          "letter": "B",
+          "text": "rarely",
+          "is_correct": false,
+          "feedback": "Less formal."
+        },
+        {
+          "letter": "C",
+          "text": "never",
+          "is_correct": false,
+          "feedback": "Absolute."
+        },
+        {
+          "letter": "D",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "General."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seldom formal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v6",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v12",
+      "statement": "Describe your daily routine using the simple present.",
+      "context": "Review complete.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "I wake up at 6 am then I have breakfast",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "I woke up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "I will wake",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "I am waking",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "explanation": "Simple present for routine.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v7",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v8",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v11",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     }
   ]
 }

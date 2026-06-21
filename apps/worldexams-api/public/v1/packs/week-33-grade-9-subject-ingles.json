@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v1",
+      "statement": "She stayed home because she was sick.",
+      "context": "Because.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "because",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Cause."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "however",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Contrast."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "therefore",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Result."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "although",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Concession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Because cause.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v2",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v2",
+      "statement": "It was raining however we went out.",
+      "context": "However.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "however",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Contrast."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Cause."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "so",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Result."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "and",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Addition."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "However contrast.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v3",
+      "statement": "She studied hard therefore she passed.",
+      "context": "Therefore.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "therefore",
+          "is_correct": true,
+          "feedback": "Result."
+        },
+        {
+          "letter": "B",
+          "text": "however",
+          "is_correct": false,
+          "feedback": "Contrast."
+        },
+        {
+          "letter": "C",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Cause."
+        },
+        {
+          "letter": "D",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Also result."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Therefore result.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v3",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v4",
+      "statement": "Although it was cold she went out.",
+      "context": "Although.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "although",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Despite."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Because not contrast."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "so",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Result."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "but",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also contrast."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Although despite.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v5",
+      "statement": "___ the rain we had fun vs ___ it rained we had fun.",
+      "context": "Despite vs Although.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despite Although",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Although Despite",
+          "is_correct": false,
+          "feedback": "Opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Despite Despite",
+          "is_correct": false,
+          "feedback": "Second incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Although Although",
+          "is_correct": false,
+          "feedback": "First incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despite noun Although clause.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v4",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v6",
+      "statement": "Even though he was tired he helped.",
+      "context": "Even though.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "even though",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Strong although."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "so",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "and",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Even though strong contrast.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v7",
+      "statement": "She saved money in order to travel.",
+      "context": "In order to.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in order to",
+          "is_correct": true,
+          "feedback": "Purpose."
+        },
+        {
+          "letter": "B",
+          "text": "because of",
+          "is_correct": false,
+          "feedback": "Cause."
+        },
+        {
+          "letter": "C",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Cause."
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Purpose possible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "In order to purpose.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v8",
+      "statement": "He was late because of the traffic vs He was late because traffic was bad.",
+      "context": "Cause result.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First noun Second clause",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Both different structure."
+        },
+        {
+          "letter": "C",
+          "text": "First clause Second noun",
+          "is_correct": false,
+          "feedback": "Opposite."
+        },
+        {
+          "letter": "D",
+          "text": "Both noun",
+          "is_correct": false,
+          "feedback": "Second clause."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Because of noun because clause.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v9",
+      "statement": "However at start of sentence:",
+      "context": "Punctuation.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "However comma",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "However no comma",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "Comma before however",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "In middle."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "Semicolon before",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also works."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "However at start comma.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v10",
+      "statement": "Find: Although she was tired but she went.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "but",
+          "is_correct": true,
+          "feedback": "Duplicate although but."
+        },
+        {
+          "letter": "B",
+          "text": "she was",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "she went",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Although but together wrong.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v11",
+      "statement": "Best for essay: The results were inconclusive; therefore further research is needed.",
+      "context": "Formal writing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "therefore",
+          "is_correct": true,
+          "feedback": "Formal."
+        },
+        {
+          "letter": "B",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Informal."
+        },
+        {
+          "letter": "C",
+          "text": "so then",
+          "is_correct": false,
+          "feedback": "Too informal."
+        },
+        {
+          "letter": "D",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Cause not result."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Therefore formal result.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle-v12",
+      "statement": "She could not attend due to her illness.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "due to",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Formal because of."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Needs clause."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "because of",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also correct."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "since",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also cause."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "explanation": "Due to formal cause.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W33-connectors-linkers-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v7",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v10",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v11",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-v12",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W33-reading-practice-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

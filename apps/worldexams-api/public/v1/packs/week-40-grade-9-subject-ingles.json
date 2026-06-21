@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v1",
+      "statement": "She has lived in Bogota for five years.",
+      "context": "Comprehensive.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "has lived",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Present perfect with for."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "lived",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past simple."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "lives",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "is living",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Present perfect for.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v2",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v2",
+      "statement": "Coffee is grown in Colombia.",
+      "context": "Final passive.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "is grown",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Passive."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "grows",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "was grown",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "has grown",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Perfect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Is grown present passive.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v3",
+      "statement": "If I had known I would have come.",
+      "context": "Final conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had known would have",
+          "is_correct": true,
+          "feedback": "Type 3."
+        },
+        {
+          "letter": "B",
+          "text": "knew would",
+          "is_correct": false,
+          "feedback": "Type 2."
+        },
+        {
+          "letter": "C",
+          "text": "know will",
+          "is_correct": false,
+          "feedback": "Type 1."
+        },
+        {
+          "letter": "D",
+          "text": "had known came",
+          "is_correct": false,
+          "feedback": "Missing would."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Type 3.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v3",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v4",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v6",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Pragmática",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v7",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v4",
+      "statement": "He said he was a teacher.",
+      "context": "Final reported.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "said he was",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Reported."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "said he is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No backshift."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "told he was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Told needs object."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "says he was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Mixed."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v8",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v10",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Said backshift.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v5",
+      "statement": "She could not put up with the noise.",
+      "context": "Final phrasal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "put up with",
+          "is_correct": true,
+          "feedback": "Tolerate."
+        },
+        {
+          "letter": "B",
+          "text": "put out",
+          "is_correct": false,
+          "feedback": "Extinguish."
+        },
+        {
+          "letter": "C",
+          "text": "put off",
+          "is_correct": false,
+          "feedback": "Postpone."
+        },
+        {
+          "letter": "D",
+          "text": "put on",
+          "is_correct": false,
+          "feedback": "Wear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Put up with.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v6",
+      "statement": "She was tired nonetheless she finished.",
+      "context": "Final connectors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "nonetheless",
+          "is_correct": true,
+          "feedback": "Contrast formal."
+        },
+        {
+          "letter": "B",
+          "text": "but",
+          "is_correct": false,
+          "feedback": "Less formal."
+        },
+        {
+          "letter": "C",
+          "text": "however",
+          "is_correct": false,
+          "feedback": "Also correct."
+        },
+        {
+          "letter": "D",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Cause wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Nonetheless correct.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v7",
+      "statement": "You need not worry about the exam.",
+      "context": "Final modals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "need not",
+          "is_correct": true,
+          "feedback": "No obligation."
+        },
+        {
+          "letter": "B",
+          "text": "must not",
+          "is_correct": false,
+          "feedback": "Prohibition."
+        },
+        {
+          "letter": "C",
+          "text": "should not",
+          "is_correct": false,
+          "feedback": "Advice."
+        },
+        {
+          "letter": "D",
+          "text": "can not",
+          "is_correct": false,
+          "feedback": "Ability."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Need not no obligation.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
       "expected_success": 0.7,
       "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v11",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v8",
+      "statement": "Which prefix makes possible negative:",
+      "context": "Final prefixes.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "im",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Im possible."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "un",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Unpossible not standard."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "dis",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Dispossible not."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "mis",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Mispossible not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-v12",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Im possible.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
+      "icfes_type": "Lingüística",
       "expected_success": 0.65,
       "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v9",
+      "statement": "The woman who lives next door vs The woman who lives next door:",
+      "context": "Final relative clauses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First defining Second non-defining if commas",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Commas."
+        },
+        {
+          "letter": "C",
+          "text": "Both defining",
+          "is_correct": false,
+          "feedback": "Without commas."
+        },
+        {
+          "letter": "D",
+          "text": "Both non-defining",
+          "is_correct": false,
+          "feedback": "With commas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Commas define type.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v10",
+      "statement": "Find: She suggested me to apply for the job.",
+      "context": "Final error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suggested me to",
+          "is_correct": true,
+          "feedback": "Suggest that or gerund."
+        },
+        {
+          "letter": "B",
+          "text": "She",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "the job",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Suggest gerund.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v11",
+      "statement": "Best for conclusion: In conclusion the data suggest that further research is warranted.",
+      "context": "Final formal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In conclusion the data suggest",
+          "is_correct": true,
+          "feedback": "Formal."
+        },
+        {
+          "letter": "B",
+          "text": "So the data shows",
+          "is_correct": false,
+          "feedback": "Less formal."
+        },
+        {
+          "letter": "C",
+          "text": "The data says",
+          "is_correct": false,
+          "feedback": "Says too simple."
+        },
+        {
+          "letter": "D",
+          "text": "I think the data",
+          "is_correct": false,
+          "feedback": "Personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "In conclusion formal.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle-v12",
+      "statement": "After a year of study I feel more confident in English.",
+      "context": "Final complete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more confident",
+          "is_correct": true,
+          "feedback": "Comparative."
+        },
+        {
+          "letter": "B",
+          "text": "confident",
+          "is_correct": false,
+          "feedback": "Base."
+        },
+        {
+          "letter": "C",
+          "text": "most confident",
+          "is_correct": false,
+          "feedback": "Superlative."
+        },
+        {
+          "letter": "D",
+          "text": "much confident",
+          "is_correct": false,
+          "feedback": "Much before comparative."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "More confident correct.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W40-final-review-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
     }
   ]
 }

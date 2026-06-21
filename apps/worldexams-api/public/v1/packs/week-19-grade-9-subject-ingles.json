@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v1",
+      "statement": "The woman who lives next door is a doctor.",
+      "context": "Who people.",
       "options": [
         {
           "letter": "A",
           "text": "who",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Who person."
         },
         {
           "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Things."
         },
         {
           "letter": "C",
           "text": "where",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Place."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Who for people.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v2",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v2",
+      "statement": "The book which is on the table is mine.",
+      "context": "Which things.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Which things."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "who",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "People."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "where",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Place."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "whose",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Which that things.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v3",
+      "statement": "This is school where I studied.",
+      "context": "Where places.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where",
+          "is_correct": true,
+          "feedback": "Place."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Thing."
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Person."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Works but where."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Where for places.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v3",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v4",
+      "statement": "Boy whose father is pilot won.",
+      "context": "Whose possession.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "whose",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Possession."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "who",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Subject."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Thing."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No possession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Whose possession.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v5",
+      "statement": "The movie that we watched was great.",
+      "context": "Movie that.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Object relative."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "People."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Possession."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Place."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "That which things.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v4",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v6",
+      "statement": "My brother who lives in Cali is a teacher.",
+      "context": "Non-defining.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "Commas",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Non-defining."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "who",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Defining."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not non-defining."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Things."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Non-defining commas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v7",
+      "statement": "He is someone who always helps.",
+      "context": "Always helps.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Person subject."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Things."
+        },
+        {
+          "letter": "C",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Object."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Place."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Who subject people.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v8",
+      "statement": "The song that she sang: omit that?",
+      "context": "Omit pronoun.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That object can omit",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "That subject cannot",
+          "is_correct": false,
+          "feedback": "Needed."
+        },
+        {
+          "letter": "C",
+          "text": "Never omit",
+          "is_correct": false,
+          "feedback": "Object can."
+        },
+        {
+          "letter": "D",
+          "text": "Always omit",
+          "is_correct": false,
+          "feedback": "Sometimes required."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Object omit.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v9",
+      "statement": "Which correct for non-defining?",
+      "context": "Non-defining that vs which.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "Only which not that",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "Only that not which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "Both",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Only which."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Which."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Non-defining which only.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v10",
+      "statement": "Find: The girl which won is my friend.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Girl who."
+        },
+        {
+          "letter": "B",
+          "text": "girl",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "won",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "friend",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Who for people.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v11",
+      "statement": "Bogota is a city that has many museums.",
+      "context": "City description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "which that",
+          "is_correct": false,
+          "feedback": "Double."
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "People."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Place."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "That city description.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle-v12",
+      "statement": "The person whose car was stolen is upset.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "whose",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Possession."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v7",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v8",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
           "text": "who",
-          "is_correct": true,
-          "feedback": ""
+          "is_correct": false,
+          "feedback": "Subject."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Thing."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No possession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v10",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "explanation": "Whose possession people.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W19-relative-clauses-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v11",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-v12",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W19-future-time-clauses-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

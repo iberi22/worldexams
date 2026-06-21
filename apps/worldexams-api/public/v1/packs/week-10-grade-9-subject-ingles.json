@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v1",
+      "statement": "Could you please open the door?",
+      "context": "Review requests.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "Could",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Polite request modal."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "Must",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Obligation."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "Shall",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "For offers."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "Need",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not request."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Could you polite request.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v2",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v2",
+      "statement": "She can speak French and Italian.",
+      "context": "Review ability.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "can",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Present ability."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "could",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past ability."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "may",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Permission."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "should",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Advice."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Can present ability.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v3",
+      "statement": "You do not have to pay. It is free.",
+      "context": "Review obligation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do not have to",
+          "is_correct": true,
+          "feedback": "No obligation."
+        },
+        {
+          "letter": "B",
+          "text": "must not",
+          "is_correct": false,
+          "feedback": "Prohibition."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Advice."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Ability."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Do not have to not necessary.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v3",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v4",
+      "statement": "While I was walking home it started to rain.",
+      "context": "Review narration.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "was walking",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Background action."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "walk",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "walked",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Simple past."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "walking",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not complete."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "While Past Continuous background.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v5",
+      "statement": "You must bring your ID to the exam.",
+      "context": "Review modal choice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Strong obligation."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Ability."
+        },
+        {
+          "letter": "C",
+          "text": "may",
+          "is_correct": false,
+          "feedback": "Permission."
+        },
+        {
+          "letter": "D",
+          "text": "must not",
+          "is_correct": false,
+          "feedback": "Prohibition."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Must required by rule.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v4",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v6",
+      "statement": "At 8 PM yesterday they were having dinner.",
+      "context": "Review past continuous.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "were having",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "At specific past time."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "had",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Completed."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "are having",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "At specific past time Past Continuous.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v7",
+      "statement": "No thank you I am not hungry.",
+      "context": "Review polite refusal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No thank you",
+          "is_correct": true,
+          "feedback": "Polite."
+        },
+        {
+          "letter": "B",
+          "text": "I no want",
+          "is_correct": false,
+          "feedback": "Wrong grammar."
+        },
+        {
+          "letter": "C",
+          "text": "No",
+          "is_correct": false,
+          "feedback": "Rude."
+        },
+        {
+          "letter": "D",
+          "text": "I do not like",
+          "is_correct": false,
+          "feedback": "Blunt."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Polite refusal thank you reason.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v8",
+      "statement": "Which is stronger?",
+      "context": "Review must vs should.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Must is stronger.",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Should is stronger",
+          "is_correct": false,
+          "feedback": "Opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Same strength",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "D",
+          "text": "Neither strong",
+          "is_correct": false,
+          "feedback": "Both express modality."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Must stronger than Should.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v9",
+      "statement": "He could swim at age 4.",
+      "context": "Review context.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "could",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past ability."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "can",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "must",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Obligation."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "may",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Permission."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Age 4 past could.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v10",
+      "statement": "Find: He can to sing well.",
+      "context": "Review error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to sing",
+          "is_correct": true,
+          "feedback": "No to after can."
+        },
+        {
+          "letter": "B",
+          "text": "He",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Correct modal."
+        },
+        {
+          "letter": "D",
+          "text": "well",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Can base form.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v11",
+      "statement": "Email to school office:",
+      "context": "Review formal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Could you please send the schedule?",
+          "is_correct": true,
+          "feedback": "Polite appropriate."
+        },
+        {
+          "letter": "B",
+          "text": "Send the schedule",
+          "is_correct": false,
+          "feedback": "Imperative."
+        },
+        {
+          "letter": "C",
+          "text": "I need schedule",
+          "is_correct": false,
+          "feedback": "Demanding."
+        },
+        {
+          "letter": "D",
+          "text": "Hey send it",
+          "is_correct": false,
+          "feedback": "Informal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Formal request Could you please.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v6",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle-v12",
+      "statement": "Practicing English daily is important because:",
+      "context": "Review conclusion.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "it helps you communicate better.",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Logical."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "it costs a lot of money",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not the point."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "nobody likes studying",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Negative."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "English is easy",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Subjective."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
+      "explanation": "Conclusion aligned with premise.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W10-review-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v7",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v8",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v10",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v11",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-v12",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W10-superlatives-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     }
   ]
 }

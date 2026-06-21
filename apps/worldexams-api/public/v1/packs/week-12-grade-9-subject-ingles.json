@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v1",
+      "statement": "I saw ___ elephant at the zoo.",
+      "context": "Indefinite article.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "an",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Elephant vowel."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "a",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Consonant."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "the",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Definite."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "zero",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Needs article."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "An before vowel.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v2",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v2",
+      "statement": "___ sun rises in the east.",
+      "context": "Definite article.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "The",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Unique sun."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "A",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not unique."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "An",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Vowel but not."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "Zero",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Needs the."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "The for unique things.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v3",
+      "statement": "I like ___ music.",
+      "context": "Zero article.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "zero",
+          "is_correct": true,
+          "feedback": "General."
+        },
+        {
+          "letter": "B",
+          "text": "the",
+          "is_correct": false,
+          "feedback": "Specific."
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Specific countable."
+        },
+        {
+          "letter": "D",
+          "text": "an",
+          "is_correct": false,
+          "feedback": "Specific countable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Zero article for general.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v3",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v4",
+      "statement": "She is ___ teacher.",
+      "context": "Article with professions.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "a",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Profession singular."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "an",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not vowel."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "the",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Specific."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "zero",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Needs article."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "A before profession.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v5",
+      "statement": "It is ___ best restaurant in Medellin.",
+      "context": "The with superlatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the",
+          "is_correct": true,
+          "feedback": "Superlative."
+        },
+        {
+          "letter": "B",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Not superlative."
+        },
+        {
+          "letter": "C",
+          "text": "an",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "zero",
+          "is_correct": false,
+          "feedback": "Needs the."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The with superlative.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v4",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v6",
+      "statement": "I live in ___ Colombia.",
+      "context": "No article with countries.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "zero",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Countries."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "the",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "The Colombia wrong."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "a",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "A Colombia wrong."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "an",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Zero with countries.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v7",
+      "statement": "___ Amazon River is very long.",
+      "context": "The with rivers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The",
+          "is_correct": true,
+          "feedback": "Rivers."
+        },
+        {
+          "letter": "B",
+          "text": "A",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "C",
+          "text": "An",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "is_correct": false,
+          "feedback": "Needs the."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The with rivers.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v8",
+      "statement": "I saw a dog ___ dog was barking.",
+      "context": "First mention vs subsequent.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a The",
+          "is_correct": true,
+          "feedback": "First then the."
+        },
+        {
+          "letter": "B",
+          "text": "the a",
+          "is_correct": false,
+          "feedback": "Wrong order."
+        },
+        {
+          "letter": "C",
+          "text": "a a",
+          "is_correct": false,
+          "feedback": "Both first."
+        },
+        {
+          "letter": "D",
+          "text": "the The",
+          "is_correct": false,
+          "feedback": "Both second."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A first The second.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v9",
+      "statement": "Which is incorrect? She is ___ honest person.",
+      "context": "Article omission.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "a",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "An honest h silent."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "an",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "the",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Maybe but generic needs a/an."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "zero",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Needs article."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "An before honest.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v10",
+      "statement": "Find: I need an umbrella and a honest answer.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a honest",
+          "is_correct": true,
+          "feedback": "An honest."
+        },
+        {
+          "letter": "B",
+          "text": "an umbrella",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "I need",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "answer",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "An honest.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v11",
+      "statement": "He is in ___ hospital (as patient).",
+      "context": "Zero vs the with institutions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the:As patient zero",
+          "is_correct": true,
+          "feedback": "As general."
+        },
+        {
+          "letter": "B",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "C",
+          "text": "an",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "in hospital",
+          "is_correct": false,
+          "feedback": "British."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Context matters.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v6",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle-v12",
+      "statement": "___ most students study for exams.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "zero",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Most general."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "The",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Some specific."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "A",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "An",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Zero with most.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W12-articles-determiners-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v7",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v8",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v10",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v11",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-v12",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W12-present-continuous-future-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     }
   ]
 }

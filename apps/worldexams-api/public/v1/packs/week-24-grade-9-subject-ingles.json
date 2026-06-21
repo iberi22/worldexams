@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v1",
+      "statement": "I was watching TV when she called.",
+      "context": "Past continuous form.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "was watching",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past continuous was ing."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "watched",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past simple."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "watch",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "am watching",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Was ing previous action.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v2",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v2",
+      "statement": "While I was studying the phone rang.",
+      "context": "Interrupted.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "was studying",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Long action interrupted."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "studied",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Same time."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "study",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "am studying",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Past continuous interrupted.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v3",
+      "statement": "I was cooking he was watching TV.",
+      "context": "Simultaneous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was cooking he was watching",
+          "is_correct": true,
+          "feedback": "Both ongoing."
+        },
+        {
+          "letter": "B",
+          "text": "cooked watched",
+          "is_correct": false,
+          "feedback": "Both completed."
+        },
+        {
+          "letter": "C",
+          "text": "was cooking watched",
+          "is_correct": false,
+          "feedback": "Mix."
+        },
+        {
+          "letter": "D",
+          "text": "cooking watching",
+          "is_correct": false,
+          "feedback": "Missing aux."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Both past continuous.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v3",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v4",
+      "statement": "While for longer when for specific.",
+      "context": "While vs When.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "Correct",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "While continuous When specific."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "Same",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "While for specific",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "When for continuous",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "While continuous when simple.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v5",
+      "statement": "She ___ dinner when he arrived.",
+      "context": "Choose correct.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was cooking",
+          "is_correct": true,
+          "feedback": "Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "cooked",
+          "is_correct": false,
+          "feedback": "Completed."
+        },
+        {
+          "letter": "C",
+          "text": "cooks",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "is cooking",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "When interrupted past continuous.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v4",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v6",
+      "statement": "___ the doorbell ___ while I was showering.",
+      "context": "Short action.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "Rang",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Short action."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "was ringing",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Long."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "ringing",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing aux."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "rung",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Rang short action.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v7",
+      "statement": "Yesterday at 8 PM we were having dinner.",
+      "context": "Description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were having",
+          "is_correct": true,
+          "feedback": "Specific past moment."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Completed."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "are having",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Were having at specific time.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v8",
+      "statement": "She was studying all night.",
+      "context": "Duration emphasis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was studying",
+          "is_correct": true,
+          "feedback": "Emphasizes duration."
+        },
+        {
+          "letter": "B",
+          "text": "studied",
+          "is_correct": false,
+          "feedback": "Just fact."
+        },
+        {
+          "letter": "C",
+          "text": "study",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "is studying",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Was studying emphasizes duration.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v9",
+      "statement": "___ I was walking it started to rain.",
+      "context": "When while.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "While",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "While + continuous."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "When",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "When + simple."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "During",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "During + noun."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "Because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Cause."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "While with continuous.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v10",
+      "statement": "Find: While I watched TV she called.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watched",
+          "is_correct": true,
+          "feedback": "While I was watching."
+        },
+        {
+          "letter": "B",
+          "text": "TV",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "she called",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "While",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "While + past continuous.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v11",
+      "statement": "Best to set scene: It was raining when I left.",
+      "context": "Storytelling.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was raining",
+          "is_correct": true,
+          "feedback": "Sets scene."
+        },
+        {
+          "letter": "B",
+          "text": "rained",
+          "is_correct": false,
+          "feedback": "Simple."
+        },
+        {
+          "letter": "C",
+          "text": "rains",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "is raining",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Continuous sets scene.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v6",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle-v12",
+      "statement": "While we were walking the dog it started to rain.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "were walking",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "walked",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Short."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "walk",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "are walking",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "While continuous.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W24-past-continuous-simple-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v7",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v8",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v10",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v11",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-v12",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W24-discussion-opinions-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

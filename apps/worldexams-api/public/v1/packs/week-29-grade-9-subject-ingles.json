@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v1",
+      "statement": "She picked up her brother at school.",
+      "context": "Pick up.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "picked up",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Collect."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "picked in",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "pick up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "picked out",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Select."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Pick up collect.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v2",
+      "statement": "Please turn off the lights.",
+      "context": "Turn off.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "turn off",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Stop device."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "turn on",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Start."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "turn up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Increase."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "turn down",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Decrease."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Turn off stop.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v3",
+      "statement": "She looks after her younger sister.",
+      "context": "Look after.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "looks after",
+          "is_correct": true,
+          "feedback": "Take care of."
+        },
+        {
+          "letter": "B",
+          "text": "looks for",
+          "is_correct": false,
+          "feedback": "Search."
+        },
+        {
+          "letter": "C",
+          "text": "looks up",
+          "is_correct": false,
+          "feedback": "Search info."
+        },
+        {
+          "letter": "D",
+          "text": "looks at",
+          "is_correct": false,
+          "feedback": "Observe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Look after care for.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v3",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v4",
+      "statement": "He gave up smoking last year.",
+      "context": "Give up.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "gave up",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Quit."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "gave in",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Surrender."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "gave out",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Distribute."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "gave away",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Donate."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Give up quit.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v5",
+      "statement": "She picked ___ her brother ___.",
+      "context": "Separable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "picked her brother up",
+          "is_correct": true,
+          "feedback": "Separable."
+        },
+        {
+          "letter": "B",
+          "text": "picked up her brother",
+          "is_correct": false,
+          "feedback": "Also ok."
+        },
+        {
+          "letter": "C",
+          "text": "picked her up brother",
+          "is_correct": false,
+          "feedback": "Wrong order."
+        },
+        {
+          "letter": "D",
+          "text": "picked up him",
+          "is_correct": false,
+          "feedback": "Pronoun after."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Separable with noun optional.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v6",
+      "statement": "Put on your jacket -> Put it on.",
+      "context": "Pronoun separable.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "Put it on",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Pronoun between."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "Put on it",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Pronoun after not separable."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Put on",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing pronoun."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Put your jacket",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not phrasal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Pronoun between.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v7",
+      "statement": "I ran into an old friend.",
+      "context": "Inseparable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ran into",
+          "is_correct": true,
+          "feedback": "Met by chance inseparable."
+        },
+        {
+          "letter": "B",
+          "text": "ran",
+          "is_correct": false,
+          "feedback": "Missing into."
+        },
+        {
+          "letter": "C",
+          "text": "ran in",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "ran through",
+          "is_correct": false,
+          "feedback": "Practice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Run into inseparable.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v8",
+      "statement": "Turn off the TV vs look after the baby:",
+      "context": "Separable vs inseparable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First separable Second inseparable",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Both separable",
+          "is_correct": false,
+          "feedback": "Second inseparable."
+        },
+        {
+          "letter": "C",
+          "text": "Both inseparable",
+          "is_correct": false,
+          "feedback": "First separable."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Both phrasal but different."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Separable vs inseparable.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v9",
+      "statement": "I cannot put up with the noise.",
+      "context": "Three or more particles.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "put up with",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Tolerate three parts."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "put with",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Only two."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "put up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Two."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "put",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "One."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Put up with tolerate.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v10",
+      "statement": "Find: She looked after him which is correct.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correct",
+          "is_correct": true,
+          "feedback": "Inseparable pronoun after."
+        },
+        {
+          "letter": "B",
+          "text": "She looked him after",
+          "is_correct": false,
+          "feedback": "Wrong order."
+        },
+        {
+          "letter": "C",
+          "text": "looked after",
+          "is_correct": false,
+          "feedback": "Missing him."
+        },
+        {
+          "letter": "D",
+          "text": "looked after he",
+          "is_correct": false,
+          "feedback": "Pronoun objective."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Look after him correct.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v11",
+      "statement": "Best to end meeting: We need to carry out the plan.",
+      "context": "Formal vs informal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "carry out",
+          "is_correct": true,
+          "feedback": "Execute formal."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Too simple."
+        },
+        {
+          "letter": "C",
+          "text": "go through with",
+          "is_correct": false,
+          "feedback": "Ok but wordy."
+        },
+        {
+          "letter": "D",
+          "text": "make happen",
+          "is_correct": false,
+          "feedback": "Not standard."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Carry out formal phrasal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v6",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle-v12",
+      "statement": "She could not put up with the noisy neighbors.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "put up with",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Tolerate."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "put out",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Extinguish."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "put off",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Postpone."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "put on",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wear."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "explanation": "Put up with tolerate.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W29-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v7",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v8",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v11",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W29-debate-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

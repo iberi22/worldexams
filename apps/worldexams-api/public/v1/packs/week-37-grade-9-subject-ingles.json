@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v1",
+      "statement": "The man who lives next door is a doctor.",
+      "context": "Defining no commas.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "No commas",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Defining."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "With commas",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Non-defining."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "Comma only one",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Both commas."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "is_correct": false,
+          "feedback": "Defining no commas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Defining no commas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v2",
+      "statement": "My brother who lives in Cali is a teacher.",
+      "context": "Non-defining commas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Commas",
+          "is_correct": true,
+          "feedback": "Non-defining parenthetical."
+        },
+        {
+          "letter": "B",
+          "text": "No commas",
+          "is_correct": false,
+          "feedback": "Defining."
+        },
+        {
+          "letter": "C",
+          "text": "Comma after only",
+          "is_correct": false,
+          "feedback": "Both."
+        },
+        {
+          "letter": "D",
+          "text": "Comma before only",
+          "is_correct": false,
+          "feedback": "Both."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Non-defining both commas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v3",
+      "statement": "The students who studied passed vs The students who studied passed:",
+      "context": "Meaning difference.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same",
+          "is_correct": true,
+          "feedback": "Both defining."
+        },
+        {
+          "letter": "B",
+          "text": "First non-defining",
+          "is_correct": false,
+          "feedback": "Defining."
+        },
+        {
+          "letter": "C",
+          "text": "Second non-defining",
+          "is_correct": false,
+          "feedback": "Also."
+        },
+        {
+          "letter": "D",
+          "text": "Different",
+          "is_correct": false,
+          "feedback": "Both defining."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Both defining.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v4",
+      "statement": "Which pronoun can be used in defining?",
+      "context": "That in defining.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That",
+          "is_correct": true,
+          "feedback": "Defining only."
+        },
+        {
+          "letter": "B",
+          "text": "Which",
+          "is_correct": false,
+          "feedback": "Both."
+        },
+        {
+          "letter": "C",
+          "text": "Who",
+          "is_correct": false,
+          "feedback": "Both."
+        },
+        {
+          "letter": "D",
+          "text": "Whom",
+          "is_correct": false,
+          "feedback": "Both."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "That defining only.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v5",
+      "statement": "The car which is red is mine vs The car which is red is mine:",
+      "context": "Which in non-defining.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First non-defining with commas",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same without commas",
+          "is_correct": false,
+          "feedback": "Defining."
+        },
+        {
+          "letter": "C",
+          "text": "Both non-defining",
+          "is_correct": false,
+          "feedback": "First commas."
+        },
+        {
+          "letter": "D",
+          "text": "Both defining",
+          "is_correct": false,
+          "feedback": "Second commas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Commas change meaning.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v6",
+      "statement": "The person whom I met was friendly.",
+      "context": "Whom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "whom",
+          "is_correct": true,
+          "feedback": "Object formal."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Subject informal."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Thing."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v3",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Whom object.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v7",
+      "statement": "My friend whose car was stolen reported it.",
+      "context": "Whose non-defining.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "Commas",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Non-defining."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "No commas",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Defining."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "Comma after",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Both."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Comma before",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Both."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Non-defining commas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v8",
+      "statement": "I met the woman [that] you know. Omit?",
+      "context": "Omission.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes",
+          "is_correct": true,
+          "feedback": "Object can omit."
+        },
+        {
+          "letter": "B",
+          "text": "No",
+          "is_correct": false,
+          "feedback": "Subject cannot."
+        },
+        {
+          "letter": "C",
+          "text": "Only if who",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "Never",
+          "is_correct": false,
+          "feedback": "Object can."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Object that omit.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v9",
+      "statement": "Which is incorrect?",
+      "context": "That cannot in non-defining.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "Non-defining that",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "That not allowed."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "Non-defining which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Allowed."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "Defining which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Allowed."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "Defining that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Allowed."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "That non-defining incorrect.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v10",
+      "statement": "Find: My brother who lives in Cali is nice missing commas?",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Missing commas",
+          "is_correct": true,
+          "feedback": "Non-defining needs commas."
+        },
+        {
+          "letter": "B",
+          "text": "Correct",
+          "is_correct": false,
+          "feedback": "Defining maybe."
+        },
+        {
+          "letter": "C",
+          "text": "Commas optional",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "My brother is unique",
+          "is_correct": false,
+          "feedback": "Context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Non-defining requires commas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v11",
+      "statement": "Best for essay: The hypothesis which was tested proved correct.",
+      "context": "Formal writing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which was tested",
+          "is_correct": true,
+          "feedback": "Formal."
+        },
+        {
+          "letter": "B",
+          "text": "that was tested",
+          "is_correct": false,
+          "feedback": "Less formal."
+        },
+        {
+          "letter": "C",
+          "text": "tested",
+          "is_correct": false,
+          "feedback": "Reduced."
+        },
+        {
+          "letter": "D",
+          "text": "which tested",
+          "is_correct": false,
+          "feedback": "Missing be."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Which in formal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v6",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle-v12",
+      "statement": "The book _______ I borrowed was fascinating.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "that or which",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Object omit."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v7",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v8",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
           "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "People."
         },
         {
           "letter": "C",
           "text": "where",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Place."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "explanation": "That which.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W37-defining-non-defining-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v11",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W37-mock-exam-2-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

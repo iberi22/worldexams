@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v1",
+      "statement": "Where is she? -> He asked where she was.",
+      "context": "Wh-question.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "where she was",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Statement order."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "where was she",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Question order."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "where is she",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No backshift."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "where she is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No backshift."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Wh- direct to reported.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v2",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v2",
+      "statement": "Do you like coffee? -> He asked ___ I liked coffee.",
+      "context": "Yes no question.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "if",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "If for yes no."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "That for statements."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "what",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wh- word."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "whether",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also correct."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "If for yes no.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v3",
+      "statement": "Did she go? -> He asked if she had gone.",
+      "context": "Did to past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had gone",
+          "is_correct": true,
+          "feedback": "Did to past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Past simple."
+        },
+        {
+          "letter": "C",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "goes to",
+          "is_correct": false,
+          "feedback": "Wrong. go -> goes to not go"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Did to past perfect.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v3",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v4",
+      "statement": "Direct: What did he want? Reported: He asked what I wanted.",
+      "context": "Question word order.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "subject verb",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Statement order."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "did wanted",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Question order."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "what did want",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Direct order."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "what want",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing subject."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Subject before verb.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v5",
+      "statement": "Where are you? -> He asked where I was.",
+      "context": "Wh- with be.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where I was",
+          "is_correct": true,
+          "feedback": "Correct order."
+        },
+        {
+          "letter": "B",
+          "text": "where was I",
+          "is_correct": false,
+          "feedback": "Question order."
+        },
+        {
+          "letter": "C",
+          "text": "where am I",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "where I am",
+          "is_correct": false,
+          "feedback": "No backshift."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Subject before verb.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v4",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v6",
+      "statement": "He asked whether we would attend.",
+      "context": "Whether formal.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "whether",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Formal if."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "if",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Less formal."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Statement only."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "what",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wh- word."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Whether formal.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v7",
+      "statement": "She asked if I could help her.",
+      "context": "Polite reported.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if I could",
+          "is_correct": true,
+          "feedback": "Polite."
+        },
+        {
+          "letter": "B",
+          "text": "can you help",
+          "is_correct": false,
+          "feedback": "Direct."
+        },
+        {
+          "letter": "C",
+          "text": "if can I help",
+          "is_correct": false,
+          "feedback": "Wrong word order."
+        },
+        {
+          "letter": "D",
+          "text": "could you",
+          "is_correct": false,
+          "feedback": "Direct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "If subject could.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v8",
+      "statement": "Direct: Did it rain? Reported: He asked if it had rained.",
+      "context": "No do auxiliary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had rained",
+          "is_correct": true,
+          "feedback": "No do."
+        },
+        {
+          "letter": "B",
+          "text": "rained",
+          "is_correct": false,
+          "feedback": "No perfect."
+        },
+        {
+          "letter": "C",
+          "text": "did rain",
+          "is_correct": false,
+          "feedback": "Has do."
+        },
+        {
+          "letter": "D",
+          "text": "is raining",
+          "is_correct": false,
+          "feedback": "Continuous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reported has no do auxiliary.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v9",
+      "statement": "Correct reported Q:",
+      "context": "Embedded inversion.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "She asked what time it was.",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "No inversion."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "She asked what time was it.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Inversion."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "She asked what time is it.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No backshift."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "She asked what time it is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No backshift."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "No inversion in reported.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v10",
+      "statement": "Find: He asked where was the station.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where was the station",
+          "is_correct": true,
+          "feedback": "Where the station was."
+        },
+        {
+          "letter": "B",
+          "text": "He asked",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "the station",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "asked",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Subject verb order.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v11",
+      "statement": "Best: The officer asked if he had seen anything.",
+      "context": "Police report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if he had seen",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "did you see",
+          "is_correct": false,
+          "feedback": "Direct."
+        },
+        {
+          "letter": "C",
+          "text": "have you seen",
+          "is_correct": false,
+          "feedback": "Direct."
+        },
+        {
+          "letter": "D",
+          "text": "had you seen",
+          "is_correct": false,
+          "feedback": "Direct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reported formal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v6",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle-v12",
+      "statement": "She asked whether we were coming.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "whether we were",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "whether were we",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Inversion."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "if we are",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No backshift."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "if are we",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Word order."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
+      "explanation": "Whether subject verb.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W22-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v7",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v8",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v10",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v11",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-v12",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W22-relative-clauses-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

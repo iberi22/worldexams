@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v1",
+      "statement": "English is spoken worldwide.",
+      "context": "Present passive.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "is spoken",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Present passive."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "was spoken",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "speaks",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "is speaking",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Is spoken present.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v2",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v2",
+      "statement": "The bridge was built in 1950.",
+      "context": "Past passive.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "was built",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past passive."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "is built",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "built",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing was."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "was build",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Was built past.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v3",
+      "statement": "The report has been completed.",
+      "context": "Present perfect passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has been",
+          "is_correct": true,
+          "feedback": "Present perfect passive."
+        },
+        {
+          "letter": "B",
+          "text": "is completed",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "C",
+          "text": "was completed",
+          "is_correct": false,
+          "feedback": "Past."
+        },
+        {
+          "letter": "D",
+          "text": "has completed",
+          "is_correct": false,
+          "feedback": "Active."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Has been pp.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v3",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v4",
+      "statement": "The package will be delivered.",
+      "context": "Future passive.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "will be delivered",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Future passive."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "will deliver",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "will be deliver",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "is delivered",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Will be pp.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v5",
+      "statement": "This must be done today.",
+      "context": "Modal passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must be done",
+          "is_correct": true,
+          "feedback": "Modal passive."
+        },
+        {
+          "letter": "B",
+          "text": "must do",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "is done",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "must be do",
+          "is_correct": false,
+          "feedback": "Wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modal be pp.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v4",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v6",
+      "statement": "The homework had been finished by noon.",
+      "context": "Past perfect passive.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "had been finished",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past perfect passive."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "was finished",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "has been finished",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present perfect."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "had finished",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Had been pp.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v7",
+      "statement": "The road is being repaired.",
+      "context": "Continuous passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is being repaired",
+          "is_correct": true,
+          "feedback": "Present continuous passive."
+        },
+        {
+          "letter": "B",
+          "text": "is repaired",
+          "is_correct": false,
+          "feedback": "Simple."
+        },
+        {
+          "letter": "C",
+          "text": "is being repair",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "being repaired",
+          "is_correct": false,
+          "feedback": "Missing is."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Is being pp.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v8",
+      "statement": "The chef cooks vs The meal is cooked vs The meal has been cooked:",
+      "context": "Active vs passive tenses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Active Present passive Present perfect passive",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "All passive",
+          "is_correct": false,
+          "feedback": "First active."
+        },
+        {
+          "letter": "D",
+          "text": "All active",
+          "is_correct": false,
+          "feedback": "First active."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Different tenses.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v9",
+      "statement": "The results ___ by the team right now.",
+      "context": "Choose passive.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "are being analyzed",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Continuous passive."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "are analyzed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Simple."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "analyze",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Active."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "have been analyzed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Perfect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Are being analyzed.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v10",
+      "statement": "Find: The letter was sent but was being read.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correct",
+          "is_correct": true,
+          "feedback": "Both passive."
+        },
+        {
+          "letter": "B",
+          "text": "was sent active",
+          "is_correct": false,
+          "feedback": "Sent is passive."
+        },
+        {
+          "letter": "C",
+          "text": "was being read active",
+          "is_correct": false,
+          "feedback": "Passive."
+        },
+        {
+          "letter": "D",
+          "text": "No error",
+          "is_correct": false,
+          "feedback": "Both correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Both passive correct.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v11",
+      "statement": "It has been decided that measures will be taken.",
+      "context": "Formal report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has been decided will be taken",
+          "is_correct": true,
+          "feedback": "Passive formal."
+        },
+        {
+          "letter": "B",
+          "text": "We decided we will take",
+          "is_correct": false,
+          "feedback": "Active."
+        },
+        {
+          "letter": "C",
+          "text": "It is decided measures taken",
+          "is_correct": false,
+          "feedback": "Mix."
+        },
+        {
+          "letter": "D",
+          "text": "Decided take measures",
+          "is_correct": false,
+          "feedback": "Missing aux."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Passive formal impersonal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v6",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle-v12",
+      "statement": "The project will have been completed by July.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "will have been",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Future perfect passive."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "will be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "has been",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present perfect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
+      "explanation": "Will have been pp.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W38-passive-all-tenses-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v7",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v8",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v10",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v11",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-v12",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W38-error-correction-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

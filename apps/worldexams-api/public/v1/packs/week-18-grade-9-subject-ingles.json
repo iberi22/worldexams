@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v1",
+      "statement": "She must have left her keys.",
+      "context": "Must have.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "must have",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Certainty."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "must leave",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "must left",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "must leaving",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Must have certainty.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v2",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v2",
+      "statement": "He might be sick.",
+      "context": "Might be.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "might be",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Possibility."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "might have been",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "must be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Too certain."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Negative."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Might present possibility.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v3",
+      "statement": "She could have won but tripped.",
+      "context": "Could have.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could have",
+          "is_correct": true,
+          "feedback": "Past ability."
+        },
+        {
+          "letter": "B",
+          "text": "can have",
+          "is_correct": false,
+          "feedback": "Not form."
+        },
+        {
+          "letter": "C",
+          "text": "could had",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Too certain."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Could have past ability.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v3",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v4",
+      "statement": "You should have told me.",
+      "context": "Should have.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "should have",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Regret advice."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "should had",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "should",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "must have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Certainty."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Should have regret.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v5",
+      "statement": "Ground wet. It must have rained.",
+      "context": "Must vs Might.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": true,
+          "feedback": "Strong evidence."
+        },
+        {
+          "letter": "B",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Weaker."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Advice."
+        },
+        {
+          "letter": "D",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Ability."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evidence must have.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v4",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v6",
+      "statement": "He cannot have done it.",
+      "context": "Cannot have.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "cannot have",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Certainty negative."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "must have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "should have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Advice."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "could have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Possibility."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Cannot have didnt.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v7",
+      "statement": "I should have studied more.",
+      "context": "Regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should have",
+          "is_correct": true,
+          "feedback": "Regret."
+        },
+        {
+          "letter": "B",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "C",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Ability."
+        },
+        {
+          "letter": "D",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Possibility."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Should have regret.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v8",
+      "statement": "Missed bus vs Missed party:",
+      "context": "Must vs Should.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Must deduction Should regret",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "Both deduction",
+          "is_correct": false,
+          "feedback": "Should regret."
+        },
+        {
+          "letter": "D",
+          "text": "Both regret",
+          "is_correct": false,
+          "feedback": "Must deduction."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Must deduction Should regret.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v9",
+      "statement": "Could ability; Would intention:",
+      "context": "Could vs Would.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "Correct",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Right."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "Same",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "Both ability",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Would intention."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "Both intention",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Could ability."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Could possibility Would willingness.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v10",
+      "statement": "Find: He must had missed bus.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must had",
+          "is_correct": true,
+          "feedback": "Must have."
+        },
+        {
+          "letter": "B",
+          "text": "He",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "missed",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "bus",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Must have participle.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v11",
+      "statement": "Best: I should have remembered.",
+      "context": "Apology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should have remembered",
+          "is_correct": true,
+          "feedback": "Polite."
+        },
+        {
+          "letter": "B",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "C",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Wrong tone."
+        },
+        {
+          "letter": "D",
+          "text": "I forgot",
+          "is_correct": false,
+          "feedback": "Simple."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Should have polite.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v6",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle-v12",
+      "statement": "She looks happy. She must have received good news.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "must have",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Deduction."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "might have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Weaker."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "should have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not evidence."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "cannot have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
+      "explanation": "Must have evidence.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W18-modal-perfects-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v7",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v8",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v10",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v11",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-v12",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W18-arrangements-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

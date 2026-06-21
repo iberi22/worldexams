@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v1",
+      "statement": "She is unhappy.",
+      "context": "Un prefix.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "un",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Un = not."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "dis",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Dis = opposite."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "re",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Re = again."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "in",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "In = not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Un not.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v2",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v2",
+      "statement": "I need to rewrite the essay.",
+      "context": "Re prefix.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "re",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Re = again."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "dis",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "un",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "pre",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Before."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Re again.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v3",
+      "statement": "The movie was beautiful.",
+      "context": "Ful suffix.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "beautiful",
+          "is_correct": true,
+          "feedback": "Full of beauty."
+        },
+        {
+          "letter": "B",
+          "text": "beauty",
+          "is_correct": false,
+          "feedback": "Not adjective."
+        },
+        {
+          "letter": "C",
+          "text": "beautiless",
+          "is_correct": false,
+          "feedback": "Not word."
+        },
+        {
+          "letter": "D",
+          "text": "beautician",
+          "is_correct": false,
+          "feedback": "Profession."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ful full of.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v3",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v4",
+      "statement": "The cup is useless.",
+      "context": "Less suffix.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "useless",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Without use."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "useful",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Has use."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "using",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "used",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Less without.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v5",
+      "statement": "I disagree with you.",
+      "context": "Dis prefix.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "disagree",
+          "is_correct": true,
+          "feedback": "Dis opposite."
+        },
+        {
+          "letter": "B",
+          "text": "unagree",
+          "is_correct": false,
+          "feedback": "Not word."
+        },
+        {
+          "letter": "C",
+          "text": "misagree",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "inagree",
+          "is_correct": false,
+          "feedback": "Not word."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dis opposite.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v4",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v6",
+      "statement": "I misunderstood the question.",
+      "context": "Mis prefix.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "misunderstood",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Mis wrong."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "disunderstood",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not word."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "ununderstood",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "understood wrong",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Requires mis."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Mis wrong.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v7",
+      "statement": "The noun of happy is ___.",
+      "context": "Word formation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "happiness",
+          "is_correct": true,
+          "feedback": "Y to i ness."
+        },
+        {
+          "letter": "B",
+          "text": "happyness",
+          "is_correct": false,
+          "feedback": "Spelling."
+        },
+        {
+          "letter": "C",
+          "text": "happied",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "hap",
+          "is_correct": false,
+          "feedback": "Not."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Happiness.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v8",
+      "statement": "Un vs in vs dis:",
+      "context": "Negative prefixes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un happy In complete Dis agree",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Un agree",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "In happy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Dis complete",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Different prefixes different words.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v9",
+      "statement": "Cloud + y = cloudy.",
+      "context": "Adjective formation.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "cloudy",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Y for characteristics."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "cloudful",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "cloudless",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Without clouds."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "cloudish",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Noun y adjective.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v10",
+      "statement": "Find: She was very carefuless.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "carefuless",
+          "is_correct": true,
+          "feedback": "Careless or careful but not both."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "She",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ful less not both.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v11",
+      "statement": "The most appropriate prefix for legal meaning not legal:",
+      "context": "Formal writing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "il",
+          "is_correct": true,
+          "feedback": "Il legal."
+        },
+        {
+          "letter": "B",
+          "text": "un",
+          "is_correct": false,
+          "feedback": "Unlegal not standard."
+        },
+        {
+          "letter": "C",
+          "text": "dis",
+          "is_correct": false,
+          "feedback": "Dislegal not."
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Inlegal not."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Il legal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v6",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle-v12",
+      "statement": "The noun of decide is ___.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "decision",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Decide to decision spelling."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "decidement",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "decidness",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "deciding",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Gerund."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
+      "explanation": "Decision.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W34-prefixes-suffixes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v7",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v8",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v10",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v11",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-v12",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W34-writing-practice-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

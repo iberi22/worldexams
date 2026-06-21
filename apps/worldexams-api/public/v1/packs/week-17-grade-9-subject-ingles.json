@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v1",
+      "statement": "If you heat water to 100C it boils.",
+      "context": "Type 0 truth.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "heat",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Type 0 present."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "heated",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "will heat",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No will."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "are heating",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Type 0 present present.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v2",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v2",
+      "statement": "If plant has no water it dies.",
+      "context": "Type 0 fact.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "has",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Type 0."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "had",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "will have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "is having",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Type 0 universal truth.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v3",
+      "statement": "If you study you will pass.",
+      "context": "Type 1 future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will pass",
+          "is_correct": true,
+          "feedback": "Type 1."
+        },
+        {
+          "letter": "B",
+          "text": "pass",
+          "is_correct": false,
+          "feedback": "Needs will."
+        },
+        {
+          "letter": "C",
+          "text": "passed",
+          "is_correct": false,
+          "feedback": "Past."
+        },
+        {
+          "letter": "D",
+          "text": "would pass",
+          "is_correct": false,
+          "feedback": "Type 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Type 1 present will.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v3",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v4",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Pragmática",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v7",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v4",
+      "statement": "If she does not hurry she will be late.",
+      "context": "Type 1 negative.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "will be",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Result."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v10",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
           "text": "was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Type 2."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "explanation": "Type 1 present will.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v11",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v5",
+      "statement": "If you eat too much you will get sick.",
+      "context": "Warning.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "eat will get",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Type 1."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "eat get",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 0."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "ate would get",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 2."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "will eat get",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Warnings type 1.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-v12",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v6",
+      "statement": "You will not pass unless you study.",
+      "context": "Unless.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "unless",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "If not."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "if",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "when",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "because",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Cause."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Unless if not.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v7",
+      "statement": "If you help I will help you.",
+      "context": "Promise.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will help",
+          "is_correct": true,
+          "feedback": "Promise."
+        },
+        {
+          "letter": "B",
+          "text": "help",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "C",
+          "text": "helped",
+          "is_correct": false,
+          "feedback": "Past."
+        },
+        {
+          "letter": "D",
+          "text": "would help",
+          "is_correct": false,
+          "feedback": "Type 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Promises type 1.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v8",
+      "statement": "If heat ice melts vs will melt:",
+      "context": "Type 0 vs 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First fact Second specific",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "Both facts",
+          "is_correct": false,
+          "feedback": "2nd warning."
+        },
+        {
+          "letter": "D",
+          "text": "Both specific",
+          "is_correct": false,
+          "feedback": "1st fact."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "0 fact 1 outcome.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
+      "icfes_type": "Lingüística",
       "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W17-plans-intentions-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v9",
+      "statement": "If you study you will pass. Comma:",
+      "context": "Comma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "optional after if",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "Optional."
+        },
+        {
+          "letter": "C",
+          "text": "never",
+          "is_correct": false,
+          "feedback": "Sometimes."
+        },
+        {
+          "letter": "D",
+          "text": "only after",
+          "is_correct": false,
+          "feedback": "Not correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comma optional.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v10",
+      "statement": "Find: If I will see him I will tell.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will see",
+          "is_correct": true,
+          "feedback": "If present not will."
+        },
+        {
+          "letter": "B",
+          "text": "him",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "will tell",
+          "is_correct": false,
+          "feedback": "Correct result."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "If clause present.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v11",
+      "statement": "Friend nervous: If you study you will do well.",
+      "context": "Encourage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If you study you will",
+          "is_correct": true,
+          "feedback": "Type 1."
+        },
+        {
+          "letter": "B",
+          "text": "studied would",
+          "is_correct": false,
+          "feedback": "Type 2."
+        },
+        {
+          "letter": "C",
+          "text": "study do",
+          "is_correct": false,
+          "feedback": "Type 0."
+        },
+        {
+          "letter": "D",
+          "text": "studied will",
+          "is_correct": false,
+          "feedback": "Mixed."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Type 1 real future.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle-v12",
+      "statement": "If you visit Amazon you will see unique species.",
+      "context": "Complete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will see",
+          "is_correct": true,
+          "feedback": "Type 1 real."
+        },
+        {
+          "letter": "B",
+          "text": "see",
+          "is_correct": false,
+          "feedback": "Type 0."
+        },
+        {
+          "letter": "C",
+          "text": "would see",
+          "is_correct": false,
+          "feedback": "Type 2."
+        },
+        {
+          "letter": "D",
+          "text": "saw",
+          "is_correct": false,
+          "feedback": "Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Type 1 real possibility.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W17-type-0-1-conditionals-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
     }
   ]
 }

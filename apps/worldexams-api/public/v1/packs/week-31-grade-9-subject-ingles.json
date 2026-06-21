@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v1",
+      "statement": "I enjoy watching movies.",
+      "context": "Gerund after enjoy.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "watching",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Enjoy gerund."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "to watch",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Some verbs use to."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "watch",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Base."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "watched",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Enjoy gerund.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v2",
+      "statement": "She wants to learn English.",
+      "context": "Infinitive after want.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "to learn",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Want infinitive."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "learning",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Want gerund wrong."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "learn",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Need to."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "learned",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Want to.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v3",
+      "statement": "I stopped smoking vs I stopped to smoke:",
+      "context": "Stop gerund vs infinitive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First quit Second paused",
+          "is_correct": true,
+          "feedback": "Different."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "Both quit",
+          "is_correct": false,
+          "feedback": "Second paused."
+        },
+        {
+          "letter": "D",
+          "text": "Both paused",
+          "is_correct": false,
+          "feedback": "First quit."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Stop gerund quit stop infinitive pause.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v3",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v4",
+      "statement": "I remember locking vs I remembered to lock:",
+      "context": "Remember difference.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "First recall past action Second didn forget",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Same",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "Both recall",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Second not."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Both not forget",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "First recall."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Remember gerund recall infinitive not forget.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v5",
+      "statement": "I began to study or studying?",
+      "context": "Begin start.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both",
+          "is_correct": true,
+          "feedback": "Begin both."
+        },
+        {
+          "letter": "B",
+          "text": "Only to",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "C",
+          "text": "Only ing",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": "Begins both work."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Begin both.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v4",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v6",
+      "statement": "She suggested going to the park.",
+      "context": "Suggest.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "going",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Suggest gerund."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "to go",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Suggest not infinitive."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "go",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Base."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "went",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Suggest gerund.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v7",
+      "statement": "Try to open vs Try opening:",
+      "context": "Try difference.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First attempt Second experiment",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "Both attempt",
+          "is_correct": false,
+          "feedback": "Second not."
+        },
+        {
+          "letter": "D",
+          "text": "Both experiment",
+          "is_correct": false,
+          "feedback": "First not."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Try infinitive attempt gerund experiment.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v8",
+      "statement": "Which verb uses gerund?",
+      "context": "Verb classification.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avoid",
+          "is_correct": true,
+          "feedback": "Avoid gerund."
+        },
+        {
+          "letter": "B",
+          "text": "Promise",
+          "is_correct": false,
+          "feedback": "Promise to."
+        },
+        {
+          "letter": "C",
+          "text": "Decide",
+          "is_correct": false,
+          "feedback": "Decide to."
+        },
+        {
+          "letter": "D",
+          "text": "Hope",
+          "is_correct": false,
+          "feedback": "Hope to."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Avoid enjoy suggest gerund.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v9",
+      "statement": "Forget to do vs Forget doing:",
+      "context": "Forget.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "First not remember to do Second not recall past",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "Same",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "Both not recall",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Second to."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "Both not remember",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "First doing."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Forget to not remember infinitive doing not recall past.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v10",
+      "statement": "Find: She enjoys to swim.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to swim",
+          "is_correct": true,
+          "feedback": "Swimming enjoy gerund."
+        },
+        {
+          "letter": "B",
+          "text": "She",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "enjoys",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "swim",
+          "is_correct": false,
+          "feedback": "Should be swimming."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Enjoy gerund.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v11",
+      "statement": "Would you like to join us?",
+      "context": "Polite request.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Would like to",
+          "is_correct": true,
+          "feedback": "Polite."
+        },
+        {
+          "letter": "B",
+          "text": "Do you like to",
+          "is_correct": false,
+          "feedback": "Routine."
+        },
+        {
+          "letter": "C",
+          "text": "Do you enjoy",
+          "is_correct": false,
+          "feedback": "Not question."
+        },
+        {
+          "letter": "D",
+          "text": "You want",
+          "is_correct": false,
+          "feedback": "Direct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Would like to polite.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v6",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle-v12",
+      "statement": "I look forward to hearing from you.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "hearing",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Look forward to gerund."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "hear",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To preposition not infinitive."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "heard",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "to hear",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Formal but hearing."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "explanation": "To gerund.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W31-gerunds-infinitives-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v7",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v11",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-v12",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W31-grammar-practice-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

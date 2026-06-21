@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v1",
+      "statement": "If I had studied I would have passed.",
+      "context": "Form.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "had studied would have passed",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Type 3."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "studied would passed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No have."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "had studied had passed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing would."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "studied passed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing have."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Had past part would have past part.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v2",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v2",
+      "statement": "If she had left earlier she would have caught the bus.",
+      "context": "Past regret.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "had left would have caught",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Regret past."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "left would catch",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Mixed."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "had left caught",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing would have."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "left caught",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Regret past.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v3",
+      "statement": "If I had saved money I could have traveled.",
+      "context": "Could have.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could have",
+          "is_correct": true,
+          "feedback": "Ability past."
+        },
+        {
+          "letter": "B",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Also correct."
+        },
+        {
+          "letter": "C",
+          "text": "can have",
+          "is_correct": false,
+          "feedback": "Wrong."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Could have past ability.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v3",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v4",
+      "statement": "If he had known he would have called.",
+      "context": "Impossible past.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "had known would have called",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Impossible past."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "would know would have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Mixed."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "had known called",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing would have."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "know would",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Impossible past.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v5",
+      "statement": "I failed because I did not study. Type 3:",
+      "context": "Regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If I had studied I would have passed",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "If I studied I would pass",
+          "is_correct": false,
+          "feedback": "Type 2."
+        },
+        {
+          "letter": "C",
+          "text": "If I study I pass",
+          "is_correct": false,
+          "feedback": "Type 0."
+        },
+        {
+          "letter": "D",
+          "text": "If I had studied I passed",
+          "is_correct": false,
+          "feedback": "Missing would."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Correct type 3.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v4",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v6",
+      "statement": "You should have told me. Type 3:",
+      "context": "Criticism.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "If you had told me I would have helped",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "If you told me I would help",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 2."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "If you tell me I help",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 0."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "Had you told me helped",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing would."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "If had told would have helped.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v7",
+      "statement": "If we had arrived earlier we would have gotten good seats.",
+      "context": "Missed opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had arrived would have gotten",
+          "is_correct": true,
+          "feedback": "Missed."
+        },
+        {
+          "letter": "B",
+          "text": "arrived would get",
+          "is_correct": false,
+          "feedback": "Mixed."
+        },
+        {
+          "letter": "C",
+          "text": "had arrived got",
+          "is_correct": false,
+          "feedback": "Missing would have."
+        },
+        {
+          "letter": "D",
+          "text": "arrive get",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Missed opportunity.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v8",
+      "statement": "If I had studied I would be rich now.",
+      "context": "Mixed conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Type 3 if Type 2 result",
+          "is_correct": true,
+          "feedback": "Mixed."
+        },
+        {
+          "letter": "B",
+          "text": "Type 3",
+          "is_correct": false,
+          "feedback": "Only past."
+        },
+        {
+          "letter": "C",
+          "text": "Type 2",
+          "is_correct": false,
+          "feedback": "Only present."
+        },
+        {
+          "letter": "D",
+          "text": "Type 0",
+          "is_correct": false,
+          "feedback": "General."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mixed past condition present result.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v9",
+      "statement": "Had I known I would have come =",
+      "context": "Inversion.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "If I had known I would have come",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Inversion."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "If I knew I would come",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 2."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "If I know I come",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 0."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "Had I known I come",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing would."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Had subject inversion.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v10",
+      "statement": "Find: If I had went I would have seen it.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had went",
+          "is_correct": true,
+          "feedback": "Had gone."
+        },
+        {
+          "letter": "B",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "would have seen",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "it",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Had gone not went.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v11",
+      "statement": "The committee stated that if they had been informed they would have acted.",
+      "context": "Formal regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had been informed would have acted",
+          "is_correct": true,
+          "feedback": "Formal."
+        },
+        {
+          "letter": "B",
+          "text": "were informed would act",
+          "is_correct": false,
+          "feedback": "Type 2."
+        },
+        {
+          "letter": "C",
+          "text": "are informed act",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "had been informed acted",
+          "is_correct": false,
+          "feedback": "Missing would."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Formal type 3.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v6",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle-v12",
+      "statement": "If she had not overslept she would not have missed the exam.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "had not overslept would not have missed",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "did not oversleep would not miss",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Mixed."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "does not oversleep will not miss",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "not overslept missed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing have."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Had not would not have.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W28-third-conditional-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v7",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v8",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v10",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v11",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-v12",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W28-advice-suggestions-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

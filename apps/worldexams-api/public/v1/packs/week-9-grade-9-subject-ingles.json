@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v1",
+      "statement": "At 5 PM yesterday I was doing homework.",
+      "context": "Past action in progress.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "was doing",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past Continuous specific time."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "did",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Simple not specific."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "do",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "am doing",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Past Continuous action at specific past time.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v2",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v2",
+      "statement": "We were not watching TV when the power went out.",
+      "context": "Past continuous negative.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "were not watching",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Past negative continuous."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "watched",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Simple completed."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "are watching",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "watch",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Were not ing for past continuous negative.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v3",
+      "statement": "I was having dinner when someone knocked.",
+      "context": "Interrupted action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was having",
+          "is_correct": true,
+          "feedback": "Long action interrupted."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Completed before."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "am having",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Past Continuous interrupted by another event.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v3",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v4",
+      "statement": "First next then finally.",
+      "context": "Sequence markers.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "next",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct ordering word."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "after",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Needs after that."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "now",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present time."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "before",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Sequence first next then finally.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v5",
+      "statement": "While I was walking to school I saw an accident.",
+      "context": "Past vs continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was walking",
+          "is_correct": true,
+          "feedback": "Background action."
+        },
+        {
+          "letter": "B",
+          "text": "walked",
+          "is_correct": false,
+          "feedback": "Simple completed."
+        },
+        {
+          "letter": "C",
+          "text": "walk",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "am walking",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "While Past Continuous background.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v4",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v6",
+      "statement": "Mom was cooking while Dad was watching TV.",
+      "context": "Two simultaneous past actions.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "was cooking was watching",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Both in progress."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "cooked watched",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Both completed."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "cooks watches",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "is cooking is watching",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "While both in Past Continuous.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v7",
+      "statement": "It was a dark and stormy night.",
+      "context": "Storytelling opening.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "was",
           "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v7",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
+          "feedback": "Classic narrative opening."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v10",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "C",
           "text": "will be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "has been",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present perfect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "explanation": "Was standard for story openings.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v11",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
     },
     {
-      "id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-v12",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v8",
+      "statement": "I wrote vs I was writing: difference?",
+      "context": "Past vs Past Continuous.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "First completed Second in progress.",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "Same meaning",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Different."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "First in progress",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "Second completed",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Opposite."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Simple completed Continuous in progress.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
+      "icfes_type": "Lingüística",
       "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W09-comparatives-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v9",
+      "statement": "While I was sleeping the phone rang.",
+      "context": "While vs When.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "While",
+          "is_correct": true,
+          "feedback": "For longer background."
+        },
+        {
+          "letter": "B",
+          "text": "When",
+          "is_correct": false,
+          "feedback": "For shorter action."
+        },
+        {
+          "letter": "C",
+          "text": "During",
+          "is_correct": false,
+          "feedback": "Noun not clause."
+        },
+        {
+          "letter": "D",
+          "text": "For",
+          "is_correct": false,
+          "feedback": "Duration not timing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "While continuous clause.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v10",
+      "statement": "Find error: I was go to school when it rained.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was go",
+          "is_correct": true,
+          "feedback": "Should be was going."
+        },
+        {
+          "letter": "B",
+          "text": "to school",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "rained",
+          "is_correct": false,
+          "feedback": "Correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Was verb-ing not was base.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v11",
+      "statement": "Best opening for scary story:",
+      "context": "Scary story opening.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was a cold night and the wind was blowing.",
+          "is_correct": true,
+          "feedback": "Creates atmosphere."
+        },
+        {
+          "letter": "B",
+          "text": "First I woke up",
+          "is_correct": false,
+          "feedback": "Too plain."
+        },
+        {
+          "letter": "C",
+          "text": "This is a scary story",
+          "is_correct": false,
+          "feedback": "Too meta."
+        },
+        {
+          "letter": "D",
+          "text": "Once I did something",
+          "is_correct": false,
+          "feedback": "Vague."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Descriptive Past Continuous good story opening.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle-v12",
+      "statement": "She was reading when she heard a strange noise.",
+      "context": "Complete narrative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was reading her book",
+          "is_correct": true,
+          "feedback": "Creates interrupted scene."
+        },
+        {
+          "letter": "B",
+          "text": "reads her book",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "C",
+          "text": "will read her book",
+          "is_correct": false,
+          "feedback": "Future."
+        },
+        {
+          "letter": "D",
+          "text": "has read",
+          "is_correct": false,
+          "feedback": "Present perfect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interrupted past action Past Continuous Past Simple.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W09-storytelling-narration-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "A2"
     }
   ]
 }

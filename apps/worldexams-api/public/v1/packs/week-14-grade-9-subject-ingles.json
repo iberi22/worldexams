@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v1",
+      "statement": "She had finished before I arrived.",
+      "context": "Form.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "had finished",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past perfect."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "finished",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past simple."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "has finished",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present perfect."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "have finished",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Had + past participle.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v2",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v2",
+      "statement": "The train had left when we arrived.",
+      "context": "Sequence.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "had left before arrived",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Past perfect first."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "left had arrived",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Wrong order."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "had left had arrived",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Both past perfect."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "left arrived",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Same time."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Past perfect earlier.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v3",
+      "statement": "After I had eaten I went out.",
+      "context": "Past perfect vs past simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had eaten first went second",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "eaten went",
+          "is_correct": false,
+          "feedback": "Same."
+        },
+        {
+          "letter": "C",
+          "text": "ate went",
+          "is_correct": false,
+          "feedback": "Both past."
+        },
+        {
+          "letter": "D",
+          "text": "had eaten had gone",
+          "is_correct": false,
+          "feedback": "Both before."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Had eaten before went.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v3",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v4",
+      "statement": "She had already left when I called.",
+      "context": "Already with past perfect.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "had already left",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Already before past."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "already left",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Same but past perfect better."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "had left already",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Also works."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "already had left",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Not."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Already before had.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v5",
+      "statement": "He was tired because he had worked all day.",
+      "context": "Cause effect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had worked",
+          "is_correct": true,
+          "feedback": "Before tired."
+        },
+        {
+          "letter": "B",
+          "text": "worked",
+          "is_correct": false,
+          "feedback": "Simple past."
+        },
+        {
+          "letter": "C",
+          "text": "was working",
+          "is_correct": false,
+          "feedback": "Continuous."
+        },
+        {
+          "letter": "D",
+          "text": "has worked",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Past perfect before past.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v4",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v6",
+      "statement": "By the time we arrived they had eaten everything.",
+      "context": "By the time.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
+          "text": "had eaten",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Before arrival."
         },
         {
           "letter": "B",
-          "text": "wrote",
+          "text": "ate",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Same time."
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "were eating",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "have eaten",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         }
       ],
       "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Past perfect by the time.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v7",
+      "statement": "She was happy because she had never seen the ocean before.",
+      "context": "Never before past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had never seen",
+          "is_correct": true,
+          "feedback": "Before that moment."
+        },
+        {
+          "letter": "B",
+          "text": "never saw",
+          "is_correct": false,
+          "feedback": "Simple."
+        },
+        {
+          "letter": "C",
+          "text": "has never seen",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "D",
+          "text": "never sees",
+          "is_correct": false,
+          "feedback": "Present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Had never seen.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v8",
+      "statement": "When I arrived she ___ (leave). She ___ (wait) for hours.",
+      "context": "Narrative sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had left had been waiting",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "left waited",
+          "is_correct": false,
+          "feedback": "Same time."
+        },
+        {
+          "letter": "C",
+          "text": "had left waited",
+          "is_correct": false,
+          "feedback": "Mix."
+        },
+        {
+          "letter": "D",
+          "text": "left had waited",
+          "is_correct": false,
+          "feedback": "Mix."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Left first then waiting.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v5",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v9",
+      "statement": "I did not have any money because I ___ (forget) my wallet.",
+      "context": "Choose correct.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "had forgotten",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Because of."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "forgot",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Simple."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "have forgotten",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "was forgetting",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Continuous."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
+      "explanation": "Past perfect cause.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v10",
+      "statement": "Find: After I had finished I went out. Correct?",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correct",
+          "is_correct": true,
+          "feedback": "Good past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "After I finished",
+          "is_correct": false,
+          "feedback": "Also correct."
+        },
+        {
+          "letter": "C",
+          "text": "After I had finished went",
+          "is_correct": false,
+          "feedback": "Missing comma."
+        },
+        {
+          "letter": "D",
+          "text": "Error",
+          "is_correct": false,
+          "feedback": "No error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Both past perfect and past simple work.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v11",
+      "statement": "Hardly had I arrived when it started raining.",
+      "context": "Formal narrative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hardly had I",
+          "is_correct": true,
+          "feedback": "Inversion past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "I had hardly arrived",
+          "is_correct": false,
+          "feedback": "Also correct but less formal."
+        },
+        {
+          "letter": "C",
+          "text": "I hardly arrived",
+          "is_correct": false,
+          "feedback": "Simple."
+        },
+        {
+          "letter": "D",
+          "text": "Hardly I had arrived",
+          "is_correct": false,
+          "feedback": "Wrong."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inversion with hardly.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v6",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle-v12",
+      "statement": "I wish I had studied harder for the exam.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "are",
+          "text": "had studied",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Wish past perfect regret."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "studied",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past simple."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "have studied",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "would study",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Would."
         }
       ],
       "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
+      "explanation": "Wish past perfect regret.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W14-past-perfect-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v7",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v8",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v10",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v11",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-v12",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W14-future-conditional-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }

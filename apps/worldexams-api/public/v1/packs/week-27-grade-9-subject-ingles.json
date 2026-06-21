@@ -8,520 +8,520 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v1",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v1",
+      "statement": "If I had money I would travel.",
+      "context": "Form.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
+          "text": "had would",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Type 2 past would."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "have will",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Type 1."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "had traveled",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past perfect."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "have would",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Mixed."
         }
       ],
       "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "If past would.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v2",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v3",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v4",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v2",
+      "statement": "If I were you I would study.",
+      "context": "Were for all.",
       "options": [
         {
           "letter": "A",
           "text": "were",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Were for all in type 2."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "was",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Was also ok but were standard."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "am",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Present."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "will be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Were for hypothetical.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v5",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v3",
+      "statement": "If I had a car I would drive.",
+      "context": "Unreal present.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
+          "text": "had would",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Unreal now."
         },
         {
           "letter": "B",
-          "text": "Fast",
+          "text": "have will",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Real."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "had would have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past perfect."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "am going to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Future."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
+      "explanation": "Unreal present.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v4",
+      "statement": "If I knew the answer I would tell you.",
+      "context": "Imaginary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "knew would",
+          "is_correct": true,
+          "feedback": "Imaginary."
+        },
+        {
+          "letter": "B",
+          "text": "know will",
+          "is_correct": false,
+          "feedback": "Real."
+        },
+        {
+          "letter": "C",
+          "text": "had known would",
+          "is_correct": false,
+          "feedback": "Past perfect."
+        },
+        {
+          "letter": "D",
+          "text": "knew told",
+          "is_correct": false,
+          "feedback": "Missing would."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Imaginary type 2.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v5",
+      "statement": "If I were you I would apply early.",
+      "context": "Advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were would",
+          "is_correct": true,
+          "feedback": "Advice."
+        },
+        {
+          "letter": "B",
+          "text": "am will",
+          "is_correct": false,
+          "feedback": "Direct."
+        },
+        {
+          "letter": "C",
+          "text": "was would",
+          "is_correct": false,
+          "feedback": "Acceptable."
+        },
+        {
+          "letter": "D",
+          "text": "had been would have",
+          "is_correct": false,
+          "feedback": "Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advice type 2.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v6",
+      "statement": "If I won the lottery I would buy a house.",
+      "context": "Impossible dream.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "won would buy",
+          "is_correct": true,
+          "feedback": "Impossible."
+        },
+        {
+          "letter": "B",
+          "text": "will win will buy",
+          "is_correct": false,
+          "feedback": "Possible."
+        },
+        {
+          "letter": "C",
+          "text": "win buy",
+          "is_correct": false,
+          "feedback": "Type 0."
+        },
+        {
+          "letter": "D",
+          "text": "had won would have bought",
+          "is_correct": false,
+          "feedback": "Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Won would buy.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v7",
+      "statement": "If we had more time we could visit.",
+      "context": "Suggestion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had could",
+          "is_correct": true,
+          "feedback": "Hypothetical."
+        },
+        {
+          "letter": "B",
+          "text": "have can",
+          "is_correct": false,
+          "feedback": "Real."
+        },
+        {
+          "letter": "C",
+          "text": "had can",
+          "is_correct": false,
+          "feedback": "Mixed."
+        },
+        {
+          "letter": "D",
+          "text": "will have will",
+          "is_correct": false,
+          "feedback": "Real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Had could hypothetical.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v8",
+      "statement": "If I go vs If I went:",
+      "context": "Type 1 vs 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First real Second unreal",
+          "is_correct": true,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "is_correct": false,
+          "feedback": "Different."
+        },
+        {
+          "letter": "C",
+          "text": "First unreal",
+          "is_correct": false,
+          "feedback": "Not."
+        },
+        {
+          "letter": "D",
+          "text": "Second real",
+          "is_correct": false,
+          "feedback": "Not."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Go real went unreal.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v9",
+      "statement": "I wish I had more friends.",
+      "context": "Wish.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Wish past."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Wish requires past."
+        },
+        {
+          "letter": "C",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Future."
+        },
+        {
+          "letter": "D",
+          "text": "had had",
+          "is_correct": false,
+          "feedback": "Past perfect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Wish past.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v10",
+      "statement": "Find: If I would have money I would travel.",
+      "context": "Error detection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would have",
+          "is_correct": true,
+          "feedback": "If past not would."
+        },
+        {
+          "letter": "B",
+          "text": "money",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "C",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Correct."
+        },
+        {
+          "letter": "D",
+          "text": "would travel",
+          "is_correct": false,
+          "feedback": "Correct result."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "If had not would have.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v11",
+      "statement": "If you were to arrive early you could help.",
+      "context": "Polite suggestion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were to",
+          "is_correct": true,
+          "feedback": "Formal type 2."
+        },
+        {
+          "letter": "B",
+          "text": "are to",
+          "is_correct": false,
+          "feedback": "Present."
+        },
+        {
+          "letter": "C",
+          "text": "will to",
+          "is_correct": false,
+          "feedback": "Future."
+        },
+        {
+          "letter": "D",
+          "text": "had to",
+          "is_correct": false,
+          "feedback": "Past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Were to formal.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     },
     {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle-v12",
+      "statement": "If she studied more she would improve.",
+      "context": "Complete.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "studied would",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Hypothetical."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "studies will",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Real."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "studied improved",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Missing would."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "had studied would have",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "explanation": "Studied would improve.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W27-second-conditional-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v7",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v8",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v9",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v10",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v11",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-v12",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W27-ability-possibility-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": "B1"
     }
   ]
 }
