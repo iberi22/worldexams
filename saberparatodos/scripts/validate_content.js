@@ -232,14 +232,21 @@ function validateFile(filePath) {
   }
 
   if (v5) {
-    const requiredV5 = ['country', 'grado', 'asignatura', 'tema', 'periodo', 'bundle_index'];
+    const isWeekly = data.week || data.semana;
+    const requiredV5 = ['country', 'grado', 'asignatura', 'tema', 'bundle_index'];
+    if (isWeekly) {
+      requiredV5.push(data.week ? 'week' : 'semana');
+    } else {
+      requiredV5.push('periodo');
+    }
+
     for (const key of requiredV5) {
       if (data[key] === undefined || data[key] === null || String(data[key]).trim() === '') {
         addFinding('error', relFile, `Bundle v5 sin frontmatter obligatorio: "${key}"`);
       }
     }
 
-    if (![1, 2, 3, 4].includes(Number(data.periodo))) {
+    if (!isWeekly && ![1, 2, 3, 4].includes(Number(data.periodo))) {
       addFinding('error', relFile, 'Bundle v5 sin "periodo" válido (1-4).');
     }
 
