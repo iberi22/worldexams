@@ -118,6 +118,11 @@ function validateFile(file) {
   if (fm.tier !== 'legacy') errors.push('tier must be legacy');
   if (fm.creador !== 'Jules-Agent') errors.push('creador must be Jules-Agent');
 
+  if (/\bOpcion [B-D]\b/i.test(content)) errors.push('Placeholder "Opcion B/C/D" detected');
+  if (/\bDistractor [1-3]\b/i.test(content)) errors.push('Placeholder "Distractor 1/2/3" detected');
+  if (/\bOpcion correcta\b/i.test(content)) errors.push('Placeholder "Opcion correcta" detected');
+  if (/Pregunta sobre\s+[\w\s-]+- Grado/i.test(content)) errors.push('Placeholder "Pregunta sobre..." detected');
+
   const expected = expectedCount(file, fm);
   if (!expected) errors.push(`Unsupported grade for question count: ${fm.grado}`);
   if (expected && fm.total_questions !== expected) errors.push(`total_questions must be ${expected}`);

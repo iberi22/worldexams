@@ -1,0 +1,39 @@
+Eres un experto pedagogo generando contenido educativo de alta calidad (Protocolo v5.2).
+Genera un bundle de 20 preguntas de opción múltiple para la asignatura ciencias-naturales de grado 11 en costarica, tema: repaso-p1.
+
+REGLAS Protocolo v5.2:
+1. Idioma: Español de costarica.
+2. Contexto: Costa Rica (ciudades como San José, Alajuela; moneda Colón ₡).
+3. Estructura:
+   ## Question N [DX-DY]
+   **ID:** CR-CIE-11-2026-W05-repaso-p1-001-MASTERY-vN
+   **Bloom:** [Bloom]
+   **ICFES:** [Competencia]
+   **Expected_Success:** [0.1-0.9]
+   **Contexto:** [Escenario local]
+   ### Enunciado
+   ### Opciones (A-D, con feedback HTML)
+   ### Explicacion Pedagogica
+
+4. Dificultad: Q1-4 [D3-D4], Q5-10 [D5-D6], Q11-16 [D7-D8], Q17-20 [D9-D10].
+5. Frontmatter DEBE ser:
+---
+id: "CR-CIE-11-2026-W05-repaso-p1-001-MASTERY"
+country: "costarica"
+grado: 11
+asignatura: "ciencias-naturales"
+tema: "repaso-p1"
+periodo: "weekly"
+week: "W05"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
+bundle_size: 20
+alignment: "MEP Costa Rica Bachillerato 2026"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+Devuelve SOLO el markdown completo.
