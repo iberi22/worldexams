@@ -2,7 +2,7 @@
   import { fade, fly, slide } from 'svelte/transition';
   import { onDestroy, onMount } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
-  import { getSubjectMemoryStats, clearAnsweredQuestionsOnly } from '../lib/question-memory';
+  import { getSubjectMemoryStats, clearAnsweredQuestionsOnly, filterUnansweredQuestions } from '../lib/question-memory';
   import { supabase } from '../lib/supabase';
   import {
     fetchAllQuestionsForGrade,
@@ -721,7 +721,7 @@
           },
         {
           repository: defaultQuestionRepository,
-          filterUnansweredQuestions: (items, max) => ({ filtered: items.slice(0, max), hadToRepeat: false })
+          filterUnansweredQuestions
         },
         questionsPool
       );
@@ -1017,7 +1017,7 @@
           },
           {
             repository: defaultQuestionRepository,
-            filterUnansweredQuestions: (items, max) => ({ filtered: items.slice(0, max), hadToRepeat: false })
+            filterUnansweredQuestions
           },
           availableQuestions
         );
